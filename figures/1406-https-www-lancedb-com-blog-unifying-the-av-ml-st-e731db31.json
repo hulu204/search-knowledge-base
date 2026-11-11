@@ -1,0 +1,3110 @@
+[
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-001",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69e43a016f43db32f09802ba_preview-image_clean.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-001.avif",
+    "section": "Unifying the AV ML Stack: From Raw Data to Trained Model with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09733598730315474,
+          0.8849899765108512,
+          0.14399081607197606,
+          0.05293671290079749
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Unifying the AV ML Stack: From Raw Data to Trained Model with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c305bf149b650f2cfd4e225b120f660156b709326359c6b3992890973f981214"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-002",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d385dc90707fc128de29_Screenshot%202026-04-10%20at%204.02.31%E2%80%AFPM.webp",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-002.webp",
+    "section": "The experiment setup",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02024921973001043,
+          0.9452554743309003,
+          0.08722741433021808,
+          0.021897810218978075
+        ],
+        "confidence": 0.5,
+        "text": "scene: city street"
+      },
+      {
+        "boundingBox": [
+          0.26947040643821385,
+          0.9452554746958637,
+          0.08722741433021808,
+          0.021897810218978186
+        ],
+        "confidence": 0.5,
+        "text": "scene: city street"
+      },
+      {
+        "boundingBox": [
+          0.5467289727933541,
+          0.9452554740875913,
+          0.05607476635514019,
+          0.021897810218978075
+        ],
+        "confidence": 1,
+        "text": "residential"
+      },
+      {
+        "boundingBox": [
+          0.012461060306334338,
+          0.9270072994525548,
+          0.06697819314641744,
+          0.018248175182481674
+        ],
+        "confidence": 0.5,
+        "text": "weather: clear"
+      },
+      {
+        "boundingBox": [
+          0.260124611734164,
+          0.9270072994525548,
+          0.06853582554517135,
+          0.018248175182481674
+        ],
+        "confidence": 0.5,
+        "text": "weather: Clear"
+      },
+      {
+        "boundingBox": [
+          0.5093457950155763,
+          0.9306569344282238,
+          0.03738317757009346,
+          0.014598540145985384
+        ],
+        "confidence": 0.3,
+        "text": "weatner"
+      },
+      {
+        "boundingBox": [
+          0.5498442377985462,
+          0.9233576644768856,
+          0.06230529595015577,
+          0.021897810218978075
+        ],
+        "confidence": 0.3,
+        "text": "PaEEY CLOuGY"
+      },
+      {
+        "boundingBox": [
+          0.026479751142263745,
+          0.9051094886861314,
+          0.06230529595015576,
+          0.021897810218978075
+        ],
+        "confidence": 0.5,
+        "text": "time:daytime"
+      },
+      {
+        "boundingBox": [
+          0.27414330295950157,
+          0.9051094892335766,
+          0.06230529595015577,
+          0.021897810218978186
+        ],
+        "confidence": 0.5,
+        "text": "time:daytime"
+      },
+      {
+        "boundingBox": [
+          0.021806852511682268,
+          0.6167883210310219,
+          0.08566978193146418,
+          0.018248175182481785
+        ],
+        "confidence": 0.5,
+        "text": "scene: city street"
+      },
+      {
+        "boundingBox": [
+          0.5186915898753894,
+          0.6167883212895378,
+          0.06542056074766345,
+          0.021897810218978075
+        ],
+        "confidence": 0.3,
+        "text": "scene: bighway"
+      },
+      {
+        "boundingBox": [
+          0.01246106002725855,
+          0.5948905111313869,
+          0.06697819314641744,
+          0.021897810218977964
+        ],
+        "confidence": 0.5,
+        "text": "weather: clear"
+      },
+      {
+        "boundingBox": [
+          0.5109034278816199,
+          0.5948905111922141,
+          0.06542056074766356,
+          0.021897810218978075
+        ],
+        "confidence": 0.3,
+        "text": "weuthericlear"
+      },
+      {
+        "boundingBox": [
+          0.024824803765486514,
+          0.5746110054406248,
+          0.07514688604717314,
+          0.02476626069006249
+        ],
+        "confidence": 0.3,
+        "text": "tire:night"
+      },
+      {
+        "boundingBox": [
+          0.523364485338785,
+          0.576642335629562,
+          0.051401869158878566,
+          0.018248175182481785
+        ],
+        "confidence": 0.3,
+        "text": "cime: might"
+      },
+      {
+        "boundingBox": [
+          0.9570452890918058,
+          0.5475856252721197,
+          0.04199616857035504,
+          0.05067378239039966
+        ],
+        "confidence": 0.3,
+        "text": "LEFOODS A"
+      }
+    ],
+    "ocr_text": "scene: city street\nscene: city street\nresidential\nweather: clear\nweather: Clear\nweatner\nPaEEY CLOuGY\ntime:daytime\ntime:daytime\nscene: city street\nscene: bighway\nweather: clear\nweuthericlear\ntire:night\ncime: might\nLEFOODS A",
+    "description": "The experiment setup中的配图，包含文字：scene: city street；scene: city street；residential；weather: clear；weather: Clear；weatner；PaEEY CLOuGY；time:daytime；time:daytime；scene: city street；scene: bighway；weather: clear；weuthericlear；tire:night；cime: might；LEFOODS A",
+    "entities": [
+      "scene: city street",
+      "residential",
+      "weather: clear",
+      "weather: Clear",
+      "weatner",
+      "PaEEY CLOuGY",
+      "time:daytime",
+      "scene: bighway",
+      "weuthericlear",
+      "tire:night",
+      "cime: might",
+      "LEFOODS A"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2bd08b0aa955b7535ad9f7a5395499842ec6c2c141ab0674f4aca94ab664c183"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-003",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d8cf199fc39f07cea034c8_nighttime_person_01.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-003.avif",
+    "section": "Sample results after training",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Sample results after training中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8defb7eb0a41529d36dfbfdf65509b1ccfbd814965d05d4f9b3ab68ac28312aa"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-004",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d8cfc071e67ba3555962ff_rider_04.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-004.avif",
+    "section": "Sample results after training",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.33548908635360863,
+          0.978609625725829,
+          0.022635408456889383,
+          0.009358288770053513
+        ],
+        "confidence": 0.3,
+        "text": "oetalned Coeg"
+      }
+    ],
+    "ocr_text": "oetalned Coeg",
+    "description": "Sample results after training中的配图，包含文字：oetalned Coeg",
+    "entities": [
+      "oetalned Coeg"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c650284f77127e1313e789eb26d07c048bf5f1b08419f54fca8855274da1e0a1"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-005",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d8d036f0dfa12c8c33f35a_nighttime_person_08.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-005.avif",
+    "section": "Sample results after training",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.33468067899710097,
+          0.9786096256960671,
+          0.02263540845688944,
+          0.009358288770053402
+        ],
+        "confidence": 0.3,
+        "text": "oletalnea cuce"
+      },
+      {
+        "boundingBox": [
+          0.12530315317301718,
+          0.6871657749952499,
+          0.012934518552914692,
+          0.02540106951871668
+        ],
+        "confidence": 0.3,
+        "text": "超他tght"
+      },
+      {
+        "boundingBox": [
+          0.4583670171949503,
+          0.691176470870174,
+          0.01859337066713701,
+          0.013368983957219305
+        ],
+        "confidence": 0.3,
+        "text": "1iwa tanto.Aa"
+      },
+      {
+        "boundingBox": [
+          0.46806790648029584,
+          0.6666666668408231,
+          0.018593368688559653,
+          0.012499999235020653
+        ],
+        "confidence": 0.3,
+        "text": "rathicliahtocc"
+      },
+      {
+        "boundingBox": [
+          0.18270008091035492,
+          0.40416666670609513,
+          0.008892481752451054,
+          0.03333333214336531
+        ],
+        "confidence": 0.3,
+        "text": "國"
+      }
+    ],
+    "ocr_text": "oletalnea cuce\n超他tght\n1iwa tanto.Aa\nrathicliahtocc\n國",
+    "description": "Sample results after training中的配图，包含文字：oletalnea cuce；超他tght；1iwa tanto.Aa；rathicliahtocc；國",
+    "entities": [
+      "oletalnea cuce",
+      "超他tght",
+      "1iwa tanto.Aa",
+      "rathicliahtocc",
+      "國"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "271c36de858b2cc64a9505e20f61e079667a8014ed90bbf349068af83543c641"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-006",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d8d6bdcf047cd775830946_Screenshot%202026-04-10%20at%204.22.37%E2%80%AFPM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-006.avif",
+    "section": "... more annotation fields ...",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.005813951925872136,
+          0.9522935781821527,
+          0.125,
+          0.026605504587156048
+        ],
+        "confidence": 0.5,
+        "text": "田 Dataset Viewer"
+      },
+      {
+        "boundingBox": [
+          0.5101744200399708,
+          0.9550458716282082,
+          0.1526162790697675,
+          0.02120742622865457
+        ],
+        "confidence": 0.5,
+        "text": "5 Auto-converted to Parquet"
+      },
+      {
+        "boundingBox": [
+          0.6773255815588664,
+          0.9577836411770912,
+          0.036337209302325646,
+          0.018469656498060316
+        ],
+        "confidence": 0.3,
+        "text": "</> API"
+      },
+      {
+        "boundingBox": [
+          0.7470141543632322,
+          0.9546707785354686,
+          0.03794843482778343,
+          0.02205685956762471
+        ],
+        "confidence": 1,
+        "text": "Embed"
+      },
+      {
+        "boundingBox": [
+          0.8066150099720669,
+          0.9543427616736885,
+          0.06990951522657429,
+          0.022712893004811163
+        ],
+        "confidence": 0.5,
+        "text": "+ Duplicate"
+      },
+      {
+        "boundingBox": [
+          0.9011627908975293,
+          0.9577836415069065,
+          0.015988372093023173,
+          0.018469656498060316
+        ],
+        "confidence": 0.5,
+        "text": "田"
+      },
+      {
+        "boundingBox": [
+          0.9214985626388961,
+          0.9576438599714733,
+          0.05961915528207751,
+          0.018749219561935537
+        ],
+        "confidence": 1,
+        "text": "Data Studio"
+      },
+      {
+        "boundingBox": [
+          0.007267441727228683,
+          0.8786279685957185,
+          0.04796511627906977,
+          0.02638522331867743
+        ],
+        "confidence": 0.5,
+        "text": "Split （1）"
+      },
+      {
+        "boundingBox": [
+          0.008720930486918601,
+          0.8467889910004553,
+          0.11046511627906977,
+          0.021284887331341484
+        ],
+        "confidence": 0.3,
+        "text": "train• 80.5krows"
+      },
+      {
+        "boundingBox": [
+          0.008720929069767468,
+          0.7757255938815584,
+          0.14534883720930233,
+          0.02638522331867743
+        ],
+        "confidence": 0.5,
+        "text": "Q Search this dataset"
+      },
+      {
+        "boundingBox": [
+          0.01592117039105725,
+          0.7090751610993618,
+          0.08007626586543778,
+          0.027759968468902274
+        ],
+        "confidence": 1,
+        "text": "image_bytes"
+      },
+      {
+        "boundingBox": [
+          0.16133720890988373,
+          0.7146788989588854,
+          0.039244186046511614,
+          0.02146885810642074
+        ],
+        "confidence": 1,
+        "text": "width"
+      },
+      {
+        "boundingBox": [
+          0.31102549622458514,
+          0.7096401076619996,
+          0.046553659005160286,
+          0.0266300743872967
+        ],
+        "confidence": 1,
+        "text": "height"
+      },
+      {
+        "boundingBox": [
+          0.4607404728901257,
+          0.7175339776760089,
+          0.05235626482987671,
+          0.018757903247798247
+        ],
+        "confidence": 1,
+        "text": "weather"
+      },
+      {
+        "boundingBox": [
+          0.6104545338426807,
+          0.7149708301079705,
+          0.03635837335075487,
+          0.018607151836430358
+        ],
+        "confidence": 1,
+        "text": "scene"
+      },
+      {
+        "boundingBox": [
+          0.7572512685146255,
+          0.7096270214913669,
+          0.06689281097196109,
+          0.026656247060233285
+        ],
+        "confidence": 1,
+        "text": "timeofday"
+      },
+      {
+        "boundingBox": [
+          0.9054411177669464,
+          0.7116149886107875,
+          0.06702474009761672,
+          0.025318835197238765
+        ],
+        "confidence": 1,
+        "text": "timestamp"
+      },
+      {
+        "boundingBox": [
+          0.015988373343023228,
+          0.6833773087094472,
+          0.125,
+          0.02396214073951075
+        ],
+        "confidence": 0.5,
+        "text": "image•width （px）"
+      },
+      {
+        "boundingBox": [
+          0.1626535015745153,
+          0.6851771717682094,
+          0.038065089735873914,
+          0.02278549824285947
+        ],
+        "confidence": 1,
+        "text": "int32"
+      },
+      {
+        "boundingBox": [
+          0.3110465112354651,
+          0.6860158310085727,
+          0.03924418604651164,
+          0.021323618757615348
+        ],
+        "confidence": 1,
+        "text": "int32"
+      },
+      {
+        "boundingBox": [
+          0.4622093018895348,
+          0.6833773090039028,
+          0.11046511627906974,
+          0.023962140739510973
+        ],
+        "confidence": 0.3,
+        "text": "string•Classes"
+      },
+      {
+        "boundingBox": [
+          0.6104651159883722,
+          0.6833773091028474,
+          0.11046511627906974,
+          0.023962140739510973
+        ],
+        "confidence": 0.5,
+        "text": "string •classes"
+      },
+      {
+        "boundingBox": [
+          0.7587209320978681,
+          0.6833773095316074,
+          0.11191860465116277,
+          0.02396213986458029
+        ],
+        "confidence": 0.3,
+        "text": "string•Classes"
+      },
+      {
+        "boundingBox": [
+          0.9055232562063954,
+          0.6860158312724249,
+          0.03924418604651159,
+          0.021323617882684776
+        ],
+        "confidence": 1,
+        "text": "int64"
+      },
+      {
+        "boundingBox": [
+          0.014534883563468994,
+          0.5853211008882143,
+          0.02470930232558139,
+          0.03761467889908254
+        ],
+        "confidence": 1,
+        "text": "640"
+      },
+      {
+        "boundingBox": [
+          0.8793604649224807,
+          0.6121372034520303,
+          0.011627906976744096,
+          0.01583113364123423
+        ],
+        "confidence": 0.3,
+        "text": "D"
+      },
+      {
+        "boundingBox": [
+          0.10901162783430232,
+          0.5831134560445396,
+          0.039244186046511614,
+          0.02374670221171249
+        ],
+        "confidence": 0.5,
+        "text": "1.28k"
+      },
+      {
+        "boundingBox": [
+          0.16279069750830563,
+          0.5853211008805329,
+          0.023255813953488386,
+          0.021539057285413832
+        ],
+        "confidence": 1,
+        "text": "640"
+      },
+      {
+        "boundingBox": [
+          0.25720593417428833,
+          0.5827746497506066,
+          0.03936720135479532,
+          0.024424314936366542
+        ],
+        "confidence": 0.5,
+        "text": "1.28k"
+      },
+      {
+        "boundingBox": [
+          0.311046511461794,
+          0.5853211008805329,
+          0.023255813953488358,
+          0.021539057285413832
+        ],
+        "confidence": 1,
+        "text": "360"
+      },
+      {
+        "boundingBox": [
+          0.42005813928779073,
+          0.5853211008880715,
+          0.024709302325581384,
+          0.021539057285413832
+        ],
+        "confidence": 1,
+        "text": "720"
+      },
+      {
+        "boundingBox": [
+          0.4607558132085756,
+          0.5880733942579568,
+          0.05959302325581395,
+          0.018786763707432264
+        ],
+        "confidence": 0.5,
+        "text": "7 values"
+      },
+      {
+        "boundingBox": [
+          0.6104551809047098,
+          0.5882870201097936,
+          0.058159406795058155,
+          0.018676620448401238
+        ],
+        "confidence": 0.5,
+        "text": "7 values"
+      },
+      {
+        "boundingBox": [
+          0.7586952287599841,
+          0.5881204176145851,
+          0.058190938797228475,
+          0.019009824630317418
+        ],
+        "confidence": 0.5,
+        "text": "4 values"
+      },
+      {
+        "boundingBox": [
+          0.9055232559904486,
+          0.5853211011066921,
+          0.024709302325581328,
+          0.02153905728541372
+        ],
+        "confidence": 0.3,
+        "text": "10k"
+      },
+      {
+        "boundingBox": [
+          0.25726744214078073,
+          0.5009174305358283,
+          0.03924418604651159,
+          0.029425577286186555
+        ],
+        "confidence": 1,
+        "text": "1,280"
+      },
+      {
+        "boundingBox": [
+          0.42005813971137873,
+          0.5064220180996435,
+          0.024709302325581384,
+          0.023920990130223307
+        ],
+        "confidence": 1,
+        "text": "720"
+      },
+      {
+        "boundingBox": [
+          0.4592669282492293,
+          0.5063776634399969,
+          0.03931497973065046,
+          0.021545464401945047
+        ],
+        "confidence": 0.5,
+        "text": "Clear"
+      },
+      {
+        "boundingBox": [
+          0.6090116276744185,
+          0.5036697245816542,
+          0.08139534883720934,
+          0.0240347608513789
+        ],
+        "confidence": 0.5,
+        "text": "city street"
+      },
+      {
+        "boundingBox": [
+          0.75714063300834,
+          0.5030020580698463,
+          0.0525791989780654,
+          0.025658152519016153
+        ],
+        "confidence": 1,
+        "text": "daytime"
+      },
+      {
+        "boundingBox": [
+          0.25712924868728165,
+          0.3793752268045917,
+          0.03952057224192679,
+          0.03280627574395689
+        ],
+        "confidence": 1,
+        "text": "1,280"
+      },
+      {
+        "boundingBox": [
+          0.42005813932897285,
+          0.38786279673416635,
+          0.024709302325581384,
+          0.021311514968172185
+        ],
+        "confidence": 1,
+        "text": "720"
+      },
+      {
+        "boundingBox": [
+          0.45335096539942393,
+          0.38433568239563365,
+          0.04533295202303467,
+          0.025523885674432867
+        ],
+        "confidence": 1,
+        "text": "clear"
+      },
+      {
+        "boundingBox": [
+          0.6075581388626454,
+          0.38522427506590806,
+          0.053779069767441845,
+          0.023950036950067588
+        ],
+        "confidence": 0.5,
+        "text": "highway"
+      },
+      {
+        "boundingBox": [
+          0.7572463400951145,
+          0.3850432588845808,
+          0.06835615815720986,
+          0.02674725558779656
+        ],
+        "confidence": 1,
+        "text": "dawn/dusk"
+      },
+      {
+        "boundingBox": [
+          0.9941860464752909,
+          0.3905013199699672,
+          0.0043604651162790775,
+          0.018469656498060316
+        ],
+        "confidence": 0.3,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.2570251197549674,
+          0.2601425654802384,
+          0.03827534165493279,
+          0.03116605741168388
+        ],
+        "confidence": 0.5,
+        "text": "1,280"
+      },
+      {
+        "boundingBox": [
+          0.42005813962572675,
+          0.2660550457709503,
+          0.024709302325581384,
+          0.024182420258128334
+        ],
+        "confidence": 1,
+        "text": "720"
+      },
+      {
+        "boundingBox": [
+          0.4578278076513766,
+          0.2663716317225747,
+          0.04073973251666774,
+          0.02398496942782624
+        ],
+        "confidence": 0.5,
+        "text": "clear"
+      },
+      {
+        "boundingBox": [
+          0.6090116285852712,
+          0.26605504622169796,
+          0.08139534883720934,
+          0.024182421133058907
+        ],
+        "confidence": 1,
+        "text": "residential"
+      },
+      {
+        "boundingBox": [
+          0.7572360333763652,
+          0.26622048330453274,
+          0.06837677063667136,
+          0.0269257886694112
+        ],
+        "confidence": 1,
+        "text": "dawn/dusk"
+      },
+      {
+        "boundingBox": [
+          0.9941860464752906,
+          0.27176781016345886,
+          0.0043604651162790775,
+          0.018469656498060316
+        ],
+        "confidence": 0.3,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.25712644837694687,
+          0.1418653132840706,
+          0.038072684416274316,
+          0.030253541578940335
+        ],
+        "confidence": 0.5,
+        "text": "1,280"
+      },
+      {
+        "boundingBox": [
+          0.41994786796246253,
+          0.14996406215775304,
+          0.024929845055868483,
+          0.0219716124578353
+        ],
+        "confidence": 0.5,
+        "text": "720"
+      },
+      {
+        "boundingBox": [
+          0.4592204983696695,
+          0.14730455466308623,
+          0.039407840030620034,
+          0.0246521048589583
+        ],
+        "confidence": 1,
+        "text": "clear"
+      },
+      {
+        "boundingBox": [
+          0.6089751816949144,
+          0.14474359149239313,
+          0.08146824079770043,
+          0.027135507776102852
+        ],
+        "confidence": 1,
+        "text": "city street"
+      },
+      {
+        "boundingBox": [
+          0.7557891073050435,
+          0.14499209027743998,
+          0.040747365768324606,
+          0.026638510467809295
+        ],
+        "confidence": 1,
+        "text": "night"
+      },
+      {
+        "boundingBox": [
+          0.3212209294912791,
+          0.010554089824848512,
+          0.07412790697674415,
+          0.018803708487694415
+        ],
+        "confidence": 0.5,
+        "text": "< Previous"
+      },
+      {
+        "boundingBox": [
+          0.4229651163662791,
+          0.010554090088700896,
+          0.0087209302325581,
+          0.018469656498060316
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.45639534871002907,
+          0.007915567248678257,
+          0.01017441860465118,
+          0.021108179354886403
+        ],
+        "confidence": 1,
+        "text": "2"
+      },
+      {
+        "boundingBox": [
+          0.49418604645106595,
+          0.010554089846836145,
+          0.007267441860465074,
+          0.018469656498060316
+        ],
+        "confidence": 1,
+        "text": "3"
+      },
+      {
+        "boundingBox": [
+          0.5784883724018896,
+          0.007915567446567406,
+          0.02470930232558144,
+          0.02144223046958993
+        ],
+        "confidence": 1,
+        "text": "805"
+      },
+      {
+        "boundingBox": [
+          0.6293604643410853,
+          0.010554089912799158,
+          0.04651162790697683,
+          0.018803708487694415
+        ],
+        "confidence": 0.3,
+        "text": "Next>"
+      }
+    ],
+    "ocr_text": "田 Dataset Viewer\n5 Auto-converted to Parquet\n</> API\nEmbed\n+ Duplicate\n田\nData Studio\nSplit （1）\ntrain• 80.5krows\nQ Search this dataset\nimage_bytes\nwidth\nheight\nweather\nscene\ntimeofday\ntimestamp\nimage•width （px）\nint32\nint32\nstring•Classes\nstring •classes\nstring•Classes\nint64\n640\nD\n1.28k\n640\n1.28k\n360\n720\n7 values\n7 values\n4 values\n10k\n1,280\n720\nClear\ncity street\ndaytime\n1,280\n720\nclear\nhighway\ndawn/dusk\n1\n1,280\n720\nclear\nresidential\ndawn/dusk\n1\n1,280\n720\nclear\ncity street\nnight\n< Previous\n1\n2\n3\n805\nNext>",
+    "description": "... more annotation fields ...中的配图，包含文字：田 Dataset Viewer；5 Auto-converted to Parquet；</> API；Embed；+ Duplicate；田；Data Studio；Split （1）；train• 80.5krows；Q Search this dataset；image_bytes；width；height；weather；scene；timeofday；timestamp；image•width （px）；int32；int32；string•Classes；string •classes；string•Classes；int64；640；D；1.28k；640；1.28k；360",
+    "entities": [
+      "田 Dataset Viewer",
+      "5 Auto-converted to Parquet",
+      "</> API",
+      "Embed",
+      "+ Duplicate",
+      "田",
+      "Data Studio",
+      "Split （1）",
+      "train• 80.5krows",
+      "Q Search this dataset",
+      "image_bytes",
+      "width",
+      "height",
+      "weather",
+      "scene",
+      "timeofday",
+      "timestamp",
+      "image•width （px）",
+      "int32",
+      "string•Classes",
+      "string •classes",
+      "int64",
+      "640",
+      "D",
+      "1.28k",
+      "360",
+      "720",
+      "7 values",
+      "4 values",
+      "10k",
+      "1,280",
+      "Clear",
+      "city street",
+      "daytime",
+      "clear",
+      "highway",
+      "dawn/dusk",
+      "1",
+      "residential",
+      "night",
+      "< Previous",
+      "2",
+      "3",
+      "805",
+      "Next>"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0a2af172ede3456e1e2232e4f07a22b6387a03182c37ad9a23109e67a778e0b9"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-007",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d957f73620b11f57f0144c_pair_06_hamming0.jpg",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-007.jpg",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          1.4818159354455074e-09,
+          0.9750000010318862,
+          0.04005006094959295,
+          0.021113988649042237
+        ],
+        "confidence": 0.5,
+        "text": "0004974105e1c285"
+      },
+      {
+        "boundingBox": [
+          0.5018773516802174,
+          0.9791666677397306,
+          0.05256570239676117,
+          0.013061311578503543
+        ],
+        "confidence": 0.5,
+        "text": "svndup 00049741-05e1c28."
+      },
+      {
+        "boundingBox": [
+          0.0025031306765490383,
+          0.007772020387506906,
+          0.06508134978582555,
+          0.022020725388601003
+        ],
+        "confidence": 0.5,
+        "text": "hamming distance: 0（threshold:1）"
+      }
+    ],
+    "ocr_text": "0004974105e1c285\nsvndup 00049741-05e1c28.\nhamming distance: 0（threshold:1）",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：0004974105e1c285；svndup 00049741-05e1c28.；hamming distance: 0（threshold:1）",
+    "entities": [
+      "0004974105e1c285",
+      "svndup 00049741-05e1c28.",
+      "hamming distance: 0（threshold:1）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a8b9f38f58ffb4505921bc7a6d359b54a2bf70a5a647eccd15ec3d93970ab4d"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-008",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d9582f16217edfe0e73ccb_pair_14_hamming0.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-008.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          2.131482186321044e-09,
+          0.9750000010318862,
+          0.042553188644836995,
+          0.021113988649042237
+        ],
+        "confidence": 0.5,
+        "text": "00091078-59817bbo"
+      },
+      {
+        "boundingBox": [
+          0.17772215275774286,
+          0.2999999999910995,
+          0.02878598186457268,
+          0.029166666337245406
+        ],
+        "confidence": 0.3,
+        "text": "GEL∞914"
+      }
+    ],
+    "ocr_text": "00091078-59817bbo\nGEL∞914",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：00091078-59817bbo；GEL∞914",
+    "entities": [
+      "00091078-59817bbo",
+      "GEL∞914"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "560cf4452f94ada5d756ccc27244f8c58fb5bac3215a9ec12bd073cb84e04b6c"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-009",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69dd3255af58adf46fd5edc0_Screenshot%202026-04-13%20at%2011.42.58%E2%80%AFPM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-009.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3241279074109233,
+          0.9555555554905562,
+          0.3517441781432698,
+          0.033333333092961714
+        ],
+        "confidence": 0.5,
+        "text": "Text - Image： \"'a person far away walking on a dark road at night\""
+      },
+      {
+        "boundingBox": [
+          0.09593023260127737,
+          0.8777777779114525,
+          0.05668604453581744,
+          0.022222221461045577
+        ],
+        "confidence": 0.5,
+        "text": "night / undefined"
+      },
+      {
+        "boundingBox": [
+          0.3546511636336431,
+          0.8777777781298877,
+          0.04069767408930286,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.604651162277054,
+          0.8777777777595173,
+          0.040697674089302915,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.8459302326012774,
+          0.8777777777595173,
+          0.05668604453581738,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "night/undefined"
+      },
+      {
+        "boundingBox": [
+          0.08284883986568765,
+          0.8591682423047294,
+          0.0843023230787021,
+          0.01890359168241973
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.3328488379761529,
+          0.8591682418021848,
+          0.08430232307870206,
+          0.022684310018903586
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5828488372494087,
+          0.8553875233509616,
+          0.08430232307870211,
+          0.026465028355387554
+        ],
+        "confidence": 0.5,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8328488390352369,
+          0.8591682422584331,
+          0.08284883562865397,
+          0.018903591682419618
+        ],
+        "confidence": 0.5,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.10610465129072542,
+          0.8440453689056666,
+          0.03633720890716348,
+          0.01891759392895187
+        ],
+        "confidence": 1,
+        "text": "dist=0.676"
+      },
+      {
+        "boundingBox": [
+          0.35755814018667986,
+          0.8440453690059753,
+          0.036337208907163465,
+          0.01891759392895187
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.678"
+      },
+      {
+        "boundingBox": [
+          0.607558140338085,
+          0.8407407412447859,
+          0.03633720890716352,
+          0.022222221461045466
+        ],
+        "confidence": 1,
+        "text": "dist=0.680"
+      },
+      {
+        "boundingBox": [
+          0.8575581391987678,
+          0.8440453689056666,
+          0.03488372145711538,
+          0.01891759392895187
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.683"
+      },
+      {
+        "boundingBox": [
+          0.10465116244662763,
+          0.39603024552767907,
+          0.0406976740893029,
+          0.01890359168241973
+        ],
+        "confidence": 0.3,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.35465116244662764,
+          0.39603024552767907,
+          0.040697674089302915,
+          0.01890359168241973
+        ],
+        "confidence": 0.3,
+        "text": "night/ clear"
+      },
+      {
+        "boundingBox": [
+          0.604651162277054,
+          0.3960302454813829,
+          0.040697674089302915,
+          0.01890359168241973
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.8546511624466275,
+          0.39603024552767907,
+          0.040697674089302915,
+          0.01890359168241973
+        ],
+        "confidence": 0.3,
+        "text": "night /clear"
+      },
+      {
+        "boundingBox": [
+          0.08430232721958773,
+          0.3777777785287365,
+          0.08284883562865396,
+          0.022222221461045466
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.3328488398656877,
+          0.37777777812988766,
+          0.08430232307870211,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "person=False nider=False"
+      },
+      {
+        "boundingBox": [
+          0.5828488398656876,
+          0.37777777812988766,
+          0.08430232307870211,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8328488366188128,
+          0.3777777777595174,
+          0.08284883562865397,
+          0.018518518184669097
+        ],
+        "confidence": 0.5,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.10755813924237255,
+          0.36294896004369037,
+          0.03488372145711534,
+          0.018903591682419618
+        ],
+        "confidence": 1,
+        "text": "dist=0.685"
+      },
+      {
+        "boundingBox": [
+          0.35755814018667986,
+          0.36294896012085087,
+          0.036337208907163465,
+          0.01890359168241973
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.685"
+      },
+      {
+        "boundingBox": [
+          0.607558140338085,
+          0.36294896004369037,
+          0.03633720890716352,
+          0.018903591682419618
+        ],
+        "confidence": 1,
+        "text": "dist=0.686"
+      },
+      {
+        "boundingBox": [
+          0.8575581392423726,
+          0.36294896004369037,
+          0.03488372145711538,
+          0.018903591682419618
+        ],
+        "confidence": 1,
+        "text": "dist=0.686"
+      }
+    ],
+    "ocr_text": "Text - Image： \"'a person far away walking on a dark road at night\"\nnight / undefined\nnight / clear\nnight / clear\nnight/undefined\nperson=False rider=False\nperson=False rider=False\nperson=False rider=False\nperson=False rider=False\ndist=0.676\ndist=0.678\ndist=0.680\ndist=0.683\nnight / clear\nnight/ clear\nnight / clear\nnight /clear\nperson=False rider=False\nperson=False nider=False\nperson=False rider=False\nperson=False rider=False\ndist=0.685\ndist=0.685\ndist=0.686\ndist=0.686",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：Text - Image： \"'a person far away walking on a dark road at night\"；night / undefined；night / clear；night / clear；night/undefined；person=False rider=False；person=False rider=False；person=False rider=False；person=False rider=False；dist=0.676；dist=0.678；dist=0.680；dist=0.683；night / clear；night/ clear；night / clear；night /clear；person=False rider=False；person=False nider=False；person=False rider=False；person=False rider=False；dist=0.685；dist=0.685；dist=0.686；dist=0.686",
+    "entities": [
+      "Text - Image： \"'a person far away walking on a dark road at night\"",
+      "night / undefined",
+      "night / clear",
+      "night/undefined",
+      "person=False rider=False",
+      "dist=0.676",
+      "dist=0.678",
+      "dist=0.680",
+      "dist=0.683",
+      "night/ clear",
+      "night /clear",
+      "person=False nider=False",
+      "dist=0.685",
+      "dist=0.686"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "723b9e550fede58359a0353cfa3bd89066cf09d52c7287328cd5ceb2373eace2"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-010",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69dd36550796d27e405706ba_Screenshot%202026-04-13%20at%2011.59.56%E2%80%AFPM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-010.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3706395325083202,
+          0.9522058829175534,
+          0.2601744207028363,
+          0.03676470567224621
+        ],
+        "confidence": 0.5,
+        "text": "Text - Image： \"cyclist riding a bicycle in the rain\""
+      },
+      {
+        "boundingBox": [
+          0.10174418496059512,
+          0.8782771532691755,
+          0.04941860517570906,
+          0.018781670023885977
+        ],
+        "confidence": 0.5,
+        "text": "daytime / rainy"
+      },
+      {
+        "boundingBox": [
+          0.3517441852028432,
+          0.8782771536827785,
+          0.04941860517570901,
+          0.018781670023886088
+        ],
+        "confidence": 0.5,
+        "text": "daytime /rainy"
+      },
+      {
+        "boundingBox": [
+          0.6017441883598137,
+          0.8782771537593717,
+          0.04796511247610924,
+          0.018781670023885977
+        ],
+        "confidence": 0.3,
+        "text": "daytime / rainy"
+      },
+      {
+        "boundingBox": [
+          0.8546511629234472,
+          0.8782771532691755,
+          0.03924418447287281,
+          0.018781670023885977
+        ],
+        "confidence": 0.5,
+        "text": "night / rainy"
+      },
+      {
+        "boundingBox": [
+          0.08720930488032487,
+          0.8602941178374531,
+          0.07848836894574558,
+          0.018382352836123106
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.33575581503649854,
+          0.8602941178374531,
+          0.08139534870607273,
+          0.018382352836123106
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5857558165082318,
+          0.8602941178374531,
+          0.07848836894574562,
+          0.018382352836123106
+        ],
+        "confidence": 1,
+        "text": "person=False rider=True"
+      },
+      {
+        "boundingBox": [
+          0.8343023271065845,
+          0.8566176471113899,
+          0.07848836894574562,
+          0.022058822688984958
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.11046511708995409,
+          0.8455056181526038,
+          0.034883720471254556,
+          0.014981273408239626
+        ],
+        "confidence": 1,
+        "text": "dist=0.658"
+      },
+      {
+        "boundingBox": [
+          0.3590116287178611,
+          0.8455056181526038,
+          0.03488372047125449,
+          0.014981273408239626
+        ],
+        "confidence": 1,
+        "text": "dist=0.661"
+      },
+      {
+        "boundingBox": [
+          0.607558140345768,
+          0.8455056181526038,
+          0.03488372047125454,
+          0.014981273408239626
+        ],
+        "confidence": 1,
+        "text": "dist=0.668"
+      },
+      {
+        "boundingBox": [
+          0.8575581410755784,
+          0.8455056181526038,
+          0.03343023059109096,
+          0.014981273408239626
+        ],
+        "confidence": 1,
+        "text": "dist=0.672"
+      },
+      {
+        "boundingBox": [
+          0.10174418496059512,
+          0.4007352944153114,
+          0.04941860517570906,
+          0.022485679455017782
+        ],
+        "confidence": 0.5,
+        "text": "daytime / rainy"
+      },
+      {
+        "boundingBox": [
+          0.3459302357393348,
+          0.40073529466040947,
+          0.06104650730040018,
+          0.022485679455017782
+        ],
+        "confidence": 0.5,
+        "text": "dawn/dusk /snowy"
+      },
+      {
+        "boundingBox": [
+          0.6002906966369517,
+          0.4007352949055075,
+          0.049418605175709174,
+          0.022485678562064293
+        ],
+        "confidence": 0.5,
+        "text": "daytime / rainy"
+      },
+      {
+        "boundingBox": [
+          0.8472022099723883,
+          0.4002761213338992,
+          0.052733980278923065,
+          0.022973582092742362
+        ],
+        "confidence": 0.5,
+        "text": "daytime/snowy"
+      },
+      {
+        "boundingBox": [
+          0.08720930199499345,
+          0.385767790308148,
+          0.04069767435303638,
+          0.011291032873289364
+        ],
+        "confidence": 0.3,
+        "text": "Derson=Iue"
+      },
+      {
+        "boundingBox": [
+          0.12936046571979934,
+          0.3857677899798265,
+          0.03779069741214547,
+          0.01872659176029967
+        ],
+        "confidence": 0.5,
+        "text": "rider=False"
+      },
+      {
+        "boundingBox": [
+          0.33575581537564575,
+          0.3820224721377147,
+          0.08139534870607273,
+          0.022471910112359605
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5857558126363878,
+          0.3857677903810991,
+          0.07848837458461799,
+          0.014981273408239737
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8343023269723817,
+          0.38202247183130245,
+          0.04215116141376374,
+          0.01872659176029967
+        ],
+        "confidence": 1,
+        "text": "person=True"
+      },
+      {
+        "boundingBox": [
+          0.8764534891330745,
+          0.38202247183130245,
+          0.03779069741214547,
+          0.01872659176029967
+        ],
+        "confidence": 1,
+        "text": "rider=False"
+      },
+      {
+        "boundingBox": [
+          0.11044974255841897,
+          0.36745854403770684,
+          0.03491446924315322,
+          0.01875938279798417
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.673"
+      },
+      {
+        "boundingBox": [
+          0.3575581398144354,
+          0.36764705869223246,
+          0.036337207531981885,
+          0.018382352836123106
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.675"
+      },
+      {
+        "boundingBox": [
+          0.6075581399612375,
+          0.36764705869223246,
+          0.03343023059109096,
+          0.018382352836123106
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.675"
+      },
+      {
+        "boundingBox": [
+          0.8561046505685982,
+          0.3676470589143527,
+          0.036337210351418125,
+          0.018382352836123217
+        ],
+        "confidence": 1,
+        "text": "dist=0.679"
+      }
+    ],
+    "ocr_text": "Text - Image： \"cyclist riding a bicycle in the rain\"\ndaytime / rainy\ndaytime /rainy\ndaytime / rainy\nnight / rainy\nperson=True rider=False\nperson=False rider=False\nperson=False rider=True\nperson=True rider=False\ndist=0.658\ndist=0.661\ndist=0.668\ndist=0.672\ndaytime / rainy\ndawn/dusk /snowy\ndaytime / rainy\ndaytime/snowy\nDerson=Iue\nrider=False\nperson=True rider=False\nperson=True rider=False\nperson=True\nrider=False\ndist=0.673\ndist=0.675\ndist=0.675\ndist=0.679",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：Text - Image： \"cyclist riding a bicycle in the rain\"；daytime / rainy；daytime /rainy；daytime / rainy；night / rainy；person=True rider=False；person=False rider=False；person=False rider=True；person=True rider=False；dist=0.658；dist=0.661；dist=0.668；dist=0.672；daytime / rainy；dawn/dusk /snowy；daytime / rainy；daytime/snowy；Derson=Iue；rider=False；person=True rider=False；person=True rider=False；person=True；rider=False；dist=0.673；dist=0.675；dist=0.675；dist=0.679",
+    "entities": [
+      "Text - Image： \"cyclist riding a bicycle in the rain\"",
+      "daytime / rainy",
+      "daytime /rainy",
+      "night / rainy",
+      "person=True rider=False",
+      "person=False rider=False",
+      "person=False rider=True",
+      "dist=0.658",
+      "dist=0.661",
+      "dist=0.668",
+      "dist=0.672",
+      "dawn/dusk /snowy",
+      "daytime/snowy",
+      "Derson=Iue",
+      "rider=False",
+      "person=True",
+      "dist=0.673",
+      "dist=0.675",
+      "dist=0.679"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e7e463d88303973b6da10f8039902af37c7f25a57c3e8992bf048a1d0e2f8827"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-011",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69dd371814a70fe7959ff307_Screenshot%202026-04-14%20at%2012.03.33%E2%80%AFAM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-011.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.047965122702740295,
+          0.9745370365117085,
+          0.22674416934742647,
+          0.0254629633770459
+        ],
+        "confidence": 0.5,
+        "text": "Query frame - 01dad8ea-6732167c"
+      },
+      {
+        "boundingBox": [
+          0.12349733985099551,
+          0.9509663841705988,
+          0.07713322919957777,
+          0.02399315783734335
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.36482558667384607,
+          0.5972222231122473,
+          0.27616278704474956,
+          0.020833331842635028
+        ],
+        "confidence": 0.5,
+        "text": "Image - Image: frames similar to rider query frame"
+      },
+      {
+        "boundingBox": [
+          0.1090116279086064,
+          0.5509259257578487,
+          0.039244186176973214,
+          0.01179388679066129
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.3575161190517767,
+          0.5482917806921751,
+          0.04078171673943015,
+          0.014527550615710871
+        ],
+        "confidence": 0.5,
+        "text": "night /clear"
+      },
+      {
+        "boundingBox": [
+          0.6031976771339413,
+          0.5509259264557496,
+          0.049418600867776274,
+          0.011793886231649342
+        ],
+        "confidence": 0.5,
+        "text": "daytime / clear"
+      },
+      {
+        "boundingBox": [
+          0.8575581399602052,
+          0.5486111111647394,
+          0.03924418617697323,
+          0.014108701439842886
+        ],
+        "confidence": 0.5,
+        "text": "night / rainy"
+      },
+      {
+        "boundingBox": [
+          0.08866279468027677,
+          0.5392731535671313,
+          0.07848836674409754,
+          0.011723329425556872
+        ],
+        "confidence": 1,
+        "text": "person=True rider=True"
+      },
+      {
+        "boundingBox": [
+          0.33717109345828883,
+          0.5367154453576503,
+          0.04513455839718089,
+          0.014532072463041223
+        ],
+        "confidence": 1,
+        "text": "person=False"
+      },
+      {
+        "boundingBox": [
+          0.3808139541715338,
+          0.5392731533356498,
+          0.03924418337204877,
+          0.011723329425556872
+        ],
+        "confidence": 1,
+        "text": "rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5872093049737932,
+          0.539273153538196,
+          0.0813953455756693,
+          0.011723329425556983
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8386627920519952,
+          0.539273153538196,
+          0.07703488293816052,
+          0.011723329425556983
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=True"
+      },
+      {
+        "boundingBox": [
+          0.11046511786315193,
+          0.5275498238724206,
+          0.03633720734540154,
+          0.011802027681089067
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.000"
+      },
+      {
+        "boundingBox": [
+          0.36043406333260297,
+          0.5275252114730492,
+          0.03639931398279528,
+          0.012079206468910808
+        ],
+        "confidence": 1,
+        "text": "dist=0.064"
+      },
+      {
+        "boundingBox": [
+          0.6104486655790582,
+          0.5276453075741194,
+          0.036370111914242,
+          0.01183901470403459
+        ],
+        "confidence": 1,
+        "text": "dist=0.065"
+      },
+      {
+        "boundingBox": [
+          0.8590116289934372,
+          0.5275498238724206,
+          0.0377906967611874,
+          0.011802027681089067
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.067"
+      },
+      {
+        "boundingBox": [
+          0.3561046530152397,
+          0.2497069170297791,
+          0.04360464881448184,
+          0.014181971130728832
+        ],
+        "confidence": 0.3,
+        "text": "night / snowy"
+      },
+      {
+        "boundingBox": [
+          0.6075581399602052,
+          0.25205158275698225,
+          0.03924418617697323,
+          0.011837305804629383
+        ],
+        "confidence": 0.3,
+        "text": "niqht/ clear"
+      },
+      {
+        "boundingBox": [
+          0.08720930372885839,
+          0.23842592657714645,
+          0.045058138230267705,
+          0.013888887895090019
+        ],
+        "confidence": 1,
+        "text": "person=False"
+      },
+      {
+        "boundingBox": [
+          0.1308139541715338,
+          0.23842592630142856,
+          0.03924418337204877,
+          0.011574073245908312
+        ],
+        "confidence": 0.5,
+        "text": "rider=False"
+      },
+      {
+        "boundingBox": [
+          0.33575581368159807,
+          0.23842592626850445,
+          0.08284883499145507,
+          0.013888887895089908
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5872093031460095,
+          0.23842592597955403,
+          0.042151162203620474,
+          0.013888889013113803
+        ],
+        "confidence": 1,
+        "text": "person=True"
+      },
+      {
+        "boundingBox": [
+          0.8575581393969786,
+          0.2520515826045069,
+          0.03924418617697323,
+          0.00952249143495365
+        ],
+        "confidence": 0.3,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.3604651174271054,
+          0.22916666727365076,
+          0.03633720734540152,
+          0.01174775265585215
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.070"
+      },
+      {
+        "boundingBox": [
+          0.6104423814973967,
+          0.2289902854984548,
+          0.03492919136496153,
+          0.011926836592930368
+        ],
+        "confidence": 1,
+        "text": "dist=0.070"
+      },
+      {
+        "boundingBox": [
+          0.6293604671075803,
+          0.23842592645574956,
+          0.03924418337204871,
+          0.011574073245908312
+        ],
+        "confidence": 0.5,
+        "text": "rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8356988155812507,
+          0.23795677521216907,
+          0.04371864935931036,
+          0.014827190502028076
+        ],
+        "confidence": 0.5,
+        "text": "person=True"
+      },
+      {
+        "boundingBox": [
+          0.8793604649430498,
+          0.23842592622426817,
+          0.0377906967611874,
+          0.0115740732459082
+        ],
+        "confidence": 1,
+        "text": "rider=False"
+      }
+    ],
+    "ocr_text": "Query frame - 01dad8ea-6732167c\nnight / clear\nImage - Image: frames similar to rider query frame\nnight / clear\nnight /clear\ndaytime / clear\nnight / rainy\nperson=True rider=True\nperson=False\nrider=False\nperson=True rider=False\nperson=True rider=True\ndist=0.000\ndist=0.064\ndist=0.065\ndist=0.067\nnight / snowy\nniqht/ clear\nperson=False\nrider=False\nperson=False rider=False\nperson=True\nnight / clear\ndist=0.070\ndist=0.070\nrider=False\nperson=True\nrider=False",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：Query frame - 01dad8ea-6732167c；night / clear；Image - Image: frames similar to rider query frame；night / clear；night /clear；daytime / clear；night / rainy；person=True rider=True；person=False；rider=False；person=True rider=False；person=True rider=True；dist=0.000；dist=0.064；dist=0.065；dist=0.067；night / snowy；niqht/ clear；person=False；rider=False；person=False rider=False；person=True；night / clear；dist=0.070；dist=0.070；rider=False；person=True；rider=False",
+    "entities": [
+      "Query frame - 01dad8ea-6732167c",
+      "night / clear",
+      "Image - Image: frames similar to rider query frame",
+      "night /clear",
+      "daytime / clear",
+      "night / rainy",
+      "person=True rider=True",
+      "person=False",
+      "rider=False",
+      "person=True rider=False",
+      "dist=0.000",
+      "dist=0.064",
+      "dist=0.065",
+      "dist=0.067",
+      "night / snowy",
+      "niqht/ clear",
+      "person=False rider=False",
+      "person=True",
+      "dist=0.070"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a0932af1cd9f33277f059e092427d0f68853dc5be7e62b8da0c1d86815fcae8d"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-012",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69dd3809b369addab9fc921f_Screenshot%202026-04-14%20at%2012.05.52%E2%80%AFAM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-012.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.36918604905419783,
+          0.9724137929150282,
+          0.26308138587900753,
+          0.02068965535768319
+        ],
+        "confidence": 0.5,
+        "text": "CLIP only： \"pedestrian crossing at an intersection\""
+      },
+      {
+        "boundingBox": [
+          0.10465116406085659,
+          0.9241379312845176,
+          0.04069767323487594,
+          0.011494252603378663
+        ],
+        "confidence": 0.3,
+        "text": "night/ clear"
+      },
+      {
+        "boundingBox": [
+          0.3430232555164118,
+          0.9241379309780041,
+          0.06395348731988976,
+          0.011494252603378663
+        ],
+        "confidence": 0.5,
+        "text": "daytime/ undefined"
+      },
+      {
+        "boundingBox": [
+          0.08575581539315326,
+          0.9125586855455128,
+          0.07848837182997244,
+          0.011737089201877993
+        ],
+        "confidence": 1,
+        "text": "person=True rider=True"
+      },
+      {
+        "boundingBox": [
+          0.33430232579613184,
+          0.9125586854636065,
+          0.08139534646975183,
+          0.014084507042253502
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5959302325729537,
+          0.9241379310833682,
+          0.05668604506484831,
+          0.011494252603378663
+        ],
+        "confidence": 0.5,
+        "text": "dawn/dusk / clear"
+      },
+      {
+        "boundingBox": [
+          0.8546511629164957,
+          0.9241379311445875,
+          0.03924418591498624,
+          0.011494252603378663
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.10755813936356524,
+          0.9031690139888002,
+          0.03488372112752068,
+          0.011773514635685989
+        ],
+        "confidence": 1,
+        "text": "dist=0.645"
+      },
+      {
+        "boundingBox": [
+          0.3575183972967736,
+          0.9008935386710609,
+          0.034963204827107186,
+          0.014304876327514648
+        ],
+        "confidence": 1,
+        "text": "dist=0.652"
+      },
+      {
+        "boundingBox": [
+          0.5843023277825657,
+          0.9125586855167771,
+          0.081395346469752,
+          0.011737089201877993
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.607558139145542,
+          0.9011494250531861,
+          0.034883721127520695,
+          0.013793103571788756
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.652"
+      },
+      {
+        "boundingBox": [
+          0.832848839954743,
+          0.9125586855167771,
+          0.08284883378964158,
+          0.011737089201877993
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8561046515206019,
+          0.9031690139888002,
+          0.036337208447410396,
+          0.011773514635685989
+        ],
+        "confidence": 1,
+        "text": "dist=0.653"
+      },
+      {
+        "boundingBox": [
+          0.1046432108834655,
+          0.6252284144174716,
+          0.040713579589300816,
+          0.013910987567453903
+        ],
+        "confidence": 0.3,
+        "text": "night/ clear"
+      },
+      {
+        "boundingBox": [
+          0.3546511625899875,
+          0.6249999997543922,
+          0.03924418591498624,
+          0.011781609114346892
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.6045860172871415,
+          0.6247892927425229,
+          0.040827966779139024,
+          0.01478923094664375
+        ],
+        "confidence": 0.3,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.8546511626566058,
+          0.624999999802285,
+          0.03924418591498613,
+          0.011781609114346892
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.08430232461629887,
+          0.6160919541570018,
+          0.07848836617437975,
+          0.00714748258322051
+        ],
+        "confidence": 0.3,
+        "text": "person=ralse noer= Irue"
+      },
+      {
+        "boundingBox": [
+          0.10755813936356524,
+          0.6044600940518925,
+          0.03488372112752068,
+          0.011737089201877993
+        ],
+        "confidence": 1,
+        "text": "dist=0.653"
+      },
+      {
+        "boundingBox": [
+          0.3343023281217132,
+          0.6137931036983106,
+          0.08139534646975188,
+          0.011494252603378774
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.3575581405679614,
+          0.6044600941428886,
+          0.03633720844741034,
+          0.011737089201877993
+        ],
+        "confidence": 1,
+        "text": "dist=0.654"
+      },
+      {
+        "boundingBox": [
+          0.5843023281217131,
+          0.6137931036983106,
+          0.08139534646975188,
+          0.011494252603378774
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.6075581393635652,
+          0.6044600940518925,
+          0.034883721127520695,
+          0.011737089201877993
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.654"
+      },
+      {
+        "boundingBox": [
+          0.8328488410336022,
+          0.6160919543868868,
+          0.043604647874655456,
+          0.007147482303386576
+        ],
+        "confidence": 0.5,
+        "text": "Derson=ralse"
+      },
+      {
+        "boundingBox": [
+          0.8561046509846281,
+          0.6044600939130036,
+          0.036337208447410396,
+          0.011737089201877993
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.655"
+      },
+      {
+        "boundingBox": [
+          0.3095930306646651,
+          0.3215962439697855,
+          0.3822674365994487,
+          0.021126760563380365
+        ],
+        "confidence": 0.5,
+        "text": "CLIP + SQL （timeofday = night）：\"pedestrian crossing at an intersection\""
+      },
+      {
+        "boundingBox": [
+          0.35465116220239057,
+          0.2734741785860163,
+          0.03924418591498624,
+          0.011737089201877882
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.6046511622023907,
+          0.2734741785860163,
+          0.03924418591498624,
+          0.011737089201877882
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.85465116351053,
+          0.27347417825623344,
+          0.03924418591498624,
+          0.011737089201877993
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.08575581539315326,
+          0.2620689657672761,
+          0.07848837182997244,
+          0.011494252603378663
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=True"
+      },
+      {
+        "boundingBox": [
+          0.3328488408502731,
+          0.2620689657672761,
+          0.08430232110953134,
+          0.011494252603378663
+        ],
+        "confidence": 1,
+        "text": "person=False rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5843023261690904,
+          0.2620689656631773,
+          0.07994185914986218,
+          0.011494252603378663
+        ],
+        "confidence": 0.5,
+        "text": "person=False rider=True"
+      },
+      {
+        "boundingBox": [
+          0.8343023272382956,
+          0.26206896573854066,
+          0.07994185914986218,
+          0.011494252603378663
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.3575581405679614,
+          0.2528735633471263,
+          0.03633720844741034,
+          0.009450380511127232
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.653"
+      },
+      {
+        "boundingBox": [
+          0.6075581393635652,
+          0.25287356328965493,
+          0.034883721127520695,
+          0.009450380511127232
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.653"
+      }
+    ],
+    "ocr_text": "CLIP only： \"pedestrian crossing at an intersection\"\nnight/ clear\ndaytime/ undefined\nperson=True rider=True\nperson=True rider=False\ndawn/dusk / clear\nnight / clear\ndist=0.645\ndist=0.652\nperson=True rider=False\ndist=0.652\nperson=False rider=False\ndist=0.653\nnight/ clear\nnight / clear\nnight / clear\nnight / clear\nperson=ralse noer= Irue\ndist=0.653\nperson=True rider=False\ndist=0.654\nperson=True rider=False\ndist=0.654\nDerson=ralse\ndist=0.655\nCLIP + SQL （timeofday = night）：\"pedestrian crossing at an intersection\"\nnight / clear\nnight / clear\nnight / clear\nperson=True rider=True\nperson=False rider=False\nperson=False rider=True\nperson=True rider=False\ndist=0.653\ndist=0.653",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：CLIP only： \"pedestrian crossing at an intersection\"；night/ clear；daytime/ undefined；person=True rider=True；person=True rider=False；dawn/dusk / clear；night / clear；dist=0.645；dist=0.652；person=True rider=False；dist=0.652；person=False rider=False；dist=0.653；night/ clear；night / clear；night / clear；night / clear；person=ralse noer= Irue；dist=0.653；person=True rider=False；dist=0.654；person=True rider=False；dist=0.654；Derson=ralse；dist=0.655；CLIP + SQL （timeofday = night）：\"pedestrian crossing at an intersection\"；night / clear；night / clear；night / clear；person=True rider=True",
+    "entities": [
+      "CLIP only： \"pedestrian crossing at an intersection\"",
+      "night/ clear",
+      "daytime/ undefined",
+      "person=True rider=True",
+      "person=True rider=False",
+      "dawn/dusk / clear",
+      "night / clear",
+      "dist=0.645",
+      "dist=0.652",
+      "person=False rider=False",
+      "dist=0.653",
+      "person=ralse noer= Irue",
+      "dist=0.654",
+      "Derson=ralse",
+      "dist=0.655",
+      "CLIP + SQL （timeofday = night）：\"pedestrian crossing at an intersection\"",
+      "person=False rider=True"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "755584205aff0cd269428c4f3a034b539bb4e3de9ff1f15210570edf4e0b2c57"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-013",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69dd389f3cf6963b983265f8_Screenshot%202026-04-14%20at%2012.10.10%E2%80%AFAM.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-013.avif",
+    "section": "is_duplicate is now just a boolean column — filter it like anything else",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3313953543495604,
+          0.9597069601965574,
+          0.18168604154312712,
+          0.03296703210993768
+        ],
+        "confidence": 0.5,
+        "text": "Discovery: CLIP \"rider\" query, has_"
+      },
+      {
+        "boundingBox": [
+          0.5116279084986979,
+          0.9560439560604158,
+          0.1584302302046392,
+          0.03296703210993768
+        ],
+        "confidence": 0.5,
+        "text": "rider=false, has_person=true"
+      },
+      {
+        "boundingBox": [
+          0.3676731891395575,
+          0.9265735480470139,
+          0.26755903183579355,
+          0.033986580859329596
+        ],
+        "confidence": 0.5,
+        "text": "（possible missed annotations or near-miss frames）"
+      },
+      {
+        "boundingBox": [
+          0.10174418603532279,
+          0.8568773238443689,
+          0.04796511510231957,
+          0.018587360594795488
+        ],
+        "confidence": 0.5,
+        "text": "daytime / clear"
+      },
+      {
+        "boundingBox": [
+          0.3561046507703009,
+          0.8568773238443689,
+          0.03924418585038664,
+          0.018587360594795488
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.5988372099202179,
+          0.8568773232785672,
+          0.05668604716537795,
+          0.018587360594795488
+        ],
+        "confidence": 0.5,
+        "text": "dawn/dusk / clear"
+      },
+      {
+        "boundingBox": [
+          0.8401162809589826,
+          0.8568773232785672,
+          0.07412790566924399,
+          0.018587360594795488
+        ],
+        "confidence": 0.5,
+        "text": "daytime / partly cloudy"
+      },
+      {
+        "boundingBox": [
+          0.08430232870310973,
+          0.8388278394460298,
+          0.0813953453069587,
+          0.0183150174449368
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.33575581707520274,
+          0.8388278394460298,
+          0.08139534530695874,
+          0.0183150174449368
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5857558170752027,
+          0.8388278394460298,
+          0.08139534530695869,
+          0.0183150174449368
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8357558139348403,
+          0.8388278390339419,
+          0.07994185850386593,
+          0.018315017444936688
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.10755814002105665,
+          0.8241758246506802,
+          0.03488371981885738,
+          0.018760978067674627
+        ],
+        "confidence": 1,
+        "text": "dist=0.687"
+      },
+      {
+        "boundingBox": [
+          0.3575581408838538,
+          0.8241758246719151,
+          0.03779069623616832,
+          0.018760978067674516
+        ],
+        "confidence": 1,
+        "text": "dist=0.690"
+      },
+      {
+        "boundingBox": [
+          0.6075234038059816,
+          0.8201270345602583,
+          0.03786017039108558,
+          0.022749594153081643
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.693"
+      },
+      {
+        "boundingBox": [
+          0.8575581399237238,
+          0.8241758247482276,
+          0.03633720943307561,
+          0.018760978067674516
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.694"
+      },
+      {
+        "boundingBox": [
+          0.0901162801502577,
+          0.39926739988559024,
+          0.07267441886615121,
+          0.0183150174449368
+        ],
+        "confidence": 0.5,
+        "text": "daytime / partly cloudy"
+      },
+      {
+        "boundingBox": [
+          0.3561046506067835,
+          0.3992673995192899,
+          0.03924418585038658,
+          0.0183150174449368
+        ],
+        "confidence": 0.5,
+        "text": "night / clear"
+      },
+      {
+        "boundingBox": [
+          0.6017441860353228,
+          0.3992673995650774,
+          0.0479651151023196,
+          0.0183150174449368
+        ],
+        "confidence": 0.5,
+        "text": "daytime/clear"
+      },
+      {
+        "boundingBox": [
+          0.8430232562928376,
+          0.3992673995192899,
+          0.06540697360618553,
+          0.0183150174449368
+        ],
+        "confidence": 0.5,
+        "text": "daytime /undefined"
+      },
+      {
+        "boundingBox": [
+          0.08575581442539262,
+          0.38461538535567563,
+          0.07994185850386595,
+          0.018730339950788433
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.33575581518566794,
+          0.3809523813089416,
+          0.08139534530695874,
+          0.022393343617038597
+        ],
+        "confidence": 0.5,
+        "text": "person=irue rider=False"
+      },
+      {
+        "boundingBox": [
+          0.5857558170752027,
+          0.3809523815705719,
+          0.08139534530695869,
+          0.018675871498079477
+        ],
+        "confidence": 1,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.8357558170752026,
+          0.38095238106474116,
+          0.0813953453069588,
+          0.022393343617038708
+        ],
+        "confidence": 0.5,
+        "text": "person=True rider=False"
+      },
+      {
+        "boundingBox": [
+          0.10752822688957005,
+          0.3622526487190568,
+          0.03639703580537261,
+          0.01908444737856274
+        ],
+        "confidence": 1,
+        "text": "dist=0.696"
+      },
+      {
+        "boundingBox": [
+          0.3575581408838538,
+          0.3624535318952933,
+          0.03779069623616832,
+          0.018587360594795488
+        ],
+        "confidence": 0.5,
+        "text": "dist=0.699"
+      },
+      {
+        "boundingBox": [
+          0.6075581408838537,
+          0.3624535318952933,
+          0.037790696236168375,
+          0.018587360594795488
+        ],
+        "confidence": 1,
+        "text": "dist=0.699"
+      },
+      {
+        "boundingBox": [
+          0.8575581400751289,
+          0.3624535318952933,
+          0.03633720943307561,
+          0.018587360594795488
+        ],
+        "confidence": 1,
+        "text": "dist=0.700"
+      }
+    ],
+    "ocr_text": "Discovery: CLIP \"rider\" query, has_\nrider=false, has_person=true\n（possible missed annotations or near-miss frames）\ndaytime / clear\nnight / clear\ndawn/dusk / clear\ndaytime / partly cloudy\nperson=True rider=False\nperson=True rider=False\nperson=True rider=False\nperson=True rider=False\ndist=0.687\ndist=0.690\ndist=0.693\ndist=0.694\ndaytime / partly cloudy\nnight / clear\ndaytime/clear\ndaytime /undefined\nperson=True rider=False\nperson=irue rider=False\nperson=True rider=False\nperson=True rider=False\ndist=0.696\ndist=0.699\ndist=0.699\ndist=0.700",
+    "description": "is_duplicate is now just a boolean column — filter it like anything else中的配图，包含文字：Discovery: CLIP \"rider\" query, has_；rider=false, has_person=true；（possible missed annotations or near-miss frames）；daytime / clear；night / clear；dawn/dusk / clear；daytime / partly cloudy；person=True rider=False；person=True rider=False；person=True rider=False；person=True rider=False；dist=0.687；dist=0.690；dist=0.693；dist=0.694；daytime / partly cloudy；night / clear；daytime/clear；daytime /undefined；person=True rider=False；person=irue rider=False；person=True rider=False；person=True rider=False；dist=0.696；dist=0.699；dist=0.699；dist=0.700",
+    "entities": [
+      "Discovery: CLIP \"rider\" query, has_",
+      "rider=false, has_person=true",
+      "（possible missed annotations or near-miss frames）",
+      "daytime / clear",
+      "night / clear",
+      "dawn/dusk / clear",
+      "daytime / partly cloudy",
+      "person=True rider=False",
+      "dist=0.687",
+      "dist=0.690",
+      "dist=0.693",
+      "dist=0.694",
+      "daytime/clear",
+      "daytime /undefined",
+      "person=irue rider=False",
+      "dist=0.696",
+      "dist=0.699",
+      "dist=0.700"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2ebce2ba1d5e28cad21a7e7d89d6fae8cf3fa1ce7d3b3f1d120d25a5748acf4b"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-014",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-014.avif",
+    "section": "**Code**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Code**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-015",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-015.png",
+    "section": "**Code**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "**Code**中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-016",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-016.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31-fig-017",
+    "doc_id": "1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31",
+    "seq": 17,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1406-https-www-lancedb-com-blog-unifying-the-av-ml-st-e731db31/figure-017.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

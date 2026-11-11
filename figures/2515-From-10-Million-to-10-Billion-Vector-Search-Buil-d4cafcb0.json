@@ -1,0 +1,1653 @@
+[
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-001",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6b8c71dba0cb94fa5c5f_preview-image.png",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-001.png",
+    "section": "From 10 Million to 10 Billion: Vector Search Built to Grow",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1031976737727161,
+          0.8757961783597428,
+          0.13662790909908604,
+          0.04989384288747345
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "From 10 Million to 10 Billion: Vector Search Built to Grow中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "48b77d5395b702be53e70cc6c33f1fc2426e7c0294840cda28e94123db28d70f"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-002",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6992d9f103f4912fd8aa_laion-four-methods-throughput.svg",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-002.svg",
+    "section": "Start with 10 million vectors",
+    "alt": "RQ1, RQ5, PQ96, PQ384 and SQ throughput",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.020833335186768293,
+          0.9052369089036604,
+          0.5249999912931304,
+          0.05860349127182041
+        ],
+        "confidence": 0.5,
+        "text": "More search from the same machine."
+      },
+      {
+        "boundingBox": [
+          0.021802328981420642,
+          0.7967581046661545,
+          0.16424417971884472,
+          0.03117206982543652
+        ],
+        "confidence": 0.5,
+        "text": "10M x 768d vectors"
+      },
+      {
+        "boundingBox": [
+          0.19186046561852402,
+          0.6294416239428076,
+          0.03488371953814584,
+          0.02791878231743039
+        ],
+        "confidence": 1,
+        "text": "RQ1"
+      },
+      {
+        "boundingBox": [
+          0.828488372498527,
+          0.6319796964291253,
+          0.015988371681724955,
+          0.02284263791586094
+        ],
+        "confidence": 1,
+        "text": "H"
+      },
+      {
+        "boundingBox": [
+          0.8473837206019439,
+          0.6243654825630182,
+          0.05813953437750763,
+          0.03553299416330391
+        ],
+        "confidence": 1,
+        "text": "1,695"
+      },
+      {
+        "boundingBox": [
+          0.18895348966780387,
+          0.5174563587462565,
+          0.037790695712841854,
+          0.03117206982543641
+        ],
+        "confidence": 1,
+        "text": "RQ5"
+      },
+      {
+        "boundingBox": [
+          0.8239357553025716,
+          0.5093914398975401,
+          0.05561686038290725,
+          0.044668896834451965
+        ],
+        "confidence": 1,
+        "text": "1,614"
+      },
+      {
+        "boundingBox": [
+          0.1787137646614176,
+          0.4057846097518705,
+          0.04664223816527449,
+          0.031070373896648795
+        ],
+        "confidence": 1,
+        "text": "PQ96"
+      },
+      {
+        "boundingBox": [
+          0.8095930231594108,
+          0.41116751256868556,
+          0.010174418652108663,
+          0.022842640294101102
+        ],
+        "confidence": 1,
+        "text": "H"
+      },
+      {
+        "boundingBox": [
+          0.8370938030366045,
+          0.4005443681859594,
+          0.054010067448636345,
+          0.041550859846081756
+        ],
+        "confidence": 1,
+        "text": "1,647"
+      },
+      {
+        "boundingBox": [
+          0.16997520290559265,
+          0.29647683447265105,
+          0.05685191895924349,
+          0.031411814273444194
+        ],
+        "confidence": 1,
+        "text": "PQ384"
+      },
+      {
+        "boundingBox": [
+          0.6249081495637995,
+          0.2864614494911032,
+          0.05541625954795326,
+          0.04636644187413541
+        ],
+        "confidence": 1,
+        "text": "1,047"
+      },
+      {
+        "boundingBox": [
+          0.19767441944165792,
+          0.18527918827011403,
+          0.027616277740957373,
+          0.030456852139974733
+        ],
+        "confidence": 1,
+        "text": "SQ"
+      },
+      {
+        "boundingBox": [
+          0.5334302329284017,
+          0.18527918790207454,
+          0.03924418516063832,
+          0.038071066364088635
+        ],
+        "confidence": 1,
+        "text": "789"
+      },
+      {
+        "boundingBox": [
+          0.3982558149402294,
+          0.09850374153264985,
+          0.03488371953814584,
+          0.05378052242973497
+        ],
+        "confidence": 1,
+        "text": "500"
+      },
+      {
+        "boundingBox": [
+          0.5726358583088343,
+          0.10141795871010784,
+          0.04077479570636389,
+          0.04589504612948825
+        ],
+        "confidence": 1,
+        "text": "1000"
+      },
+      {
+        "boundingBox": [
+          0.6595379804554411,
+          0.10316193575498778,
+          0.041389155149799906,
+          0.050021307129515025
+        ],
+        "confidence": 1,
+        "text": "1250"
+      },
+      {
+        "boundingBox": [
+          0.747093023561984,
+          0.10349127244668244,
+          0.04215116133533425,
+          0.04371684923433605
+        ],
+        "confidence": 1,
+        "text": "1500"
+      },
+      {
+        "boundingBox": [
+          0.8357558142074105,
+          0.10099750725037993,
+          0.04069767460843465,
+          0.04621061482037092
+        ],
+        "confidence": 1,
+        "text": "1750"
+      },
+      {
+        "boundingBox": [
+          0.9229651168925489,
+          0.10349127065582442,
+          0.04215116133533425,
+          0.043716851612576324
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.31250000067292627,
+          0.10099750664691032,
+          0.0319767433634498,
+          0.03366583541147139
+        ],
+        "confidence": 1,
+        "text": "250"
+      },
+      {
+        "boundingBox": [
+          0.4869186047547452,
+          0.10099750670190188,
+          0.033430232811246186,
+          0.03366583541147128
+        ],
+        "confidence": 1,
+        "text": "750"
+      },
+      {
+        "boundingBox": [
+          0.4709302363180946,
+          0.03807106644270286,
+          0.2776162750200607,
+          0.03050748725187158
+        ],
+        "confidence": 0.5,
+        "text": "Queries per second • higher is better"
+      }
+    ],
+    "ocr_text": "More search from the same machine.\n10M x 768d vectors\nRQ1\nH\n1,695\nRQ5\n1,614\nPQ96\nH\n1,647\nPQ384\n1,047\nSQ\n789\n500\n1000\n1250\n1500\n1750\n2000\n250\n750\nQueries per second • higher is better",
+    "description": "Start with 10 million vectors中的配图，包含文字：More search from the same machine.；10M x 768d vectors；RQ1；H；1,695；RQ5；1,614；PQ96；H；1,647；PQ384；1,047；SQ；789；500；1000；1250；1500；1750；2000；250；750；Queries per second • higher is better",
+    "entities": [
+      "More search from the same machine.",
+      "10M x 768d vectors",
+      "RQ1",
+      "H",
+      "1,695",
+      "RQ5",
+      "1,614",
+      "PQ96",
+      "1,647",
+      "PQ384",
+      "1,047",
+      "SQ",
+      "789",
+      "500",
+      "1000",
+      "1250",
+      "1500",
+      "1750",
+      "2000",
+      "250",
+      "750",
+      "Queries per second • higher is better"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5f7ccdd19257df10110954333fb1e1f0c341caeac03293bd80053f68bba145e4"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-003",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6ae85a65248169d6e39c_laion-four-methods-index-size.svg",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-003.svg",
+    "section": "Start with 10 million vectors",
+    "alt": "Index footprint for RQ1, RQ5, PQ96, PQ384 and SQ",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.023255824443635033,
+          0.9035532983424682,
+          0.45930230634528796,
+          0.05583756463486056
+        ],
+        "confidence": 0.5,
+        "text": "Space for a growing vector table."
+      },
+      {
+        "boundingBox": [
+          0.021802328981420642,
+          0.7992518708421863,
+          0.16424417971884472,
+          0.028678304239401542
+        ],
+        "confidence": 0.5,
+        "text": "10M x 768d vectors"
+      },
+      {
+        "boundingBox": [
+          0.19186046478078678,
+          0.629441624510205,
+          0.03343023281124621,
+          0.025380710116645666
+        ],
+        "confidence": 1,
+        "text": "RQ1"
+      },
+      {
+        "boundingBox": [
+          0.3328488377679649,
+          0.6269035538610601,
+          0.09593023281124619,
+          0.03553299416330402
+        ],
+        "confidence": 0.3,
+        "text": "≥1.01 GB"
+      },
+      {
+        "boundingBox": [
+          0.18895348966780387,
+          0.5174563587462565,
+          0.037790695712841854,
+          0.03117206982543641
+        ],
+        "confidence": 1,
+        "text": "RQ5"
+      },
+      {
+        "boundingBox": [
+          0.6416666695222645,
+          0.5144927547093195,
+          0.08333332970547103,
+          0.043478259421940724
+        ],
+        "confidence": 1,
+        "text": "5.03 GB"
+      },
+      {
+        "boundingBox": [
+          0.1787137646614176,
+          0.4057846097518705,
+          0.04664223816527449,
+          0.031070373896648795
+        ],
+        "confidence": 1,
+        "text": "PQ96"
+      },
+      {
+        "boundingBox": [
+          0.33426852063031565,
+          0.4058817264407081,
+          0.07710249243721307,
+          0.03849035605528106
+        ],
+        "confidence": 0.5,
+        "text": "1.00 GB"
+      },
+      {
+        "boundingBox": [
+          0.16997213645491646,
+          0.29645892037867294,
+          0.05685805186055354,
+          0.031447641272794535
+        ],
+        "confidence": 1,
+        "text": "PQ384"
+      },
+      {
+        "boundingBox": [
+          0.5565857948725711,
+          0.2937415739065242,
+          0.07723538647704731,
+          0.03688233511109007
+        ],
+        "confidence": 0.5,
+        "text": "3.88 GB"
+      },
+      {
+        "boundingBox": [
+          0.8545684274071126,
+          0.18485840708120194,
+          0.07574686548339149,
+          0.04652683990554618
+        ],
+        "confidence": 0.5,
+        "text": "7.72 GB"
+      },
+      {
+        "boundingBox": [
+          0.19767441944165792,
+          0.18527918827011403,
+          0.027616277740957373,
+          0.030456852139974733
+        ],
+        "confidence": 1,
+        "text": "SQ"
+      },
+      {
+        "boundingBox": [
+          0.5436046510139969,
+          0.10406091321322852,
+          0.011627907419680783,
+          0.04314720838741759
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.6976744184558573,
+          0.10406091321322852,
+          0.011627907419680894,
+          0.04314720838741759
+        ],
+        "confidence": 0.5,
+        "text": "6"
+      },
+      {
+        "boundingBox": [
+          0.851744185752369,
+          0.1040609141887161,
+          0.011627907419680894,
+          0.025380710116645666
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.4723837251600198,
+          0.03807106646083214,
+          0.2732558093975682,
+          0.030507487251871468
+        ],
+        "confidence": 0.5,
+        "text": "Index footprint （GB） • lower is better"
+      }
+    ],
+    "ocr_text": "Space for a growing vector table.\n10M x 768d vectors\nRQ1\n≥1.01 GB\nRQ5\n5.03 GB\nPQ96\n1.00 GB\nPQ384\n3.88 GB\n7.72 GB\nSQ\n4\n6\n8\nIndex footprint （GB） • lower is better",
+    "description": "Start with 10 million vectors中的配图，包含文字：Space for a growing vector table.；10M x 768d vectors；RQ1；≥1.01 GB；RQ5；5.03 GB；PQ96；1.00 GB；PQ384；3.88 GB；7.72 GB；SQ；4；6；8；Index footprint （GB） • lower is better",
+    "entities": [
+      "Space for a growing vector table.",
+      "10M x 768d vectors",
+      "RQ1",
+      "≥1.01 GB",
+      "RQ5",
+      "5.03 GB",
+      "PQ96",
+      "1.00 GB",
+      "PQ384",
+      "3.88 GB",
+      "7.72 GB",
+      "SQ",
+      "4",
+      "6",
+      "8",
+      "Index footprint （GB） • lower is better"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "40467af872ce92f7de894253d79603702bbfbd8dde9f862262ad26492121ab6d"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-004",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6b0f2a1b8381b606f489_laion-four-methods-build-time.svg",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-004.svg",
+    "section": "Start with 10 million vectors",
+    "alt": "Index construction time for RQ1, RQ5, PQ96, PQ384 and SQ",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02470930054288096,
+          0.9060913705183681,
+          0.5247093124498484,
+          0.053299492434075946
+        ],
+        "confidence": 0.5,
+        "text": "Get your vector table ready to search."
+      },
+      {
+        "boundingBox": [
+          0.021802328981420642,
+          0.7967581046661545,
+          0.16424417971884472,
+          0.03117206982543652
+        ],
+        "confidence": 0.5,
+        "text": "10M x 768d vectors"
+      },
+      {
+        "boundingBox": [
+          0.19186046561852402,
+          0.6294416239428076,
+          0.03488371953814584,
+          0.02791878231743039
+        ],
+        "confidence": 1,
+        "text": "RQ1"
+      },
+      {
+        "boundingBox": [
+          0.42296511574591694,
+          0.6269035533836611,
+          0.056686047650607974,
+          0.0355329941633038
+        ],
+        "confidence": 0.5,
+        "text": "57.8s"
+      },
+      {
+        "boundingBox": [
+          0.18895348871197074,
+          0.5174563587462565,
+          0.036337208985942254,
+          0.03117206982543641
+        ],
+        "confidence": 1,
+        "text": "RQ5"
+      },
+      {
+        "boundingBox": [
+          0.6208333364475507,
+          0.521197007890905,
+          0.07499999564656523,
+          0.03677400627041094
+        ],
+        "confidence": 1,
+        "text": "128.7s"
+      },
+      {
+        "boundingBox": [
+          0.1787137646614176,
+          0.4057846097518705,
+          0.04664223816527449,
+          0.031070373896648795
+        ],
+        "confidence": 1,
+        "text": "PQ96"
+      },
+      {
+        "boundingBox": [
+          0.5741279076711565,
+          0.4035532992291232,
+          0.06976743907629168,
+          0.038071066364088635
+        ],
+        "confidence": 1,
+        "text": "111.2s"
+      },
+      {
+        "boundingBox": [
+          0.1699087776523972,
+          0.2960840027092254,
+          0.05698476946472952,
+          0.032197476622469745
+        ],
+        "confidence": 1,
+        "text": "PQ384"
+      },
+      {
+        "boundingBox": [
+          0.8545470976479586,
+          0.29379629043076405,
+          0.0685220846265937,
+          0.036772902766962545
+        ],
+        "confidence": 0.5,
+        "text": "209.5s"
+      },
+      {
+        "boundingBox": [
+          0.19767441944165792,
+          0.18527918827011403,
+          0.027616277740957373,
+          0.030456852139974733
+        ],
+        "confidence": 1,
+        "text": "SQ"
+      },
+      {
+        "boundingBox": [
+          0.44472151886014655,
+          0.18252622683274566,
+          0.05823138096873326,
+          0.038500845283641505
+        ],
+        "confidence": 0.5,
+        "text": "65.8s"
+      },
+      {
+        "boundingBox": [
+          0.5058139544266635,
+          0.09850374169818599,
+          0.03488371953814584,
+          0.051242450228950354
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.6482558145526325,
+          0.10349127253918355,
+          0.03488371953814584,
+          0.04625492143512078
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.7921511625084134,
+          0.0985037406548076,
+          0.03343023281124624,
+          0.0487043804064059
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.9345930230444739,
+          0.09850373997271666,
+          0.03343023281124624,
+          0.041147132169575995
+        ],
+        "confidence": 1,
+        "text": "250"
+      },
+      {
+        "boundingBox": [
+          0.4476744276381863,
+          0.04060913776249986,
+          0.324127893815197,
+          0.03046318182624186
+        ],
+        "confidence": 0.5,
+        "text": "Index build time （seconds）• lower is better"
+      }
+    ],
+    "ocr_text": "Get your vector table ready to search.\n10M x 768d vectors\nRQ1\n57.8s\nRQ5\n128.7s\nPQ96\n111.2s\nPQ384\n209.5s\nSQ\n65.8s\n100\n150\n200\n250\nIndex build time （seconds）• lower is better",
+    "description": "Start with 10 million vectors中的配图，包含文字：Get your vector table ready to search.；10M x 768d vectors；RQ1；57.8s；RQ5；128.7s；PQ96；111.2s；PQ384；209.5s；SQ；65.8s；100；150；200；250；Index build time （seconds）• lower is better",
+    "entities": [
+      "Get your vector table ready to search.",
+      "10M x 768d vectors",
+      "RQ1",
+      "57.8s",
+      "RQ5",
+      "128.7s",
+      "PQ96",
+      "111.2s",
+      "PQ384",
+      "209.5s",
+      "SQ",
+      "65.8s",
+      "100",
+      "150",
+      "200",
+      "250",
+      "Index build time （seconds）• lower is better"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ca62dec93bed0a7942b4e45a73aaec8d3b571274b9181484bfd3672be22d9915"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-005",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6b351177a79013ff4c8e_distributed-initial-indexing.png",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-005.png",
+    "section": "Keep indexing as the table grows",
+    "alt": "The table is divided among parallel workers, which build separate segments of one searchable index",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08720931024294594,
+          0.8169934629219961,
+          0.8270348707834879,
+          0.09804559871554375
+        ],
+        "confidence": 0.5,
+        "text": "Build the first index in parallel"
+      },
+      {
+        "boundingBox": [
+          0.06673346431243472,
+          0.7200444228506152,
+          0.12089353799819948,
+          0.03485668823122978
+        ],
+        "confidence": 1,
+        "text": "Your table"
+      },
+      {
+        "boundingBox": [
+          0.4098837218677325,
+          0.7207031249504532,
+          0.1875,
+          0.033203125
+        ],
+        "confidence": 1,
+        "text": "Parallel workers"
+      },
+      {
+        "boundingBox": [
+          0.7601744223813997,
+          0.7207031249422833,
+          0.19767441352208448,
+          0.033203125
+        ],
+        "confidence": 0.5,
+        "text": "Searchable index"
+      },
+      {
+        "boundingBox": [
+          0.8415545460416799,
+          0.5989929733708583,
+          0.09450718760490417,
+          0.024236274883151054
+        ],
+        "confidence": 0.5,
+        "text": "Index segment"
+      },
+      {
+        "boundingBox": [
+          0.8415697699822537,
+          0.4658203128175862,
+          0.09447673956553138,
+          0.0224609375
+        ],
+        "confidence": 0.5,
+        "text": "Index segment"
+      },
+      {
+        "boundingBox": [
+          0.8415697699822537,
+          0.3222656251288867,
+          0.09447673956553138,
+          0.021960954181849957
+        ],
+        "confidence": 0.5,
+        "text": "Index segment"
+      },
+      {
+        "boundingBox": [
+          0.2630813942633636,
+          0.10239651400509087,
+          0.4796511729558309,
+          0.037251923233270645
+        ],
+        "confidence": 0.5,
+        "text": "Divide the work. Build together. Publish one index."
+      }
+    ],
+    "ocr_text": "Build the first index in parallel\nYour table\nParallel workers\nSearchable index\nIndex segment\nIndex segment\nIndex segment\nDivide the work. Build together. Publish one index.",
+    "description": "Keep indexing as the table grows中的配图，包含文字：Build the first index in parallel；Your table；Parallel workers；Searchable index；Index segment；Index segment；Index segment；Divide the work. Build together. Publish one index.",
+    "entities": [
+      "Build the first index in parallel",
+      "Your table",
+      "Parallel workers",
+      "Searchable index",
+      "Index segment",
+      "Divide the work. Build together. Publish one index."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c2d6722e783f3454389ea20a45fed871921e8e55cd34e96114ffa12073a528d3"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-006",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6b501348aa3e06dd1bb1_incremental-indexing.png",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-006.png",
+    "section": "Keep indexing as the table grows",
+    "alt": "Small additions use SPFresh to merge data into the tail and balance IVF partitions for low tail latency and high recall; larger additions build multiple new segments in parallel; a growing tail splits into two segments",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02906976710695326,
+          0.8579710149915697,
+          0.6162790601659385,
+          0.07826086851927605
+        ],
+        "confidence": 0.5,
+        "text": "Keep indexing as the table grows"
+      },
+      {
+        "boundingBox": [
+          0.8604651165265161,
+          0.7826086954563678,
+          0.030523255013828132,
+          0.03188405810175721
+        ],
+        "confidence": 1,
+        "text": "Tail"
+      },
+      {
+        "boundingBox": [
+          0.03343023167698106,
+          0.6981981980506962,
+          0.05959302435598621,
+          0.040932236491022955
+        ],
+        "confidence": 1,
+        "text": "Small"
+      },
+      {
+        "boundingBox": [
+          0.21656976894018376,
+          0.7072072071002656,
+          0.05668604441129904,
+          0.03192322748201393
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.357558141672925,
+          0.7038288296847337,
+          0.05959302005531286,
+          0.03828828828828834
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.6451867524543708,
+          0.7174940005078009,
+          0.06427765752712788,
+          0.03457721826192495
+        ],
+        "confidence": 1,
+        "text": "SPFresh"
+      },
+      {
+        "boundingBox": [
+          0.4781329096594109,
+          0.7095387086921043,
+          0.06698999329645439,
+          0.030197944727029857
+        ],
+        "confidence": 0.5,
+        "text": "New data"
+      },
+      {
+        "boundingBox": [
+          0.03340988819039159,
+          0.6490773676894341,
+          0.09887789927313803,
+          0.04097569955361857
+        ],
+        "confidence": 1,
+        "text": "additions"
+      },
+      {
+        "boundingBox": [
+          0.6208333360684678,
+          0.6416666670833333,
+          0.11249999827973067,
+          0.04189189060314291
+        ],
+        "confidence": 0.5,
+        "text": "Merge + rebalance"
+      },
+      {
+        "boundingBox": [
+          0.8066860482752191,
+          0.6317567563548365,
+          0.1380813925483988,
+          0.029279279279279313
+        ],
+        "confidence": 1,
+        "text": "Balanced IVF partitions"
+      },
+      {
+        "boundingBox": [
+          0.4491279128494435,
+          0.6000000003331794,
+          0.17877906016593864,
+          0.03188405810175721
+        ],
+        "confidence": 0.5,
+        "text": "Low tail latency• High recall"
+      },
+      {
+        "boundingBox": [
+          0.8502324823562895,
+          0.5094990442776517,
+          0.08732573155485923,
+          0.03317582499873528
+        ],
+        "confidence": 1,
+        "text": "New segment"
+      },
+      {
+        "boundingBox": [
+          0.03331621651605038,
+          0.4399030279464442,
+          0.0685419858913142,
+          0.047730175224510396
+        ],
+        "confidence": 1,
+        "text": "Larger"
+      },
+      {
+        "boundingBox": [
+          0.21503551557871944,
+          0.4168770100899435,
+          0.05975454904584229,
+          0.03870974789868609
+        ],
+        "confidence": 0.5,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.3575581402451942,
+          0.41739130444472194,
+          0.05813953438364261,
+          0.03768115859847887
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.48546511698974626,
+          0.4231884059146285,
+          0.06395348567167025,
+          0.029514296634777115
+        ],
+        "confidence": 0.5,
+        "text": "New data"
+      },
+      {
+        "boundingBox": [
+          0.6249999989641245,
+          0.42567567596966993,
+          0.11773255873962885,
+          0.029396787420049475
+        ],
+        "confidence": 1,
+        "text": "Distributed build"
+      },
+      {
+        "boundingBox": [
+          0.8502907013614849,
+          0.4231884058766576,
+          0.08866278509679748,
+          0.03188405810175721
+        ],
+        "confidence": 0.5,
+        "text": "New segment"
+      },
+      {
+        "boundingBox": [
+          0.03337097578594227,
+          0.3965194503957379,
+          0.0989557242581648,
+          0.041743708086443454
+        ],
+        "confidence": 1,
+        "text": "additions"
+      },
+      {
+        "boundingBox": [
+          0.6395348847854446,
+          0.35022522549684254,
+          0.09302325501382824,
+          0.027027027027026973
+        ],
+        "confidence": 1,
+        "text": "Parallel workers"
+      },
+      {
+        "boundingBox": [
+          0.8502906962717898,
+          0.3362318842583001,
+          0.0872093037258006,
+          0.03201135858759152
+        ],
+        "confidence": 0.5,
+        "text": "New segment"
+      },
+      {
+        "boundingBox": [
+          0.03335382588795463,
+          0.16176637634876423,
+          0.08881560522378365,
+          0.05038029223948992
+        ],
+        "confidence": 1,
+        "text": "Growing"
+      },
+      {
+        "boundingBox": [
+          0.20494186192018105,
+          0.1449275370244456,
+          0.05668604441129904,
+          0.035252643061113864
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.31965893737185924,
+          0.1442680726973692,
+          0.05690305638877752,
+          0.039000088030153535
+        ],
+        "confidence": 0.5,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.4331395344575346,
+          0.1475225221711728,
+          0.027616279369814423,
+          0.029289071624343466
+        ],
+        "confidence": 1,
+        "text": "Tail"
+      },
+      {
+        "boundingBox": [
+          0.5872093017348368,
+          0.1449275373764125,
+          0.055232558739628845,
+          0.035252643061113864
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.7020348845197811,
+          0.14492753627923416,
+          0.05377906876728533,
+          0.03188405810175721
+        ],
+        "confidence": 1,
+        "text": "Existing"
+      },
+      {
+        "boundingBox": [
+          0.8154069766875195,
+          0.14752252299339164,
+          0.029069767191821305,
+          0.03265765765765771
+        ],
+        "confidence": 1,
+        "text": "Tail"
+      },
+      {
+        "boundingBox": [
+          0.9040697673766238,
+          0.14752252210354022,
+          0.027616279369814478,
+          0.029289071624343466
+        ],
+        "confidence": 1,
+        "text": "Tail"
+      },
+      {
+        "boundingBox": [
+          0.0334302317263517,
+          0.12162162254549769,
+          0.03633721060252915,
+          0.03828828828828834
+        ],
+        "confidence": 1,
+        "text": "tail"
+      }
+    ],
+    "ocr_text": "Keep indexing as the table grows\nTail\nSmall\nExisting\nExisting\nSPFresh\nNew data\nadditions\nMerge + rebalance\nBalanced IVF partitions\nLow tail latency• High recall\nNew segment\nLarger\nExisting\nExisting\nNew data\nDistributed build\nNew segment\nadditions\nParallel workers\nNew segment\nGrowing\nExisting\nExisting\nTail\nExisting\nExisting\nTail\nTail\ntail",
+    "description": "Keep indexing as the table grows中的配图，包含文字：Keep indexing as the table grows；Tail；Small；Existing；Existing；SPFresh；New data；additions；Merge + rebalance；Balanced IVF partitions；Low tail latency• High recall；New segment；Larger；Existing；Existing；New data；Distributed build；New segment；additions；Parallel workers；New segment；Growing；Existing；Existing；Tail；Existing；Existing；Tail；Tail；tail",
+    "entities": [
+      "Keep indexing as the table grows",
+      "Tail",
+      "Small",
+      "Existing",
+      "SPFresh",
+      "New data",
+      "additions",
+      "Merge + rebalance",
+      "Balanced IVF partitions",
+      "Low tail latency• High recall",
+      "New segment",
+      "Larger",
+      "Distributed build",
+      "Parallel workers",
+      "Growing",
+      "tail"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5b5053edc20f664f9c580f5351989e8951757f67a89259971b7ecf35ccf16a36"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-007",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6b75f3c43bf7749cf443_mmlb-10b-latency-cdf.svg",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-007.svg",
+    "section": "10 billion vectors. Over 1,000 queries per second.",
+    "alt": "10B × 768d latency distribution: p50 18.05 ms and p99 21.61 ms",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05000001540516014,
+          0.8861256547752957,
+          0.47083331429384606,
+          0.08135401890540006
+        ],
+        "confidence": 0.5,
+        "text": "10B scale. Millisecond responses."
+      },
+      {
+        "boundingBox": [
+          0.05662954894190779,
+          0.8203949374501496,
+          0.09749671609643946,
+          0.035346489302150896
+        ],
+        "confidence": 0.3,
+        "text": "10B x 768d"
+      },
+      {
+        "boundingBox": [
+          0.05668604644652119,
+          0.710227273279988,
+          0.04360465187439944,
+          0.028409089093433093
+        ],
+        "confidence": 0.5,
+        "text": "99%-"
+      },
+      {
+        "boundingBox": [
+          0.5450581402668732,
+          0.6306818190047354,
+          0.12063953583253262,
+          0.03693181682007474
+        ],
+        "confidence": 0.5,
+        "text": "p99 21.61 ms"
+      },
+      {
+        "boundingBox": [
+          0.018776058689846532,
+          0.32639335387538704,
+          0.018090577049051378,
+          0.26478406896141815
+        ],
+        "confidence": 1,
+        "text": "Queries completed"
+      },
+      {
+        "boundingBox": [
+          0.056686046519195614,
+          0.573298429031177,
+          0.04360465187439944,
+          0.02617801047120427
+        ],
+        "confidence": 0.5,
+        "text": "75% -"
+      },
+      {
+        "boundingBox": [
+          0.05668604659187004,
+          0.4289772734367112,
+          0.043604651874399436,
+          0.025568180683395614
+        ],
+        "confidence": 0.5,
+        "text": "50% -"
+      },
+      {
+        "boundingBox": [
+          0.4794038813249714,
+          0.36881351519341954,
+          0.11968060865759217,
+          0.04362297058105469
+        ],
+        "confidence": 0.5,
+        "text": "p50 18.05ms"
+      },
+      {
+        "boundingBox": [
+          0.05668604659187004,
+          0.2840314141234558,
+          0.043604651874399436,
+          0.028795811518324665
+        ],
+        "confidence": 0.3,
+        "text": "25%-"
+      },
+      {
+        "boundingBox": [
+          0.06540697656918684,
+          0.1387434551006015,
+          0.03488372098953328,
+          0.028870180639296916
+        ],
+        "confidence": 0.3,
+        "text": "0%1"
+      },
+      {
+        "boundingBox": [
+          0.09011627873198154,
+          0.10732984239342647,
+          0.021802325937199718,
+          0.03795811518324599
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.21656976767616037,
+          0.10732984233108467,
+          0.02034883703140014,
+          0.03187470286304417
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "boundingBox": [
+          0.43168604647945497,
+          0.11079545553409131,
+          0.020348837031400113,
+          0.03711030370902013
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.9505813948790762,
+          0.11079545559564441,
+          0.029069767916266254,
+          0.03711030370902013
+        ],
+        "confidence": 1,
+        "text": "160"
+      },
+      {
+        "boundingBox": [
+          0.3052325586134352,
+          0.11079545523713741,
+          0.018895348125600564,
+          0.025568180683395614
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.8037790699943513,
+          0.1107954552548931,
+          0.027616279010466704,
+          0.025568180683395614
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.4244186101522362,
+          0.03926701576378211,
+          0.21802324917227184,
+          0.03459662042987288
+        ],
+        "confidence": 0.5,
+        "text": "Response time （ms, log scale）"
+      }
+    ],
+    "ocr_text": "10B scale. Millisecond responses.\n10B x 768d\n99%-\np99 21.61 ms\nQueries completed\n75% -\n50% -\np50 18.05ms\n25%-\n0%1\n10\n15\n30\n160\n20\n100\nResponse time （ms, log scale）",
+    "description": "10 billion vectors. Over 1,000 queries per second.中的配图，包含文字：10B scale. Millisecond responses.；10B x 768d；99%-；p99 21.61 ms；Queries completed；75% -；50% -；p50 18.05ms；25%-；0%1；10；15；30；160；20；100；Response time （ms, log scale）",
+    "entities": [
+      "10B scale. Millisecond responses.",
+      "10B x 768d",
+      "99%-",
+      "p99 21.61 ms",
+      "Queries completed",
+      "75% -",
+      "50% -",
+      "p50 18.05ms",
+      "25%-",
+      "0%1",
+      "10",
+      "15",
+      "30",
+      "160",
+      "20",
+      "100",
+      "Response time （ms, log scale）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "392c59d32e84d069112ec11d727cb89cd3fad66c7c96286983bdea3b96972c6e"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-008",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aac6a0cefcf30880d0fb528_three-storage-tiers.png",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-008.png",
+    "section": "One table. Online and offline search.",
+    "alt": "LanceDB uses memory for hot index data and real-time online queries, local NVMe SSD for larger working sets supporting high-precision and offline queries, and object storage for the full table and indexes",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06250002247790516,
+          0.8496093753125,
+          0.6583333015441895,
+          0.08203125
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB: three storage tiers"
+      },
+      {
+        "boundingBox": [
+          0.18261812211130538,
+          0.7303523612990269,
+          0.12179473042488101,
+          0.04053026810288429
+        ],
+        "confidence": 0.5,
+        "text": "Memory"
+      },
+      {
+        "boundingBox": [
+          0.4549418618901038,
+          0.7342047922432345,
+          0.33139534791310626,
+          0.046068646013736725
+        ],
+        "confidence": 0.5,
+        "text": "Real-time online queries"
+      },
+      {
+        "boundingBox": [
+          0.17296511818771387,
+          0.6862745100974731,
+          0.1395348807175954,
+          0.030522365123033524
+        ],
+        "confidence": 0.5,
+        "text": "Hot index data"
+      },
+      {
+        "boundingBox": [
+          0.45348837551099663,
+          0.6816406249863518,
+          0.45058139165242517,
+          0.03949227184057236
+        ],
+        "confidence": 0.5,
+        "text": "Frequent access, including RQ 1-bit scoring"
+      },
+      {
+        "boundingBox": [
+          0.4476744224456231,
+          0.4814453120038412,
+          0.43313952287038177,
+          0.06757429614663124
+        ],
+        "confidence": 0.5,
+        "text": "High-precision & offline queries"
+      },
+      {
+        "boundingBox": [
+          0.12936046344565763,
+          0.4941406250416387,
+          0.22819767395655313,
+          0.0400390625
+        ],
+        "confidence": 0.5,
+        "text": "Local NVMe SSD"
+      },
+      {
+        "boundingBox": [
+          0.15552325176035406,
+          0.4422657949798714,
+          0.180232564608256,
+          0.037226391956210136
+        ],
+        "confidence": 1,
+        "text": "Larger working set"
+      },
+      {
+        "boundingBox": [
+          0.45348838149008347,
+          0.44226579556270373,
+          0.36627904574076336,
+          0.035273266956210136
+        ],
+        "confidence": 0.5,
+        "text": "More index data within your budget"
+      },
+      {
+        "boundingBox": [
+          0.15697674712194779,
+          0.2440087137710123,
+          0.17296510934829715,
+          0.04603034816682339
+        ],
+        "confidence": 1,
+        "text": "Object store"
+      },
+      {
+        "boundingBox": [
+          0.4549418634242775,
+          0.2460937507989942,
+          0.32267441352208454,
+          0.0439453125
+        ],
+        "confidence": 1,
+        "text": "Durable storage at scale"
+      },
+      {
+        "boundingBox": [
+          0.14389535540441045,
+          0.2021484381303742,
+          0.20784882704416913,
+          0.031249999068677425
+        ],
+        "confidence": 0.5,
+        "text": "Full data and indexes"
+      },
+      {
+        "boundingBox": [
+          0.4520348816965282,
+          0.19389978324154766,
+          0.4127906958262126,
+          0.03949865512549877
+        ],
+        "confidence": 0.5,
+        "text": "The complete table, ready when needed"
+      },
+      {
+        "boundingBox": [
+          0.06686045726180227,
+          0.05446623147177587,
+          0.5174418687820435,
+          0.04139433428645134
+        ],
+        "confidence": 0.5,
+        "text": "Keep hot data close. Keep room to grow."
+      }
+    ],
+    "ocr_text": "LanceDB: three storage tiers\nMemory\nReal-time online queries\nHot index data\nFrequent access, including RQ 1-bit scoring\nHigh-precision & offline queries\nLocal NVMe SSD\nLarger working set\nMore index data within your budget\nObject store\nDurable storage at scale\nFull data and indexes\nThe complete table, ready when needed\nKeep hot data close. Keep room to grow.",
+    "description": "One table. Online and offline search.中的配图，包含文字：LanceDB: three storage tiers；Memory；Real-time online queries；Hot index data；Frequent access, including RQ 1-bit scoring；High-precision & offline queries；Local NVMe SSD；Larger working set；More index data within your budget；Object store；Durable storage at scale；Full data and indexes；The complete table, ready when needed；Keep hot data close. Keep room to grow.",
+    "entities": [
+      "LanceDB: three storage tiers",
+      "Memory",
+      "Real-time online queries",
+      "Hot index data",
+      "Frequent access, including RQ 1-bit scoring",
+      "High-precision & offline queries",
+      "Local NVMe SSD",
+      "Larger working set",
+      "More index data within your budget",
+      "Object store",
+      "Durable storage at scale",
+      "Full data and indexes",
+      "The complete table, ready when needed",
+      "Keep hot data close. Keep room to grow."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "833e6b8717f86a16955d83e042e6e2d37e986722e45146a35442d1f60cce193f"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-009",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f22032db0ea99667d6a882_yang-cen.webp",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-009.webp",
+    "section": "Build for your next workload.",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Build for your next workload.中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8bce9a6ab997d948415c0dcee4f859acef3a4287391e1f18dc8b5f1a1c7d71d2"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-010",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aa8d219646687ab06da26a7_Pretraining%20Blog%20Hero.png",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-010.png",
+    "section": "Build for your next workload.",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08280655657485228,
+          0.8939402461229308,
+          0.10473572580437912,
+          0.03686177604011165
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Build for your next workload.中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4fe0edd11541d996fcf417b439cd7a00047969094be6f90fb3d03f74537a96a0"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-011",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a97ce425af87a267ae9457f_Data%20Mining.webp",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-011.webp",
+    "section": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07700556581809759,
+          0.9043907873052884,
+          0.11052375318901389,
+          0.041733889569649074
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical LLM Pretraining Pipeline with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "60c5448333c006a5b8d6bce301db8cffcfe0e81c4741b7f04b5f7d0efb06bd8e"
+  },
+  {
+    "figure_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0-fig-012",
+    "doc_id": "2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aa0a327dc321837a8916888_august%20blog%20hero.webp",
+    "image_path": "images/2515-From-10-Million-to-10-Billion-Vector-Search-Buil-d4cafcb0/figure-012.webp",
+    "section": "Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1860465067185513,
+          0.5037037067047023,
+          0.6279069900512696,
+          0.17329887813991962
+        ],
+        "confidence": 0.5,
+        "text": "August 2026"
+      },
+      {
+        "boundingBox": [
+          0.32122093568761073,
+          0.28940568344860096,
+          0.3924418449401856,
+          0.07751938148781101
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "August 2026\n•LanceDB Newsletter",
+    "description": "Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI中的配图，包含文字：August 2026；•LanceDB Newsletter",
+    "entities": [
+      "August 2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "46dc0d829093c50c8ed2c76017513964bd6ffb8c6c6ed89ff8170b7967285545"
+  }
+]

@@ -1,0 +1,1771 @@
+[
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-001",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca2f2a85ec4e0c5107b323_designing-a-table-format-for-ml-workloads.avif",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-001.avif",
+    "section": "Designing a Table Format for ML Workloads",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0968335860396146,
+          0.8829542609083293,
+          0.1438328266143799,
+          0.05075814459058969
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Designing a Table Format for ML Workloads中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d912f95c078b64605c8090993abb92058a76c96a00859a25c1a30998f6cacc46"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-002",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51e5277b47a005e12e305d_chunky_lance-1.webp",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-002.webp",
+    "section": "The Curse of Wide Data",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04796511246494035,
+          0.9400352745094845,
+          0.6031976699829101,
+          0.04251404271682946
+        ],
+        "confidence": 0.5,
+        "text": "Boss: Don't worry, there's only one"
+      },
+      {
+        "boundingBox": [
+          0.48750000559393997,
+          0.9393019719706055,
+          0.4208333206176758,
+          0.04049600853001034
+        ],
+        "confidence": 0.5,
+        "text": "only one tensor column"
+      },
+      {
+        "boundingBox": [
+          0.04640356576453531,
+          0.8905862853092261,
+          0.32726737976074216,
+          0.03381281666039326
+        ],
+        "confidence": 0.5,
+        "text": "The tensor column："
+      }
+    ],
+    "ocr_text": "Boss: Don't worry, there's only one\nonly one tensor column\nThe tensor column：",
+    "description": "The Curse of Wide Data中的配图，包含文字：Boss: Don't worry, there's only one；only one tensor column；The tensor column：",
+    "entities": [
+      "Boss: Don't worry, there's only one",
+      "only one tensor column",
+      "The tensor column："
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "39aa8fa9e8d139d980ce06280246a357294ba0174e8e80227e6c144b918b9699"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-003",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a51_TPCH-with-wide.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-003.png",
+    "section": "The Curse of Wide Data",
+    "alt": "TPC-H with Wide Data",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.014135233530678255,
+          0.7159400395834474,
+          0.06608980640686374,
+          0.24361619691590997
+        ],
+        "confidence": 1,
+        "text": "Lorderkey"
+      },
+      {
+        "boundingBox": [
+          0.2654171381357996,
+          0.7061755937015441,
+          0.05963817321438886,
+          0.24119873046874996
+        ],
+        "confidence": 0.5,
+        "text": "L_comment"
+      },
+      {
+        "boundingBox": [
+          0.6265402824667496,
+          0.3715290350763383,
+          0.1628159189841223,
+          0.07856355357814471
+        ],
+        "confidence": 0.5,
+        "text": "Vector Embedding"
+      }
+    ],
+    "ocr_text": "Lorderkey\nL_comment\nVector Embedding",
+    "description": "The Curse of Wide Data中的配图，包含文字：Lorderkey；L_comment；Vector Embedding",
+    "entities": [
+      "Lorderkey",
+      "L_comment",
+      "Vector Embedding"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c25df3bf9cb14d2cc603139d4e3b6bd94e8d1aa2e44520efeda100b8b05f45a0"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-004",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a60_growing-in-2d.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-004.png",
+    "section": "Tables Grow Horizontally *and* Vertically",
+    "alt": "Growing in 2D",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.17543859690058478,
+          0.7640449438951311,
+          0.04093567251461991,
+          0.03745318352059923
+        ],
+        "confidence": 1,
+        "text": "Big"
+      },
+      {
+        "boundingBox": [
+          0.1637426901315789,
+          0.7303370782303371,
+          0.06432748538011698,
+          0.0337078651685393
+        ],
+        "confidence": 1,
+        "text": "Data"
+      },
+      {
+        "boundingBox": [
+          0.42390646111524777,
+          0.7337418357689394,
+          0.08785959433393864,
+          0.030643670299972947
+        ],
+        "confidence": 1,
+        "text": "Current"
+      },
+      {
+        "boundingBox": [
+          0.8304093583040935,
+          0.7153558053932585,
+          0.1578947368421053,
+          0.029962546816479363
+        ],
+        "confidence": 0.5,
+        "text": "New Features"
+      },
+      {
+        "boundingBox": [
+          0.17251462066276801,
+          0.6966292130461923,
+          0.05263157894736842,
+          0.02621722846441943
+        ],
+        "confidence": 1,
+        "text": "Core"
+      },
+      {
+        "boundingBox": [
+          0.41508398131754154,
+          0.695917367153672,
+          0.10550455461468611,
+          0.03138623791241013
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "boundingBox": [
+          0.1023391826232247,
+          0.6516853934724451,
+          0.18713450292397663,
+          0.03745318352059934
+        ],
+        "confidence": 0.5,
+        "text": "（text, img, etc.）"
+      },
+      {
+        "boundingBox": [
+          0.5058479530492899,
+          0.06741573079186736,
+          0.029239766081871288,
+          0.06367041198501866
+        ],
+        "confidence": 0.3,
+        "text": "个"
+      },
+      {
+        "boundingBox": [
+          0.26608187330409355,
+          0.05992509374531829,
+          0.19590643274853803,
+          0.02621722846441954
+        ],
+        "confidence": 1,
+        "text": "New Observances"
+      }
+    ],
+    "ocr_text": "Big\nData\nCurrent\nNew Features\nCore\nFeatures\n（text, img, etc.）\n个\nNew Observances",
+    "description": "Tables Grow Horizontally *and* Vertically中的配图，包含文字：Big；Data；Current；New Features；Core；Features；（text, img, etc.）；个；New Observances",
+    "entities": [
+      "Big",
+      "Data",
+      "Current",
+      "New Features",
+      "Core",
+      "Features",
+      "（text, img, etc.）",
+      "个",
+      "New Observances"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "768fc8696eea820fb7e5d7f6fff0192d95de118f95d91654a443d78560fc3915"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-005",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a4e_so-many-features.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-005.png",
+    "section": "Tables Grow Horizontally *and* Vertically",
+    "alt": "Feature Engineering",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.14111922116788322,
+          0.9101796417165668,
+          0.20924574209245744,
+          0.05988023952095811
+        ],
+        "confidence": 0.5,
+        "text": "Do we really need the"
+      },
+      {
+        "boundingBox": [
+          0.009732357816301726,
+          0.8502994019461078,
+          0.4695863746958638,
+          0.05988023952095811
+        ],
+        "confidence": 0.5,
+        "text": "image_has-professor_with_shorts_and_sweater"
+      },
+      {
+        "boundingBox": [
+          0.588807790906326,
+          0.8383233534431138,
+          0.4014598540145985,
+          0.0479041916167664
+        ],
+        "confidence": 0.5,
+        "text": "That's the core of our $64 million season"
+      },
+      {
+        "boundingBox": [
+          0.2019464707623682,
+          0.8023952103792416,
+          0.08515815085158152,
+          0.047904190189110185
+        ],
+        "confidence": 0.5,
+        "text": "feature？"
+      },
+      {
+        "boundingBox": [
+          0.6958637473641525,
+          0.7664670668662674,
+          0.1897810218978102,
+          0.05988023952095811
+        ],
+        "confidence": 0.5,
+        "text": "detection algorithm."
+      },
+      {
+        "boundingBox": [
+          0.4233576642538524,
+          0.47305389081836324,
+          0.02676399026763987,
+          0.16766467065868262
+        ],
+        "confidence": 1,
+        "text": "）"
+      }
+    ],
+    "ocr_text": "Do we really need the\nimage_has-professor_with_shorts_and_sweater\nThat's the core of our $64 million season\nfeature？\ndetection algorithm.\n）",
+    "description": "Tables Grow Horizontally *and* Vertically中的配图，包含文字：Do we really need the；image_has-professor_with_shorts_and_sweater；That's the core of our $64 million season；feature？；detection algorithm.；）",
+    "entities": [
+      "Do we really need the",
+      "image_has-professor_with_shorts_and_sweater",
+      "That's the core of our $64 million season",
+      "feature？",
+      "detection algorithm.",
+      "）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a3ec2bdac8c1e1adc9452698966cafba720cdb966635181d1feeb08a2d799fc5"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-006",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a54_schema-evolution-not-free.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-006.png",
+    "section": "Data Evolution > Schema Evolution",
+    "alt": "Schema Evolution Fine Print",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1406249977539062,
+          0.4649122818530702,
+          0.684375,
+          0.18421052631578938
+        ],
+        "confidence": 0.5,
+        "text": "FREE* Schema Evolution"
+      },
+      {
+        "boundingBox": [
+          0.6156249958984376,
+          0.06140351008771938,
+          0.34062499999999996,
+          0.10526315789473684
+        ],
+        "confidence": 0.5,
+        "text": "*existing rows not included"
+      }
+    ],
+    "ocr_text": "FREE* Schema Evolution\n*existing rows not included",
+    "description": "Data Evolution > Schema Evolution中的配图，包含文字：FREE* Schema Evolution；*existing rows not included",
+    "entities": [
+      "FREE* Schema Evolution",
+      "*existing rows not included"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5844548630b4fd151a21199acb07969e4447d5ad7905ebc809e5ac9f2e0058b8"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-007",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a63_vertical-table-schema-evolution.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-007.png",
+    "section": "Data Evolution > Schema Evolution",
+    "alt": "Vertical Table Schema Evolution",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.607940450471464,
+          0.7294685992270531,
+          0.3821339950372209,
+          0.048309178743961456
+        ],
+        "confidence": 0.5,
+        "text": "If we look closely at this ancient sales"
+      },
+      {
+        "boundingBox": [
+          0.6129032295037219,
+          0.6811594205314009,
+          0.36972704714640203,
+          0.0434782608695653
+        ],
+        "confidence": 0.5,
+        "text": "table you can see the geologic events"
+      },
+      {
+        "boundingBox": [
+          0.6203473949958643,
+          0.6376811601449275,
+          0.3548387096774194,
+          0.0434782608695653
+        ],
+        "confidence": 0.5,
+        "text": "that caused a new feature to start"
+      },
+      {
+        "boundingBox": [
+          0.7116691951273143,
+          0.5849102799276544,
+          0.17176194108153697,
+          0.04994404143181397
+        ],
+        "confidence": 1,
+        "text": "getting collected."
+      },
+      {
+        "boundingBox": [
+          0.7593052108188585,
+          0.47826087024154584,
+          0.01985111662531014,
+          0.06763285024154597
+        ],
+        "confidence": 0.3,
+        "text": "/"
+      },
+      {
+        "boundingBox": [
+          0.8238213405707195,
+          0.18357487838164255,
+          0.12406947890818854,
+          0.13526570048309172
+        ],
+        "confidence": 0.3,
+        "text": "吴"
+      },
+      {
+        "boundingBox": [
+          0.6426799050558311,
+          0.028985507487922613,
+          0.3449131513647643,
+          0.048309178743961345
+        ],
+        "confidence": 0.5,
+        "text": "Field trip for young data archivists"
+      }
+    ],
+    "ocr_text": "If we look closely at this ancient sales\ntable you can see the geologic events\nthat caused a new feature to start\ngetting collected.\n/\n吴\nField trip for young data archivists",
+    "description": "Data Evolution > Schema Evolution中的配图，包含文字：If we look closely at this ancient sales；table you can see the geologic events；that caused a new feature to start；getting collected.；/；吴；Field trip for young data archivists",
+    "entities": [
+      "If we look closely at this ancient sales",
+      "table you can see the geologic events",
+      "that caused a new feature to start",
+      "getting collected.",
+      "/",
+      "吴",
+      "Field trip for young data archivists"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "04398183511dd6c09f360526c383e3e78364f5978b2b0f85402774e4eb779032"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-008",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d238c08b0898bc2e2007_one-banana-meme-compressed.webp",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-008.webp",
+    "section": "Data Evolution > Schema Evolution",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Data Evolution > Schema Evolution中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b9b5a15e0347ea9fc4a97336c44d490cf4185e40b41456f3ce8b5fa7b41c4977"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-009",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a72_one-billion-rows.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-009.png",
+    "section": "Data Evolution > Schema Evolution",
+    "alt": "One Billion Rows Comparison",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.013201323416966941,
+          0.0819112631572877,
+          0.10396038974472399,
+          0.02730375345249636
+        ],
+        "confidence": 0.5,
+        "text": "1 B rows TPC-H"
+      },
+      {
+        "boundingBox": [
+          0.21452145468234318,
+          0.0853242322098976,
+          0.20297029702970298,
+          0.030716723549488067
+        ],
+        "confidence": 0.5,
+        "text": "1B rows FineWeb Prompt Data"
+      },
+      {
+        "boundingBox": [
+          0.6237623790841583,
+          0.0819112629692832,
+          0.2277227722772277,
+          0.03412969283276457
+        ],
+        "confidence": 0.5,
+        "text": "1B rows Small Images w/ Captions"
+      },
+      {
+        "boundingBox": [
+          0.037916472375631435,
+          0.04746943838350992,
+          0.052879925214811524,
+          0.02792801710525883
+        ],
+        "confidence": 0.5,
+        "text": "~45 GB"
+      },
+      {
+        "boundingBox": [
+          0.23267326903877883,
+          0.04436860021331046,
+          0.16666666666666669,
+          0.03754266211604096
+        ],
+        "confidence": 0.5,
+        "text": "（without any embeddings）"
+      },
+      {
+        "boundingBox": [
+          0.6914191418316831,
+          0.04436860021331046,
+          0.08910891089108919,
+          0.03754266211604096
+        ],
+        "confidence": 0.5,
+        "text": "~250,100 GB"
+      },
+      {
+        "boundingBox": [
+          0.28046401441594626,
+          0.019746976847658915,
+          0.07108517133756831,
+          0.02876543103631446
+        ],
+        "confidence": 0.3,
+        "text": "~2,100 GB"
+      }
+    ],
+    "ocr_text": "1 B rows TPC-H\n1B rows FineWeb Prompt Data\n1B rows Small Images w/ Captions\n~45 GB\n（without any embeddings）\n~250,100 GB\n~2,100 GB",
+    "description": "Data Evolution > Schema Evolution中的配图，包含文字：1 B rows TPC-H；1B rows FineWeb Prompt Data；1B rows Small Images w/ Captions；~45 GB；（without any embeddings）；~250,100 GB；~2,100 GB",
+    "entities": [
+      "1 B rows TPC-H",
+      "1B rows FineWeb Prompt Data",
+      "1B rows Small Images w/ Captions",
+      "~45 GB",
+      "（without any embeddings）",
+      "~250,100 GB",
+      "~2,100 GB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "162551e8ad30a0f51e32607815dff738e01975b82aa60c5aa2b2e822bd3a1915"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-010",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c3990227_69ca3055851fcef7b873f7ea_moar-features.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-010.png",
+    "section": "Data Evolution > Schema Evolution",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.022321444642856632,
+          0.8972602742009133,
+          0.9642857142857143,
+          0.06849315068493145
+        ],
+        "confidence": 0.5,
+        "text": "Don't forget the has_weird_pink_tree feature,we use"
+      },
+      {
+        "boundingBox": [
+          0.22767857823660695,
+          0.8287671233732876,
+          0.5446428571428571,
+          0.06164383561643838
+        ],
+        "confidence": 0.5,
+        "text": "that one to detect springtime."
+      },
+      {
+        "boundingBox": [
+          0.10714285543154764,
+          0.3630136974657535,
+          0.5133928571428572,
+          0.4726027397260274
+        ],
+        "confidence": 0.3,
+        "text": "」区"
+      }
+    ],
+    "ocr_text": "Don't forget the has_weird_pink_tree feature,we use\nthat one to detect springtime.\n」区",
+    "description": "Data Evolution > Schema Evolution中的配图，包含文字：Don't forget the has_weird_pink_tree feature,we use；that one to detect springtime.；」区",
+    "entities": [
+      "Don't forget the has_weird_pink_tree feature,we use",
+      "that one to detect springtime.",
+      "」区"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3a2451eb16eb7d0f8f142a55897d93901eee9b7f7f8dbb0609f2f2cdef2c7a2d"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-011",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a5d_2d-storage.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-011.png",
+    "section": "Lance Table Feature One: Two-dimensional Storage",
+    "alt": "2D Storage Layout",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.15595431865206683,
+          0.8394715773405728,
+          0.13844596916902152,
+          0.04400056574767808
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.507092199964539,
+          0.8441558442857142,
+          0.13829787234042545,
+          0.038961038961039085
+        ],
+        "confidence": 0.3,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.8368360995731812,
+          0.8136341646816213,
+          0.13129234313964844,
+          0.0393983357912534
+        ],
+        "confidence": 0.5,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.1347010266856271,
+          0.7919189046670917,
+          0.18095255912618435,
+          0.048196823565990976
+        ],
+        "confidence": 0.3,
+        "text": "（fields 1,2,3）"
+      },
+      {
+        "boundingBox": [
+          0.49645390270390066,
+          0.8008658010281385,
+          0.15957446808510645,
+          0.038961038961038974
+        ],
+        "confidence": 0.5,
+        "text": "（fields 4,5）"
+      },
+      {
+        "boundingBox": [
+          0.1523467672687865,
+          0.5058391108071925,
+          0.13856887817382812,
+          0.044598835371273404
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.5035460983282675,
+          0.5108225106060607,
+          0.13475177304964536,
+          0.03896103896103886
+        ],
+        "confidence": 0.3,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.1276595730496454,
+          0.4588744593506494,
+          0.18439716312056734,
+          0.04761904761904756
+        ],
+        "confidence": 0.3,
+        "text": "（fields 1,2,3）"
+      },
+      {
+        "boundingBox": [
+          0.49284282386990563,
+          0.4628436137866221,
+          0.15970442481074776,
+          0.044009739186340546
+        ],
+        "confidence": 0.5,
+        "text": "（fields 4,5）"
+      },
+      {
+        "boundingBox": [
+          0.8510190070045838,
+          0.4716414265079817,
+          0.12774921985382737,
+          0.039401126630378536
+        ],
+        "confidence": 1,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.333333334295846,
+          0.1774891776437847,
+          0.13475177304964542,
+          0.038961038961038974
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.8546099312647752,
+          0.15151515173160168,
+          0.13120567375886527,
+          0.038961038961038974
+        ],
+        "confidence": 0.5,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.28368794521276597,
+          0.1298701300865801,
+          0.23404255319148926,
+          0.04329004329004327
+        ],
+        "confidence": 0.3,
+        "text": "（fields 1,2,3,4,5）"
+      }
+    ],
+    "ocr_text": "Data File\nData File\nFragment\n（fields 1,2,3）\n（fields 4,5）\nData File\nData File\n（fields 1,2,3）\n（fields 4,5）\nFragment\nData File\nFragment\n（fields 1,2,3,4,5）",
+    "description": "Lance Table Feature One: Two-dimensional Storage中的配图，包含文字：Data File；Data File；Fragment；（fields 1,2,3）；（fields 4,5）；Data File；Data File；（fields 1,2,3）；（fields 4,5）；Fragment；Data File；Fragment；（fields 1,2,3,4,5）",
+    "entities": [
+      "Data File",
+      "Fragment",
+      "（fields 1,2,3）",
+      "（fields 4,5）",
+      "（fields 1,2,3,4,5）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d208b7aea80c56e0671d9c6d608f2ef8dfa83da00bbf055235f728263e88dfa"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-012",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a6f_2d-schema-evolution.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-012.png",
+    "section": "Lance Table Feature One: Two-dimensional Storage",
+    "alt": "2D Schema Evolution",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.13360427499503763,
+          0.8444015830411776,
+          0.11073262831744024,
+          0.037877962025541057
+        ],
+        "confidence": 0.3,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.4029099080917868,
+          0.8500931713133405,
+          0.11035665624281937,
+          0.033002378625104356
+        ],
+        "confidence": 1,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.6557890174362406,
+          0.8409978097798833,
+          0.1163631439208983,
+          0.03817791638819101
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.11290646664385955,
+          0.7913263882410039,
+          0.14918706557329964,
+          0.04858366579399198
+        ],
+        "confidence": 0.3,
+        "text": "（fields 1,2,3）"
+      },
+      {
+        "boundingBox": [
+          0.39246584467164763,
+          0.7970565121447535,
+          0.12977419460521028,
+          0.045800206976702285
+        ],
+        "confidence": 0.3,
+        "text": "（fields 45）"
+      },
+      {
+        "boundingBox": [
+          0.6632352932720588,
+          0.7960954445589299,
+          0.10147058823529409,
+          0.04121475054229928
+        ],
+        "confidence": 0.5,
+        "text": "（field 6）"
+      },
+      {
+        "boundingBox": [
+          0.873320601929265,
+          0.801403237748816,
+          0.10629997253417978,
+          0.043614348206757914
+        ],
+        "confidence": 1,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.12933148666525296,
+          0.5134969801555465,
+          0.11045467152315025,
+          0.03374356664959621
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.3969348054969802,
+          0.5153281393060216,
+          0.11054215150720931,
+          0.034419642094676295
+        ],
+        "confidence": 0.3,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.6602609757177912,
+          0.5138660559790506,
+          0.11183099185719214,
+          0.035174611850829485
+        ],
+        "confidence": 0.5,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.10867054795767032,
+          0.45873596073688916,
+          0.15177654939539292,
+          0.047820920799404254
+        ],
+        "confidence": 0.3,
+        "text": "（fields 1,2,3）"
+      },
+      {
+        "boundingBox": [
+          0.38676470646008404,
+          0.46203904522776573,
+          0.1308823529411765,
+          0.045553145336225564
+        ],
+        "confidence": 0.3,
+        "text": "（fields 45）"
+      },
+      {
+        "boundingBox": [
+          0.6645903875193868,
+          0.46570406157698563,
+          0.10317216760971959,
+          0.04039231091414508
+        ],
+        "confidence": 0.5,
+        "text": "（field 6）"
+      },
+      {
+        "boundingBox": [
+          0.8791979390081063,
+          0.46731715736987023,
+          0.1063100029440488,
+          0.04367371184706936
+        ],
+        "confidence": 1,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.2623738356244505,
+          0.18319420828266653,
+          0.11275233100442328,
+          0.03851955935132745
+        ],
+        "confidence": 1,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.6647058829575163,
+          0.1865509761870331,
+          0.10882352941176476,
+          0.03470715835141003
+        ],
+        "confidence": 0.3,
+        "text": "Data File"
+      },
+      {
+        "boundingBox": [
+          0.88078601493052,
+          0.14915733963308275,
+          0.106075028812184,
+          0.04441850666368863
+        ],
+        "confidence": 0.5,
+        "text": "Fragment"
+      },
+      {
+        "boundingBox": [
+          0.22488596434544192,
+          0.12692538585106783,
+          0.18993395637063418,
+          0.047667664716145475
+        ],
+        "confidence": 0.3,
+        "text": "（Fields 1,2,3,4,5）"
+      },
+      {
+        "boundingBox": [
+          0.6675421090819055,
+          0.1382675319065354,
+          0.10020989810719205,
+          0.0423369542119818
+        ],
+        "confidence": 0.5,
+        "text": "（field 6）"
+      }
+    ],
+    "ocr_text": "Data File\nData File\nData File\n（fields 1,2,3）\n（fields 45）\n（field 6）\nFragment\nData File\nData File\nData File\n（fields 1,2,3）\n（fields 45）\n（field 6）\nFragment\nData File\nData File\nFragment\n（Fields 1,2,3,4,5）\n（field 6）",
+    "description": "Lance Table Feature One: Two-dimensional Storage中的配图，包含文字：Data File；Data File；Data File；（fields 1,2,3）；（fields 45）；（field 6）；Fragment；Data File；Data File；Data File；（fields 1,2,3）；（fields 45）；（field 6）；Fragment；Data File；Data File；Fragment；（Fields 1,2,3,4,5）；（field 6）",
+    "entities": [
+      "Data File",
+      "（fields 1,2,3）",
+      "（fields 45）",
+      "（field 6）",
+      "Fragment",
+      "（Fields 1,2,3,4,5）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ac1ee79dcceb63eb7601860803e819a159bb86179d3f4066aee07e99ea7b3f71"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-013",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a66_S3-Read-Amplification.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-013.png",
+    "section": "Lance Table Feature Two: Indices & Random Access",
+    "alt": "S3 Read Amplification",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.846758349410609,
+          0.5499999995,
+          0.023575638506876273,
+          0.08000000000000007
+        ],
+        "confidence": 0.3,
+        "text": "S3"
+      },
+      {
+        "boundingBox": [
+          0.08837168890620402,
+          0.45910367827940424,
+          0.10223501089279684,
+          0.11179263591766353
+        ],
+        "confidence": 0.5,
+        "text": "Query Engine"
+      },
+      {
+        "boundingBox": [
+          0.7956777974459726,
+          0.4499999996666666,
+          0.12966601178781922,
+          0.08000000000000007
+        ],
+        "confidence": 1,
+        "text": "Data Warehouse"
+      },
+      {
+        "boundingBox": [
+          0.4969689097327389,
+          0.2788068254623588,
+          0.04339027404785156,
+          0.08238635063171384
+        ],
+        "confidence": 1,
+        "text": "Data"
+      }
+    ],
+    "ocr_text": "S3\nQuery Engine\nData Warehouse\nData",
+    "description": "Lance Table Feature Two: Indices & Random Access中的配图，包含文字：S3；Query Engine；Data Warehouse；Data",
+    "entities": [
+      "S3",
+      "Query Engine",
+      "Data Warehouse",
+      "Data"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "126de54a14071b2f76c82acc30450fb7cb5365be67971b55508a3b6cb30a936f"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-014",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a69_S3-No-Amplification-Cause-Cache-4-.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-014.png",
+    "section": "Lance Table Feature Two: Indices & Random Access",
+    "alt": "S3 No Amplification with Cache",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.44793729099990975,
+          0.514991456785125,
+          0.06889052039024812,
+          0.10188521395672812
+        ],
+        "confidence": 1,
+        "text": "Filesystem"
+      },
+      {
+        "boundingBox": [
+          0.8775167784395974,
+          0.5164835168681319,
+          0.016778523489932917,
+          0.07692307692307687
+        ],
+        "confidence": 0.3,
+        "text": "S3"
+      },
+      {
+        "boundingBox": [
+          0.07718120662751685,
+          0.4395604393772894,
+          0.0855704697986577,
+          0.098901098901099
+        ],
+        "confidence": 0.5,
+        "text": "Query Engine"
+      },
+      {
+        "boundingBox": [
+          0.4630373901224413,
+          0.4166346082521003,
+          0.038690320597399075,
+          0.08980770949478989
+        ],
+        "confidence": 0.5,
+        "text": "Cacne"
+      },
+      {
+        "boundingBox": [
+          0.8322147656319911,
+          0.406593408058608,
+          0.10906040268456374,
+          0.08791208529210359
+        ],
+        "confidence": 1,
+        "text": "Data Warehouse"
+      }
+    ],
+    "ocr_text": "Filesystem\nS3\nQuery Engine\nCacne\nData Warehouse",
+    "description": "Lance Table Feature Two: Indices & Random Access中的配图，包含文字：Filesystem；S3；Query Engine；Cacne；Data Warehouse",
+    "entities": [
+      "Filesystem",
+      "S3",
+      "Query Engine",
+      "Cacne",
+      "Data Warehouse"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6cff424e13c43c4e3df7fa3ad96e9c1fe667141eecfa8eb052ae1f827adba374"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-015",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a5a_FTS-Thresholds-1-.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-015.png",
+    "section": "Lance Table Feature Two: Indices & Random Access",
+    "alt": "FTS Thresholds",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.29268292672473867,
+          0.8677685942975206,
+          0.08013937282229966,
+          0.07438016528925628
+        ],
+        "confidence": 0.5,
+        "text": "Cats？"
+      },
+      {
+        "boundingBox": [
+          0.672473868379791,
+          0.8595041325413223,
+          0.06271777003484325,
+          0.09090909090909094
+        ],
+        "confidence": 0.5,
+        "text": "Yep-"
+      },
+      {
+        "boundingBox": [
+          0.2752613220673636,
+          0.7190082640495867,
+          0.11846689895470386,
+          0.05785123966942152
+        ],
+        "confidence": 0.5,
+        "text": "Kittens？"
+      },
+      {
+        "boundingBox": [
+          0.6759581885598142,
+          0.7024793374655648,
+          0.059233449477351874,
+          0.08264462809917361
+        ],
+        "confidence": 0.5,
+        "text": "Yep-"
+      },
+      {
+        "boundingBox": [
+          0.27874564549941927,
+          0.5454545458677686,
+          0.10801393728222997,
+          0.06611570247933884
+        ],
+        "confidence": 1,
+        "text": "Felines？"
+      },
+      {
+        "boundingBox": [
+          0.6759581891405342,
+          0.5371900829201102,
+          0.059233449477351985,
+          0.08264462809917361
+        ],
+        "confidence": 0.3,
+        "text": "Yep."
+      },
+      {
+        "boundingBox": [
+          0.1533101026132405,
+          0.3636363622589531,
+          0.3519163763066202,
+          0.08264462809917361
+        ],
+        "confidence": 0.5,
+        "text": "Furry spawn of the void？"
+      },
+      {
+        "boundingBox": [
+          0.6445993011614403,
+          0.3801652889807162,
+          0.11846689895470386,
+          0.06611570247933884
+        ],
+        "confidence": 0.5,
+        "text": "I guess."
+      },
+      {
+        "boundingBox": [
+          0.5923344985481996,
+          0.2231404957300276,
+          0.22648083623693382,
+          0.07438016528925617
+        ],
+        "confidence": 0.5,
+        "text": "We're done here."
+      },
+      {
+        "boundingBox": [
+          0.21254355220673643,
+          0.21487603392632437,
+          0.24041811846689892,
+          0.06611570050893734
+        ],
+        "confidence": 0.5,
+        "text": "Cats the musical？"
+      }
+    ],
+    "ocr_text": "Cats？\nYep-\nKittens？\nYep-\nFelines？\nYep.\nFurry spawn of the void？\nI guess.\nWe're done here.\nCats the musical？",
+    "description": "Lance Table Feature Two: Indices & Random Access中的配图，包含文字：Cats？；Yep-；Kittens？；Yep-；Felines？；Yep.；Furry spawn of the void？；I guess.；We're done here.；Cats the musical？",
+    "entities": [
+      "Cats？",
+      "Yep-",
+      "Kittens？",
+      "Felines？",
+      "Yep.",
+      "Furry spawn of the void？",
+      "I guess.",
+      "We're done here.",
+      "Cats the musical？"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "402b0794fa5c52788400dc589ef0f8aed171a8e4ab8d1a5e16bb2c4c73faabfc"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-016",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029779749903811635a57_Unbalanced-Query-Engine-1-.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-016.png",
+    "section": "The Well Rounded Implementation",
+    "alt": "Unbalanced Query Engine",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2777931422184981,
+          0.9116203470666724,
+          0.18243334144899698,
+          0.0670437076061069
+        ],
+        "confidence": 0.5,
+        "text": "Alter Column"
+      },
+      {
+        "boundingBox": [
+          0.018383947865552124,
+          0.5551774071019823,
+          0.16270263727768,
+          0.12536820423961192
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.7991546909812751,
+          0.5775503404451683,
+          0.1935193128201551,
+          0.07514031864542814
+        ],
+        "confidence": 0.5,
+        "text": "Bulk Import"
+      },
+      {
+        "boundingBox": [
+          0.6849816853785103,
+          0.042918455507868436,
+          0.09890109890109888,
+          0.06866952789699565
+        ],
+        "confidence": 0.3,
+        "text": "Merge"
+      }
+    ],
+    "ocr_text": "Alter Column\nQuery\nBulk Import\nMerge",
+    "description": "The Well Rounded Implementation中的配图，包含文字：Alter Column；Query；Bulk Import；Merge",
+    "entities": [
+      "Alter Column",
+      "Query",
+      "Bulk Import",
+      "Merge"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4dc770028ed023f7ec11275e533c211e3282926e587ef71f7d3d87ddac1bbafc"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-017",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 17,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990260_69ca311ca4c6780767fa3049_Pets-Biliography.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-017.png",
+    "section": "Special Thanks",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22689075561974792,
+          0.09444444416666675,
+          0.054621848739495826,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "Uni"
+      },
+      {
+        "boundingBox": [
+          0.5756302504901961,
+          0.0888888894726958,
+          0.33193277310924374,
+          0.044444443119896704
+        ],
+        "confidence": 0.5,
+        "text": "Lance （we swear it's"
+      },
+      {
+        "boundingBox": [
+          0.6302521012605041,
+          0.038888889629629664,
+          0.2268907563025211,
+          0.044444443119896815
+        ],
+        "confidence": 0.5,
+        "text": "a coincidence）"
+      }
+    ],
+    "ocr_text": "Uni\nLance （we swear it's\na coincidence）",
+    "description": "Special Thanks中的配图，包含文字：Uni；Lance （we swear it's；a coincidence）",
+    "entities": [
+      "Uni",
+      "Lance （we swear it's",
+      "a coincidence）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8d96341e7948c5297ce4d4277c30d31473d95f63f140901474388fc7a4314ea2"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-018",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 18,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760bdc_weston-pace.avif",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-018.avif",
+    "section": "Special Thanks",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Special Thanks中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d540d318fb6247a94b5cc1d00a9feb5f06da70d5118d4e27cae4c86018cf400"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-019",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 19,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-019.png",
+    "section": "Special Thanks",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Special Thanks中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-020",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 20,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-020.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41-fig-021",
+    "doc_id": "1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41",
+    "seq": 21,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1418-https-www-lancedb-com-blog-designing-a-table-for-ac91ed41/figure-021.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

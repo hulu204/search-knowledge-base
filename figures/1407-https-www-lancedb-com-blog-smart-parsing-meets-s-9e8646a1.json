@@ -1,0 +1,1422 @@
+[
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-001",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d4e99799e4cf832572ae7a_hero_20260407-071558_1_clean.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-001.avif",
+    "section": "Smart Parsing Meets Sharp Retrieval: Combining LiteParse and LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09734593988962637,
+          0.8850957523199954,
+          0.14397091089293015,
+          0.055329327781995175
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Smart Parsing Meets Sharp Retrieval: Combining LiteParse and LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f80c567958f00be373de11add9b8d27412e4639e921a9c963dc2fd321088f064"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-002",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d42a5d1e8a906ff44dc543_liteparse-lancedb-pipeline.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-002.avif",
+    "section": "Why PDF QA Is Harder Than It Looks",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.16666666758985776,
+          0.862068967767775,
+          0.0874999894036187,
+          0.05172413170582957
+        ],
+        "confidence": 0.5,
+        "text": "latten to text"
+      },
+      {
+        "boundingBox": [
+          0.37048192869597985,
+          0.8662551434284628,
+          0.08433734802972703,
+          0.04629629629629628
+        ],
+        "confidence": 1,
+        "text": "Text retrieval"
+      },
+      {
+        "boundingBox": [
+          0.5843373469086481,
+          0.8580246905488995,
+          0.13554217323424322,
+          0.05041152263374482
+        ],
+        "confidence": 0.5,
+        "text": "Loses layout structure"
+      },
+      {
+        "boundingBox": [
+          0.5843373476958266,
+          0.5205761321875352,
+          0.13253012157621835,
+          0.05452674897119347
+        ],
+        "confidence": 0.5,
+        "text": "Expensive and hard to"
+      },
+      {
+        "boundingBox": [
+          0.10843373474137305,
+          0.4875000003472222,
+          0.015060241260225801,
+          0.0625
+        ],
+        "confidence": 0.3,
+        "text": "×"
+      },
+      {
+        "boundingBox": [
+          0.02084902281211773,
+          0.4873157361435121,
+          0.054677300983005106,
+          0.049776318632526184
+        ],
+        "confidence": 0.5,
+        "text": "PDF page"
+      },
+      {
+        "boundingBox": [
+          0.15662650719495413,
+          0.48333333563233427,
+          0.10140562057495117,
+          0.05833333019366471
+        ],
+        "confidence": 0.5,
+        "text": "Raw page images"
+      },
+      {
+        "boundingBox": [
+          0.36546184675410337,
+          0.4916666668768336,
+          0.09437751013135148,
+          0.04583333254841626
+        ],
+        "confidence": 0.5,
+        "text": "VLM end-to-end"
+      },
+      {
+        "boundingBox": [
+          0.6345381535681751,
+          0.4454732517895156,
+          0.037148592964051264,
+          0.05869341485294299
+        ],
+        "confidence": 1,
+        "text": "debug"
+      },
+      {
+        "boundingBox": [
+          0.3343373523178267,
+          0.1500000015159173,
+          0.1536144529070173,
+          0.0541666643119153
+        ],
+        "confidence": 0.5,
+        "text": "Layout-aware text + page"
+      },
+      {
+        "boundingBox": [
+          0.8192771130611591,
+          0.14166666662500005,
+          0.14357429080539275,
+          0.0625
+        ],
+        "confidence": 1,
+        "text": "Structured, multimodal，"
+      },
+      {
+        "boundingBox": [
+          0.11144578330607922,
+          0.12500000071983952,
+          0.010040160209413562,
+          0.04583333254841626
+        ],
+        "confidence": 0.3,
+        "text": "V"
+      },
+      {
+        "boundingBox": [
+          0.17971887540575365,
+          0.11625514387300462,
+          0.05622489868648467,
+          0.05041152263374493
+        ],
+        "confidence": 1,
+        "text": "LiteParse"
+      },
+      {
+        "boundingBox": [
+          0.5861793871647645,
+          0.11138826941169966,
+          0.13287394387381424,
+          0.06197136616020049
+        ],
+        "confidence": 1,
+        "text": "Agent-based retrieval"
+      },
+      {
+        "boundingBox": [
+          0.3896476944341221,
+          0.06584235665382032,
+          0.04572454709855339,
+          0.07001805403595596
+        ],
+        "confidence": 0.5,
+        "text": "images"
+      },
+      {
+        "boundingBox": [
+          0.8574297213464954,
+          0.0708333331908747,
+          0.06927710487729022,
+          0.058796295903837725
+        ],
+        "confidence": 1,
+        "text": "debuggable"
+      }
+    ],
+    "ocr_text": "latten to text\nText retrieval\nLoses layout structure\nExpensive and hard to\n×\nPDF page\nRaw page images\nVLM end-to-end\ndebug\nLayout-aware text + page\nStructured, multimodal，\nV\nLiteParse\nAgent-based retrieval\nimages\ndebuggable",
+    "description": "Why PDF QA Is Harder Than It Looks中的配图，包含文字：latten to text；Text retrieval；Loses layout structure；Expensive and hard to；×；PDF page；Raw page images；VLM end-to-end；debug；Layout-aware text + page；Structured, multimodal，；V；LiteParse；Agent-based retrieval；images；debuggable",
+    "entities": [
+      "latten to text",
+      "Text retrieval",
+      "Loses layout structure",
+      "Expensive and hard to",
+      "×",
+      "PDF page",
+      "Raw page images",
+      "VLM end-to-end",
+      "debug",
+      "Layout-aware text + page",
+      "Structured, multimodal，",
+      "V",
+      "LiteParse",
+      "Agent-based retrieval",
+      "images",
+      "debuggable"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9ea8e5e34a39c9991c993207cf27ed8bc6a8d72ef2f2a1be66f2eaf29fe53421"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-003",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d3afd0210427e10021faee_medstar-snippet.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-003.avif",
+    "section": "Dataset: A Medication Side Effects Factsheet",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05442177131519275,
+          0.9278688525409836,
+          0.5215419501133787,
+          0.06229508196721312
+        ],
+        "confidence": 1,
+        "text": "Medication Side Effects"
+      },
+      {
+        "boundingBox": [
+          0.054421757539682834,
+          0.8655737704508196,
+          0.8934240362811792,
+          0.029508196721311553
+        ],
+        "confidence": 0.5,
+        "text": "This chart describes the most common side effects of the medicines you may be taking. Please ask your nurse if you have"
+      },
+      {
+        "boundingBox": [
+          0.05442176541950123,
+          0.8393442621311475,
+          0.19727891156462585,
+          0.022950819672131084
+        ],
+        "confidence": 0.5,
+        "text": "any questions or concerns."
+      },
+      {
+        "boundingBox": [
+          0.06349206514739225,
+          0.7934426230491803,
+          0.1655328798185941,
+          0.022950819672131195
+        ],
+        "confidence": 1,
+        "text": "Reason for Medicine"
+      },
+      {
+        "boundingBox": [
+          0.3854875297505668,
+          0.7934426230491803,
+          0.1405895691609978,
+          0.022950819672131195
+        ],
+        "confidence": 0.5,
+        "text": "Medicine Names："
+      },
+      {
+        "boundingBox": [
+          0.7687074841836735,
+          0.7934426230737706,
+          0.09523809523809523,
+          0.022950819672131084
+        ],
+        "confidence": 1,
+        "text": "Side Effects"
+      },
+      {
+        "boundingBox": [
+          0.38548752961451244,
+          0.7606557378688524,
+          0.12698412698412703,
+          0.022950819672131195
+        ],
+        "confidence": 0.5,
+        "text": "Generic （Brand）"
+      },
+      {
+        "boundingBox": [
+          0.05892696849917299,
+          0.7145303412815684,
+          0.09303041488405257,
+          0.026677022214795842
+        ],
+        "confidence": 0.5,
+        "text": "Pain Relief"
+      },
+      {
+        "boundingBox": [
+          0.38538194621211475,
+          0.7140086504151163,
+          0.08637896686995111,
+          0.027720404452964975
+        ],
+        "confidence": 1,
+        "text": "Examples："
+      },
+      {
+        "boundingBox": [
+          0.7664399101662887,
+          0.7147540984699453,
+          0.10430839002267578,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Side Effects："
+      },
+      {
+        "boundingBox": [
+          0.4125000059600428,
+          0.6803278688522855,
+          0.19999999307991428,
+          0.03653960149796276
+        ],
+        "confidence": 0.5,
+        "text": "Acetaminophen （Tylenol”）"
+      },
+      {
+        "boundingBox": [
+          0.3832199547052154,
+          0.6885245899590164,
+          0.013605442176870708,
+          0.016393442622950838
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.7709750576530612,
+          0.6852459017622952,
+          0.07709750566893425,
+          0.022950819672131084
+        ],
+        "confidence": 1,
+        "text": "Confusion"
+      },
+      {
+        "boundingBox": [
+          0.38321995887188204,
+          0.6524590163934426,
+          0.33786848072562353,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "• Hydrocodone/Acetaminophen （Vicodin'，"
+      },
+      {
+        "boundingBox": [
+          0.7687074832482993,
+          0.6524590161065573,
+          0.0975056689342404,
+          0.022950819672131195
+        ],
+        "confidence": 1,
+        "text": "Constipation"
+      },
+      {
+        "boundingBox": [
+          0.4104308386904762,
+          0.6196721315163934,
+          0.12471655328798187,
+          0.02950819672131144
+        ],
+        "confidence": 0.5,
+        "text": "Lortab, Norco\"）"
+      },
+      {
+        "boundingBox": [
+          0.770927302707725,
+          0.622641051029017,
+          0.0703902947389079,
+          0.023570355430978296
+        ],
+        "confidence": 1,
+        "text": "Dizziness"
+      },
+      {
+        "boundingBox": [
+          0.40589568786848085,
+          0.5901639343169398,
+          0.22448979591836737,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Hydromorphone （Dilaudid\"）"
+      },
+      {
+        "boundingBox": [
+          0.770958499024217,
+          0.5933119496319055,
+          0.0862009130637933,
+          0.02321216630153966
+        ],
+        "confidence": 1,
+        "text": "Drowsiness"
+      },
+      {
+        "boundingBox": [
+          0.06122448925736964,
+          0.5836065572131148,
+          0.043083900226757364,
+          0.01967213114754096
+        ],
+        "confidence": 0.5,
+        "text": "No Pain"
+      },
+      {
+        "boundingBox": [
+          0.1133427423651882,
+          0.5833165941455882,
+          0.07490181436344069,
+          0.02025205737254654
+        ],
+        "confidence": 0.5,
+        "text": "Moderate Pain"
+      },
+      {
+        "boundingBox": [
+          0.20399437787874677,
+          0.5830222733018826,
+          0.06139900138318674,
+          0.020840699555443876
+        ],
+        "confidence": 0.5,
+        "text": "Severe Pain"
+      },
+      {
+        "boundingBox": [
+          0.2810724794236721,
+          0.5827195637358301,
+          0.07504325226591285,
+          0.02144611858930745
+        ],
+        "confidence": 0.3,
+        "text": "Worst Possible"
+      },
+      {
+        "boundingBox": [
+          0.4126765116188226,
+          0.5572377925733422,
+          0.07940888350783021,
+          0.026508021745525467
+        ],
+        "confidence": 0.5,
+        "text": "Morphine"
+      },
+      {
+        "boundingBox": [
+          0.7707189350901241,
+          0.555648079444324,
+          0.07987732141196313,
+          0.029687446844382293
+        ],
+        "confidence": 1,
+        "text": "Dry mouth"
+      },
+      {
+        "boundingBox": [
+          0.06349206383219955,
+          0.5147540980054646,
+          0.04988662131519274,
+          0.042622950819672045
+        ],
+        "confidence": 0.3,
+        "text": "12"
+      },
+      {
+        "boundingBox": [
+          0.28344671194255483,
+          0.5245901651532849,
+          0.013605442176870763,
+          0.02622950663332091
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.31519274361300076,
+          0.5245901651532849,
+          0.013605442176870708,
+          0.02622950663332091
+        ],
+        "confidence": 1,
+        "text": "9"
+      },
+      {
+        "boundingBox": [
+          0.3287981859221466,
+          0.5180327871857924,
+          0.03401360544217685,
+          0.0360655737704918
+        ],
+        "confidence": 0.3,
+        "text": ">10"
+      },
+      {
+        "boundingBox": [
+          0.41269840748299336,
+          0.5278688523497268,
+          0.31292517006802734,
+          0.02622950819672132
+        ],
+        "confidence": 1,
+        "text": "Oxycodone/Acetaminophen （Percocet®）"
+      },
+      {
+        "boundingBox": [
+          0.768707481632653,
+          0.5311475413661202,
+          0.09070294784580502,
+          0.022950819672131306
+        ],
+        "confidence": 1,
+        "text": "Queasiness"
+      },
+      {
+        "boundingBox": [
+          0.4125186977631143,
+          0.4938580899570846,
+          0.08199208231469668,
+          0.02867726185282715
+        ],
+        "confidence": 1,
+        "text": "Oxycontin"
+      },
+      {
+        "boundingBox": [
+          0.7687074836356764,
+          0.49836065590163925,
+          0.038548752834467126,
+          0.022950819672131195
+        ],
+        "confidence": 0.5,
+        "text": "Rash"
+      },
+      {
+        "boundingBox": [
+          0.4104308388662132,
+          0.46229508167213107,
+          0.14965986394557823,
+          0.029508196721311553
+        ],
+        "confidence": 0.5,
+        "text": "Tramadol （Ultram\"）"
+      },
+      {
+        "boundingBox": [
+          0.7687074813681029,
+          0.46557377043715853,
+          0.0975056689342404,
+          0.022950819672131084
+        ],
+        "confidence": 0.5,
+        "text": "Throwing up"
+      },
+      {
+        "boundingBox": [
+          0.06349206071428577,
+          0.4196721310655738,
+          0.2222222222222222,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Queasiness or Throwing Up"
+      },
+      {
+        "boundingBox": [
+          0.3831591404121988,
+          0.41923651573701937,
+          0.08855700330669375,
+          0.02710073815017444
+        ],
+        "confidence": 1,
+        "text": "Examples："
+      },
+      {
+        "boundingBox": [
+          0.7687074836356764,
+          0.4229508192896174,
+          0.10204081632653061,
+          0.022950819672131195
+        ],
+        "confidence": 1,
+        "text": "Side Effects："
+      },
+      {
+        "boundingBox": [
+          0.40589569452003016,
+          0.39016393477077127,
+          0.17913832199546487,
+          0.02622950741502106
+        ],
+        "confidence": 0.5,
+        "text": "Ondansetron （Zofran\"）"
+      },
+      {
+        "boundingBox": [
+          0.7687074846560846,
+          0.39016393459016385,
+          0.09977324263038545,
+          0.022950819672131195
+        ],
+        "confidence": 1,
+        "text": "Constipation"
+      },
+      {
+        "boundingBox": [
+          0.4104308354119427,
+          0.35737704918032787,
+          0.21541950113378683,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Promethazine （Phenergan）"
+      },
+      {
+        "boundingBox": [
+          0.7709750575510204,
+          0.36393442636065576,
+          0.08616780045351469,
+          0.01967213114754096
+        ],
+        "confidence": 1,
+        "text": "Drowsiness"
+      },
+      {
+        "boundingBox": [
+          0.3832199547052154,
+          0.3278688521311476,
+          0.1315192743764172,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "• Scopolamine"
+      },
+      {
+        "boundingBox": [
+          0.7708416210156811,
+          0.3333751069296781,
+          0.07056165768716338,
+          0.02177437719751585
+        ],
+        "confidence": 1,
+        "text": "Dizziness"
+      },
+      {
+        "boundingBox": [
+          0.7687074823129252,
+          0.2983606560655737,
+          0.05895691609977316,
+          0.02622950819672132
+        ],
+        "confidence": 1,
+        "text": "Fatigue"
+      },
+      {
+        "boundingBox": [
+          0.7685891568550995,
+          0.26796388695838325,
+          0.07960172899726292,
+          0.02472796361954488
+        ],
+        "confidence": 1,
+        "text": "Headache"
+      },
+      {
+        "boundingBox": [
+          0.06349206510204079,
+          0.22950819681967216,
+          0.16099773242630389,
+          0.022950819672131084
+        ],
+        "confidence": 1,
+        "text": "Heartburn or Reflux"
+      },
+      {
+        "boundingBox": [
+          0.38529244787700045,
+          0.2245836947472334,
+          0.08655796353779138,
+          0.026242446899414018
+        ],
+        "confidence": 1,
+        "text": "Examples："
+      },
+      {
+        "boundingBox": [
+          0.7687074840136054,
+          0.22950819681967216,
+          0.10204081632653061,
+          0.022950819672131084
+        ],
+        "confidence": 1,
+        "text": "Side Effects："
+      },
+      {
+        "boundingBox": [
+          0.41496598467498114,
+          0.1967213113387979,
+          0.20634920634920628,
+          0.022950819672131084
+        ],
+        "confidence": 0.5,
+        "text": "Calcium Carbonate （Tums）"
+      },
+      {
+        "boundingBox": [
+          0.7709750578798187,
+          0.1967213115983607,
+          0.09523809523809523,
+          0.022950819672131084
+        ],
+        "confidence": 1,
+        "text": "Constipation"
+      },
+      {
+        "boundingBox": [
+          0.41269840952380965,
+          0.16393442612021858,
+          0.19047619047619035,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Esomeprazole （Nexium\"）"
+      },
+      {
+        "boundingBox": [
+          0.7709325944096552,
+          0.16691194059571768,
+          0.06584456394048499,
+          0.020274479662785727
+        ],
+        "confidence": 1,
+        "text": "Diarrhea"
+      },
+      {
+        "boundingBox": [
+          0.41269841471088436,
+          0.1344262296311476,
+          0.16099773242630383,
+          0.022950819672131084
+        ],
+        "confidence": 0.5,
+        "text": "Famotidine （Pepcid）"
+      },
+      {
+        "boundingBox": [
+          0.7686410600695577,
+          0.13393592406914834,
+          0.07949792771112352,
+          0.0239314298160741
+        ],
+        "confidence": 1,
+        "text": "Headache"
+      },
+      {
+        "boundingBox": [
+          0.41269840956160253,
+          0.10163934415300546,
+          0.1882086167800454,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Lansoprazole （Prevacid\"）"
+      },
+      {
+        "boundingBox": [
+          0.7680345605541129,
+          0.09820530535988947,
+          0.09660090232382013,
+          0.03030947388195604
+        ],
+        "confidence": 0.5,
+        "text": "Throwing up"
+      },
+      {
+        "boundingBox": [
+          0.4149659878495842,
+          0.07213114767759565,
+          0.1746031746031746,
+          0.022950819672131195
+        ],
+        "confidence": 0.5,
+        "text": "Omeprazole （Prilosec）"
+      },
+      {
+        "boundingBox": [
+          0.7687074816326531,
+          0.07213114782786878,
+          0.11337868480725621,
+          0.022950819672131195
+        ],
+        "confidence": 1,
+        "text": "Upset stomach"
+      },
+      {
+        "boundingBox": [
+          0.412698410861678,
+          0.039344262163934274,
+          0.1836734693877552,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Pantoprazole （Protonix\"）"
+      },
+      {
+        "boundingBox": [
+          0.4149659861394558,
+          0.006557376721311625,
+          0.14739229024943312,
+          0.02622950819672132
+        ],
+        "confidence": 0.5,
+        "text": "Ranitidine （Zantac）"
+      }
+    ],
+    "ocr_text": "Medication Side Effects\nThis chart describes the most common side effects of the medicines you may be taking. Please ask your nurse if you have\nany questions or concerns.\nReason for Medicine\nMedicine Names：\nSide Effects\nGeneric （Brand）\nPain Relief\nExamples：\nSide Effects：\nAcetaminophen （Tylenol”）\n•\nConfusion\n• Hydrocodone/Acetaminophen （Vicodin'，\nConstipation\nLortab, Norco\"）\nDizziness\nHydromorphone （Dilaudid\"）\nDrowsiness\nNo Pain\nModerate Pain\nSevere Pain\nWorst Possible\nMorphine\nDry mouth\n12\n8\n9\n>10\nOxycodone/Acetaminophen （Percocet®）\nQueasiness\nOxycontin\nRash\nTramadol （Ultram\"）\nThrowing up\nQueasiness or Throwing Up\nExamples：\nSide Effects：\nOndansetron （Zofran\"）\nConstipation\nPromethazine （Phenergan）\nDrowsiness\n• Scopolamine\nDizziness\nFatigue\nHeadache\nHeartburn or Reflux\nExamples：\nSide Effects：\nCalcium Carbonate （Tums）\nConstipation\nEsomeprazole （Nexium\"）\nDiarrhea\nFamotidine （Pepcid）\nHeadache\nLansoprazole （Prevacid\"）\nThrowing up\nOmeprazole （Prilosec）\nUpset stomach\nPantoprazole （Protonix\"）\nRanitidine （Zantac）",
+    "description": "Dataset: A Medication Side Effects Factsheet中的配图，包含文字：Medication Side Effects；This chart describes the most common side effects of the medicines you may be taking. Please ask your nurse if you have；any questions or concerns.；Reason for Medicine；Medicine Names：；Side Effects；Generic （Brand）；Pain Relief；Examples：；Side Effects：；Acetaminophen （Tylenol”）；•；Confusion；• Hydrocodone/Acetaminophen （Vicodin'，；Constipation；Lortab, Norco\"）；Dizziness；Hydromorphone （Dilaudid\"）；Drowsiness；No Pain；Moderate Pain；Severe Pain；Worst Possible；Morphine；Dry mouth；12；8；9；>10；Oxycodone/Acetaminophen （Percocet®）",
+    "entities": [
+      "Medication Side Effects",
+      "This chart describes the most common side effects of the medicines you may be taking. Please ask your nurse if you have",
+      "any questions or concerns.",
+      "Reason for Medicine",
+      "Medicine Names：",
+      "Side Effects",
+      "Generic （Brand）",
+      "Pain Relief",
+      "Examples：",
+      "Side Effects：",
+      "Acetaminophen （Tylenol”）",
+      "•",
+      "Confusion",
+      "• Hydrocodone/Acetaminophen （Vicodin'，",
+      "Constipation",
+      "Lortab, Norco\"）",
+      "Dizziness",
+      "Hydromorphone （Dilaudid\"）",
+      "Drowsiness",
+      "No Pain",
+      "Moderate Pain",
+      "Severe Pain",
+      "Worst Possible",
+      "Morphine",
+      "Dry mouth",
+      "12",
+      "8",
+      "9",
+      ">10",
+      "Oxycodone/Acetaminophen （Percocet®）",
+      "Queasiness",
+      "Oxycontin",
+      "Rash",
+      "Tramadol （Ultram\"）",
+      "Throwing up",
+      "Queasiness or Throwing Up",
+      "Ondansetron （Zofran\"）",
+      "Promethazine （Phenergan）",
+      "• Scopolamine",
+      "Fatigue",
+      "Headache",
+      "Heartburn or Reflux",
+      "Calcium Carbonate （Tums）",
+      "Esomeprazole （Nexium\"）",
+      "Diarrhea",
+      "Famotidine （Pepcid）",
+      "Lansoprazole （Prevacid\"）",
+      "Omeprazole （Prilosec）",
+      "Upset stomach",
+      "Pantoprazole （Protonix\"）",
+      "Ranitidine （Zantac）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "97e4453145bb72e17ab689b1058b2ea4bd0d942368c11de42e0e4ec74dcd21e1"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-004",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d4289834db54067e837732_agent-flow-liteparse-lancedb.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-004.avif",
+    "section": "The Agent: Retrieval + Reasoning with Claude",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.678645732558714,
+          0.8783364802642373,
+          0.10346434803021265,
+          0.06732704189509109
+        ],
+        "confidence": 0.5,
+        "text": "2. search"
+      },
+      {
+        "boundingBox": [
+          0.6162704648981892,
+          0.6635103116862378,
+          0.2257923960609265,
+          0.1161611916947407
+        ],
+        "confidence": 0.3,
+        "text": "4.get_image.."
+      },
+      {
+        "boundingBox": [
+          0.039244186463369794,
+          0.6119929447014407,
+          0.15697674509651618,
+          0.06437389770723101
+        ],
+        "confidence": 0.5,
+        "text": "user Question"
+      },
+      {
+        "boundingBox": [
+          0.2500000041516797,
+          0.6022727284525329,
+          0.12283514584387784,
+          0.07954545332220697
+        ],
+        "confidence": 0.5,
+        "text": "-1. prompt"
+      },
+      {
+        "boundingBox": [
+          0.4345035590833313,
+          0.6064956309368805,
+          0.14843473991115103,
+          0.07100873943779629
+        ],
+        "confidence": 0.5,
+        "text": "Claude Agent"
+      },
+      {
+        "boundingBox": [
+          0.8734741374710896,
+          0.5830782936064212,
+          0.09316800296727179,
+          0.05784341183078778
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.6482558140597424,
+          0.5200000011877752,
+          0.16279069608109664,
+          0.06399999682444957
+        ],
+        "confidence": 0.5,
+        "text": "3.text chunks"
+      },
+      {
+        "boundingBox": [
+          0.6416666703516962,
+          0.34090909109457823,
+          0.17499998825494112,
+          0.07972583064326533
+        ],
+        "confidence": 0.5,
+        "text": "5. page images"
+      },
+      {
+        "boundingBox": [
+          0.6713588292292303,
+          0.09346731882127013,
+          0.13548001820953937,
+          0.06906536310858613
+        ],
+        "confidence": 0.5,
+        "text": "6. respond-"
+      },
+      {
+        "boundingBox": [
+          0.8778554414086033,
+          0.10340863839408965,
+          0.08440539621251608,
+          0.05718272241124822
+        ],
+        "confidence": 1,
+        "text": "Answer"
+      }
+    ],
+    "ocr_text": "2. search\n4.get_image..\nuser Question\n-1. prompt\nClaude Agent\nLanceDB\n3.text chunks\n5. page images\n6. respond-\nAnswer",
+    "description": "The Agent: Retrieval + Reasoning with Claude中的配图，包含文字：2. search；4.get_image..；user Question；-1. prompt；Claude Agent；LanceDB；3.text chunks；5. page images；6. respond-；Answer",
+    "entities": [
+      "2. search",
+      "4.get_image..",
+      "user Question",
+      "-1. prompt",
+      "Claude Agent",
+      "LanceDB",
+      "3.text chunks",
+      "5. page images",
+      "6. respond-",
+      "Answer"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f775b06f3778c0797006c5b07687ecf5599e13a44c9c2c6af59b7cfa25a5f75e"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-005",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d42a31ae8b0adc91d7ac09_Clelia%20Astra%20Bertelli%20-%20Llamaindex.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-005.avif",
+    "section": "Try It Yourself",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try It Yourself中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ee0c5554fcaff674d48ccd448f3c10f9193121b2f609fe2ffed97ad576720896"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-006",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-006.avif",
+    "section": "Try It Yourself",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try It Yourself中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-007",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-007.png",
+    "section": "Try It Yourself",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Try It Yourself中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-008",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-008.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1-fig-009",
+    "doc_id": "1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1407-https-www-lancedb-com-blog-smart-parsing-meets-s-9e8646a1/figure-009.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

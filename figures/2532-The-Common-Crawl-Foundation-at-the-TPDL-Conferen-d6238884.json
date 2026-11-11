@@ -1,0 +1,467 @@
+[
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-001",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2965116357773045,
+          0.5625000008825198,
+          0.7023255629534411,
+          0.3708333313920116
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30054614842010047,
+          0.04762700701893252,
+          0.5000704926804613,
+          0.40057933603534257
+        ],
+        "confidence": 0.3,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-002",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a0cbff600eae82a0e8b441_micha-sm.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-002.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "Michael Paris",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a2f1431d47332da1e7bf8c29336bfcaac73d257fd7ce58aacccaa8b557c9f2db"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-003",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-003.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-004",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6acd3dc80ec30d5985040f90_image3.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-004.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "A photo of Michael Paris presenting the long paper \"Measuring What the Crawler Sees: Discovery Curves, Core Persistence, and Shell Dynamics in Longitudinal Web Crawls\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7176071309531772,
+          0.6776205153413459,
+          0.18384007263183588,
+          0.09042196324984797
+        ],
+        "confidence": 1,
+        "text": "Obrigado！"
+      },
+      {
+        "boundingBox": [
+          0.720833701919484,
+          0.48227130334112656,
+          0.10484422302246099,
+          0.040652198313813726
+        ],
+        "confidence": 1,
+        "text": "Questions？"
+      },
+      {
+        "boundingBox": [
+          0.48401162831321537,
+          0.363636363705389,
+          0.10029069519042971,
+          0.03896103860653788
+        ],
+        "confidence": 0.3,
+        "text": "ADE DO ALGARE"
+      },
+      {
+        "boundingBox": [
+          0.6886549079904982,
+          0.29429438478254366,
+          0.25201647949218753,
+          0.04004671919111269
+        ],
+        "confidence": 0.3,
+        "text": "https://groups.googlo.com/c/common-.craed"
+      },
+      {
+        "boundingBox": [
+          0.44186046322394673,
+          0.08571428509237522,
+          0.013081398963928237,
+          0.07532467782390773
+        ],
+        "confidence": 0.3,
+        "text": "SAINO"
+      }
+    ],
+    "ocr_text": "Obrigado！\nQuestions？\nADE DO ALGARE\nhttps://groups.googlo.com/c/common-.craed\nSAINO",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，包含文字：Obrigado！；Questions？；ADE DO ALGARE；https://groups.googlo.com/c/common-.craed；SAINO",
+    "entities": [
+      "Obrigado！",
+      "Questions？",
+      "ADE DO ALGARE",
+      "https://groups.googlo.com/c/common-.craed",
+      "SAINO"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2b7d5d1e0a9175f51751b8caa7217f2bce8b0dbc1c2bc6645078cf8f8d2669a3"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-005",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6acd412e592eea45583b5874_luca.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-005.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "A photo of Luca Foppiano demonstrating the paper \"The INRIA DataLake: A Generic and Scalable Ecosystem of Pipelines for HAL Applied to Software Mentions Tracking\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2209302332337015,
+          0.9095607238124337,
+          0.015988371274845065,
+          0.015503875544813805
+        ],
+        "confidence": 0.3,
+        "text": "The"
+      },
+      {
+        "boundingBox": [
+          0.27718007436864234,
+          0.885253496532725,
+          0.15639065628152277,
+          0.03295910274675351
+        ],
+        "confidence": 0.5,
+        "text": "Datalake: a generic and scalable ecosystem"
+      },
+      {
+        "boundingBox": [
+          0.2307064718060624,
+          0.8719538838554409,
+          0.19997346699630475,
+          0.03544424847640815
+        ],
+        "confidence": 0.5,
+        "text": "nipelines for HAL, applied to software-mention tracking"
+      },
+      {
+        "boundingBox": [
+          0.7930486945258303,
+          0.8147742798243994,
+          0.07085370452036499,
+          0.02618939312615498
+        ],
+        "confidence": 0.3,
+        "text": "*-Dhyen Patben lr Cotoca"
+      },
+      {
+        "boundingBox": [
+          0.2630814009868127,
+          0.8217054266126135,
+          0.0624999949740484,
+          0.007751937214049653
+        ],
+        "confidence": 0.3,
+        "text": "ure one shared intee"
+      },
+      {
+        "boundingBox": [
+          0.16279069867852425,
+          0.5632318501053365,
+          0.036337207899734436,
+          0.025915436219834054
+        ],
+        "confidence": 0.3,
+        "text": "CUAIE"
+      },
+      {
+        "boundingBox": [
+          0.4171511631036419,
+          0.27131782941105564,
+          0.026162789587289736,
+          0.015567416608752382
+        ],
+        "confidence": 0.3,
+        "text": "COMMOrY"
+      }
+    ],
+    "ocr_text": "The\nDatalake: a generic and scalable ecosystem\nnipelines for HAL, applied to software-mention tracking\n*-Dhyen Patben lr Cotoca\nure one shared intee\nCUAIE\nCOMMOrY",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，包含文字：The；Datalake: a generic and scalable ecosystem；nipelines for HAL, applied to software-mention tracking；*-Dhyen Patben lr Cotoca；ure one shared intee；CUAIE；COMMOrY",
+    "entities": [
+      "The",
+      "Datalake: a generic and scalable ecosystem",
+      "nipelines for HAL, applied to software-mention tracking",
+      "*-Dhyen Patben lr Cotoca",
+      "ure one shared intee",
+      "CUAIE",
+      "COMMOrY"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0d8485c8a2d5ebc55695cc8965afe34feee653a15cba97b831b53a03c7409ae7"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-006",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6acd3e23afda2291c3fdc74b_image1.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-006.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "A photo of a dinner with Common Crawl and Arquivo.pt staff",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          -8.97720998244646e-10,
+          0.3363095226284608,
+          0.010033446410826615,
+          0.023809526647840307
+        ],
+        "confidence": 0.3,
+        "text": "冬"
+      }
+    ],
+    "ocr_text": "冬",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，包含文字：冬",
+    "entities": [
+      "冬"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0bd1db77e9fb6174b1cda9144703cbcb713f025d3b6807692aa32a32539aec97"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-007",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a0cbff600eae82a0e8b441_micha-sm.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-007.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "Michael is a Senior Research Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a2f1431d47332da1e7bf8c29336bfcaac73d257fd7ce58aacccaa8b557c9f2db"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-008",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6979ede34abd21e6264c904e_692733e9ad3a0330b0e22c9b_luca-p-800.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-008.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "Luca Foppiano is a Senior Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a7818448bb5f6dff9c282b5c2f4abc9b6e2fbfdebf0fb4a53f9887b182fdbb6a"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-009",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/685e77cb286e933224ff5fad_683397fb6efccb98feccc93d_hande-p-800.webp",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-009.webp",
+    "section": "The Common Crawl Foundation at the TPDL Conference",
+    "alt": "Hande is a Senior ML Engineer with the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "The Common Crawl Foundation at the TPDL Conference中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "852e29863fe712d76efe93876c96edc006d5e2570e0f431c389c6456d4b9cc88"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-010",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-010.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2965116357773045,
+          0.5625000008825198,
+          0.7023255629534411,
+          0.3708333313920116
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30054614842010047,
+          0.04762700701893252,
+          0.5000704926804613,
+          0.40057933603534257
+        ],
+        "confidence": 0.3,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-011",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-011.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-012",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884-fig-013",
+    "doc_id": "2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2532-The-Common-Crawl-Foundation-at-the-TPDL-Conferen-d6238884/figure-013.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

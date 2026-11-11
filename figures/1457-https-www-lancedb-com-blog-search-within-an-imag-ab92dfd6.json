@@ -1,0 +1,1102 @@
+[
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-001",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c731c18d08304981220f19_preview-image.avif",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-001.avif",
+    "section": "Search Within an Image with Segment Anything",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09707104824382888,
+          0.8806371916163337,
+          0.14452069600423179,
+          0.05526308483547637
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.036337207486478076,
+          0.09814814905209068,
+          0.16715116500854493,
+          0.09074074074074079
+        ],
+        "confidence": 0.3,
+        "text": "“A Dog”"
+      }
+    ],
+    "ocr_text": "LanceDB\n“A Dog”",
+    "description": "Search Within an Image with Segment Anything中的配图，包含文字：LanceDB；“A Dog”",
+    "entities": [
+      "LanceDB",
+      "“A Dog”"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dcd592ba25a6a9ae13b24a96b9a892ffce3cf25c652fd02e8e3ef892b1452eb9"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-002",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd89830b66812e786f2_1*32siuOjQamsOWzxmH1ZxDg.avif",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-002.avif",
+    "section": "Semantic Searching with Natural Language",
+    "alt": "Architecture for Search Engine",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2846572658754069,
+          0.8868963986916469,
+          0.25483161322504494,
+          0.08935594355806398
+        ],
+        "confidence": 0.5,
+        "text": "Segmentation Embeddings"
+      },
+      {
+        "boundingBox": [
+          0.7180232579187177,
+          0.8106382974222888,
+          0.22965116432244825,
+          0.06060633760817513
+        ],
+        "confidence": 0.5,
+        "text": "Find the closest match"
+      },
+      {
+        "boundingBox": [
+          0.052280271936823046,
+          0.7031736290254904,
+          0.08875341072356957,
+          0.05288021006482724
+        ],
+        "confidence": 0.5,
+        "text": "Input Image"
+      },
+      {
+        "boundingBox": [
+          0.44912790728828894,
+          0.6995708154910649,
+          0.01598837186964297,
+          0.02596109978696126
+        ],
+        "confidence": 1,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.4636627908608416,
+          0.6995708161479582,
+          0.021802324528316763,
+          0.02596109877241426
+        ],
+        "confidence": 0.5,
+        "text": "0.3"
+      },
+      {
+        "boundingBox": [
+          0.49127907061659026,
+          0.6995708165771428,
+          0.01744185934821474,
+          0.02596109877241415
+        ],
+        "confidence": 1,
+        "text": "0.1"
+      },
+      {
+        "boundingBox": [
+          0.4229651167754448,
+          0.5622317596099877,
+          0.014534883018877898,
+          0.03862660996457379
+        ],
+        "confidence": 0.3,
+        "text": ">"
+      },
+      {
+        "boundingBox": [
+          0.44912790728828894,
+          0.5787234045744142,
+          0.01598837186964297,
+          0.02642681040662398
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.47093023284456625,
+          0.5787234045028833,
+          0.014534883018877842,
+          0.02642681040662409
+        ],
+        "confidence": 1,
+        "text": "0.5"
+      },
+      {
+        "boundingBox": [
+          0.49418604634321905,
+          0.5787234045028833,
+          0.013081395540305962,
+          0.02642681040662409
+        ],
+        "confidence": 0.5,
+        "text": "0.3"
+      },
+      {
+        "boundingBox": [
+          0.4476744193811252,
+          0.44635193173369514,
+          0.017441859348214794,
+          0.03024381272336263
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.4709302330545146,
+          0.450643776821537,
+          0.014534883018877842,
+          0.02595196784810816
+        ],
+        "confidence": 1,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.492732558672247,
+          0.45064377686445534,
+          0.014534883018877898,
+          0.02595196784810816
+        ],
+        "confidence": 0.5,
+        "text": "0.9"
+      },
+      {
+        "boundingBox": [
+          0.056649339982892045,
+          0.18828306710715248,
+          0.08146876053844426,
+          0.04832656941515334
+        ],
+        "confidence": 0.5,
+        "text": "User Query"
+      },
+      {
+        "boundingBox": [
+          0.0610465131209921,
+          0.06808510540129309,
+          0.06540697495714368,
+          0.07446808510638303
+        ],
+        "confidence": 0.3,
+        "text": "\"4 Dog'\""
+      },
+      {
+        "boundingBox": [
+          0.42587209166461837,
+          0.06808510654784927,
+          0.12209302504285635,
+          0.05637841123215703
+        ],
+        "confidence": 0.5,
+        "text": "Query Embeddings"
+      }
+    ],
+    "ocr_text": "Segmentation Embeddings\nFind the closest match\nInput Image\n0.6\n0.3\n0.1\n>\n0.8\n0.5\n0.3\n0.4\n0.2\n0.9\nUser Query\n\"4 Dog'\"\nQuery Embeddings",
+    "description": "Semantic Searching with Natural Language中的配图，包含文字：Segmentation Embeddings；Find the closest match；Input Image；0.6；0.3；0.1；>；0.8；0.5；0.3；0.4；0.2；0.9；User Query；\"4 Dog'\"；Query Embeddings",
+    "entities": [
+      "Segmentation Embeddings",
+      "Find the closest match",
+      "Input Image",
+      "0.6",
+      "0.3",
+      "0.1",
+      ">",
+      "0.8",
+      "0.5",
+      "0.4",
+      "0.2",
+      "0.9",
+      "User Query",
+      "\"4 Dog'\"",
+      "Query Embeddings"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a5dec3825230e72e04d8421296a5570dbb157ff74d7e1cb35896f30781a45bb3"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-003",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd79830b66812e786ec_1*P-c2e5YZk2Z_AUnmyMsnfw.avif",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-003.avif",
+    "section": "**I. Create the Segmentation to extract the entities.**",
+    "alt": "Segmentation Masks",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.049751242039801025,
+          0.9358974357371794,
+          0.13930348258706468,
+          0.021367521367521403
+        ],
+        "confidence": 0.5,
+        "text": "Segmentation 1 Info："
+      },
+      {
+        "boundingBox": [
+          0.5671641814676616,
+          0.9401709404558405,
+          0.14179104477611948,
+          0.02564102564102555
+        ],
+        "confidence": 0.5,
+        "text": "Segmentation 3 Info："
+      },
+      {
+        "boundingBox": [
+          0.05721393266998333,
+          0.9102564104700854,
+          0.13930348258706465,
+          0.021367521367521403
+        ],
+        "confidence": 0.5,
+        "text": "- Segmentation Mask："
+      },
+      {
+        "boundingBox": [
+          0.5771144295708955,
+          0.9145299147435897,
+          0.13681592039800994,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "- Segmentation Hask："
+      },
+      {
+        "boundingBox": [
+          0.21144278395522392,
+          0.8846153844729345,
+          0.12686567164179102,
+          0.02564102564102555
+        ],
+        "confidence": 0.5,
+        "text": "False False False］"
+      },
+      {
+        "boundingBox": [
+          0.5696517435323383,
+          0.888888889031339,
+          0.13432835820895517,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "［［False False False"
+      },
+      {
+        "boundingBox": [
+          0.728855722097844,
+          0.8888888893162393,
+          0.12686567164179108,
+          0.02564102564102566
+        ],
+        "confidence": 1,
+        "text": "False False False］"
+      },
+      {
+        "boundingBox": [
+          0.05721392683457719,
+          0.8589743587606837,
+          0.2810945273631841,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "［False False False ... False False False］"
+      },
+      {
+        "boundingBox": [
+          0.5771144351343662,
+          0.8632478634615385,
+          0.15174128404304166,
+          0.02136752136752129
+        ],
+        "confidence": 0.3,
+        "text": "［Faise False False •."
+      },
+      {
+        "boundingBox": [
+          0.7263681570480931,
+          0.863247862962963,
+          0.12935323383084574,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "False False False］"
+      },
+      {
+        "boundingBox": [
+          0.05721392683457719,
+          0.8333333331730769,
+          0.2810945273631841,
+          0.021367521367521403
+        ],
+        "confidence": 0.3,
+        "text": "［False False Faise • False False False］"
+      },
+      {
+        "boundingBox": [
+          0.5771144350514475,
+          0.8376068376068376,
+          0.14676615966493212,
+          0.02564102564102566
+        ],
+        "confidence": 0.3,
+        "text": "［False False False ..."
+      },
+      {
+        "boundingBox": [
+          0.7263681570480931,
+          0.8376068373931624,
+          0.12935323383084574,
+          0.02136752136752129
+        ],
+        "confidence": 0.5,
+        "text": "False False False］|"
+      },
+      {
+        "boundingBox": [
+          0.057213925663350075,
+          0.7777777776353276,
+          0.2810945273631841,
+          0.02564102564102566
+        ],
+        "confidence": 0.3,
+        "text": "［False Faise False •. False False Faise）"
+      },
+      {
+        "boundingBox": [
+          0.5771144301177829,
+          0.7820512819088319,
+          0.1492537218539869,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "［False False False •."
+      },
+      {
+        "boundingBox": [
+          0.7313432820273632,
+          0.7820512819444445,
+          0.12437810945273631,
+          0.02564102564102555
+        ],
+        "confidence": 1,
+        "text": "False False False］"
+      },
+      {
+        "boundingBox": [
+          0.057213925663350075,
+          0.752136751994302,
+          0.2810945273631841,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "［False False False •. False False False］"
+      },
+      {
+        "boundingBox": [
+          0.5771144324626865,
+          0.7564102566239316,
+          0.27611940298507454,
+          0.02991452991452992
+        ],
+        "confidence": 0.3,
+        "text": "［False False False .. false False False！"
+      },
+      {
+        "boundingBox": [
+          0.05721393395522381,
+          0.7264957267094017,
+          0.28855721393034817,
+          0.025641025641025772
+        ],
+        "confidence": 0.5,
+        "text": "［False False False •. False False Falsell"
+      },
+      {
+        "boundingBox": [
+          0.5771144250000001,
+          0.7307692305982906,
+          0.2860696517412936,
+          0.02564102564102566
+        ],
+        "confidence": 0.3,
+        "text": "［False False False •False False False］］"
+      },
+      {
+        "boundingBox": [
+          0.05721392881426207,
+          0.70512820491453,
+          0.09203980099502487,
+          0.02136752136752129
+        ],
+        "confidence": 0.3,
+        "text": "• Anea: 41611"
+      },
+      {
+        "boundingBox": [
+          0.5768317641825025,
+          0.6942428844657574,
+          0.09011756365572043,
+          0.03886465741018974
+        ],
+        "confidence": 0.3,
+        "text": "- Area: 36624"
+      },
+      {
+        "boundingBox": [
+          0.059701488474295315,
+          0.675213675071225,
+          0.24378109452736316,
+          0.025641025641025772
+        ],
+        "confidence": 0.3,
+        "text": "• Bounding Box： ［167,306, 568, 159］"
+      },
+      {
+        "boundingBox": [
+          0.5771144238805973,
+          0.6794871793447294,
+          0.23880597014925364,
+          0.02564102564102566
+        ],
+        "confidence": 0.3,
+        "text": "- Bounding Box： ［331, 64, 132,439］"
+      },
+      {
+        "boundingBox": [
+          0.05721392632669994,
+          0.6538461536324787,
+          0.24129353233830844,
+          0.02136752136752129
+        ],
+        "confidence": 0.5,
+        "text": "• Predicted IOU: 1.0235613584518433"
+      },
+      {
+        "boundingBox": [
+          0.5771144318822553,
+          0.6538461541310542,
+          0.24129353233830841,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "- Predlcted I00: 1.0150949954986572"
+      },
+      {
+        "boundingBox": [
+          0.05970148789386416,
+          0.6239316237891738,
+          0.2786069651741294,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "- Point Coordinates： ［［237.5, 391.03125］］"
+      },
+      {
+        "boundingBox": [
+          0.5870646721393036,
+          0.6324786322649573,
+          0.26865671641791045,
+          0.021367521367521403
+        ],
+        "confidence": 0.5,
+        "text": "Point Coordinates： ［［362.5, 245.53125］］"
+      },
+      {
+        "boundingBox": [
+          0.05721393355099495,
+          0.5982905985042735,
+          0.2562189054726368,
+          0.02564102564102566
+        ],
+        "confidence": 0.5,
+        "text": "• Stabllity Score: 0.9665665626525879"
+      },
+      {
+        "boundingBox": [
+          0.5795462090737658,
+          0.6004122950982241,
+          0.2513553372663052,
+          0.025671136684906837
+        ],
+        "confidence": 0.3,
+        "text": "- Stabiiity Scone: 0.9721011519432068"
+      },
+      {
+        "boundingBox": [
+          0.05721392792288563,
+          0.5726495724893162,
+          0.19402985074626863,
+          0.021367521367521403
+        ],
+        "confidence": 0.3,
+        "text": "- Crop Box： ［6,8, 808,582］"
+      },
+      {
+        "boundingBox": [
+          0.5771144246683252,
+          0.5769230766381765,
+          0.1915422885572139,
+          0.025641025641025772
+        ],
+        "confidence": 0.3,
+        "text": "- Crop Box： ［e, 0, 800,582］"
+      },
+      {
+        "boundingBox": [
+          0.19900497444029852,
+          0.5042735038995727,
+          0.11442786069651745,
+          0.029914529914529808
+        ],
+        "confidence": 0.5,
+        "text": "Segmentation 1"
+      },
+      {
+        "boundingBox": [
+          0.7189054720895524,
+          0.5085470082478633,
+          0.11442786069651745,
+          0.02991452991452992
+        ],
+        "confidence": 1,
+        "text": "Segmentation 3"
+      }
+    ],
+    "ocr_text": "Segmentation 1 Info：\nSegmentation 3 Info：\n- Segmentation Mask：\n- Segmentation Hask：\nFalse False False］\n［［False False False\nFalse False False］\n［False False False ... False False False］\n［Faise False False •.\nFalse False False］\n［False False Faise • False False False］\n［False False False ...\nFalse False False］|\n［False Faise False •. False False Faise）\n［False False False •.\nFalse False False］\n［False False False •. False False False］\n［False False False .. false False False！\n［False False False •. False False Falsell\n［False False False •False False False］］\n• Anea: 41611\n- Area: 36624\n• Bounding Box： ［167,306, 568, 159］\n- Bounding Box： ［331, 64, 132,439］\n• Predicted IOU: 1.0235613584518433\n- Predlcted I00: 1.0150949954986572\n- Point Coordinates： ［［237.5, 391.03125］］\nPoint Coordinates： ［［362.5, 245.53125］］\n• Stabllity Score: 0.9665665626525879\n- Stabiiity Scone: 0.9721011519432068\n- Crop Box： ［6,8, 808,582］\n- Crop Box： ［e, 0, 800,582］\nSegmentation 1\nSegmentation 3",
+    "description": "**I. Create the Segmentation to extract the entities.**中的配图，包含文字：Segmentation 1 Info：；Segmentation 3 Info：；- Segmentation Mask：；- Segmentation Hask：；False False False］；［［False False False；False False False］；［False False False ... False False False］；［Faise False False •.；False False False］；［False False Faise • False False False］；［False False False ...；False False False］|；［False Faise False •. False False Faise）；［False False False •.；False False False］；［False False False •. False False False］；［False False False .. false False False！；［False False False •. False False Falsell；［False False False •False False False］］；• Anea: 41611；- Area: 36624；• Bounding Box： ［167,306, 568, 159］；- Bounding Box： ［331, 64, 132,439］；• Predicted IOU: 1.0235613584518433；- Predlcted I00: 1.0150949954986572；- Point Coordinates： ［［237.5, 391.03125］］；Point Coordinates： ［［362.5, 245.53125］］；• Stabllity Score: 0.9665665626525879；- Stabiiity Scone: 0.9721011519432068",
+    "entities": [
+      "Segmentation 1 Info：",
+      "Segmentation 3 Info：",
+      "- Segmentation Mask：",
+      "- Segmentation Hask：",
+      "False False False］",
+      "［［False False False",
+      "［False False False ... False False False］",
+      "［Faise False False •.",
+      "［False False Faise • False False False］",
+      "［False False False ...",
+      "False False False］|",
+      "［False Faise False •. False False Faise）",
+      "［False False False •.",
+      "［False False False •. False False False］",
+      "［False False False .. false False False！",
+      "［False False False •. False False Falsell",
+      "［False False False •False False False］］",
+      "• Anea: 41611",
+      "- Area: 36624",
+      "• Bounding Box： ［167,306, 568, 159］",
+      "- Bounding Box： ［331, 64, 132,439］",
+      "• Predicted IOU: 1.0235613584518433",
+      "- Predlcted I00: 1.0150949954986572",
+      "- Point Coordinates： ［［237.5, 391.03125］］",
+      "Point Coordinates： ［［362.5, 245.53125］］",
+      "• Stabllity Score: 0.9665665626525879",
+      "- Stabiiity Scone: 0.9721011519432068",
+      "- Crop Box： ［6,8, 808,582］",
+      "- Crop Box： ［e, 0, 800,582］",
+      "Segmentation 1",
+      "Segmentation 3"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a9f16df86a7c2ecd00abee59958a59303d8d76ff404ade7020fcc65d75c6dd7"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-004",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd89830b66812e786f6_1*Ob_qPZfmCfVX-J3SAXYTCA.avif",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-004.avif",
+    "section": "index the downloaded image and search within the image",
+    "alt": "Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0016891844383447145,
+          0.9609609607732733,
+          0.3800675675675676,
+          0.027027027027026973
+        ],
+        "confidence": 0.5,
+        "text": "［35］ search_image_with_user_query（tbl,img_uuid， 'a dog'）"
+      },
+      {
+        "boundingBox": [
+          0.03716217055180151,
+          0.9069069071571572,
+          0.5033783783783784,
+          0.02102102102102099
+        ],
+        "confidence": 0.5,
+        "text": "<ipython-input-34-9e56bc3147b0>：15: Deprecatedwarning: to_df is deprecatea"
+      },
+      {
+        "boundingBox": [
+          0.5405405397804054,
+          0.9069069073073073,
+          0.10979729729729726,
+          0.02402402330805231
+        ],
+        "confidence": 0.5,
+        "text": "as of 0.3.1 and"
+      },
+      {
+        "boundingBox": [
+          0.648631290127835,
+          0.9097386037493119,
+          0.05577796214335673,
+          0.018360630527988975
+        ],
+        "confidence": 0.3,
+        "text": "will be"
+      },
+      {
+        "boundingBox": [
+          0.7026670339707111,
+          0.9095653316340166,
+          0.0541253927591685,
+          0.018707175154585753
+        ],
+        "confidence": 0.5,
+        "text": "removed"
+      },
+      {
+        "boundingBox": [
+          0.7567567578265766,
+          0.9039039042194752,
+          0.17229729729729726,
+          0.02402402330805231
+        ],
+        "confidence": 0.3,
+        "text": "in 8.4.9. Use to_pandas（）"
+      },
+      {
+        "boundingBox": [
+          0.932298770776228,
+          0.9085883613367643,
+          0.0526321868638735,
+          0.020661114214418852
+        ],
+        "confidence": 1,
+        "text": "instead"
+      },
+      {
+        "boundingBox": [
+          0.050675679932432355,
+          0.8768768770570571,
+          0.42567567567567566,
+          0.024024024024024038
+        ],
+        "confidence": 0.5,
+        "text": "target = vector_table.search（k_embedding_list）.1imit（1）.to_dfO"
+      }
+    ],
+    "ocr_text": "［35］ search_image_with_user_query（tbl,img_uuid， 'a dog'）\n<ipython-input-34-9e56bc3147b0>：15: Deprecatedwarning: to_df is deprecatea\nas of 0.3.1 and\nwill be\nremoved\nin 8.4.9. Use to_pandas（）\ninstead\ntarget = vector_table.search（k_embedding_list）.1imit（1）.to_dfO",
+    "description": "index the downloaded image and search within the image中的配图，包含文字：［35］ search_image_with_user_query（tbl,img_uuid， 'a dog'）；<ipython-input-34-9e56bc3147b0>：15: Deprecatedwarning: to_df is deprecatea；as of 0.3.1 and；will be；removed；in 8.4.9. Use to_pandas（）；instead；target = vector_table.search（k_embedding_list）.1imit（1）.to_dfO",
+    "entities": [
+      "［35］ search_image_with_user_query（tbl,img_uuid， 'a dog'）",
+      "<ipython-input-34-9e56bc3147b0>：15: Deprecatedwarning: to_df is deprecatea",
+      "as of 0.3.1 and",
+      "will be",
+      "removed",
+      "in 8.4.9. Use to_pandas（）",
+      "instead",
+      "target = vector_table.search（k_embedding_list）.1imit（1）.to_dfO"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "294a71f0fc7092ab3bc51cbbb36c8bf9fc9b9c4c72ddce9f405aaa96fb7e4899"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-005",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11762f_mahesh-deshwal.avif",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-005.avif",
+    "section": "index the downloaded image and search within the image",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "index the downloaded image and search within the image中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e95afcae1c30392b76147f07769a96314e02e86a600d8efe8f0fbad25e721afd"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-006",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-006.png",
+    "section": "index the downloaded image and search within the image",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "index the downloaded image and search within the image中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-007",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-007.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6-fig-008",
+    "doc_id": "1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1457-https-www-lancedb-com-blog-search-within-an-imag-ab92dfd6/figure-008.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

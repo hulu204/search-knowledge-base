@@ -1,0 +1,1002 @@
+[
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-001",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca3182bff4aecfef298841_how%20to%20hf%20hero.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-001.avif",
+    "section": "A Guide to Uploading Lance Datasets on the Hugging Face Hub",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09680175150171148,
+          0.879943555789844,
+          0.14545899629592896,
+          0.056779551506042414
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Guide to Uploading Lance Datasets on the Hugging Face Hub中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9ea62b13cef8ad4a315ff1f3debc331db04d00da7997504b9f78a081be6802c7"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-002",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca319e93c7f5d35955d7c3_raw-images.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-002.avif",
+    "section": "Example Scenario",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.19334719313929316,
+          0.8219178089041096,
+          0.04573804573804574,
+          0.0547945205479452
+        ],
+        "confidence": 1,
+        "text": "King"
+      },
+      {
+        "boundingBox": [
+          0.6049268615016646,
+          0.8214630647533813,
+          0.07496956331566307,
+          0.05113779790869588
+        ],
+        "confidence": 1,
+        "text": "Morgan"
+      },
+      {
+        "boundingBox": [
+          0.7546259702556348,
+          0.8306549937977996,
+          0.06455263229021158,
+          0.04188636013361957
+        ],
+        "confidence": 1,
+        "text": "Queen"
+      },
+      {
+        "boundingBox": [
+          0.3262707398802789,
+          0.8027941664387209,
+          0.06055623330098425,
+          0.047379700560547966
+        ],
+        "confidence": 0.5,
+        "text": "Merlin"
+      },
+      {
+        "boundingBox": [
+          0.4615384608281358,
+          0.8036529678082192,
+          0.08523908523908524,
+          0.045662100456621
+        ],
+        "confidence": 0.5,
+        "text": "Mordred"
+      },
+      {
+        "boundingBox": [
+          0.18501049024059363,
+          0.7806648056008154,
+          0.064490455104011,
+          0.041410115211521714
+        ],
+        "confidence": 1,
+        "text": "Arthur"
+      },
+      {
+        "boundingBox": [
+          0.6091476097505197,
+          0.7716894972146119,
+          0.06444906444906451,
+          0.05022831050228305
+        ],
+        "confidence": 0.5,
+        "text": "Le Fay"
+      },
+      {
+        "boundingBox": [
+          0.7359395328753656,
+          0.7805599105673366,
+          0.09984650483002533,
+          0.05075232623374626
+        ],
+        "confidence": 0.5,
+        "text": "Guinevere"
+      },
+      {
+        "boundingBox": [
+          0.18918918893970896,
+          0.2328767127397261,
+          0.029106029106029108,
+          0.041095890410958846
+        ],
+        "confidence": 1,
+        "text": "Sir"
+      },
+      {
+        "boundingBox": [
+          0.33471933492723493,
+          0.23287671249184594,
+          0.029106029106029108,
+          0.04109589041095896
+        ],
+        "confidence": 1,
+        "text": "Sir"
+      },
+      {
+        "boundingBox": [
+          0.48024948049203053,
+          0.23287671251902597,
+          0.029106029106029108,
+          0.041095890410958846
+        ],
+        "confidence": 1,
+        "text": "Sir"
+      },
+      {
+        "boundingBox": [
+          0.6195426192307693,
+          0.2328767120091324,
+          0.03118503118503113,
+          0.04109589041095896
+        ],
+        "confidence": 1,
+        "text": "Sir"
+      },
+      {
+        "boundingBox": [
+          0.7483585626824455,
+          0.22302913468256036,
+          0.08956146240234375,
+          0.051658626016416465
+        ],
+        "confidence": 0.5,
+        "text": "The Lady"
+      },
+      {
+        "boundingBox": [
+          0.16424116429313929,
+          0.17808219121004576,
+          0.07900207900207898,
+          0.045662100456621
+        ],
+        "confidence": 1,
+        "text": "Galahad"
+      },
+      {
+        "boundingBox": [
+          0.3138089212618866,
+          0.1817325135086676,
+          0.07092685659809073,
+          0.0474938780205435
+        ],
+        "confidence": 1,
+        "text": "Gawain"
+      },
+      {
+        "boundingBox": [
+          0.596418460116179,
+          0.18047879333165961,
+          0.07743335018038999,
+          0.05000131859626944
+        ],
+        "confidence": 1,
+        "text": "Percival"
+      },
+      {
+        "boundingBox": [
+          0.45114345007796264,
+          0.1780821917237444,
+          0.08523908523908519,
+          0.041095890410958846
+        ],
+        "confidence": 1,
+        "text": "Lancelot"
+      },
+      {
+        "boundingBox": [
+          0.7380457371448372,
+          0.18264840156012174,
+          0.10810810810810811,
+          0.041095890410958846
+        ],
+        "confidence": 0.5,
+        "text": "of the Lake"
+      }
+    ],
+    "ocr_text": "King\nMorgan\nQueen\nMerlin\nMordred\nArthur\nLe Fay\nGuinevere\nSir\nSir\nSir\nSir\nThe Lady\nGalahad\nGawain\nPercival\nLancelot\nof the Lake",
+    "description": "Example Scenario中的配图，包含文字：King；Morgan；Queen；Merlin；Mordred；Arthur；Le Fay；Guinevere；Sir；Sir；Sir；Sir；The Lady；Galahad；Gawain；Percival；Lancelot；of the Lake",
+    "entities": [
+      "King",
+      "Morgan",
+      "Queen",
+      "Merlin",
+      "Mordred",
+      "Arthur",
+      "Le Fay",
+      "Guinevere",
+      "Sir",
+      "The Lady",
+      "Galahad",
+      "Gawain",
+      "Percival",
+      "Lancelot",
+      "of the Lake"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e08d069640ef947dc1719c3d85f20ace78ea895ed6e4d5ca24385160b0d91fea"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-003",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca33821f124f0de99228c5_Screenshot%202026-03-30%20at%201.25.18%E2%80%AFAM.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-003.avif",
+    "section": "(No need to download the dataset locally)",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.037790697529069765,
+          0.8961748634530314,
+          0.06104651162790698,
+          0.02732240437158473
+        ],
+        "confidence": 0.5,
+        "text": "namne"
+      },
+      {
+        "boundingBox": [
+          0.2906976764346041,
+          0.8907103818761385,
+          0.043604648390481615,
+          0.03825136612021851
+        ],
+        "confidence": 1,
+        "text": "role"
+      },
+      {
+        "boundingBox": [
+          0.4331395361918604,
+          0.8852459010928961,
+          0.15116279069767447,
+          0.04371584699453557
+        ],
+        "confidence": 0.5,
+        "text": "stats.strength"
+      },
+      {
+        "boundingBox": [
+          0.7615916762038042,
+          0.8850493111156624,
+          0.06693292773047166,
+          0.044109026590983036
+        ],
+        "confidence": 0.5,
+        "text": "Image"
+      },
+      {
+        "boundingBox": [
+          0.2906501958236296,
+          0.458707196624772,
+          0.09021123619966726,
+          0.0497987205213537
+        ],
+        "confidence": 0.5,
+        "text": "Knight of"
+      },
+      {
+        "boundingBox": [
+          0.03770157723788135,
+          0.4143439987481655,
+          0.11355033031729767,
+          0.04016446155277098
+        ],
+        "confidence": 0.5,
+        "text": "Sir Lancelot"
+      },
+      {
+        "boundingBox": [
+          0.29062279406276537,
+          0.41460469836415614,
+          0.09898696943771007,
+          0.039643064874117506
+        ],
+        "confidence": 0.5,
+        "text": "the Round"
+      },
+      {
+        "boundingBox": [
+          0.43313953473837213,
+          0.41530054708561015,
+          0.014534883720930258,
+          0.03825136612021851
+        ],
+        "confidence": 1,
+        "text": "5"
+      },
+      {
+        "boundingBox": [
+          0.29360465181686046,
+          0.35519125710382515,
+          0.05232558139534882,
+          0.032786885245901565
+        ],
+        "confidence": 0.5,
+        "text": "Table"
+      }
+    ],
+    "ocr_text": "namne\nrole\nstats.strength\nImage\nKnight of\nSir Lancelot\nthe Round\n5\nTable",
+    "description": "(No need to download the dataset locally)中的配图，包含文字：namne；role；stats.strength；Image；Knight of；Sir Lancelot；the Round；5；Table",
+    "entities": [
+      "namne",
+      "role",
+      "stats.strength",
+      "Image",
+      "Knight of",
+      "Sir Lancelot",
+      "the Round",
+      "5",
+      "Table"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8d9ab3afd99c39c531253d31d189a1b7792769cfbae067cf0409fc3e5b5fe6b6"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-004",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca33a8e1b311f692af5844_Screenshot%202026-03-30%20at%201.26.03%E2%80%AFAM.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-004.avif",
+    "section": "(No need to download the dataset locally)",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.034860081305427455,
+          0.8900242346771973,
+          0.06400076733079069,
+          0.03092714053828549
+        ],
+        "confidence": 1,
+        "text": "namne"
+      },
+      {
+        "boundingBox": [
+          0.28779069806201546,
+          0.8841463417174796,
+          0.046511627906976716,
+          0.04268292682926833
+        ],
+        "confidence": 1,
+        "text": "role"
+      },
+      {
+        "boundingBox": [
+          0.4301453195199681,
+          0.8711544965523468,
+          0.1251744780429574,
+          0.06256905416163006
+        ],
+        "confidence": 1,
+        "text": "description"
+      },
+      {
+        "boundingBox": [
+          0.7819767447916666,
+          0.8780487807418699,
+          0.07267441860465118,
+          0.054878048780487854
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.44186046315406985,
+          0.4756097560213415,
+          0.1569767441860465,
+          0.04268292682926833
+        ],
+        "confidence": 0.5,
+        "text": "\"A mysterious"
+      },
+      {
+        "boundingBox": [
+          0.2906307587565481,
+          0.4324488341000391,
+          0.07862220254055291,
+          0.04973647652602775
+        ],
+        "confidence": 1,
+        "text": "Mystical"
+      },
+      {
+        "boundingBox": [
+          0.034883720639534904,
+          0.4024390237804878,
+          0.19767441860465115,
+          0.04878048780487809
+        ],
+        "confidence": 0.5,
+        "text": "The Lady of the Lake"
+      },
+      {
+        "boundingBox": [
+          0.44186046269379853,
+          0.40853658506097557,
+          0.14534883720930236,
+          0.04268292682926822
+        ],
+        "confidence": 1,
+        "text": "supernatural"
+      },
+      {
+        "boundingBox": [
+          0.29064810426166876,
+          0.377503723854426,
+          0.09021542238634689,
+          0.03767547956327111
+        ],
+        "confidence": 0.5,
+        "text": "Guardlan"
+      }
+    ],
+    "ocr_text": "namne\nrole\ndescription\nimage\n\"A mysterious\nMystical\nThe Lady of the Lake\nsupernatural\nGuardlan",
+    "description": "(No need to download the dataset locally)中的配图，包含文字：namne；role；description；image；\"A mysterious；Mystical；The Lady of the Lake；supernatural；Guardlan",
+    "entities": [
+      "namne",
+      "role",
+      "description",
+      "image",
+      "\"A mysterious",
+      "Mystical",
+      "The Lady of the Lake",
+      "supernatural",
+      "Guardlan"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9dfec4a9a13aea3b2cc86a498fd4dd7b50e86aed672b2b29af4fcd6081c5d1d1"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-005",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca33de852f5df24d2e9273_Screenshot%202026-03-30%20at%201.27.04%E2%80%AFAM.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-005.avif",
+    "section": "Define image embedding function here (OpenCLIP)",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03488372013081397,
+          0.8965517238505747,
+          0.06395348837209303,
+          0.034482758620689724
+        ],
+        "confidence": 1,
+        "text": "name"
+      },
+      {
+        "boundingBox": [
+          0.2877906976162791,
+          0.8908045981609195,
+          0.046511627906976716,
+          0.04597701149425293
+        ],
+        "confidence": 0.3,
+        "text": "role"
+      },
+      {
+        "boundingBox": [
+          0.42144507069033027,
+          0.8844212822877491,
+          0.12513311519179232,
+          0.052996512117057026
+        ],
+        "confidence": 0.5,
+        "text": "description"
+      },
+      {
+        "boundingBox": [
+          0.7674418597965118,
+          0.8850574717816092,
+          0.07267441860465107,
+          0.051724137931034475
+        ],
+        "confidence": 0.3,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.29069767375000005,
+          0.48275862045977014,
+          0.06686046511627908,
+          0.03448275862068961
+        ],
+        "confidence": 0.5,
+        "text": "Wizard"
+      },
+      {
+        "boundingBox": [
+          0.43604651119186044,
+          0.48275862136015324,
+          0.03197674418604651,
+          0.04022988505747127
+        ],
+        "confidence": 1,
+        "text": "\"A"
+      },
+      {
+        "boundingBox": [
+          0.46799945112142993,
+          0.47678166940937516,
+          0.09888481539349225,
+          0.040689535524653264
+        ],
+        "confidence": 0.5,
+        "text": "powenfUL"
+      },
+      {
+        "boundingBox": [
+          0.03488372010658916,
+          0.41954023055555545,
+          0.061046511627906974,
+          0.04022988505747127
+        ],
+        "confidence": 0.5,
+        "text": "Merlin"
+      },
+      {
+        "boundingBox": [
+          0.29069767450581396,
+          0.41954023022988496,
+          0.03779069767441856,
+          0.034482758620689724
+        ],
+        "confidence": 1,
+        "text": "and"
+      },
+      {
+        "boundingBox": [
+          0.4360465128197674,
+          0.4252873565517241,
+          0.11918604651162784,
+          0.034482758620689724
+        ],
+        "confidence": 0.5,
+        "text": "wizard and"
+      },
+      {
+        "boundingBox": [
+          0.29064478965897345,
+          0.35592994812000267,
+          0.07568716448406843,
+          0.04101366695316366
+        ],
+        "confidence": 1,
+        "text": "Advisor"
+      },
+      {
+        "boundingBox": [
+          0.4360465115597747,
+          0.35632183914331894,
+          0.1424418604651163,
+          0.04022988505747127
+        ],
+        "confidence": 0.3,
+        "text": "prophet…..\""
+      }
+    ],
+    "ocr_text": "name\nrole\ndescription\nimage\nWizard\n\"A\npowenfUL\nMerlin\nand\nwizard and\nAdvisor\nprophet…..\"",
+    "description": "Define image embedding function here (OpenCLIP)中的配图，包含文字：name；role；description；image；Wizard；\"A；powenfUL；Merlin；and；wizard and；Advisor；prophet…..\"",
+    "entities": [
+      "name",
+      "role",
+      "description",
+      "image",
+      "Wizard",
+      "\"A",
+      "powenfUL",
+      "Merlin",
+      "and",
+      "wizard and",
+      "Advisor",
+      "prophet…..\""
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "26574c9e61c2d704dd5160f21927ae08797e4e9b8313831fa9f2e178e87383ee"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-006",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-006.avif",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-007",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-007.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-008",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-008.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4-fig-009",
+    "doc_id": "1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1408-https-www-lancedb-com-blog-upload-lance-datasets-1b96d0b4/figure-009.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

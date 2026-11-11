@@ -1,0 +1,1024 @@
+[
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-001",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d5b7067ab9c271618dbe_preview-image3.webp",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-001.webp",
+    "section": "Lance Blob V2: Late Materialization for Large Binary Data in Spark",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09496803992789601,
+          0.8843366409996327,
+          0.14673058827718097,
+          0.0538119254027597
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Lance Blob V2: Late Materialization for Large Binary Data in Spark中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7290b5981f186cd0afdbf28011659c258f5d1276a3782047a0e00627b94b5004"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-002",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a54e71459e9aa02a0b37ef8_blob-v2-abstraction.webp",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-002.webp",
+    "section": "What Blob V2 gives Spark",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7223837226238574,
+          0.8530927838091065,
+          0.09593022725228484,
+          0.031195963517369307
+        ],
+        "confidence": 1,
+        "text": "Inline Blob"
+      },
+      {
+        "boundingBox": [
+          0.722383721380814,
+          0.8089171980168958,
+          0.0625,
+          0.03397027499609939
+        ],
+        "confidence": 1,
+        "text": "（In-row）"
+      },
+      {
+        "boundingBox": [
+          0.20338793076974826,
+          0.7129158418380348,
+          0.10339855577386736,
+          0.03550852433384866
+        ],
+        "confidence": 1,
+        "text": "Table Rows"
+      },
+      {
+        "boundingBox": [
+          0.7238372124363202,
+          0.618556701548429,
+          0.1119185999820107,
+          0.031124826702595865
+        ],
+        "confidence": 0.5,
+        "text": "Packed Blob"
+      },
+      {
+        "boundingBox": [
+          0.5305232571762201,
+          0.621019108300739,
+          0.027616277265776867,
+          0.015923566878980777
+        ],
+        "confidence": 1,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.6148255818452222,
+          0.6185567013633161,
+          0.023255813635137068,
+          0.015463917118728632
+        ],
+        "confidence": 0.5,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.5305232564408761,
+          0.6005154642928694,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "01"
+      },
+      {
+        "boundingBox": [
+          0.5436046513052171,
+          0.6005154639492267,
+          0.01453488295158134,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.6148255814818501,
+          0.6005154638743001,
+          0.023255813635137068,
+          0.013072646600678639
+        ],
+        "confidence": 1,
+        "text": "0110"
+      },
+      {
+        "boundingBox": [
+          0.6540210901711009,
+          0.6054220433842736,
+          0.024806656905908886,
+          0.015960037328635046
+        ],
+        "confidence": 0.5,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.5290697684601037,
+          0.5743099786052063,
+          0.030523254540548383,
+          0.02123142250530785
+        ],
+        "confidence": 1,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.6540625860830741,
+          0.5901627527108296,
+          0.02472366442520646,
+          0.01297346345937933
+        ],
+        "confidence": 1,
+        "text": "0110"
+      },
+      {
+        "boundingBox": [
+          0.7223837242101103,
+          0.572164949134003,
+          0.13226743634237625,
+          0.036115306198217345
+        ],
+        "confidence": 1,
+        "text": "（Multi-item pack）"
+      },
+      {
+        "boundingBox": [
+          0.2455271313973524,
+          0.5505720847594952,
+          0.07580620250063078,
+          0.030299130012528486
+        ],
+        "confidence": 0.5,
+        "text": "Row Data"
+      },
+      {
+        "boundingBox": [
+          0.575581396027666,
+          0.5743099785373655,
+          0.020348836360365552,
+          0.015923566878980777
+        ],
+        "confidence": 0.3,
+        "text": "010"
+      },
+      {
+        "boundingBox": [
+          0.6148255817307444,
+          0.5773195879612543,
+          0.02470930227252277,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.649687872316531,
+          0.5746146373588057,
+          0.029112626490980786,
+          0.015719178882121154
+        ],
+        "confidence": 0.5,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.24555836537131412,
+          0.45033412184562427,
+          0.07574373455138869,
+          0.029744128006532145
+        ],
+        "confidence": 0.5,
+        "text": "Row Data"
+      },
+      {
+        "boundingBox": [
+          0.5828488367230918,
+          0.3938428871677686,
+          0.03924418636486293,
+          0.023682885868534176
+        ],
+        "confidence": 1,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.7238372072652411,
+          0.38917525779095963,
+          0.13662790909908606,
+          0.033505154263441694
+        ],
+        "confidence": 1,
+        "text": "Dedicated Blob"
+      },
+      {
+        "boundingBox": [
+          0.18604651183553225,
+          0.34536082446004057,
+          0.023255813635137096,
+          0.04639175236857873
+        ],
+        "confidence": 0.3,
+        "text": "吧"
+      },
+      {
+        "boundingBox": [
+          0.24688959799537008,
+          0.3538905100442483,
+          0.07453475842635604,
+          0.031909702689784325
+        ],
+        "confidence": 0.5,
+        "text": "Row Data"
+      },
+      {
+        "boundingBox": [
+          0.5827788877254619,
+          0.36812998963555166,
+          0.039384084455134194,
+          0.021471979258672946
+        ],
+        "confidence": 1,
+        "text": "0110"
+      },
+      {
+        "boundingBox": [
+          0.7223178343358255,
+          0.3421825601760726,
+          0.11059688951410174,
+          0.03986168312672089
+        ],
+        "confidence": 0.5,
+        "text": "（Large, single）"
+      },
+      {
+        "boundingBox": [
+          0.5828488373771616,
+          0.33970276008794353,
+          0.03924418636486293,
+          0.023699301822929675
+        ],
+        "confidence": 1,
+        "text": "0101"
+      },
+      {
+        "boundingBox": [
+          0.7238372085434304,
+          0.17515923575590753,
+          0.11627907273872051,
+          0.031026330976222982
+        ],
+        "confidence": 1,
+        "text": "External Blob"
+      },
+      {
+        "boundingBox": [
+          0.7223837231598936,
+          0.13375796153976616,
+          0.1526162727027418,
+          0.031190491532570697
+        ],
+        "confidence": 0.5,
+        "text": "（URI/Link to bucket）"
+      },
+      {
+        "boundingBox": [
+          0.5174418598807642,
+          0.10297239941486325,
+          0.16715116363963434,
+          0.025893579875840733
+        ],
+        "confidence": 1,
+        "text": "$3://bucket/path/to/blob.data"
+      }
+    ],
+    "ocr_text": "Inline Blob\n（In-row）\nTable Rows\nPacked Blob\n0101\n0101\n01\n10\n0110\n0101\n0101\n0110\n（Multi-item pack）\nRow Data\n010\n0101\n0101\nRow Data\n0101\nDedicated Blob\n吧\nRow Data\n0110\n（Large, single）\n0101\nExternal Blob\n（URI/Link to bucket）\n$3://bucket/path/to/blob.data",
+    "description": "What Blob V2 gives Spark中的配图，包含文字：Inline Blob；（In-row）；Table Rows；Packed Blob；0101；0101；01；10；0110；0101；0101；0110；（Multi-item pack）；Row Data；010；0101；0101；Row Data；0101；Dedicated Blob；吧；Row Data；0110；（Large, single）；0101；External Blob；（URI/Link to bucket）；$3://bucket/path/to/blob.data",
+    "entities": [
+      "Inline Blob",
+      "（In-row）",
+      "Table Rows",
+      "Packed Blob",
+      "0101",
+      "01",
+      "10",
+      "0110",
+      "（Multi-item pack）",
+      "Row Data",
+      "010",
+      "Dedicated Blob",
+      "吧",
+      "（Large, single）",
+      "External Blob",
+      "（URI/Link to bucket）",
+      "$3://bucket/path/to/blob.data"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8cbd0027e8f988ee4008692dc37503e001e68b875b0c97a07fa1c42685dfa5bc"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-003",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a330af84f67a913e6e58cf9_blob-v2-spark.png",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-003.png",
+    "section": "A row through a MERGE plan",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22238372296388492,
+          0.9143646414509836,
+          0.5552325591197989,
+          0.06261510128913439
+        ],
+        "confidence": 0.5,
+        "text": "Same SQL, different payload"
+      },
+      {
+        "boundingBox": [
+          0.14680232794016146,
+          0.8563535910754342,
+          0.21075580660150856,
+          0.03705726187971192
+        ],
+        "confidence": 0.5,
+        "text": "Inline BINARY"
+      },
+      {
+        "boundingBox": [
+          0.6380813976242421,
+          0.8563535912422127,
+          0.20930232264060344,
+          0.03705726187971192
+        ],
+        "confidence": 0.5,
+        "text": "Lance Blob V2"
+      },
+      {
+        "boundingBox": [
+          0.17441860539508694,
+          0.80813953543418,
+          0.1627906988997486,
+          0.025193797510192795
+        ],
+        "confidence": 0.5,
+        "text": "Spark moves bytes"
+      },
+      {
+        "boundingBox": [
+          0.6349739029066158,
+          0.8077240560049784,
+          0.21113483154971302,
+          0.029870460046588998
+        ],
+        "confidence": 0.5,
+        "text": "Spark moves references"
+      },
+      {
+        "boundingBox": [
+          0.20203488741961254,
+          0.7577519379107547,
+          0.10610464528120686,
+          0.021317829743274674
+        ],
+        "confidence": 0.5,
+        "text": "Source table"
+      },
+      {
+        "boundingBox": [
+          0.6845930246450818,
+          0.7577519379021029,
+          0.10465116132030172,
+          0.021317829743274674
+        ],
+        "confidence": 0.5,
+        "text": "Source table"
+      },
+      {
+        "boundingBox": [
+          0.2033442952416302,
+          0.7101611185440663,
+          0.10203234003393688,
+          0.027352182026506577
+        ],
+        "confidence": 0.5,
+        "text": "image bytes"
+      },
+      {
+        "boundingBox": [
+          0.6944257558449723,
+          0.711589377111274,
+          0.08775312202411467,
+          0.025115381068726683
+        ],
+        "confidence": 1,
+        "text": "descriptor"
+      },
+      {
+        "boundingBox": [
+          0.690378696264387,
+          0.6257820245726378,
+          0.09307981459475356,
+          0.025567735317223117
+        ],
+        "confidence": 1,
+        "text": "Spark scan"
+      },
+      {
+        "boundingBox": [
+          0.2077318813934351,
+          0.6135494857428467,
+          0.09325716640409185,
+          0.02677699698488567
+        ],
+        "confidence": 1,
+        "text": "Spark scan"
+      },
+      {
+        "boundingBox": [
+          0.6946879242708442,
+          0.5828345460805386,
+          0.0873683381475796,
+          0.026191372458666873
+        ],
+        "confidence": 1,
+        "text": "descriptor"
+      },
+      {
+        "boundingBox": [
+          0.20340805501378761,
+          0.5711154256455768,
+          0.10190482165931997,
+          0.02637379999318834
+        ],
+        "confidence": 0.5,
+        "text": "image bytes"
+      },
+      {
+        "boundingBox": [
+          0.6409883744374895,
+          0.4980620157636375,
+          0.1962209248411062,
+          0.025193797510192795
+        ],
+        "confidence": 1,
+        "text": "Lance Spark connector"
+      },
+      {
+        "boundingBox": [
+          0.14680232907891264,
+          0.47286821727203543,
+          0.21802324748170968,
+          0.025290162523807114
+        ],
+        "confidence": 0.5,
+        "text": "MERGE join + row rewrite"
+      },
+      {
+        "boundingBox": [
+          0.7046255112967539,
+          0.455955495724115,
+          0.07215403456714276,
+          0.02420853075621099
+        ],
+        "confidence": 0.5,
+        "text": "copy ref"
+      },
+      {
+        "boundingBox": [
+          0.20201016064255709,
+          0.428113289308341,
+          0.10324712089412122,
+          0.025556368502903104
+        ],
+        "confidence": 0.5,
+        "text": "image bytes"
+      },
+      {
+        "boundingBox": [
+          0.630813949949771,
+          0.37984496161312076,
+          0.22093023647919552,
+          0.025311576288268856
+        ],
+        "confidence": 0.5,
+        "text": "MERGE join + row rewrite"
+      },
+      {
+        "boundingBox": [
+          0.2281976764482846,
+          0.3313953488067882,
+          0.04796511297067885,
+          0.02325581362673379
+        ],
+        "confidence": 0.5,
+        "text": "Write"
+      },
+      {
+        "boundingBox": [
+          0.7046241132346257,
+          0.33546629547996254,
+          0.07330991418322153,
+          0.02867981259115926
+        ],
+        "confidence": 0.5,
+        "text": "copy ref"
+      },
+      {
+        "boundingBox": [
+          0.20334071372862886,
+          0.28202540609947013,
+          0.09913252730395913,
+          0.03091042871633287
+        ],
+        "confidence": 0.5,
+        "text": "bytes again"
+      },
+      {
+        "boundingBox": [
+          0.681686045492777,
+          0.26937984473753585,
+          0.10755813977994977,
+          0.021596213950197507
+        ],
+        "confidence": 0.5,
+        "text": "Lance writer"
+      },
+      {
+        "boundingBox": [
+          0.6744186035247093,
+          0.2228360961232816,
+          0.125,
+          0.025225918595962127
+        ],
+        "confidence": 0.3,
+        "text": "bytes on write"
+      },
+      {
+        "boundingBox": [
+          0.13217465845150175,
+          0.123277991436473,
+          0.1295460337433367,
+          0.030575799678570603
+        ],
+        "confidence": 0.5,
+        "text": "Same SQL："
+      },
+      {
+        "boundingBox": [
+          0.3066860425880501,
+          0.12209302398340671,
+          0.2354651182395977,
+          0.0271317813936518
+        ],
+        "confidence": 0.5,
+        "text": "MERGE INTO products t"
+      },
+      {
+        "boundingBox": [
+          0.30668605420127265,
+          0.08527131757813733,
+          0.425872086161408,
+          0.031007752673182454
+        ],
+        "confidence": 0.5,
+        "text": "USING corrected_images s ON t.id = s.id"
+      },
+      {
+        "boundingBox": [
+          0.3066860627822908,
+          0.04844961224395028,
+          0.5203488176040227,
+          0.029069767033417127
+        ],
+        "confidence": 0.5,
+        "text": "WHEN MATCHED THEN UPDATE SET t.image = s.image；"
+      }
+    ],
+    "ocr_text": "Same SQL, different payload\nInline BINARY\nLance Blob V2\nSpark moves bytes\nSpark moves references\nSource table\nSource table\nimage bytes\ndescriptor\nSpark scan\nSpark scan\ndescriptor\nimage bytes\nLance Spark connector\nMERGE join + row rewrite\ncopy ref\nimage bytes\nMERGE join + row rewrite\nWrite\ncopy ref\nbytes again\nLance writer\nbytes on write\nSame SQL：\nMERGE INTO products t\nUSING corrected_images s ON t.id = s.id\nWHEN MATCHED THEN UPDATE SET t.image = s.image；",
+    "description": "A row through a MERGE plan中的配图，包含文字：Same SQL, different payload；Inline BINARY；Lance Blob V2；Spark moves bytes；Spark moves references；Source table；Source table；image bytes；descriptor；Spark scan；Spark scan；descriptor；image bytes；Lance Spark connector；MERGE join + row rewrite；copy ref；image bytes；MERGE join + row rewrite；Write；copy ref；bytes again；Lance writer；bytes on write；Same SQL：；MERGE INTO products t；USING corrected_images s ON t.id = s.id；WHEN MATCHED THEN UPDATE SET t.image = s.image；",
+    "entities": [
+      "Same SQL, different payload",
+      "Inline BINARY",
+      "Lance Blob V2",
+      "Spark moves bytes",
+      "Spark moves references",
+      "Source table",
+      "image bytes",
+      "descriptor",
+      "Spark scan",
+      "Lance Spark connector",
+      "MERGE join + row rewrite",
+      "copy ref",
+      "Write",
+      "bytes again",
+      "Lance writer",
+      "bytes on write",
+      "Same SQL：",
+      "MERGE INTO products t",
+      "USING corrected_images s ON t.id = s.id",
+      "WHEN MATCHED THEN UPDATE SET t.image = s.image；"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8b393febf80717917da506bfe36996e1916b30354a27e6596eeeeb6754a41200"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-004",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a32bcd9cd42487339729677_drew-gallardo.jpg",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-004.jpg",
+    "section": "Why this matters",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Why this matters中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fda7ab7bf917803068dfcc067b7166eb7b43766c3302b3dd25c840d1087ea9cb"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-005",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-005.png",
+    "section": "Why this matters",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Why this matters中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-006",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612-fig-007",
+    "doc_id": "1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1398-https-www-lancedb-com-blog-lance-blob-v2-late-ma-dddd6612/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

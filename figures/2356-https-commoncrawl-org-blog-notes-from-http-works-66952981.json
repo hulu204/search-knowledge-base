@@ -1,0 +1,626 @@
+[
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-001",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-002",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-002.webp",
+    "section": "Notes from HTTP Workshop Basel and IETF 126 Vienna",
+    "alt": "Thom Vaughan",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Notes from HTTP Workshop Basel and IETF 126 Vienna中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-003",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-003.webp",
+    "section": "Notes from HTTP Workshop Basel and IETF 126 Vienna",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Notes from HTTP Workshop Basel and IETF 126 Vienna中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-004",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a70fd4b0716e4c5ab2f9378_IMG_6019.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-004.webp",
+    "section": "Notes from HTTP Workshop Basel and IETF 126 Vienna",
+    "alt": "A view of the Rhine in Basel, Switzerland",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.9200581386645983,
+          0.7338501278415073,
+          0.011627908551201882,
+          0.015503878905394397
+        ],
+        "confidence": 0.3,
+        "text": "III"
+      }
+    ],
+    "ocr_text": "III",
+    "description": "Notes from HTTP Workshop Basel and IETF 126 Vienna中的配图，包含文字：III",
+    "entities": [
+      "III"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c19ad85cdbe74e6dee79493dbcf5b517c3b7a3a7d7fec34b89f90586652974bb"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-005",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a70fd6789f42ddc8b67a126_IMG_6561%202.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-005.webp",
+    "section": "**In transit**",
+    "alt": "The plenary meeting at IETF 126, Vienna",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4389534896279813,
+          0.8273195880566919,
+          0.056686045889386194,
+          0.012886597168403124
+        ],
+        "confidence": 0.3,
+        "text": "how drafts are -］"
+      },
+      {
+        "boundingBox": [
+          0.8313953495743672,
+          0.8298969080538726,
+          0.0188953479927384,
+          0.0180412356963785
+        ],
+        "confidence": 0.3,
+        "text": "920"
+      },
+      {
+        "boundingBox": [
+          0.438927953876701,
+          0.8039018074703563,
+          0.04220223283481023,
+          0.015907726253903243
+        ],
+        "confidence": 0.5,
+        "text": "shouldn't say"
+      },
+      {
+        "boundingBox": [
+          0.43895348852225424,
+          0.7835051546757235,
+          0.05232557935084037,
+          0.0154639172808555
+        ],
+        "confidence": 0.3,
+        "text": "future drafts. It's"
+      },
+      {
+        "boundingBox": [
+          0.44040697758414776,
+          0.7624555161224031,
+          0.04941860420670441,
+          0.016014234875444844
+        ],
+        "confidence": 1,
+        "text": "happening now，"
+      },
+      {
+        "boundingBox": [
+          0.4389534896302359,
+          0.7419928826267105,
+          0.05087209177877239,
+          0.016014234875444844
+        ],
+        "confidence": 0.5,
+        "text": "and it's going to"
+      },
+      {
+        "boundingBox": [
+          0.44036578784824326,
+          0.7212883790529303,
+          0.04223354163771881,
+          0.016186129580188835
+        ],
+        "confidence": 0.3,
+        "text": "happen in the"
+      },
+      {
+        "boundingBox": [
+          0.235465119948864,
+          0.6855670107521747,
+          0.1569767342301791,
+          0.028350514449258735
+        ],
+        "confidence": 0.5,
+        "text": "Internet Engineering Steering"
+      },
+      {
+        "boundingBox": [
+          0.43879223873302176,
+          0.7003582966021575,
+          0.055593647316605876,
+          0.015258225681943016
+        ],
+        "confidence": 0.5,
+        "text": "future. It changes"
+      },
+      {
+        "boundingBox": [
+          0.6220930250804798,
+          0.6752577313180322,
+          0.22093023326927286,
+          0.03648604023074764
+        ],
+        "confidence": 0.5,
+        "text": "Internet Engineering Steering"
+      },
+      {
+        "boundingBox": [
+          0.23683567750961265,
+          0.6667847535343912,
+          0.07138678449428154,
+          0.02725523476923053
+        ],
+        "confidence": 0.5,
+        "text": "Group （IESG）"
+      },
+      {
+        "boundingBox": [
+          0.43895348857369687,
+          0.6804123713423901,
+          0.03343023326927291,
+          0.01546391728085561
+        ],
+        "confidence": 0.5,
+        "text": "the whole"
+      },
+      {
+        "boundingBox": [
+          0.4389534887805175,
+          0.6597938147487474,
+          0.0377906959854768,
+          0.015473089184201094
+        ],
+        "confidence": 0.5,
+        "text": "dynamic on"
+      },
+      {
+        "boundingBox": [
+          0.6235135880134554,
+          0.6491718461928192,
+          0.10035654347024126,
+          0.034130534243329125
+        ],
+        "confidence": 0.5,
+        "text": "Group （IESG）"
+      },
+      {
+        "boundingBox": [
+          0.23691860698381106,
+          0.6387900359882578,
+          0.10901162524022656,
+          0.024021352313167266
+        ],
+        "confidence": 0.5,
+        "text": "Open Microphone Session"
+      },
+      {
+        "boundingBox": [
+          0.4389534885620899,
+          0.6365979380090567,
+          0.056686045889386194,
+          0.015537293356084447
+        ],
+        "confidence": 0.3,
+        "text": "running code. Ill"
+      },
+      {
+        "boundingBox": [
+          0.4388852800890827,
+          0.6153722839214881,
+          0.04955501976854099,
+          0.019255432794102578
+        ],
+        "confidence": 0.5,
+        "text": "change how we"
+      },
+      {
+        "boundingBox": [
+          0.6235465084004879,
+          0.6082474225157782,
+          0.15261628298100105,
+          0.026094214347757938
+        ],
+        "confidence": 1,
+        "text": "Open Microphone Session"
+      },
+      {
+        "boundingBox": [
+          0.4389534885544866,
+          0.5978647685106727,
+          0.04505813766815858,
+          0.013345195729537296
+        ],
+        "confidence": 0.5,
+        "text": "interact and is"
+      },
+      {
+        "boundingBox": [
+          0.43889665816168394,
+          0.5742034930318678,
+          0.045171798828369636,
+          0.01654146829109604
+        ],
+        "confidence": 0.5,
+        "text": "changing how"
+      },
+      {
+        "boundingBox": [
+          0.438953490642228,
+          0.5541237112049331,
+          0.05377906692290835,
+          0.0154639172808555
+        ],
+        "confidence": 0.5,
+        "text": "we're interacting"
+      },
+      {
+        "boundingBox": [
+          0.43895348942217155,
+          0.5335051548475447,
+          0.03633720841340887,
+          0.0154639172808555
+        ],
+        "confidence": 0.5,
+        "text": "on mailing"
+      }
+    ],
+    "ocr_text": "how drafts are -］\n920\nshouldn't say\nfuture drafts. It's\nhappening now，\nand it's going to\nhappen in the\nInternet Engineering Steering\nfuture. It changes\nInternet Engineering Steering\nGroup （IESG）\nthe whole\ndynamic on\nGroup （IESG）\nOpen Microphone Session\nrunning code. Ill\nchange how we\nOpen Microphone Session\ninteract and is\nchanging how\nwe're interacting\non mailing",
+    "description": "**In transit**中的配图，包含文字：how drafts are -］；920；shouldn't say；future drafts. It's；happening now，；and it's going to；happen in the；Internet Engineering Steering；future. It changes；Internet Engineering Steering；Group （IESG）；the whole；dynamic on；Group （IESG）；Open Microphone Session；running code. Ill；change how we；Open Microphone Session；interact and is；changing how；we're interacting；on mailing",
+    "entities": [
+      "how drafts are -］",
+      "920",
+      "shouldn't say",
+      "future drafts. It's",
+      "happening now，",
+      "and it's going to",
+      "happen in the",
+      "Internet Engineering Steering",
+      "future. It changes",
+      "Group （IESG）",
+      "the whole",
+      "dynamic on",
+      "Open Microphone Session",
+      "running code. Ill",
+      "change how we",
+      "interact and is",
+      "changing how",
+      "we're interacting",
+      "on mailing"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e87f99bea076eada4bb42e15f2bcb8fdb58796f6ca6de5773cf91aff09701c90"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-006",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a70fd9efa774260b58e71d0_image2.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-006.webp",
+    "section": "**Machine-readability draft**",
+    "alt": "The frontispiece of Ted Nelson's Computer Lib/Dream Machines (1974). Original image by John R. Neill for L. Frank Baum's Tik-tok of Oz (1914).",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.19923372132822464,
+          0.3888888890838206,
+          0.29118773946360155,
+          0.023391812865497075
+        ],
+        "confidence": 0.5,
+        "text": "A11 these things"
+      },
+      {
+        "boundingBox": [
+          0.20306513750957852,
+          0.36549707614035076,
+          0.34099616858237547,
+          0.023391812865497075
+        ],
+        "confidence": 1,
+        "text": "are very technical."
+      },
+      {
+        "boundingBox": [
+          0.2030651350095785,
+          0.32456140376461984,
+          0.1800766283524904,
+          0.020467836257309968
+        ],
+        "confidence": 1,
+        "text": "The reader"
+      },
+      {
+        "boundingBox": [
+          0.20306513609195398,
+          0.3011695907894737,
+          0.1992337164750958,
+          0.020467836257309968
+        ],
+        "confidence": 0.5,
+        "text": "must decide"
+      },
+      {
+        "boundingBox": [
+          0.20689655446998714,
+          0.2807017547270956,
+          0.19540229885057472,
+          0.020467836257309968
+        ],
+        "confidence": 0.5,
+        "text": "for himself"
+      },
+      {
+        "boundingBox": [
+          0.2029128730736427,
+          0.25104855756255673,
+          0.10758421886926411,
+          0.024218673594513906
+        ],
+        "confidence": 1,
+        "text": "which，"
+      },
+      {
+        "boundingBox": [
+          0.20306513536398466,
+          0.2309941521052632,
+          0.1264367816091954,
+          0.023391812865497075
+        ],
+        "confidence": 0.3,
+        "text": "ifany，"
+      },
+      {
+        "boundingBox": [
+          0.20306513093869744,
+          0.21052631557017543,
+          0.2528735632183908,
+          0.023391812865497075
+        ],
+        "confidence": 1,
+        "text": "are misguided."
+      }
+    ],
+    "ocr_text": "A11 these things\nare very technical.\nThe reader\nmust decide\nfor himself\nwhich，\nifany，\nare misguided.",
+    "description": "**Machine-readability draft**中的配图，包含文字：A11 these things；are very technical.；The reader；must decide；for himself；which，；ifany，；are misguided.",
+    "entities": [
+      "A11 these things",
+      "are very technical.",
+      "The reader",
+      "must decide",
+      "for himself",
+      "which，",
+      "ifany，",
+      "are misguided."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "10d628161fc6b619acdc649de56098cae3736162a0173d5f6bcea8fe85f3c9af"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-007",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-007.webp",
+    "section": "**Machine-readability draft**",
+    "alt": "Thom is Principal Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Machine-readability draft**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-008",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-008.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-009",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-009.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-010",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981-fig-011",
+    "doc_id": "2356-https-commoncrawl-org-blog-notes-from-http-works-66952981",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2356-https-commoncrawl-org-blog-notes-from-http-works-66952981/figure-011.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

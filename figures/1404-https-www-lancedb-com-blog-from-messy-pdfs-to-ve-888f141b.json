@@ -1,0 +1,1397 @@
+[
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-001",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51e4c957870357a99cd063_preview-image5.webp",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-001.webp",
+    "section": "From Messy PDFs to Verifiable Answers with LiteParse and LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0949640097148989,
+          0.8872402463736567,
+          0.1384053166707357,
+          0.048004714694954265
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "From Messy PDFs to Verifiable Answers with LiteParse and LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "271d41b99351b8212d99a9cfff702f704b48c045e8c2a384162dcb02939e5f68"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-002",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a46a6a31da19587028e0bec_pipeline.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-002.png",
+    "section": "From Messy PDFs to Verifiable Answers with LiteParse and LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.25000000431983804,
+          0.930073126258915,
+          0.3517441813151042,
+          0.02809420451385658
+        ],
+        "confidence": 0.5,
+        "text": "From PDF to verifiable answer"
+      },
+      {
+        "boundingBox": [
+          0.24854652488114698,
+          0.8924302793024046,
+          0.5116278889973958,
+          0.02210354151194005
+        ],
+        "confidence": 0.5,
+        "text": "One in-process pipeline. LiteParse parses, LanceDB stores and retrieves."
+      },
+      {
+        "boundingBox": [
+          0.24854650969276137,
+          0.8624314439311618,
+          0.15116279093424478,
+          0.020109689213894
+        ],
+        "confidence": 0.5,
+        "text": "• Extraction•LiteParse"
+      },
+      {
+        "boundingBox": [
+          0.41569767827791915,
+          0.8624314444996357,
+          0.2034883626302083,
+          0.01804664322401528
+        ],
+        "confidence": 0.5,
+        "text": "• Storage & retrieval•LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.277576445039337,
+          0.7745686964978111,
+          0.11345176188151046,
+          0.026559817507672334
+        ],
+        "confidence": 1,
+        "text": "PDF reports"
+      },
+      {
+        "boundingBox": [
+          0.2790697718854091,
+          0.7468007309259477,
+          0.16715115356445315,
+          0.02013153916521082
+        ],
+        "confidence": 0.5,
+        "text": "long, visual, often private"
+      },
+      {
+        "boundingBox": [
+          0.27906976843186015,
+          0.645338208132842,
+          0.08866279093424478,
+          0.02010968921389389
+        ],
+        "confidence": 1,
+        "text": "LiteParse"
+      },
+      {
+        "boundingBox": [
+          0.2776162856225775,
+          0.6115173671736125,
+          0.3255813802083333,
+          0.021948768190317658
+        ],
+        "confidence": 0.5,
+        "text": "page text• embedded images• page screenshots"
+      },
+      {
+        "boundingBox": [
+          0.7587209262860439,
+          0.5099601626213006,
+          0.013081403096516953,
+          0.12948206704538956
+        ],
+        "confidence": 1,
+        "text": "EXTRACTION"
+      },
+      {
+        "boundingBox": [
+          0.2776162803703368,
+          0.5099601596808907,
+          0.18459301757812502,
+          0.022032527644629818
+        ],
+        "confidence": 1,
+        "text": "Normalized records"
+      },
+      {
+        "boundingBox": [
+          0.27906976767494857,
+          0.4798903103582033,
+          0.2369185994466146,
+          0.018281535648994596
+        ],
+        "confidence": 0.3,
+        "text": "documents•pages•chunks• assets"
+      },
+      {
+        "boundingBox": [
+          0.27906977285489337,
+          0.3705179286749145,
+          0.1627906901041667,
+          0.022078049466204508
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB • one store"
+      },
+      {
+        "boundingBox": [
+          0.27761628037417585,
+          0.3345521027884376,
+          0.2819767456054687,
+          0.02010968921389389
+        ],
+        "confidence": 0.5,
+        "text": "blobs + vectors + metadata + provenance"
+      },
+      {
+        "boundingBox": [
+          0.7587209226192032,
+          0.11155378679280314,
+          0.011627922693888348,
+          0.2390438268127999
+        ],
+        "confidence": 0.5,
+        "text": "STORAGE & RETRIEVAL"
+      },
+      {
+        "boundingBox": [
+          0.2790697649734284,
+          0.22111553770772463,
+          0.21947674560546876,
+          0.02589641410646315
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid retrieval bundle"
+      },
+      {
+        "boundingBox": [
+          0.27761627601025013,
+          0.19322709202703536,
+          0.28197674560546876,
+          0.01992031773875791
+        ],
+        "confidence": 0.5,
+        "text": "chunks + pages + assets, merged by page"
+      },
+      {
+        "boundingBox": [
+          0.27761627899557895,
+          0.08764940273209776,
+          0.20930232747395833,
+          0.027981310047658692
+        ],
+        "confidence": 0.5,
+        "text": "Answer agent + judge"
+      },
+      {
+        "boundingBox": [
+          0.27761628347149053,
+          0.05758683730163028,
+          0.29505812581380203,
+          0.022094437147625157
+        ],
+        "confidence": 0.5,
+        "text": "cited, page-grounded answers you can verify"
+      }
+    ],
+    "ocr_text": "From PDF to verifiable answer\nOne in-process pipeline. LiteParse parses, LanceDB stores and retrieves.\n• Extraction•LiteParse\n• Storage & retrieval•LanceDB\nPDF reports\nlong, visual, often private\nLiteParse\npage text• embedded images• page screenshots\nEXTRACTION\nNormalized records\ndocuments•pages•chunks• assets\nLanceDB • one store\nblobs + vectors + metadata + provenance\nSTORAGE & RETRIEVAL\nHybrid retrieval bundle\nchunks + pages + assets, merged by page\nAnswer agent + judge\ncited, page-grounded answers you can verify",
+    "description": "From Messy PDFs to Verifiable Answers with LiteParse and LanceDB中的配图，包含文字：From PDF to verifiable answer；One in-process pipeline. LiteParse parses, LanceDB stores and retrieves.；• Extraction•LiteParse；• Storage & retrieval•LanceDB；PDF reports；long, visual, often private；LiteParse；page text• embedded images• page screenshots；EXTRACTION；Normalized records；documents•pages•chunks• assets；LanceDB • one store；blobs + vectors + metadata + provenance；STORAGE & RETRIEVAL；Hybrid retrieval bundle；chunks + pages + assets, merged by page；Answer agent + judge；cited, page-grounded answers you can verify",
+    "entities": [
+      "From PDF to verifiable answer",
+      "One in-process pipeline. LiteParse parses, LanceDB stores and retrieves.",
+      "• Extraction•LiteParse",
+      "• Storage & retrieval•LanceDB",
+      "PDF reports",
+      "long, visual, often private",
+      "LiteParse",
+      "page text• embedded images• page screenshots",
+      "EXTRACTION",
+      "Normalized records",
+      "documents•pages•chunks• assets",
+      "LanceDB • one store",
+      "blobs + vectors + metadata + provenance",
+      "STORAGE & RETRIEVAL",
+      "Hybrid retrieval bundle",
+      "chunks + pages + assets, merged by page",
+      "Answer agent + judge",
+      "cited, page-grounded answers you can verify"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4c272f3ce4b3533644e23b97a20cb6bf5d2de83468d91278bd89e0c9b763b127"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-003",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a46a76ea2a6d9b934a98d49_liteparse-bbox.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-003.png",
+    "section": "Parsing the reports with LiteParse",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03924419695787841,
+          0.9309623435826523,
+          0.3677325424456772,
+          0.029288702095504382
+        ],
+        "confidence": 0.5,
+        "text": "What a visual citation looks like"
+      },
+      {
+        "boundingBox": [
+          0.7223837202516198,
+          0.9309623430829987,
+          0.23837209040761287,
+          0.021250046248984522
+        ],
+        "confidence": 0.5,
+        "text": "Google 2024 Environmental Report, p. 6"
+      },
+      {
+        "boundingBox": [
+          0.03924419298967119,
+          0.8929203542281067,
+          0.43168602645836535,
+          0.025663716814159354
+        ],
+        "confidence": 0.5,
+        "text": "The spans answering \"which topics did Google assess as material？\""
+      },
+      {
+        "boundingBox": [
+          0.46366279155106876,
+          0.8911504423194418,
+          0.12645348401268813,
+          0.02516754876195859
+        ],
+        "confidence": 0.3,
+        "text": "\"， lit up on the page."
+      },
+      {
+        "boundingBox": [
+          0.06104651127469483,
+          0.8410041840391936,
+          0.023255814498413997,
+          0.03347280384164997
+        ],
+        "confidence": 0.5,
+        "text": "G"
+      },
+      {
+        "boundingBox": [
+          0.813953487048513,
+          0.8469026550106573,
+          0.10901162899682793,
+          0.017114081424949523
+        ],
+        "confidence": 1,
+        "text": "2024 Environmental Report"
+      },
+      {
+        "boundingBox": [
+          0.07848837678726053,
+          0.759292035892333,
+          0.2514534840126882,
+          0.031858407079646045
+        ],
+        "confidence": 1,
+        "text": "Our sustainability strategy"
+      },
+      {
+        "boundingBox": [
+          0.07558138437563627,
+          0.7070796460964528,
+          0.8357558191847743,
+          0.02123893805309729
+        ],
+        "confidence": 0.5,
+        "text": "We believe Google has a unique opportunity that extends beyond managing the environmental impact of our own operations and value chain. Our products, which are used by billions of people every"
+      },
+      {
+        "boundingBox": [
+          0.07558140986770154,
+          0.6920353978794316,
+          0.8415697552355267,
+          0.017169623248344923
+        ],
+        "confidence": 0.5,
+        "text": "day, can enable decisions that drive positive action for the environment. The figure below illustrates these two pillars of our sustainability strategy. supported by our dedication to accessible information"
+      },
+      {
+        "boundingBox": [
+          0.07703492167462785,
+          0.6757322178861658,
+          0.6555232017573325,
+          0.01464435104775208
+        ],
+        "confidence": 0.5,
+        "text": "and technological innovation. To learn more about our sustainability governance, stakeholder engagement, environmental data, and more, see the Appendix."
+      },
+      {
+        "boundingBox": [
+          0.23401163154006155,
+          0.5999999999921373,
+          0.10174418081522574,
+          0.02343096184519533
+        ],
+        "confidence": 1,
+        "text": "Our products"
+      },
+      {
+        "boundingBox": [
+          0.652616278379281,
+          0.5982300883377822,
+          0.12209302260190324,
+          0.02743362831858409
+        ],
+        "confidence": 1,
+        "text": "Our operations"
+      },
+      {
+        "boundingBox": [
+          0.1555232530519547,
+          0.5794979081232647,
+          0.25726743880888164,
+          0.014644351047752302
+        ],
+        "confidence": 0.5,
+        "text": "Were empowering people with information to mitigate and adapt"
+      },
+      {
+        "boundingBox": [
+          0.5668604685683668,
+          0.5752212391888674,
+          0.2936046515987313,
+          0.018921019967678365
+        ],
+        "confidence": 0.5,
+        "text": "Were working to drive sustainability across our operations in four key ways."
+      },
+      {
+        "boundingBox": [
+          0.14680232857932107,
+          0.5606694563537389,
+          0.2747093031974624,
+          0.014644351047752302
+        ],
+        "confidence": 0.5,
+        "text": "to climate change—focusing on sectors like energy and transportation"
+      },
+      {
+        "boundingBox": [
+          0.5494186036148103,
+          0.558407079524426,
+          0.3270348776177634,
+          0.02123893805309729
+        ],
+        "confidence": 0.5,
+        "text": "accelerating the transition to a net-zero carbon future, advancing water stewardship"
+      },
+      {
+        "boundingBox": [
+          0.15406976683533927,
+          0.5415929206837188,
+          0.2587209228215698,
+          0.015044247787610598
+        ],
+        "confidence": 0.5,
+        "text": "where Google's unique capabilities can have a meaningful impact."
+      },
+      {
+        "boundingBox": [
+          0.5857558198149903,
+          0.5397489541011298,
+          0.2587209228215698,
+          0.02131299297366529
+        ],
+        "confidence": 0.5,
+        "text": "building a circular economy, and restoring nature and biodiversity."
+      },
+      {
+        "boundingBox": [
+          0.6002906997575398,
+          0.395397489504018,
+          0.07558139360507532,
+          0.01464435104775208
+        ],
+        "confidence": 1,
+        "text": "Net-zero carbon"
+      },
+      {
+        "boundingBox": [
+          0.750000000635477,
+          0.3953974896696385,
+          0.08866278721015053,
+          0.014644351047752191
+        ],
+        "confidence": 1,
+        "text": "Water stewardship"
+      },
+      {
+        "boundingBox": [
+          0.17288838876670212,
+          0.37813840037473534,
+          0.046665083864104256,
+          0.015689726635418122
+        ],
+        "confidence": 1,
+        "text": "Mitigation"
+      },
+      {
+        "boundingBox": [
+          0.3125000026403448,
+          0.37866108817905286,
+          0.11918604520380643,
+          0.014644351047752191
+        ],
+        "confidence": 1,
+        "text": "Adaptation and resilience"
+      },
+      {
+        "boundingBox": [
+          0.18168604642980954,
+          0.3513274338925908,
+          0.029069766951427434,
+          0.015044247787610598
+        ],
+        "confidence": 1,
+        "text": "Energy"
+      },
+      {
+        "boundingBox": [
+          0.3197674432594211,
+          0.3535564856424418,
+          0.10319767420063441,
+          0.014644351047752191
+        ],
+        "confidence": 0.5,
+        "text": "Extreme event forecasting"
+      },
+      {
+        "boundingBox": [
+          0.3197674432594211,
+          0.3389121341780068,
+          0.10319767420063441,
+          0.01507016663002747
+        ],
+        "confidence": 0.5,
+        "text": "and early warning systems"
+      },
+      {
+        "boundingBox": [
+          0.16715116425012294,
+          0.32635983282401393,
+          0.05813953390285481,
+          0.01257822028303568
+        ],
+        "confidence": 1,
+        "text": "Transportation"
+      },
+      {
+        "boundingBox": [
+          0.5957910560034803,
+          0.25925334951752266,
+          0.08315620141181668,
+          0.015045765226921137
+        ],
+        "confidence": 1,
+        "text": "Circular economy"
+      },
+      {
+        "boundingBox": [
+          0.7398255794877779,
+          0.25929203507259335,
+          0.10901162899682793,
+          0.015044247787610598
+        ],
+        "confidence": 1,
+        "text": "Nature and biodiversity"
+      },
+      {
+        "boundingBox": [
+          0.21656976891867255,
+          0.23185840716043205,
+          0.1337209228215698,
+          0.010819416974498175
+        ],
+        "confidence": 0.5,
+        "text": "Learn more in the Our products section."
+      },
+      {
+        "boundingBox": [
+          0.6453488420050717,
+          0.23185840692150672,
+          0.1395348776177634,
+          0.010819417396477848
+        ],
+        "confidence": 0.5,
+        "text": "Learn more in the Ouroperations section."
+      },
+      {
+        "boundingBox": [
+          0.3968023328475649,
+          0.1398230091986139,
+          0.20348836163045153,
+          0.021264856895514384
+        ],
+        "confidence": 1,
+        "text": "Information and innovation"
+      },
+      {
+        "boundingBox": [
+          0.24418605159915516,
+          0.11504424790423884,
+          0.5116279095923871,
+          0.015044247787610598
+        ],
+        "confidence": 0.5,
+        "text": "Were helping to lead the transition to a more sustainable future by making information accessible and by driving innovation forward."
+      }
+    ],
+    "ocr_text": "What a visual citation looks like\nGoogle 2024 Environmental Report, p. 6\nThe spans answering \"which topics did Google assess as material？\"\n\"， lit up on the page.\nG\n2024 Environmental Report\nOur sustainability strategy\nWe believe Google has a unique opportunity that extends beyond managing the environmental impact of our own operations and value chain. Our products, which are used by billions of people every\nday, can enable decisions that drive positive action for the environment. The figure below illustrates these two pillars of our sustainability strategy. supported by our dedication to accessible information\nand technological innovation. To learn more about our sustainability governance, stakeholder engagement, environmental data, and more, see the Appendix.\nOur products\nOur operations\nWere empowering people with information to mitigate and adapt\nWere working to drive sustainability across our operations in four key ways.\nto climate change—focusing on sectors like energy and transportation\naccelerating the transition to a net-zero carbon future, advancing water stewardship\nwhere Google's unique capabilities can have a meaningful impact.\nbuilding a circular economy, and restoring nature and biodiversity.\nNet-zero carbon\nWater stewardship\nMitigation\nAdaptation and resilience\nEnergy\nExtreme event forecasting\nand early warning systems\nTransportation\nCircular economy\nNature and biodiversity\nLearn more in the Our products section.\nLearn more in the Ouroperations section.\nInformation and innovation\nWere helping to lead the transition to a more sustainable future by making information accessible and by driving innovation forward.",
+    "description": "Parsing the reports with LiteParse中的配图，包含文字：What a visual citation looks like；Google 2024 Environmental Report, p. 6；The spans answering \"which topics did Google assess as material？\"；\"， lit up on the page.；G；2024 Environmental Report；Our sustainability strategy；We believe Google has a unique opportunity that extends beyond managing the environmental impact of our own operations and value chain. Our products, which are used by billions of people every；day, can enable decisions that drive positive action for the environment. The figure below illustrates these two pillars of our sustainability strategy. supported by our dedication to accessible information；and technological innovation. To learn more about our sustainability governance, stakeholder engagement, environmental data, and more, see the Appendix.；Our products；Our operations；Were empowering people with information to mitigate and adapt；Were working to drive sustainability across our operations in four key ways.；to climate change—focusing on sectors like energy and transportation；accelerating the transition to a net-zero carbon future, advancing water stewardship；where Google's unique capabilities can have a meaningful impact.；building a circular economy, and restoring nature and biodiversity.；Net-zero carbon；Water stewardship；Mitigation；Adaptation and resilience；Energy；Extreme event forecasting；and early warning systems；Transportation；Circular economy；Nature and biodiversity；Learn more in the Our products section.；Learn more in the Ouroperations section.",
+    "entities": [
+      "What a visual citation looks like",
+      "Google 2024 Environmental Report, p. 6",
+      "The spans answering \"which topics did Google assess as material？\"",
+      "\"， lit up on the page.",
+      "G",
+      "2024 Environmental Report",
+      "Our sustainability strategy",
+      "We believe Google has a unique opportunity that extends beyond managing the environmental impact of our own operations and value chain. Our products, which are used by billions of people every",
+      "day, can enable decisions that drive positive action for the environment. The figure below illustrates these two pillars of our sustainability strategy. supported by our dedication to accessible information",
+      "and technological innovation. To learn more about our sustainability governance, stakeholder engagement, environmental data, and more, see the Appendix.",
+      "Our products",
+      "Our operations",
+      "Were empowering people with information to mitigate and adapt",
+      "Were working to drive sustainability across our operations in four key ways.",
+      "to climate change—focusing on sectors like energy and transportation",
+      "accelerating the transition to a net-zero carbon future, advancing water stewardship",
+      "where Google's unique capabilities can have a meaningful impact.",
+      "building a circular economy, and restoring nature and biodiversity.",
+      "Net-zero carbon",
+      "Water stewardship",
+      "Mitigation",
+      "Adaptation and resilience",
+      "Energy",
+      "Extreme event forecasting",
+      "and early warning systems",
+      "Transportation",
+      "Circular economy",
+      "Nature and biodiversity",
+      "Learn more in the Our products section.",
+      "Learn more in the Ouroperations section.",
+      "Information and innovation",
+      "Were helping to lead the transition to a more sustainable future by making information accessible and by driving innovation forward."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fc62991c3243fbf70582b155ce142c40dfb2b37803192ffcfde0589be39f716b"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-004",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a46a85684ec8cebc5356d9d_retrieval-qa.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-004.png",
+    "section": "pull full page images for just the retrieved rows, addressed by row",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09156977186931087,
+          0.9371316308226187,
+          0.2950581284166939,
+          0.02753268029580269
+        ],
+        "confidence": 0.5,
+        "text": "From question to cited answer"
+      },
+      {
+        "boundingBox": [
+          0.09156977070275145,
+          0.9037102473031303,
+          0.4244185963125204,
+          0.021643109540635974
+        ],
+        "confidence": 0.5,
+        "text": "The hybrid bundle finds the pages; the agent answers and cites them."
+      },
+      {
+        "boundingBox": [
+          0.11918604678246214,
+          0.825088338861215,
+          0.07558139372743453,
+          0.0177407374230375
+        ],
+        "confidence": 1,
+        "text": "QUESTION"
+      },
+      {
+        "boundingBox": [
+          0.1206395499867253,
+          0.7701375253293339,
+          0.4593022996389523,
+          0.0355161845473434
+        ],
+        "confidence": 1,
+        "text": "What drove the change in Alibaba's carbon"
+      },
+      {
+        "boundingBox": [
+          0.11773255523534575,
+          0.7287985864404574,
+          0.22093023394791328,
+          0.035445027974805976
+        ],
+        "confidence": 0.5,
+        "text": "intensity in FY2024？"
+      },
+      {
+        "boundingBox": [
+          0.11918605484502723,
+          0.6068904592565207,
+          0.23110463911808501,
+          0.017863961074883083
+        ],
+        "confidence": 0.5,
+        "text": "HYBRID BUNDLE - TOP PAGES"
+      },
+      {
+        "boundingBox": [
+          0.13517441909064057,
+          0.5499116609245533,
+          0.030523255350695583,
+          0.023851590106007126
+        ],
+        "confidence": 1,
+        "text": "p10"
+      },
+      {
+        "boundingBox": [
+          0.20058139586261878,
+          0.5499116605643701,
+          0.033430231457902,
+          0.023851590106007015
+        ],
+        "confidence": 1,
+        "text": "p26"
+      },
+      {
+        "boundingBox": [
+          0.2674418609703528,
+          0.5499116606036628,
+          0.03633720756510839,
+          0.023851590106007126
+        ],
+        "confidence": 1,
+        "text": "p29"
+      },
+      {
+        "boundingBox": [
+          0.3313953497936079,
+          0.5461689594345627,
+          0.04069767297092364,
+          0.02946954733912599
+        ],
+        "confidence": 0.5,
+        "text": "p31"
+      },
+      {
+        "boundingBox": [
+          0.4113372094624416,
+          0.5499116610427188,
+          0.03924418616232611,
+          0.02572684574464179
+        ],
+        "confidence": 1,
+        "text": "p170"
+      },
+      {
+        "boundingBox": [
+          0.1191860437959196,
+          0.4871908128171556,
+          0.4549418715833061,
+          0.02361468797016486
+        ],
+        "confidence": 0.5,
+        "text": "pooled from chunk, page, and figure matches, then deduped by page_id"
+      },
+      {
+        "boundingBox": [
+          0.11918604820852564,
+          0.35756385092981224,
+          0.2688953409618248,
+          0.021611001382025763
+        ],
+        "confidence": 0.3,
+        "text": "ANSWER • cited pp. 10, 26, 29, 31, 170"
+      },
+      {
+        "boundingBox": [
+          0.11918604757436674,
+          0.3083038866886507,
+          0.5581395321041736,
+          0.027826855123674887
+        ],
+        "confidence": 0.5,
+        "text": "Carbon intensity fell to 12.8 MtCOze / million RMB, down from 14.1a"
+      },
+      {
+        "boundingBox": [
+          0.11918605510141204,
+          0.2689929330247579,
+          0.48837208561112927,
+          0.027826855123674887
+        ],
+        "confidence": 0.5,
+        "text": "year earlier. The decline was driven mainly by efficiency and"
+      },
+      {
+        "boundingBox": [
+          0.11918605527768898,
+          0.22968197858715877,
+          0.5523255749097381,
+          0.027826855123674887
+        ],
+        "confidence": 0.5,
+        "text": "digitalization gains, a shift to clean electricity （39% of consumption），"
+      },
+      {
+        "boundingBox": [
+          0.11918606048608835,
+          0.19253438146411284,
+          0.4709302140278231,
+          0.025663498012421404
+        ],
+        "confidence": 1,
+        "text": "and value-chain reductions across suppliers and logistics."
+      },
+      {
+        "boundingBox": [
+          0.1468023236009345,
+          0.1296660124003024,
+          0.37209302140278233,
+          0.023602538732252376
+        ],
+        "confidence": 0.5,
+        "text": "grounded in the retrieved pages, every claim traceable"
+      }
+    ],
+    "ocr_text": "From question to cited answer\nThe hybrid bundle finds the pages; the agent answers and cites them.\nQUESTION\nWhat drove the change in Alibaba's carbon\nintensity in FY2024？\nHYBRID BUNDLE - TOP PAGES\np10\np26\np29\np31\np170\npooled from chunk, page, and figure matches, then deduped by page_id\nANSWER • cited pp. 10, 26, 29, 31, 170\nCarbon intensity fell to 12.8 MtCOze / million RMB, down from 14.1a\nyear earlier. The decline was driven mainly by efficiency and\ndigitalization gains, a shift to clean electricity （39% of consumption），\nand value-chain reductions across suppliers and logistics.\ngrounded in the retrieved pages, every claim traceable",
+    "description": "pull full page images for just the retrieved rows, addressed by row中的配图，包含文字：From question to cited answer；The hybrid bundle finds the pages; the agent answers and cites them.；QUESTION；What drove the change in Alibaba's carbon；intensity in FY2024？；HYBRID BUNDLE - TOP PAGES；p10；p26；p29；p31；p170；pooled from chunk, page, and figure matches, then deduped by page_id；ANSWER • cited pp. 10, 26, 29, 31, 170；Carbon intensity fell to 12.8 MtCOze / million RMB, down from 14.1a；year earlier. The decline was driven mainly by efficiency and；digitalization gains, a shift to clean electricity （39% of consumption），；and value-chain reductions across suppliers and logistics.；grounded in the retrieved pages, every claim traceable",
+    "entities": [
+      "From question to cited answer",
+      "The hybrid bundle finds the pages; the agent answers and cites them.",
+      "QUESTION",
+      "What drove the change in Alibaba's carbon",
+      "intensity in FY2024？",
+      "HYBRID BUNDLE - TOP PAGES",
+      "p10",
+      "p26",
+      "p29",
+      "p31",
+      "p170",
+      "pooled from chunk, page, and figure matches, then deduped by page_id",
+      "ANSWER • cited pp. 10, 26, 29, 31, 170",
+      "Carbon intensity fell to 12.8 MtCOze / million RMB, down from 14.1a",
+      "year earlier. The decline was driven mainly by efficiency and",
+      "digitalization gains, a shift to clean electricity （39% of consumption），",
+      "and value-chain reductions across suppliers and logistics.",
+      "grounded in the retrieved pages, every claim traceable"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "35b434f4703e4c20c5742f098c6147adf933a498a3728795bae103378ef483a0"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-005",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a46a8b095640fd703f9aeaf_agent-loop.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-005.png",
+    "section": "From evidence to answers: a minimal agent loop",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04065041358734544,
+          0.8666666673544668,
+          0.25880757649739583,
+          0.06673497059306155
+        ],
+        "confidence": 1,
+        "text": "The answer-and-judge loop"
+      },
+      {
+        "boundingBox": [
+          0.042005434512883084,
+          0.7958333337241834,
+          0.4024390055338542,
+          0.05047814181593602
+        ],
+        "confidence": 0.5,
+        "text": "Run once per benchmark question, then aggregated across all fifty."
+      },
+      {
+        "boundingBox": [
+          0.2506578300964862,
+          0.5788737960964787,
+          0.07185507202148439,
+          0.046419073323734406
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.5108401081441077,
+          0.5747950814096963,
+          0.10840108235677093,
+          0.05020491803278693
+        ],
+        "confidence": 1,
+        "text": "Answer agent"
+      },
+      {
+        "boundingBox": [
+          0.7710027111648903,
+          0.5706967204345141,
+          0.0840108388264974,
+          0.058469944312924294
+        ],
+        "confidence": 0.5,
+        "text": "LLM judge"
+      },
+      {
+        "boundingBox": [
+          0.06365893138306668,
+          0.5621092745625149,
+          0.07051411437988282,
+          0.046614783709166496
+        ],
+        "confidence": 1,
+        "text": "Question"
+      },
+      {
+        "boundingBox": [
+          0.2506775084219914,
+          0.5122950826966799,
+          0.14498645019531248,
+          0.04200819672131151
+        ],
+        "confidence": 0.5,
+        "text": "hybrid bundle - top pages"
+      },
+      {
+        "boundingBox": [
+          0.5108401108698155,
+          0.5122950823494578,
+          0.10569105021158853,
+          0.0420081967213114
+        ],
+        "confidence": 0.5,
+        "text": "PydanticAl•gpt-5.4"
+      },
+      {
+        "boundingBox": [
+          0.7710027146899436,
+          0.5122950827661243,
+          0.13279132080078127,
+          0.04200819672131151
+        ],
+        "confidence": 0.5,
+        "text": "PydanticAl•gpt-5.4-mini"
+      },
+      {
+        "boundingBox": [
+          0.06368563632838967,
+          0.4958333333855668,
+          0.10840108235677084,
+          0.033333332812199856
+        ],
+        "confidence": 0.5,
+        "text": "from the benchmark"
+      },
+      {
+        "boundingBox": [
+          0.24932249503038195,
+          0.45799180239252135,
+          0.13008129882812497,
+          0.04200819672131151
+        ],
+        "confidence": 0.5,
+        "text": "text + page screenshots"
+      },
+      {
+        "boundingBox": [
+          0.5108401098271299,
+          0.45799180239252135,
+          0.1300812988281249,
+          0.04200819672131151
+        ],
+        "confidence": 0.5,
+        "text": "- answer + cited pages"
+      },
+      {
+        "boundingBox": [
+          0.7853333339303531,
+          0.4538934421803177,
+          0.06426016235351562,
+          0.04610655737704905
+        ],
+        "confidence": 0.5,
+        "text": "score （0-1）"
+      },
+      {
+        "boundingBox": [
+          0.7710027099126386,
+          0.15368852467711958,
+          0.16260162353515628,
+          0.03797814103423569
+        ],
+        "confidence": 1,
+        "text": "expected answer （benchmark）"
+      }
+    ],
+    "ocr_text": "The answer-and-judge loop\nRun once per benchmark question, then aggregated across all fifty.\nLanceDB\nAnswer agent\nLLM judge\nQuestion\nhybrid bundle - top pages\nPydanticAl•gpt-5.4\nPydanticAl•gpt-5.4-mini\nfrom the benchmark\ntext + page screenshots\n- answer + cited pages\nscore （0-1）\nexpected answer （benchmark）",
+    "description": "From evidence to answers: a minimal agent loop中的配图，包含文字：The answer-and-judge loop；Run once per benchmark question, then aggregated across all fifty.；LanceDB；Answer agent；LLM judge；Question；hybrid bundle - top pages；PydanticAl•gpt-5.4；PydanticAl•gpt-5.4-mini；from the benchmark；text + page screenshots；- answer + cited pages；score （0-1）；expected answer （benchmark）",
+    "entities": [
+      "The answer-and-judge loop",
+      "Run once per benchmark question, then aggregated across all fifty.",
+      "LanceDB",
+      "Answer agent",
+      "LLM judge",
+      "Question",
+      "hybrid bundle - top pages",
+      "PydanticAl•gpt-5.4",
+      "PydanticAl•gpt-5.4-mini",
+      "from the benchmark",
+      "text + page screenshots",
+      "- answer + cited pages",
+      "score （0-1）",
+      "expected answer （benchmark）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0aa8b0fb897d8eda2c752068e34ea711b5f49b12612a6abfcb6bf05d6b53ee9"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-006",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-006.avif",
+    "section": "What this stack enables",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What this stack enables中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-007",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69d42a31ae8b0adc91d7ac09_Clelia%20Astra%20Bertelli%20-%20Llamaindex.avif",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-007.avif",
+    "section": "What this stack enables",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What this stack enables中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ee0c5554fcaff674d48ccd448f3c10f9193121b2f609fe2ffed97ad576720896"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-008",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-008.png",
+    "section": "What this stack enables",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "What this stack enables中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-009",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-009.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b-fig-010",
+    "doc_id": "1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1404-https-www-lancedb-com-blog-from-messy-pdfs-to-ve-888f141b/figure-010.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

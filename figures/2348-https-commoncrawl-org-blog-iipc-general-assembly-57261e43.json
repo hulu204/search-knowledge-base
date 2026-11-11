@@ -1,0 +1,779 @@
+[
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-001",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-002",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-002.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "Thom Vaughan",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-003",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-003.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-004",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/67fff22d44c1588a2bc496b7_nbno-front.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-004.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "National Library of Norway: the home of Norwegian knowledge and heritage in Oslo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ae546d5f93fe631931be277a33a1bbc2d52a5f16a253a6f6a01648cf1b3fb56f"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-005",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/67fff26aafdd6c9d36a46799_nbno-sebastian.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-005.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "Sebastian Nagel presenting for Common Crawl at the IIPC General Assembly 2025 at the National Library of Norway",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          -0.0025826501437788726,
+          0.8251231815994025,
+          0.06427036012922015,
+          0.03850975490751729
+        ],
+        "confidence": 0.3,
+        "text": "TONAL"
+      },
+      {
+        "boundingBox": [
+          0.26595717891639964,
+          0.7595178654381464,
+          0.19656692989288815,
+          0.0851427512194114
+        ],
+        "confidence": 0.5,
+        "text": "\"Popularity\" of Data Formats I"
+      },
+      {
+        "boundingBox": [
+          -0.0024281802202532057,
+          0.7816917453840446,
+          0.05005129935249449,
+          0.034336526557882
+        ],
+        "confidence": 0.5,
+        "text": "TION"
+      },
+      {
+        "boundingBox": [
+          0.28188627774961483,
+          0.7856235318179143,
+          0.06563615798950195,
+          0.03364534226674887
+        ],
+        "confidence": 0.5,
+        "text": "Data Requesled By Formal"
+      },
+      {
+        "boundingBox": [
+          4.5638509021333423e-10,
+          0.7674418613732168,
+          0.0290697661657182,
+          0.023255812427985023
+        ],
+        "confidence": 1,
+        "text": "UM"
+      },
+      {
+        "boundingBox": [
+          0.41984162034481326,
+          0.74105853908046,
+          0.05271652009752065,
+          0.029302327090470204
+        ],
+        "confidence": 0.3,
+        "text": "Data Renuested By Fomal"
+      },
+      {
+        "boundingBox": [
+          0.26453488228632616,
+          0.6957364357196667,
+          0.005813956024154798,
+          0.03682170343146751
+        ],
+        "confidence": 0.3,
+        "text": "PiB Requested"
+      },
+      {
+        "boundingBox": [
+          0.7093878250772528,
+          0.6117191057799558,
+          0.03496922008574954,
+          0.024053808242555652
+        ],
+        "confidence": 0.5,
+        "text": "National"
+      },
+      {
+        "boundingBox": [
+          0.7101967808072905,
+          0.5948121642742665,
+          0.039691412259661996,
+          0.024895647846201796
+        ],
+        "confidence": 0.5,
+        "text": "Library of"
+      },
+      {
+        "boundingBox": [
+          0.7103625155551174,
+          0.5826037390930796,
+          0.03266074165465338,
+          0.022161423213898246
+        ],
+        "confidence": 1,
+        "text": "Norway"
+      },
+      {
+        "boundingBox": [
+          0.418604651101007,
+          0.5638227515810019,
+          0.02325581368945895,
+          0.011904761904761862
+        ],
+        "confidence": 0.3,
+        "text": "离。兔"
+      },
+      {
+        "boundingBox": [
+          0.17634698430443835,
+          0.29108142916418,
+          0.03145868721462433,
+          0.2142912042204035
+        ],
+        "confidence": 0.3,
+        "text": "對對因對的的的的質國的成"
+      }
+    ],
+    "ocr_text": "TONAL\n\"Popularity\" of Data Formats I\nTION\nData Requesled By Formal\nUM\nData Renuested By Fomal\nPiB Requested\nNational\nLibrary of\nNorway\n离。兔\n對對因對的的的的質國的成",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，包含文字：TONAL；\"Popularity\" of Data Formats I；TION；Data Requesled By Formal；UM；Data Renuested By Fomal；PiB Requested；National；Library of；Norway；离。兔；對對因對的的的的質國的成",
+    "entities": [
+      "TONAL",
+      "\"Popularity\" of Data Formats I",
+      "TION",
+      "Data Requesled By Formal",
+      "UM",
+      "Data Renuested By Fomal",
+      "PiB Requested",
+      "National",
+      "Library of",
+      "Norway",
+      "离。兔",
+      "對對因對的的的的質國的成"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "93c7617c060e5f0ab48432bbe9eeef99bc135a260acfb7687d17a25073b40aa2"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-006",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/67fff29212d767e373819d7c_nbno-pedro.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-006.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "Pedro Ortiz Suarez presenting at the IIPC WAC 2025 for Common Crawl on ARC and WARC formats",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.23392649576046787,
+          0.6863717097196529,
+          0.3271877954876612,
+          0.25813903001250404
+        ],
+        "confidence": 0.3,
+        "text": "•/isauibkcudanks fo matalovig ore he tb cryabge.numberof"
+      },
+      {
+        "boundingBox": [
+          0.23838782431216796,
+          0.6597834975578432,
+          0.32901512630402097,
+          0.24294700824394422
+        ],
+        "confidence": 0.3,
+        "text": "aatiasriahojatbofay ipe bor teawpase ohstbonge maigeement and"
+      },
+      {
+        "boundingBox": [
+          0.2310498427335586,
+          0.589946605132909,
+          0.356661872258262,
+          0.2188953419841786
+        ],
+        "confidence": 0.3,
+        "text": "tiapueshan ARCiesbspecadeadby aone /iie headerdescribing the harvested"
+      },
+      {
+        "boundingBox": [
+          0.2363059300715698,
+          0.5655626174393209,
+          0.363646734328497,
+          0.2022999556607039
+        ],
+        "confidence": 0.3,
+        "text": "conrsarao/b bpsih Tnsblivedby teretreva/potocd/esponsemnessagesand"
+      },
+      {
+        "boundingBox": [
+          0.2293211814034574,
+          0.5007173187468925,
+          0.27274921962193077,
+          0.11916633888527195
+        ],
+        "confidence": 0.3,
+        "text": "• Te HMIRC Meb ARChie/bomatis intodlcedin 2008as an extension"
+      },
+      {
+        "boundingBox": [
+          0.2276327394313561,
+          0.4644946636534254,
+          0.30635146489219056,
+          0.10661839681958396
+        ],
+        "confidence": 0.3,
+        "text": "•TeIARC tmnailgenealdzes ARCtobeter suppgr tgrvesting, access, alinw"
+      },
+      {
+        "boundingBox": [
+          0.22723079721010678,
+          0.42575152725971455,
+          0.3038314032176185,
+          0.08484190986270002
+        ],
+        "confidence": 0.3,
+        "text": "• Basis the ninay courtent WA.RC.accopyottes related content suchas"
+      },
+      {
+        "boundingBox": [
+          0.4709302335306922,
+          0.43217054311986025,
+          0.03779069582621253,
+          0.029138980088410538
+        ],
+        "confidence": 0.3,
+        "text": "xmatl"
+      },
+      {
+        "boundingBox": [
+          0.2337055231729906,
+          0.39582539008937045,
+          0.19895379505460226,
+          0.05534375407708381
+        ],
+        "confidence": 0.3,
+        "text": "nrettha abievalet duplcate deteoi events ater-0o"
+      },
+      {
+        "boundingBox": [
+          0.23365879765217398,
+          0.3692582834700928,
+          0.10240149876428031,
+          0.027047745134464618
+        ],
+        "confidence": 0.3,
+        "text": "Semerlalinofage /esoulICes"
+      }
+    ],
+    "ocr_text": "•/isauibkcudanks fo matalovig ore he tb cryabge.numberof\naatiasriahojatbofay ipe bor teawpase ohstbonge maigeement and\ntiapueshan ARCiesbspecadeadby aone /iie headerdescribing the harvested\nconrsarao/b bpsih Tnsblivedby teretreva/potocd/esponsemnessagesand\n• Te HMIRC Meb ARChie/bomatis intodlcedin 2008as an extension\n•TeIARC tmnailgenealdzes ARCtobeter suppgr tgrvesting, access, alinw\n• Basis the ninay courtent WA.RC.accopyottes related content suchas\nxmatl\nnrettha abievalet duplcate deteoi events ater-0o\nSemerlalinofage /esoulICes",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，包含文字：•/isauibkcudanks fo matalovig ore he tb cryabge.numberof；aatiasriahojatbofay ipe bor teawpase ohstbonge maigeement and；tiapueshan ARCiesbspecadeadby aone /iie headerdescribing the harvested；conrsarao/b bpsih Tnsblivedby teretreva/potocd/esponsemnessagesand；• Te HMIRC Meb ARChie/bomatis intodlcedin 2008as an extension；•TeIARC tmnailgenealdzes ARCtobeter suppgr tgrvesting, access, alinw；• Basis the ninay courtent WA.RC.accopyottes related content suchas；xmatl；nrettha abievalet duplcate deteoi events ater-0o；Semerlalinofage /esoulICes",
+    "entities": [
+      "•/isauibkcudanks fo matalovig ore he tb cryabge.numberof",
+      "aatiasriahojatbofay ipe bor teawpase ohstbonge maigeement and",
+      "tiapueshan ARCiesbspecadeadby aone /iie headerdescribing the harvested",
+      "conrsarao/b bpsih Tnsblivedby teretreva/potocd/esponsemnessagesand",
+      "• Te HMIRC Meb ARChie/bomatis intodlcedin 2008as an extension",
+      "•TeIARC tmnailgenealdzes ARCtobeter suppgr tgrvesting, access, alinw",
+      "• Basis the ninay courtent WA.RC.accopyottes related content suchas",
+      "xmatl",
+      "nrettha abievalet duplcate deteoi events ater-0o",
+      "Semerlalinofage /esoulICes"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e64101ba02fe17f987d39f9d34cb11562e7da4420eec3e02c2dd758b9dba14a7"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-007",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/67fff45ffd570917ce2fc86a_nbno-thom.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-007.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "Thom Vaughan presenting at the IIPC WAC 2025 for Common Crawl on the Robots Exclusion Protocol",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5853866078628519,
+          0.7595393856998955,
+          0.24164992947048614,
+          0.13179529825846348
+        ],
+        "confidence": 0.3,
+        "text": "The fobots Ercksion Protoco/"
+      },
+      {
+        "boundingBox": [
+          0.5628836231160744,
+          0.7128974839290265,
+          0.16511264377170143,
+          0.08124698384602869
+        ],
+        "confidence": 0.3,
+        "text": "•192/ROSOTS:AT DKSCUSSED ON MALLINGLIST"
+      },
+      {
+        "boundingBox": [
+          0.5675080280806903,
+          0.6499220088038775,
+          0.30575724283854167,
+          0.11447106933593754
+        ],
+        "confidence": 0.3,
+        "text": "• 2025F0BOTS TTIS THE MOST WDELY USED PROTOCOL TO BLOCK CRAWLING"
+      },
+      {
+        "boundingBox": [
+          0.5725991091293603,
+          0.7045954334040878,
+          0.10505281575520842,
+          0.052280395507812494
+        ],
+        "confidence": 0.3,
+        "text": "1926 MOFFCAL RFCPROPOSAL"
+      },
+      {
+        "boundingBox": [
+          0.5650623633743779,
+          0.6753596191012878,
+          0.1460921902126736,
+          0.06483293914794919
+        ],
+        "confidence": 0.3,
+        "text": "• 2022RFC R3D9 STANDARDILES THE REP"
+      },
+      {
+        "boundingBox": [
+          0.46353594871660636,
+          0.6565525494240814,
+          0.05836410861545144,
+          0.03404157257080076
+        ],
+        "confidence": 0.3,
+        "text": "AEeMTOML."
+      },
+      {
+        "boundingBox": [
+          0.5761388962033727,
+          0.6434373990332707,
+          0.13808803982204865,
+          0.05524251810709635
+        ],
+        "confidence": 0.3,
+        "text": "BYGENERATNE AICRAWLERSANDAGENTS"
+      },
+      {
+        "boundingBox": [
+          0.5872244548032227,
+          0.6344736197995181,
+          0.11681612141927089,
+          0.045446594238281235
+        ],
+        "confidence": 0.3,
+        "text": "HCH CRAWLERS/YUSER-AGENTS”）"
+      },
+      {
+        "boundingBox": [
+          0.8833333323462167,
+          0.6543604657824427,
+          0.05213178507486982,
+          0.027761628468831345
+        ],
+        "confidence": 0.3,
+        "text": "NC"
+      },
+      {
+        "boundingBox": [
+          0.5880501070395548,
+          0.6209204480512056,
+          0.11813697645399301,
+          0.04434035746256515
+        ],
+        "confidence": 0.3,
+        "text": "DOES TAS IMPACT WEB-ARCHVING.？"
+      },
+      {
+        "boundingBox": [
+          0.6044022488884631,
+          0.5947167705198688,
+          0.07241661241319441,
+          0.02369586054484052
+        ],
+        "confidence": 0.3,
+        "text": "VERENCE 2025 / POSTER SLAM /"
+      },
+      {
+        "boundingBox": [
+          0.8430232558353394,
+          0.5566860466730162,
+          0.015503875732421846,
+          0.011627906799316468
+        ],
+        "confidence": 0.3,
+        "text": "哎"
+      },
+      {
+        "boundingBox": [
+          0.8468992247980162,
+          0.5392441865964195,
+          0.011627906799316468,
+          0.014534882863362686
+        ],
+        "confidence": 0.3,
+        "text": "啟3"
+      },
+      {
+        "boundingBox": [
+          0.9321705426570447,
+          0.5116279073575989,
+          0.015503875732421846,
+          0.01603875923156739
+        ],
+        "confidence": 0.3,
+        "text": "m3"
+      },
+      {
+        "boundingBox": [
+          0.9379844963264089,
+          0.4593023256312644,
+          0.013565890842013872,
+          0.013081395467122392
+        ],
+        "confidence": 0.3,
+        "text": "的3"
+      },
+      {
+        "boundingBox": [
+          0.939922477447841,
+          0.4055232564494762,
+          0.013565897623697865,
+          0.05232558186848957
+        ],
+        "confidence": 0.3,
+        "text": "TCa TOn LCR"
+      },
+      {
+        "boundingBox": [
+          0.9054629205689174,
+          0.3775367462516037,
+          0.01878017086452899,
+          0.06476524861653654
+        ],
+        "confidence": 0.3,
+        "text": "CZ IEE ICR LCR"
+      },
+      {
+        "boundingBox": [
+          0.21027800050958786,
+          0.3962109058655454,
+          0.05795241970486112,
+          0.012700481414794962
+        ],
+        "confidence": 0.3,
+        "text": "BING CONFERENCE"
+      },
+      {
+        "boundingBox": [
+          0.21086862757252145,
+          0.40684212412551957,
+          0.041381011962890624,
+          0.008314876238505131
+        ],
+        "confidence": 0.3,
+        "text": "NOLASSEMBLY"
+      },
+      {
+        "boundingBox": [
+          0.2082151676597003,
+          0.388914492328968,
+          0.04273019070095488,
+          0.011911513010660846
+        ],
+        "confidence": 0.3,
+        "text": "W0ARIL.2025"
+      },
+      {
+        "boundingBox": [
+          0.0980620188253532,
+          0.2584302340295317,
+          0.046511623806423624,
+          0.030523254394531185
+        ],
+        "confidence": 0.3,
+        "text": "0.53"
+      }
+    ],
+    "ocr_text": "The fobots Ercksion Protoco/\n•192/ROSOTS:AT DKSCUSSED ON MALLINGLIST\n• 2025F0BOTS TTIS THE MOST WDELY USED PROTOCOL TO BLOCK CRAWLING\n1926 MOFFCAL RFCPROPOSAL\n• 2022RFC R3D9 STANDARDILES THE REP\nAEeMTOML.\nBYGENERATNE AICRAWLERSANDAGENTS\nHCH CRAWLERS/YUSER-AGENTS”）\nNC\nDOES TAS IMPACT WEB-ARCHVING.？\nVERENCE 2025 / POSTER SLAM /\n哎\n啟3\nm3\n的3\nTCa TOn LCR\nCZ IEE ICR LCR\nBING CONFERENCE\nNOLASSEMBLY\nW0ARIL.2025\n0.53",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，包含文字：The fobots Ercksion Protoco/；•192/ROSOTS:AT DKSCUSSED ON MALLINGLIST；• 2025F0BOTS TTIS THE MOST WDELY USED PROTOCOL TO BLOCK CRAWLING；1926 MOFFCAL RFCPROPOSAL；• 2022RFC R3D9 STANDARDILES THE REP；AEeMTOML.；BYGENERATNE AICRAWLERSANDAGENTS；HCH CRAWLERS/YUSER-AGENTS”）；NC；DOES TAS IMPACT WEB-ARCHVING.？；VERENCE 2025 / POSTER SLAM /；哎；啟3；m3；的3；TCa TOn LCR；CZ IEE ICR LCR；BING CONFERENCE；NOLASSEMBLY；W0ARIL.2025；0.53",
+    "entities": [
+      "The fobots Ercksion Protoco/",
+      "•192/ROSOTS:AT DKSCUSSED ON MALLINGLIST",
+      "• 2025F0BOTS TTIS THE MOST WDELY USED PROTOCOL TO BLOCK CRAWLING",
+      "1926 MOFFCAL RFCPROPOSAL",
+      "• 2022RFC R3D9 STANDARDILES THE REP",
+      "AEeMTOML.",
+      "BYGENERATNE AICRAWLERSANDAGENTS",
+      "HCH CRAWLERS/YUSER-AGENTS”）",
+      "NC",
+      "DOES TAS IMPACT WEB-ARCHVING.？",
+      "VERENCE 2025 / POSTER SLAM /",
+      "哎",
+      "啟3",
+      "m3",
+      "的3",
+      "TCa TOn LCR",
+      "CZ IEE ICR LCR",
+      "BING CONFERENCE",
+      "NOLASSEMBLY",
+      "W0ARIL.2025",
+      "0.53"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1cacc8828b8746f2e741358eb4cee55bdccb026a4d84f905baf70c79d8a2fd27"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-008",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/67fff49ebb69f011843b37f0_nbno-eot-team.webp",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-008.webp",
+    "section": "IIPC General Assembly & Web Archiving Conference 2025",
+    "alt": "Left to right: Thom Vaughan, Ilya Kreymer, Sawood Alam, Mark Phillips, Pedro Ortiz Suarez, Sebastian Nagel: members of the End of Term Archive team met at the IIPC WAC 2025",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "IIPC General Assembly & Web Archiving Conference 2025中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c5998ec5a8ffaabc256a2848baedfd325e867357f1200dc366ecd7a17487b242"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-009",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-009.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-010",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-011",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43-fig-012",
+    "doc_id": "2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2348-https-commoncrawl-org-blog-iipc-general-assembly-57261e43/figure-012.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

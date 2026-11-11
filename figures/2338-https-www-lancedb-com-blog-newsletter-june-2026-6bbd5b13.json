@@ -1,0 +1,934 @@
+[
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-001",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a4dcdef0a223cce1d172da8_june%20blog%20hero.png",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-001.png",
+    "section": "📊 Lance vs Delta vs Iceberg, 🔗 Lance Blob V2 Late Materialization, 🤖 Stable-Worldmodel Research Platform",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2458333319791667,
+          0.5333333341666666,
+          0.225,
+          0.1333333333333333
+        ],
+        "confidence": 1,
+        "text": "June"
+      },
+      {
+        "boundingBox": [
+          0.49990859127782544,
+          0.5328184626048724,
+          0.2501828193664551,
+          0.14177048294632533
+        ],
+        "confidence": 1,
+        "text": "2026"
+      },
+      {
+        "boundingBox": [
+          0.32122093568761073,
+          0.2916666662804629,
+          0.3924418449401856,
+          0.07525839628996678
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "June\n2026\n•LanceDB Newsletter",
+    "description": "📊 Lance vs Delta vs Iceberg, 🔗 Lance Blob V2 Late Materialization, 🤖 Stable-Worldmodel Research Platform中的配图，包含文字：June；2026；•LanceDB Newsletter",
+    "entities": [
+      "June",
+      "2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2e99d0ce2ba991770736bd2b3611bb8a54767c1420824e122d4d3d57a6fcc881"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-002",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d81c81d30006fedd602d_metadata%20benchmark%20hero.webp",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-002.webp",
+    "section": "‍📊 A Metadata Benchmark of Lance, Delta Lake, and Iceberg on S3",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09308925065871515,
+          0.8882910289861438,
+          0.1321548334757487,
+          0.05182030920446268
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.02333333717499997,
+          0.16272189344674548,
+          0.7683333333333333,
+          0.09763313609467461
+        ],
+        "confidence": 0.5,
+        "text": "A Metadata Benchmark of Lance，"
+      },
+      {
+        "boundingBox": [
+          0.02833333253030304,
+          0.06508875697955885,
+          0.6733333333333333,
+          0.09171597633136097
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake, and Iceberg on S3"
+      }
+    ],
+    "ocr_text": "LanceDB\nA Metadata Benchmark of Lance，\nDelta Lake, and Iceberg on S3",
+    "description": "‍📊 A Metadata Benchmark of Lance, Delta Lake, and Iceberg on S3中的配图，包含文字：LanceDB；A Metadata Benchmark of Lance，；Delta Lake, and Iceberg on S3",
+    "entities": [
+      "LanceDB",
+      "A Metadata Benchmark of Lance，",
+      "Delta Lake, and Iceberg on S3"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b9373d5ff688c020bea45bb9d139913e3707f8b08afa2f4a650bfa77d874a820"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-003",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a54e4d8e0a9a0910c4b3348_lance%20spark%20blob%20v2%20hero.webp",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-003.webp",
+    "section": "🔗 Lance Blob V2: Late Materialization for Large Binary Data in Spark",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09496566772518454,
+          0.8813731566941974,
+          0.14673533121744792,
+          0.05678031007213713
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.023333332249999995,
+          0.18343195223537134,
+          0.8716666666666667,
+          0.07692307692307698
+        ],
+        "confidence": 0.5,
+        "text": "Lance Blob V2: Late Materialization for"
+      },
+      {
+        "boundingBox": [
+          0.026666668672222185,
+          0.07100591734714012,
+          0.6016666666666667,
+          0.08579881656804733
+        ],
+        "confidence": 0.5,
+        "text": "Large Binary Data in Spark"
+      }
+    ],
+    "ocr_text": "LanceDB\nLance Blob V2: Late Materialization for\nLarge Binary Data in Spark",
+    "description": "🔗 Lance Blob V2: Late Materialization for Large Binary Data in Spark中的配图，包含文字：LanceDB；Lance Blob V2: Late Materialization for；Large Binary Data in Spark",
+    "entities": [
+      "LanceDB",
+      "Lance Blob V2: Late Materialization for",
+      "Large Binary Data in Spark"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e975de54ae11a25ebf767a49187b8f4e0394ba133ea299849ae9608f0532abe9"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-004",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d2f7dc90707fc128d076_stable-worldmodel-blog.webp",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-004.webp",
+    "section": "🤖 Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.25726745264518797,
+          0.5370370386868526,
+          0.48255812327067055,
+          0.0650301438790779
+        ],
+        "confidence": 0.5,
+        "text": "Stable-Worldmodel: A High"
+      },
+      {
+        "boundingBox": [
+          0.14970931039542268,
+          0.4599483214964243,
+          0.6991278966267903,
+          0.06718345924660019
+        ],
+        "confidence": 1,
+        "text": "Performance Platform for Reproducible"
+      },
+      {
+        "boundingBox": [
+          0.2979651188198592,
+          0.38981481378622784,
+          0.4026162783304851,
+          0.06018518518518523
+        ],
+        "confidence": 1,
+        "text": "World Model Research"
+      }
+    ],
+    "ocr_text": "Stable-Worldmodel: A High\nPerformance Platform for Reproducible\nWorld Model Research",
+    "description": "🤖 Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research中的配图，包含文字：Stable-Worldmodel: A High；Performance Platform for Reproducible；World Model Research",
+    "entities": [
+      "Stable-Worldmodel: A High",
+      "Performance Platform for Reproducible",
+      "World Model Research"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "086d5347f245d0855e3872043cf560a30767dc3435cf23924c03b5c1e6b74329"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-005",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d8f706a0ed54ce6c9aa5_aie%20recap.webp",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-005.webp",
+    "section": "📸 AI Engineer World's Fair in SF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3133333338125,
+          0.9142011835244083,
+          0.07666666666666666,
+          0.050295857988165715
+        ],
+        "confidence": 1,
+        "text": "SPIN"
+      },
+      {
+        "boundingBox": [
+          0.9383333328749999,
+          0.8668639054240631,
+          0.05500000000000005,
+          0.059171597633136064
+        ],
+        "confidence": 0.3,
+        "text": "mie"
+      },
+      {
+        "boundingBox": [
+          0.5299999992222223,
+          0.893491124112426,
+          0.046666666666666634,
+          0.020710059171597628
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.7716666673333333,
+          0.8520710060228234,
+          0.09333333333333327,
+          0.056213017751479244
+        ],
+        "confidence": 0.3,
+        "text": "4e playf"
+      },
+      {
+        "boundingBox": [
+          0.06333333358333333,
+          0.8520710060650888,
+          0.020000000000000004,
+          0.023668639053254448
+        ],
+        "confidence": 0.3,
+        "text": "PI"
+      },
+      {
+        "boundingBox": [
+          0.8661898014848914,
+          0.6607355331503191,
+          0.043262513478597,
+          0.10402803590311804
+        ],
+        "confidence": 0.3,
+        "text": "SPIN"
+      },
+      {
+        "boundingBox": [
+          0.9470114942354481,
+          0.6181391576932374,
+          0.04431034406026213,
+          0.04774535478219488
+        ],
+        "confidence": 0.3,
+        "text": "©AReSPi"
+      }
+    ],
+    "ocr_text": "SPIN\nmie\nLanceDB\n4e playf\nPI\nSPIN\n©AReSPi",
+    "description": "📸 AI Engineer World's Fair in SF中的配图，包含文字：SPIN；mie；LanceDB；4e playf；PI；SPIN；©AReSPi",
+    "entities": [
+      "SPIN",
+      "mie",
+      "LanceDB",
+      "4e playf",
+      "PI",
+      "©AReSPi"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e4b452b92e1ad455f7a3ae69a1cbc3ec04b566b50f6d62d8f2f19f7ff6179dac"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-006",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a4e984f4d57a50fe8418064_7-15%20lakehouse%20meetup.png",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-006.png",
+    "section": "📅 Upcoming Events",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05386416792021136,
+          0.7333333339351852,
+          0.22365339597066247,
+          0.10833333333333328
+        ],
+        "confidence": 1,
+        "text": "CLOUDERA"
+      },
+      {
+        "boundingBox": [
+          0.36299765514584337,
+          0.7203703710648148,
+          0.36182670593261723,
+          0.12592592592592589
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB Go gle Cloud"
+      },
+      {
+        "boundingBox": [
+          0.7479951637007917,
+          0.7118155584166196,
+          0.19956002235412607,
+          0.14303554958767362
+        ],
+        "confidence": 0.3,
+        "text": "T PuppyGraph"
+      },
+      {
+        "boundingBox": [
+          0.16861825688072993,
+          0.3370370369444444,
+          0.6604215621948242,
+          0.23379629629629628
+        ],
+        "confidence": 0.5,
+        "text": "Al Lakehouse Meetup"
+      },
+      {
+        "boundingBox": [
+          0.2248243695663225,
+          0.12037037078703705,
+          0.5503512700398763,
+          0.10925925925925928
+        ],
+        "confidence": 0.3,
+        "text": "Weanesday July 15•5-8PM• San Jose, CA"
+      }
+    ],
+    "ocr_text": "CLOUDERA\nLanceDB Go gle Cloud\nT PuppyGraph\nAl Lakehouse Meetup\nWeanesday July 15•5-8PM• San Jose, CA",
+    "description": "📅 Upcoming Events中的配图，包含文字：CLOUDERA；LanceDB Go gle Cloud；T PuppyGraph；Al Lakehouse Meetup；Weanesday July 15•5-8PM• San Jose, CA",
+    "entities": [
+      "CLOUDERA",
+      "LanceDB Go gle Cloud",
+      "T PuppyGraph",
+      "Al Lakehouse Meetup",
+      "Weanesday July 15•5-8PM• San Jose, CA"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7ef38913eed1c6e62223d3379dc9a94b6775442058932863bd87f50cae881071"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-007",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a4e988b36b242da9194da27_7%3A16%20ceph%20webinar.jpeg",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-007.jpg",
+    "section": "📅 Upcoming Events",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.485000000359375,
+          0.8933333335555556,
+          0.05750000000000005,
+          0.07999999999999996
+        ],
+        "confidence": 0.3,
+        "text": "』U"
+      },
+      {
+        "boundingBox": [
+          0.009818972508830069,
+          0.8520639713913282,
+          0.1653620529174805,
+          0.07809427897135413
+        ],
+        "confidence": 0.3,
+        "text": "SNIAS"
+      },
+      {
+        "boundingBox": [
+          0.20000000115,
+          0.8844444440444444,
+          0.14,
+          0.040000000000000036
+        ],
+        "confidence": 1,
+        "text": "Cloud Storage"
+      },
+      {
+        "boundingBox": [
+          0.1995163575214526,
+          0.8498733795938719,
+          0.1334057426452637,
+          0.04050623787773977
+        ],
+        "confidence": 1,
+        "text": "Technologies"
+      },
+      {
+        "boundingBox": [
+          0.022500004160714227,
+          0.6400000002857142,
+          0.5825,
+          0.11111111111111116
+        ],
+        "confidence": 0.5,
+        "text": "Ceph: Object Storage"
+      },
+      {
+        "boundingBox": [
+          0.025000003999999975,
+          0.537777778063492,
+          0.5599999999999999,
+          0.09333333333333327
+        ],
+        "confidence": 0.5,
+        "text": "Meets Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.04500000119642856,
+          0.2088888890793651,
+          0.1675,
+          0.04444444444444451
+        ],
+        "confidence": 0.5,
+        "text": "Live Webinar"
+      },
+      {
+        "boundingBox": [
+          0.04478673802890798,
+          0.14019993948983367,
+          0.1679265213012695,
+          0.061822344462076795
+        ],
+        "confidence": 0.5,
+        "text": "July 16, 2026"
+      },
+      {
+        "boundingBox": [
+          0.4250000017812499,
+          0.11555555605555556,
+          0.16750000000000004,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Christina Bassani"
+      },
+      {
+        "boundingBox": [
+          0.6475000011,
+          0.12000000022222213,
+          0.10999999999999999,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Kyle Bader"
+      },
+      {
+        "boundingBox": [
+          0.830000001425,
+          0.11555555568888898,
+          0.14250000000000007,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Prashanth Rao"
+      },
+      {
+        "boundingBox": [
+          0.04500000189999995,
+          0.08444444386666672,
+          0.32499999999999996,
+          0.05777777777777782
+        ],
+        "confidence": 0.5,
+        "text": "10:00 am PT/1:00 pm ET"
+      },
+      {
+        "boundingBox": [
+          0.4648370782698939,
+          0.061246914759811366,
+          0.08282584190368653,
+          0.04639506022135409
+        ],
+        "confidence": 1,
+        "text": "Seagate"
+      },
+      {
+        "boundingBox": [
+          0.685000000375,
+          0.08000000017777775,
+          0.03750000000000009,
+          0.03555555555555556
+        ],
+        "confidence": 1,
+        "text": "BM"
+      },
+      {
+        "boundingBox": [
+          0.8549825992873608,
+          0.07096748113169216,
+          0.09253479957580568,
+          0.03584281497531472
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "』U\nSNIAS\nCloud Storage\nTechnologies\nCeph: Object Storage\nMeets Vector Search\nLive Webinar\nJuly 16, 2026\nChristina Bassani\nKyle Bader\nPrashanth Rao\n10:00 am PT/1:00 pm ET\nSeagate\nBM\nLanceDB",
+    "description": "📅 Upcoming Events中的配图，包含文字：』U；SNIAS；Cloud Storage；Technologies；Ceph: Object Storage；Meets Vector Search；Live Webinar；July 16, 2026；Christina Bassani；Kyle Bader；Prashanth Rao；10:00 am PT/1:00 pm ET；Seagate；BM；LanceDB",
+    "entities": [
+      "』U",
+      "SNIAS",
+      "Cloud Storage",
+      "Technologies",
+      "Ceph: Object Storage",
+      "Meets Vector Search",
+      "Live Webinar",
+      "July 16, 2026",
+      "Christina Bassani",
+      "Kyle Bader",
+      "Prashanth Rao",
+      "10:00 am PT/1:00 pm ET",
+      "Seagate",
+      "BM",
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f35b849a1d81d542fa259910960320fbcb9c357d738dd2c0caccb6bdbe1bc9b8"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-008",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11763d_chanchan-mao.avif",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-008.avif",
+    "section": "🤝 Lance Community Sync Recap",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "🤝 Lance Community Sync Recap中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4427c54502be9dac51e1f7f09515bd847ed8788d47febe5bb03200f41d71a8c2"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-009",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-009.png",
+    "section": "🤝 Lance Community Sync Recap",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "🤝 Lance Community Sync Recap中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-010",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-010.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13-fig-011",
+    "doc_id": "2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/2338-https-www-lancedb-com-blog-newsletter-june-2026-6bbd5b13/figure-011.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,1938 @@
+[
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-001",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca0fff5e817c6eebb2e293_huggingface%20hero.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-001.avif",
+    "section": "Lance × Hugging Face: A New Era of Sharing Multimodal Data on the Hub",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09497291323531043,
+          0.8773852240677068,
+          0.14755417108535765,
+          0.05911844041612413
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Lance × Hugging Face: A New Era of Sharing Multimodal Data on the Hub中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e0ea55f6303f428cb8595ce28c443d104ff698338b1116baf7e517130e19b2aa"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-002",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029ad439866b54cc85289_hf_x_lance.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-002.avif",
+    "section": "Native support for Lance format",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.24542713143240594,
+          0.8304427257487342,
+          0.19373876253763836,
+          0.0858845746075666
+        ],
+        "confidence": 1,
+        "text": "Lance"
+      },
+      {
+        "boundingBox": [
+          0.6146428971674901,
+          0.8351391577342333,
+          0.21548164685567217,
+          0.06615579393174909
+        ],
+        "confidence": 0.5,
+        "text": "Hugging Face"
+      },
+      {
+        "boundingBox": [
+          0.23982558539509935,
+          0.7002583985548705,
+          0.5203488349914551,
+          0.06459948221842449
+        ],
+        "confidence": 0.5,
+        "text": "Lance now supports hf:// urls"
+      },
+      {
+        "boundingBox": [
+          0.16860465053964072,
+          0.5555555560619634,
+          0.2078488349914551,
+          0.04909560592086226
+        ],
+        "confidence": 1,
+        "text": "datasets API"
+      },
+      {
+        "boundingBox": [
+          0.6511627904547143,
+          0.5710594326818901,
+          0.017441860834757517,
+          0.033591729623299926
+        ],
+        "confidence": 0.3,
+        "text": "心"
+      },
+      {
+        "boundingBox": [
+          0.6889534881038657,
+          0.555555555206255,
+          0.1845930258433024,
+          0.04651162889268656
+        ],
+        "confidence": 0.5,
+        "text": "dataset API"
+      },
+      {
+        "boundingBox": [
+          0.09865731514369246,
+          0.43755548770672925,
+          0.2518136183420817,
+          0.03448980119493272
+        ],
+        "confidence": 0.5,
+        "text": "from datasets import Load_dataset"
+      },
+      {
+        "boundingBox": [
+          0.5683139559269513,
+          0.44166666623940865,
+          0.09302325248718257,
+          0.02603359222412116
+        ],
+        "confidence": 1,
+        "text": "import Lance"
+      },
+      {
+        "boundingBox": [
+          0.09883721622560149,
+          0.3796296294097231,
+          0.29651161829630535,
+          0.023611111111111027
+        ],
+        "confidence": 0.5,
+        "text": "# Return as a Hugging Face Load_dataset"
+      },
+      {
+        "boundingBox": [
+          0.5683139553441249,
+          0.3824074071960659,
+          0.20639533996582027,
+          0.02083333333333326
+        ],
+        "confidence": 0.5,
+        "text": "# Return as a Lance dataset"
+      },
+      {
+        "boundingBox": [
+          0.10029070299474435,
+          0.34861111112844767,
+          0.13662789662679037,
+          0.023611111111111138
+        ],
+        "confidence": 0.3,
+        "text": "ds = Load_dataset（"
+      },
+      {
+        "boundingBox": [
+          0.5683139535215748,
+          0.3486111115160446,
+          0.017441860834757517,
+          0.023611111111111138
+        ],
+        "confidence": 1,
+        "text": "ds"
+      },
+      {
+        "boundingBox": [
+          0.5915697700733096,
+          0.3486111110315485,
+          0.12209301789601645,
+          0.023611111111111138
+        ],
+        "confidence": 0.3,
+        "text": "= Lance.dataset（"
+      },
+      {
+        "boundingBox": [
+          0.11482559040140543,
+          0.3178294583024096,
+          0.1744185924530029,
+          0.023374245784900882
+        ],
+        "confidence": 1,
+        "text": "\"Lance-format/Laion-1m\""
+      },
+      {
+        "boundingBox": [
+          0.5843023404856126,
+          0.31524547840124195,
+          0.27325579325358074,
+          0.025958225462171747
+        ],
+        "confidence": 0.5,
+        "text": "\"hf://datasets/ .../data/train.Lance\""
+      },
+      {
+        "boundingBox": [
+          0.11337209344540972,
+          0.28148148170837095,
+          0.10610465208689371,
+          0.028703703703703676
+        ],
+        "confidence": 0.5,
+        "text": "split=\"train\"，"
+      },
+      {
+        "boundingBox": [
+          0.568313953439642,
+          0.28940568508329834,
+          0.007267441848913814,
+          0.01808785509180133
+        ],
+        "confidence": 0.5,
+        "text": "）"
+      },
+      {
+        "boundingBox": [
+          0.1144835818532444,
+          0.24955861774671562,
+          0.10687743822733563,
+          0.03391326974939424
+        ],
+        "confidence": 1,
+        "text": "streaming=True"
+      },
+      {
+        "boundingBox": [
+          0.09883720925359542,
+          0.22739018120732923,
+          0.007267441848913828,
+          0.01808785509180144
+        ],
+        "confidence": 0.5,
+        "text": "）"
+      },
+      {
+        "boundingBox": [
+          0.5697674355811162,
+          0.21944444406881813,
+          0.3691860516866048,
+          0.028703703703703676
+        ],
+        "confidence": 0.5,
+        "text": "scanner = ds.scanner（columns=［\"caption\"］，1imit=5）"
+      },
+      {
+        "boundingBox": [
+          0.09883721478367298,
+          0.16279069830245774,
+          0.17441859245300295,
+          0.020671833886040658
+        ],
+        "confidence": 0.5,
+        "text": "# Take first three rows"
+      },
+      {
+        "boundingBox": [
+          0.5697674399166374,
+          0.15740740719606594,
+          0.2776162783304851,
+          0.026055124953941022
+        ],
+        "confidence": 0.5,
+        "text": "rows = scanner.to_table（）.to_pylist（）"
+      },
+      {
+        "boundingBox": [
+          0.0988372093873388,
+          0.1263888886915966,
+          0.16715116500854488,
+          0.026065891760366888
+        ],
+        "confidence": 0.5,
+        "text": "for row in ds.take （3）："
+      },
+      {
+        "boundingBox": [
+          0.5697674439116603,
+          0.13178294636447319,
+          0.12063953081766765,
+          0.020671833886040547
+        ],
+        "confidence": 0.5,
+        "text": "for row in rows："
+      },
+      {
+        "boundingBox": [
+          0.11337209946903672,
+          0.09027777816591143,
+          0.2267441749572754,
+          0.031169250276353533
+        ],
+        "confidence": 0.5,
+        "text": "print（row［\"caption\"］，row［\"\"］）"
+      },
+      {
+        "boundingBox": [
+          0.5828488356976346,
+          0.09560723501499857,
+          0.15988372166951503,
+          0.025839793240582498
+        ],
+        "confidence": 0.5,
+        "text": "print （row［\"caption\"］）"
+      }
+    ],
+    "ocr_text": "Lance\nHugging Face\nLance now supports hf:// urls\ndatasets API\n心\ndataset API\nfrom datasets import Load_dataset\nimport Lance\n# Return as a Hugging Face Load_dataset\n# Return as a Lance dataset\nds = Load_dataset（\nds\n= Lance.dataset（\n\"Lance-format/Laion-1m\"\n\"hf://datasets/ .../data/train.Lance\"\nsplit=\"train\"，\n）\nstreaming=True\n）\nscanner = ds.scanner（columns=［\"caption\"］，1imit=5）\n# Take first three rows\nrows = scanner.to_table（）.to_pylist（）\nfor row in ds.take （3）：\nfor row in rows：\nprint（row［\"caption\"］，row［\"\"］）\nprint （row［\"caption\"］）",
+    "description": "Native support for Lance format中的配图，包含文字：Lance；Hugging Face；Lance now supports hf:// urls；datasets API；心；dataset API；from datasets import Load_dataset；import Lance；# Return as a Hugging Face Load_dataset；# Return as a Lance dataset；ds = Load_dataset（；ds；= Lance.dataset（；\"Lance-format/Laion-1m\"；\"hf://datasets/ .../data/train.Lance\"；split=\"train\"，；）；streaming=True；）；scanner = ds.scanner（columns=［\"caption\"］，1imit=5）；# Take first three rows；rows = scanner.to_table（）.to_pylist（）；for row in ds.take （3）：；for row in rows：；print（row［\"caption\"］，row［\"\"］）；print （row［\"caption\"］）",
+    "entities": [
+      "Lance",
+      "Hugging Face",
+      "Lance now supports hf:// urls",
+      "datasets API",
+      "心",
+      "dataset API",
+      "from datasets import Load_dataset",
+      "import Lance",
+      "# Return as a Hugging Face Load_dataset",
+      "# Return as a Lance dataset",
+      "ds = Load_dataset（",
+      "ds",
+      "= Lance.dataset（",
+      "\"Lance-format/Laion-1m\"",
+      "\"hf://datasets/ .../data/train.Lance\"",
+      "split=\"train\"，",
+      "）",
+      "streaming=True",
+      "scanner = ds.scanner（columns=［\"caption\"］，1imit=5）",
+      "# Take first three rows",
+      "rows = scanner.to_table（）.to_pylist（）",
+      "for row in ds.take （3）：",
+      "for row in rows：",
+      "print（row［\"caption\"］，row［\"\"］）",
+      "print （row［\"caption\"］）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5417eae0e7c64cf7e6ed197132591dfe58e80c896b3c83357c814a223c1a9118"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-003",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029ad439866b54cc85286_dataset-viewer.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-003.avif",
+    "section": "Preview Lance tables",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01594896406698563,
+          0.9621212121969697,
+          0.07496012759170653,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "Datasets："
+      },
+      {
+        "boundingBox": [
+          0.09728867642743223,
+          0.9570707068181818,
+          0.18500797448165873,
+          0.025252525252525193
+        ],
+        "confidence": 0.3,
+        "text": "② lance-format/1aion-1m 0"
+      },
+      {
+        "boundingBox": [
+          0.2982456144338118,
+          0.9621212122159091,
+          0.0318979266347687,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "> like"
+      },
+      {
+        "boundingBox": [
+          0.3619879211319256,
+          0.9592732322465898,
+          0.04795398134173767,
+          0.020847474685823153
+        ],
+        "confidence": 1,
+        "text": "Following"
+      },
+      {
+        "boundingBox": [
+          0.42583732041467304,
+          0.9621212118265994,
+          0.07017543859649122,
+          0.017676767676767624
+        ],
+        "confidence": 0.5,
+        "text": "Lance Format"
+      },
+      {
+        "boundingBox": [
+          0.5023923443181818,
+          0.964646464520202,
+          0.014354066985645897,
+          0.015151515151515249
+        ],
+        "confidence": 1,
+        "text": "11"
+      },
+      {
+        "boundingBox": [
+          0.9106858043460927,
+          0.9621212120265151,
+          0.08612440191387549,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "• Dataset card"
+      },
+      {
+        "boundingBox": [
+          0.02232854837092732,
+          0.8813131312049062,
+          0.038277511961722493,
+          0.02020202020202022
+        ],
+        "confidence": 0.5,
+        "text": "Split （1）"
+      },
+      {
+        "boundingBox": [
+          0.022328549800637934,
+          0.8611111111742424,
+          0.09250398724082934,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "train•66.6k rows"
+      },
+      {
+        "boundingBox": [
+          0.025518342783094058,
+          0.7904040404987374,
+          0.11802232854864433,
+          0.017676767676767735
+        ],
+        "confidence": 0.5,
+        "text": "Q Search this dataset"
+      },
+      {
+        "boundingBox": [
+          0.019123805213477642,
+          0.7423081905038276,
+          0.0622308600272098,
+          0.020434123097044177
+        ],
+        "confidence": 1,
+        "text": "image_path"
+      },
+      {
+        "boundingBox": [
+          0.10520377439968961,
+          0.7420900647307975,
+          0.044775863963831375,
+          0.02087037491075916
+        ],
+        "confidence": 1,
+        "text": "caption"
+      },
+      {
+        "boundingBox": [
+          0.29824561307814995,
+          0.7449494947916666,
+          0.07655502392344493,
+          0.017676767676767735
+        ],
+        "confidence": 0.5,
+        "text": "similarity 今"
+      },
+      {
+        "boundingBox": [
+          0.3843700152046784,
+          0.7474747473484848,
+          0.044657097288676284,
+          0.012626262626262652
+        ],
+        "confidence": 1,
+        "text": "LICENSE"
+      },
+      {
+        "boundingBox": [
+          0.02073365273125996,
+          0.7222222220012626,
+          0.03668261562998405,
+          0.017676767676767735
+        ],
+        "confidence": 1,
+        "text": "string"
+      },
+      {
+        "boundingBox": [
+          0.10685805478468899,
+          0.7222222224875889,
+          0.03668261562998404,
+          0.020202019599953158
+        ],
+        "confidence": 1,
+        "text": "string"
+      },
+      {
+        "boundingBox": [
+          0.23763955342902712,
+          0.7222222225589225,
+          0.038277511961722493,
+          0.020202019599953047
+        ],
+        "confidence": 1,
+        "text": "string"
+      },
+      {
+        "boundingBox": [
+          0.2981863014660567,
+          0.7268382514031797,
+          0.043180824656996075,
+          0.016020467185010823
+        ],
+        "confidence": 0.5,
+        "text": "float64"
+      },
+      {
+        "boundingBox": [
+          0.3843700159489633,
+          0.7222222225589225,
+          0.03827751196172252,
+          0.020202019599953047
+        ],
+        "confidence": 0.5,
+        "text": "string"
+      },
+      {
+        "boundingBox": [
+          0.45454545510366823,
+          0.7222222219276094,
+          0.036682615629984094,
+          0.017676767676767624
+        ],
+        "confidence": 1,
+        "text": "string"
+      },
+      {
+        "boundingBox": [
+          0.1052631593152823,
+          0.6515151513468014,
+          0.09728867015199799,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "For Xiaomi Redmi"
+      },
+      {
+        "boundingBox": [
+          0.019138756359649123,
+          0.638888888699495,
+          0.0558213716108453,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "208260348"
+      },
+      {
+        "boundingBox": [
+          0.2375593374087041,
+          0.6407279037412543,
+          0.049602219552704774,
+          0.016523991570328245
+        ],
+        "confidence": 0.5,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.3237639562732589,
+          0.6388888891835017,
+          0.0685805422647528,
+          0.017676767676767624
+        ],
+        "confidence": 0.3,
+        "text": "0.345212 ？"
+      },
+      {
+        "boundingBox": [
+          0.10526315899521528,
+          0.6287878788888889,
+          0.11004784688995216,
+          0.015151515151515249
+        ],
+        "confidence": 0.5,
+        "text": "Note 8 Pro Bakeey."
+      },
+      {
+        "boundingBox": [
+          0.452950561244019,
+          0.6060606061868686,
+          0.24242424242424243,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "https://alexnLd.com/wp-C_38bc-160x160.jpg z"
+      },
+      {
+        "boundingBox": [
+          0.01909038222912493,
+          0.532437000310128,
+          0.055918120121081286,
+          0.01845933150763468
+        ],
+        "confidence": 1,
+        "text": "208260329"
+      },
+      {
+        "boundingBox": [
+          0.10526316255823806,
+          0.5429292930555556,
+          0.09728867015199799,
+          0.017676767676767513
+        ],
+        "confidence": 1,
+        "text": "raul-castro-and-"
+      },
+      {
+        "boundingBox": [
+          0.10665525912188363,
+          0.5199334974778458,
+          0.08496901102993858,
+          0.020737924961128584
+        ],
+        "confidence": 0.5,
+        "text": "fidel-castro-="
+      },
+      {
+        "boundingBox": [
+          0.23763955334928233,
+          0.5353535353739003,
+          0.049441786283891564,
+          0.012626262626262652
+        ],
+        "confidence": 0.5,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.32370554606971164,
+          0.532409255119014,
+          0.049558606064110444,
+          0.01851482343192057
+        ],
+        "confidence": 0.5,
+        "text": "0.342231"
+      },
+      {
+        "boundingBox": [
+          0.38437001586921854,
+          0.5328282831228957,
+          0.00797448165869219,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "？"
+      },
+      {
+        "boundingBox": [
+          0.45295056044657095,
+          0.49747474718013474,
+          0.24242424242424238,
+          0.017676767676767624
+        ],
+        "confidence": 0.5,
+        "text": "https://centruldipLomatinited.jpg?w=486& 刁"
+      },
+      {
+        "boundingBox": [
+          0.017543858692185048,
+          0.44696969684343435,
+          0.05741626794258372,
+          0.017676767676767735
+        ],
+        "confidence": 1,
+        "text": "208260327"
+      },
+      {
+        "boundingBox": [
+          0.10526315791467304,
+          0.4444444441919192,
+          0.09728867623604466,
+          0.02020202020202022
+        ],
+        "confidence": 0.5,
+        "text": "The Wright Stuff"
+      },
+      {
+        "boundingBox": [
+          0.23762483037129556,
+          0.44937355063715634,
+          0.04947123306980167,
+          0.015394313166839813
+        ],
+        "confidence": 1,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.32215062403122274,
+          0.4443270440185112,
+          0.05107355193848434,
+          0.0204368215618711
+        ],
+        "confidence": 0.5,
+        "text": "0.356519"
+      },
+      {
+        "boundingBox": [
+          0.38437001586921854,
+          0.4469696972643098,
+          0.00797448165869219,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "？"
+      },
+      {
+        "boundingBox": [
+          0.45295056306220083,
+          0.4444444445454545,
+          0.48484848484848486,
+          0.02020202020202022
+        ],
+        "confidence": 1,
+        "text": "https://secure.gravatar.com/avatar/af3ea26d63ac6a3b4073223£771a073c?s=120&d=mm&r=g"
+      },
+      {
+        "boundingBox": [
+          0.10685805414673047,
+          0.37121212099116163,
+          0.08931419457735246,
+          0.017676767676767735
+        ],
+        "confidence": 0.5,
+        "text": "Cute Poztuguese"
+      },
+      {
+        "boundingBox": [
+          0.01913875542264754,
+          0.36363636353535356,
+          0.0558213716108453,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "208260314"
+      },
+      {
+        "boundingBox": [
+          0.23756828593391194,
+          0.363029930815596,
+          0.049584320287385075,
+          0.016364379964693643
+        ],
+        "confidence": 1,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.32200366485664567,
+          0.3574445117374895,
+          0.05296236856512282,
+          0.022484713130527023
+        ],
+        "confidence": 0.5,
+        "text": "0.340795"
+      },
+      {
+        "boundingBox": [
+          0.3827751195640617,
+          0.36111111204987845,
+          0.009569377990430616,
+          0.020202018997885984
+        ],
+        "confidence": 0.3,
+        "text": "？"
+      },
+      {
+        "boundingBox": [
+          0.10526315847953215,
+          0.34848484875021524,
+          0.1212121212121212,
+          0.020202019599953047
+        ],
+        "confidence": 0.3,
+        "text": "Water Pet Dog Anima."
+      },
+      {
+        "boundingBox": [
+          0.45295056225412,
+          0.3257575759259259,
+          0.24242424242424243,
+          0.02020202020202011
+        ],
+        "confidence": 0.5,
+        "text": "https://s.eczater.com/st.1285b_95566f.jpg a"
+      },
+      {
+        "boundingBox": [
+          0.10685805536948428,
+          0.2626262628916295,
+          0.11961722488038279,
+          0.020202019599953158
+        ],
+        "confidence": 0.5,
+        "text": "Deep Dish Sloppy Joe"
+      },
+      {
+        "boundingBox": [
+          0.019138756359649123,
+          0.2575757577651515,
+          0.0558213716108453,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "208260340"
+      },
+      {
+        "boundingBox": [
+          0.23759155519968797,
+          0.25717276590193605,
+          0.04953778341436313,
+          0.015957498791241864
+        ],
+        "confidence": 0.5,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.3221394909692486,
+          0.2523363239927401,
+          0.05109581954931719,
+          0.020579876321734747
+        ],
+        "confidence": 1,
+        "text": "0.328429"
+      },
+      {
+        "boundingBox": [
+          0.10526315752259438,
+          0.2449494952441078,
+          0.10845295055821375,
+          0.017676767676767624
+        ],
+        "confidence": 0.3,
+        "text": "Casserole- pizza."
+      },
+      {
+        "boundingBox": [
+          0.4545454585592768,
+          0.22222222230639732,
+          0.240829346092504,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "https://i.pinimg.com/236_cher-recipes.jpg z"
+      },
+      {
+        "boundingBox": [
+          0.10685805894313971,
+          0.15909090909090906,
+          0.10047846281547487,
+          0.015151515151515138
+        ],
+        "confidence": 0.3,
+        "text": "Great room : J.D."
+      },
+      {
+        "boundingBox": [
+          0.01913875542264754,
+          0.1489898988888888,
+          0.0558213716108453,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "208260352"
+      },
+      {
+        "boundingBox": [
+          0.2376134909710777,
+          0.14877371893804325,
+          0.04949391135378506,
+          0.015583875203373454
+        ],
+        "confidence": 1,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.323763954784689,
+          0.14646464617003363,
+          0.05901116427432218,
+          0.017676767676767624
+        ],
+        "confidence": 1,
+        "text": "0.283802"
+      },
+      {
+        "boundingBox": [
+          0.10526315639952157,
+          0.13636363626893944,
+          0.11961722488038277,
+          0.017676767676767624
+        ],
+        "confidence": 0.5,
+        "text": "Peterson Photography"
+      },
+      {
+        "boundingBox": [
+          0.4529505602206273,
+          0.11363636374158248,
+          0.24082934609250406,
+          0.017676767676767735
+        ],
+        "confidence": 0.5,
+        "text": "https://i.pinimg.com/236.ish-colonial.jpg z"
+      },
+      {
+        "boundingBox": [
+          0.10685805480462521,
+          0.04797979772727279,
+          0.10685805422647526,
+          0.02020202020202022
+        ],
+        "confidence": 0.5,
+        "text": "Standing Lamp Tree"
+      },
+      {
+        "boundingBox": [
+          0.01748313295272585,
+          0.04151384374197309,
+          0.05758751560436291,
+          0.01545962540790291
+        ],
+        "confidence": 1,
+        "text": "208260275"
+      },
+      {
+        "boundingBox": [
+          0.23763955384768742,
+          0.04292929311868687,
+          0.049441786283891564,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "UNLIKELY"
+      },
+      {
+        "boundingBox": [
+          0.32376395465709734,
+          0.040404040277777775,
+          0.0685805422647528,
+          0.017676767676767735
+        ],
+        "confidence": 0.3,
+        "text": "0.331249 ？"
+      },
+      {
+        "boundingBox": [
+          0.10526315940988834,
+          0.030303030334595915,
+          0.12121212121212122,
+          0.017676767676767624
+        ],
+        "confidence": 0.5,
+        "text": "Leaves Glitters Led.."
+      },
+      {
+        "boundingBox": [
+          0.4529505541733122,
+          0.005050505008417527,
+          0.24242424242424243,
+          0.017676767676767624
+        ],
+        "confidence": 0.3,
+        "text": "https://cdn.webshopapp.c.ers-Led-gold.jpg z"
+      }
+    ],
+    "ocr_text": "Datasets：\n② lance-format/1aion-1m 0\n> like\nFollowing\nLance Format\n11\n• Dataset card\nSplit （1）\ntrain•66.6k rows\nQ Search this dataset\nimage_path\ncaption\nsimilarity 今\nLICENSE\nstring\nstring\nstring\nfloat64\nstring\nstring\nFor Xiaomi Redmi\n208260348\nUNLIKELY\n0.345212 ？\nNote 8 Pro Bakeey.\nhttps://alexnLd.com/wp-C_38bc-160x160.jpg z\n208260329\nraul-castro-and-\nfidel-castro-=\nUNLIKELY\n0.342231\n？\nhttps://centruldipLomatinited.jpg?w=486& 刁\n208260327\nThe Wright Stuff\nUNLIKELY\n0.356519\n？\nhttps://secure.gravatar.com/avatar/af3ea26d63ac6a3b4073223£771a073c?s=120&d=mm&r=g\nCute Poztuguese\n208260314\nUNLIKELY\n0.340795\n？\nWater Pet Dog Anima.\nhttps://s.eczater.com/st.1285b_95566f.jpg a\nDeep Dish Sloppy Joe\n208260340\nUNLIKELY\n0.328429\nCasserole- pizza.\nhttps://i.pinimg.com/236_cher-recipes.jpg z\nGreat room : J.D.\n208260352\nUNLIKELY\n0.283802\nPeterson Photography\nhttps://i.pinimg.com/236.ish-colonial.jpg z\nStanding Lamp Tree\n208260275\nUNLIKELY\n0.331249 ？\nLeaves Glitters Led..\nhttps://cdn.webshopapp.c.ers-Led-gold.jpg z",
+    "description": "Preview Lance tables中的配图，包含文字：Datasets：；② lance-format/1aion-1m 0；> like；Following；Lance Format；11；• Dataset card；Split （1）；train•66.6k rows；Q Search this dataset；image_path；caption；similarity 今；LICENSE；string；string；string；float64；string；string；For Xiaomi Redmi；208260348；UNLIKELY；0.345212 ？；Note 8 Pro Bakeey.；https://alexnLd.com/wp-C_38bc-160x160.jpg z；208260329；raul-castro-and-；fidel-castro-=；UNLIKELY",
+    "entities": [
+      "Datasets：",
+      "② lance-format/1aion-1m 0",
+      "> like",
+      "Following",
+      "Lance Format",
+      "11",
+      "• Dataset card",
+      "Split （1）",
+      "train•66.6k rows",
+      "Q Search this dataset",
+      "image_path",
+      "caption",
+      "similarity 今",
+      "LICENSE",
+      "string",
+      "float64",
+      "For Xiaomi Redmi",
+      "208260348",
+      "UNLIKELY",
+      "0.345212 ？",
+      "Note 8 Pro Bakeey.",
+      "https://alexnLd.com/wp-C_38bc-160x160.jpg z",
+      "208260329",
+      "raul-castro-and-",
+      "fidel-castro-=",
+      "0.342231",
+      "？",
+      "https://centruldipLomatinited.jpg?w=486& 刁",
+      "208260327",
+      "The Wright Stuff",
+      "0.356519",
+      "https://secure.gravatar.com/avatar/af3ea26d63ac6a3b4073223£771a073c?s=120&d=mm&r=g",
+      "Cute Poztuguese",
+      "208260314",
+      "0.340795",
+      "Water Pet Dog Anima.",
+      "https://s.eczater.com/st.1285b_95566f.jpg a",
+      "Deep Dish Sloppy Joe",
+      "208260340",
+      "0.328429",
+      "Casserole- pizza.",
+      "https://i.pinimg.com/236_cher-recipes.jpg z",
+      "Great room : J.D.",
+      "208260352",
+      "0.283802",
+      "Peterson Photography",
+      "https://i.pinimg.com/236.ish-colonial.jpg z",
+      "Standing Lamp Tree",
+      "208260275",
+      "0.331249 ？",
+      "Leaves Glitters Led..",
+      "https://cdn.webshopapp.c.ers-Led-gold.jpg z"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c5fd3f12e5836def9b9ac6272105951a32dbc0899d8f2f5d3861fa121cb5ea10"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-004",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca1084f73f0ef7a51b40af_openvid-lance-viewer-hf.gif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-004.gif",
+    "section": "Preview video snippets",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01178782197937126,
+          0.9370629372377622,
+          0.2180746561886051,
+          0.027972027972028024
+        ],
+        "confidence": 0.3,
+        "text": "田 Dataset Viewer （First 5GB） ①"
+      },
+      {
+        "boundingBox": [
+          0.5127701400458414,
+          0.9405594406759906,
+          0.15127701375245584,
+          0.020979020979021046
+        ],
+        "confidence": 0.5,
+        "text": "t Auto-converted to Parquet"
+      },
+      {
+        "boundingBox": [
+          0.6777996069744596,
+          0.9440559441045067,
+          0.035363457760314354,
+          0.01748251748251739
+        ],
+        "confidence": 0.3,
+        "text": "《/2 API"
+      },
+      {
+        "boundingBox": [
+          0.7485265229862476,
+          0.9440559444055944,
+          0.03929273084479368,
+          0.020979020979021046
+        ],
+        "confidence": 1,
+        "text": "Embed"
+      },
+      {
+        "boundingBox": [
+          0.8251353219744072,
+          0.9404663188111246,
+          0.0511045999283406,
+          0.021165264236343462
+        ],
+        "confidence": 0.5,
+        "text": "Duplicate"
+      },
+      {
+        "boundingBox": [
+          0.8998035361984282,
+          0.9405594408653846,
+          0.015717092337917515,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "田"
+      },
+      {
+        "boundingBox": [
+          0.9174852641453831,
+          0.9405594404428904,
+          0.06483300589390961,
+          0.020979020979021046
+        ],
+        "confidence": 1,
+        "text": "Data Studio"
+      },
+      {
+        "boundingBox": [
+          0.009823182573673874,
+          0.8636363633566434,
+          0.049115913555992145,
+          0.027972027972027913
+        ],
+        "confidence": 0.3,
+        "text": "Split （1）"
+      },
+      {
+        "boundingBox": [
+          0.011787821512770087,
+          0.8321678326340326,
+          0.25736738703339884,
+          0.027972027138396638
+        ],
+        "confidence": 0.5,
+        "text": "train • ~938k rows （showing the first 1.79k）"
+      },
+      {
+        "boundingBox": [
+          0.013752457007203655,
+          0.7692307693764568,
+          0.14538310412573674,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "Q Search this dataset"
+      },
+      {
+        "boundingBox": [
+          0.007858546365422393,
+          0.6993006998251748,
+          0.07465618860510805,
+          0.03146853146853146
+        ],
+        "confidence": 0.5,
+        "text": "video_blob"
+      },
+      {
+        "boundingBox": [
+          0.3418467577285376,
+          0.702797202972028,
+          0.08055010010545055,
+          0.027972027972027913
+        ],
+        "confidence": 0.5,
+        "text": "video_path"
+      },
+      {
+        "boundingBox": [
+          0.7504911584479371,
+          0.7027972026660839,
+          0.05500982318271119,
+          0.02447552447552448
+        ],
+        "confidence": 1,
+        "text": "caption"
+      },
+      {
+        "boundingBox": [
+          0.9351669947937131,
+          0.7062937064685315,
+          0.05500982318271119,
+          0.020979020979020935
+        ],
+        "confidence": 1,
+        "text": "aesthet"
+      },
+      {
+        "boundingBox": [
+          0.007858546823837567,
+          0.6783216784382284,
+          0.03929273084479371,
+          0.020979020979021046
+        ],
+        "confidence": 0.5,
+        "text": "video"
+      },
+      {
+        "boundingBox": [
+          0.3457760353778952,
+          0.6748251752913752,
+          0.11394891195540813,
+          0.027972027138396638
+        ],
+        "confidence": 0.5,
+        "text": "string•lengths"
+      },
+      {
+        "boundingBox": [
+          0.7524557958415193,
+          0.6748251752913752,
+          0.11198428290766216,
+          0.027972027138396638
+        ],
+        "confidence": 0.5,
+        "text": "string• lengths"
+      },
+      {
+        "boundingBox": [
+          0.9351669947282252,
+          0.6783216787296037,
+          0.05304518664047153,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "float64"
+      },
+      {
+        "boundingBox": [
+          0.34577603094302556,
+          0.5804195802447553,
+          0.03929273084479368,
+          0.020979020979020935
+        ],
+        "confidence": 0.3,
+        "text": "79+86"
+      },
+      {
+        "boundingBox": [
+          0.4577603143418468,
+          0.5769230766171329,
+          0.031434184675834975,
+          0.02447552447552437
+        ],
+        "confidence": 0.5,
+        "text": "5.2%"
+      },
+      {
+        "boundingBox": [
+          0.752455796345776,
+          0.5804195805594405,
+          0.0692534381139489,
+          0.020979020979021046
+        ],
+        "confidence": 0.3,
+        "text": "989~1.25k."
+      },
+      {
+        "boundingBox": [
+          0.8546168959724951,
+          0.5769230766171329,
+          0.03929273084479379,
+          0.02447552447552437
+        ],
+        "confidence": 1,
+        "text": "28.4%"
+      },
+      {
+        "boundingBox": [
+          0.9351669947937131,
+          0.5769230770541958,
+          0.05500982318271119,
+          0.02447552447552459
+        ],
+        "confidence": 0.3,
+        "text": "5.2445."
+      },
+      {
+        "boundingBox": [
+          0.34774067933470304,
+          0.482517482983683,
+          0.24754418933321304,
+          0.027972027138396638
+        ],
+        "confidence": 1,
+        "text": "$3://1ancedb-demos/openvid/videos/"
+      },
+      {
+        "boundingBox": [
+          0.7504911598886707,
+          0.482517482109557,
+          0.16306483300589392,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "a breathtaking view of"
+      },
+      {
+        "boundingBox": [
+          0.3416666808259915,
+          0.45104895067217377,
+          0.33333331334801697,
+          0.038461538461538436
+        ],
+        "confidence": 0.5,
+        "text": "pixabay_zock_tormations_videos_141609._012.mp4"
+      },
+      {
+        "boundingBox": [
+          0.7504911593320235,
+          0.4545454548513985,
+          0.10609037328094306,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "a mountainous."
+      },
+      {
+        "boundingBox": [
+          0.34774067045186635,
+          0.3111888113636364,
+          0.24754420432220042,
+          0.02447552447552448
+        ],
+        "confidence": 1,
+        "text": "s3://1ancedb-demos/openvid/videos/"
+      },
+      {
+        "boundingBox": [
+          0.7504911614276357,
+          0.3111888113636363,
+          0.1375245579567781,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "a captivating view"
+      },
+      {
+        "boundingBox": [
+          0.8860510809102816,
+          0.3146853148018648,
+          0.0216110019646365,
+          0.020979020979020935
+        ],
+        "confidence": 0.5,
+        "text": "of"
+      },
+      {
+        "boundingBox": [
+          0.345776035731827,
+          0.27622377648601404,
+          0.343811394891945,
+          0.027972027972027913
+        ],
+        "confidence": 0.5,
+        "text": "pixabay_urban_green_spaces_videos_52011_012.mp4"
+      },
+      {
+        "boundingBox": [
+          0.752455797367387,
+          0.27972027982517467,
+          0.168958742632613,
+          0.02447552447552448
+        ],
+        "confidence": 0.3,
+        "text": "the sun, bathed in hue."
+      },
+      {
+        "boundingBox": [
+          0.34774066550098237,
+          0.1363636361888112,
+          0.24754420432220037,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "$3://1ancedb-demos/openvid/videos/"
+      },
+      {
+        "boundingBox": [
+          0.7524557972822528,
+          0.13636363677156182,
+          0.13948919449901775,
+          0.02447552447552448
+        ],
+        "confidence": 1,
+        "text": "an expansive aerial"
+      },
+      {
+        "boundingBox": [
+          0.34577603344793706,
+          0.10139860100524478,
+          0.2632612966601179,
+          0.03146853146853146
+        ],
+        "confidence": 0.5,
+        "text": "pixabay_valleys_videos_81709_005.mp4"
+      },
+      {
+        "boundingBox": [
+          0.752455799654254,
+          0.10839160798368297,
+          0.1159135484976479,
+          0.02447552447552448
+        ],
+        "confidence": 0.5,
+        "text": "view of a rural."
+      },
+      {
+        "boundingBox": [
+          0.3261296647347741,
+          0.02097902080419567,
+          0.07662082514734775,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "< Previous"
+      },
+      {
+        "boundingBox": [
+          0.463654223870334,
+          0.017482517890442972,
+          0.00982318271119842,
+          0.02447552447552448
+        ],
+        "confidence": 1,
+        "text": "2"
+      },
+      {
+        "boundingBox": [
+          0.49901768163064825,
+          0.020979021328671243,
+          0.009823182711198475,
+          0.020979020979020935
+        ],
+        "confidence": 1,
+        "text": "3"
+      },
+      {
+        "boundingBox": [
+          0.5834970529469548,
+          0.02097902107614613,
+          0.017681728880157177,
+          0.0174825174825175
+        ],
+        "confidence": 1,
+        "text": "18"
+      },
+      {
+        "boundingBox": [
+          0.6267190576948264,
+          0.017482517132867303,
+          0.047151277013752546,
+          0.020979020979020935
+        ],
+        "confidence": 0.3,
+        "text": "Next>"
+      }
+    ],
+    "ocr_text": "田 Dataset Viewer （First 5GB） ①\nt Auto-converted to Parquet\n《/2 API\nEmbed\nDuplicate\n田\nData Studio\nSplit （1）\ntrain • ~938k rows （showing the first 1.79k）\nQ Search this dataset\nvideo_blob\nvideo_path\ncaption\naesthet\nvideo\nstring•lengths\nstring• lengths\nfloat64\n79+86\n5.2%\n989~1.25k.\n28.4%\n5.2445.\n$3://1ancedb-demos/openvid/videos/\na breathtaking view of\npixabay_zock_tormations_videos_141609._012.mp4\na mountainous.\ns3://1ancedb-demos/openvid/videos/\na captivating view\nof\npixabay_urban_green_spaces_videos_52011_012.mp4\nthe sun, bathed in hue.\n$3://1ancedb-demos/openvid/videos/\nan expansive aerial\npixabay_valleys_videos_81709_005.mp4\nview of a rural.\n< Previous\n2\n3\n18\nNext>",
+    "description": "Preview video snippets中的配图，包含文字：田 Dataset Viewer （First 5GB） ①；t Auto-converted to Parquet；《/2 API；Embed；Duplicate；田；Data Studio；Split （1）；train • ~938k rows （showing the first 1.79k）；Q Search this dataset；video_blob；video_path；caption；aesthet；video；string•lengths；string• lengths；float64；79+86；5.2%；989~1.25k.；28.4%；5.2445.；$3://1ancedb-demos/openvid/videos/；a breathtaking view of；pixabay_zock_tormations_videos_141609._012.mp4；a mountainous.；s3://1ancedb-demos/openvid/videos/；a captivating view；of",
+    "entities": [
+      "田 Dataset Viewer （First 5GB） ①",
+      "t Auto-converted to Parquet",
+      "《/2 API",
+      "Embed",
+      "Duplicate",
+      "田",
+      "Data Studio",
+      "Split （1）",
+      "train • ~938k rows （showing the first 1.79k）",
+      "Q Search this dataset",
+      "video_blob",
+      "video_path",
+      "caption",
+      "aesthet",
+      "video",
+      "string•lengths",
+      "string• lengths",
+      "float64",
+      "79+86",
+      "5.2%",
+      "989~1.25k.",
+      "28.4%",
+      "5.2445.",
+      "$3://1ancedb-demos/openvid/videos/",
+      "a breathtaking view of",
+      "pixabay_zock_tormations_videos_141609._012.mp4",
+      "a mountainous.",
+      "s3://1ancedb-demos/openvid/videos/",
+      "a captivating view",
+      "of",
+      "pixabay_urban_green_spaces_videos_52011_012.mp4",
+      "the sun, bathed in hue.",
+      "an expansive aerial",
+      "pixabay_valleys_videos_81709_005.mp4",
+      "view of a rural.",
+      "< Previous",
+      "2",
+      "3",
+      "18",
+      "Next>"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c7d3980f30c5ee57cdeb3a9a0dd4ff1ebf5969d1c2442dbd57e4e1ccfbadfa39"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-005",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-005.avif",
+    "section": "Try out Lance on the Hub!",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try out Lance on the Hub!中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-006",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce117629_quentin-lhoest.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-006.avif",
+    "section": "Try out Lance on the Hub!",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try out Lance on the Hub!中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "24406b6b914d2dc4e37265c349079b49cbedb6a6747f2e38c2f16adcd6642e35"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-007",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760beb_xuanwo.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-007.avif",
+    "section": "Try out Lance on the Hub!",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try out Lance on the Hub!中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b7a4fab2caa87dcc4eebdd6ac49d2649d79f83d1bdb1499759fd7cdced85704d"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-008",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-008.avif",
+    "section": "Try out Lance on the Hub!",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Try out Lance on the Hub!中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-009",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-009.png",
+    "section": "Try out Lance on the Hub!",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Try out Lance on the Hub!中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-010",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-010.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff-fig-011",
+    "doc_id": "1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1413-https-www-lancedb-com-blog-lance-x-huggingface-a-58a0ebff/figure-011.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

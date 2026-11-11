@@ -1,0 +1,1545 @@
+[
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-001",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca40404eb5e0ab8a9b5241_columnar-file-readers-in-depth-repetition-definition-levels.avif",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-001.avif",
+    "section": "Columnar File Readers in Depth: Repetition & Definition Levels",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09680233525922333,
+          0.8826644737059428,
+          0.14389532804489136,
+          0.05133771896362305
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.4936209146435505,
+          0.12434558614461111,
+          0.10182067155838015,
+          0.06519771681891551
+        ],
+        "confidence": 1,
+        "text": "NULL"
+      }
+    ],
+    "ocr_text": "LanceDB\nNULL",
+    "description": "Columnar File Readers in Depth: Repetition & Definition Levels中的配图，包含文字：LanceDB；NULL",
+    "entities": [
+      "LanceDB",
+      "NULL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "90cab7aeedf07f6d816626b6d1177085bfe94ab765595499e429c5b9525c83c8"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-002",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910d9_RepDef-Blog-Schema.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-002.png",
+    "section": "What Problem are we Solving?",
+    "alt": "Schema Diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05859318741756244,
+          0.8169837314342195,
+          0.1810457665265865,
+          0.09150753884649077
+        ],
+        "confidence": 0.5,
+        "text": "name: String"
+      },
+      {
+        "boundingBox": [
+          0.5124760063979527,
+          0.839506173388203,
+          0.23416506717850283,
+          0.06584362139917699
+        ],
+        "confidence": 0.5,
+        "text": "address: struct"
+      },
+      {
+        "boundingBox": [
+          0.42587127315809975,
+          0.4662067631606588,
+          0.17320947043039975,
+          0.07170169343673627
+        ],
+        "confidence": 0.3,
+        "text": "street: list"
+      },
+      {
+        "boundingBox": [
+          0.7675399843047174,
+          0.45038589810336815,
+          0.16741523083706966,
+          0.07865207185470524
+        ],
+        "confidence": 0.5,
+        "text": "city: string"
+      },
+      {
+        "boundingBox": [
+          0.3970431669845029,
+          0.08749108605541012,
+          0.17520349542833802,
+          0.08016185995973191
+        ],
+        "confidence": 0.5,
+        "text": "item: String"
+      }
+    ],
+    "ocr_text": "name: String\naddress: struct\nstreet: list\ncity: string\nitem: String",
+    "description": "What Problem are we Solving?中的配图，包含文字：name: String；address: struct；street: list；city: string；item: String",
+    "entities": [
+      "name: String",
+      "address: struct",
+      "street: list",
+      "city: string",
+      "item: String"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9d3b95aab573e021c9e5e81e51754d5334afd110ecf5aa95079238bd6ee53d35"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-003",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910e3_RepDef-Sample-Data-Arrow.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-003.png",
+    "section": "How does Arrow Solve this Problem?",
+    "alt": "Arrow Encoding",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5041666726259632,
+          0.9328859075802124,
+          0.1749999939147402,
+          0.04054404456834293
+        ],
+        "confidence": 0.3,
+        "text": "0,7,21,30,33,43"
+      },
+      {
+        "boundingBox": [
+          0.1757858033943137,
+          0.9263405539443282,
+          0.12662606510303076,
+          0.03464283689784542
+        ],
+        "confidence": 1,
+        "text": "name.offsets"
+      },
+      {
+        "boundingBox": [
+          0.19176240665400918,
+          0.8136509649502781,
+          0.1048472776251324,
+          0.032322482786316775
+        ],
+        "confidence": 1,
+        "text": "name.chars"
+      },
+      {
+        "boundingBox": [
+          0.36250000547922645,
+          0.8051529789881211,
+          0.4541666443540472,
+          0.04048460347640914
+        ],
+        "confidence": 1,
+        "text": "ReacherHerman MunsterSpidermanFryBlack Bolt"
+      },
+      {
+        "boundingBox": [
+          0.14240249967575697,
+          0.6991528992726894,
+          0.15414848593866837,
+          0.043008756714358665
+        ],
+        "confidence": 0.5,
+        "text": "address.validity"
+      },
+      {
+        "boundingBox": [
+          0.07122092644571693,
+          0.628824476857638,
+          0.21947674737019413,
+          0.040257648953301084
+        ],
+        "confidence": 0.5,
+        "text": "address.street.validity"
+      },
+      {
+        "boundingBox": [
+          0.33866279086761386,
+          0.6384976526116716,
+          0.011627906578725755,
+          0.03755868613815927
+        ],
+        "confidence": 0.3,
+        "text": "［"
+      },
+      {
+        "boundingBox": [
+          0.06540698361078416,
+          0.5539452498863224,
+          0.2238372011650595,
+          0.03059581320450888
+        ],
+        "confidence": 1,
+        "text": "address.street.offsets"
+      },
+      {
+        "boundingBox": [
+          0.5305232577006668,
+          0.5491143319606369,
+          0.12209301812579831,
+          0.03542673107890504
+        ],
+        "confidence": 0.3,
+        "text": "0,0, 1, 1,3,3"
+      },
+      {
+        "boundingBox": [
+          0.013081404335945929,
+          0.45539906033260835,
+          0.27470928888140267,
+          0.039906104021794175
+        ],
+        "confidence": 1,
+        "text": "address.street.items.validity"
+      },
+      {
+        "boundingBox": [
+          0.008720923913832704,
+          0.36150234688028304,
+          0.2790697731025673,
+          0.03302261334110568
+        ],
+        "confidence": 1,
+        "text": "address.street.items.offsets"
+      },
+      {
+        "boundingBox": [
+          0.5334302326015762,
+          0.3661971829267284,
+          0.11482558245673136,
+          0.03557415438542999
+        ],
+        "confidence": 0.3,
+        "text": "9,28, 28,46"
+      },
+      {
+        "boundingBox": [
+          0.03488371962570591,
+          0.25352112650285163,
+          0.25872093801603,
+          0.03069787478485353
+        ],
+        "confidence": 0.5,
+        "text": "address.street.items.cnars"
+      },
+      {
+        "boundingBox": [
+          0.3808139607766498,
+          0.24879227037203877,
+          0.48401161870832815,
+          0.03542673107890493
+        ],
+        "confidence": 1,
+        "text": "EasterEgg1313 Mockingbird LnApartment 00100100"
+      },
+      {
+        "boundingBox": [
+          0.09447675162826377,
+          0.1312399359569757,
+          0.19912789707050724,
+          0.040257648953301084
+        ],
+        "confidence": 1,
+        "text": "address.city.offsets"
+      },
+      {
+        "boundingBox": [
+          0.507267447889053,
+          0.1384863127288879,
+          0.1715116187083282,
+          0.037842190016103006
+        ],
+        "confidence": 0.3,
+        "text": "0, 9,28, 41, 53,53"
+      },
+      {
+        "boundingBox": [
+          0.11337210167699338,
+          0.020933977236069268,
+          0.23691859297595494,
+          0.05183597693696684
+        ],
+        "confidence": 0.3,
+        "text": "address.city.charsL"
+      },
+      {
+        "boundingBox": [
+          0.3916666937216994,
+          0.026570048634442456,
+          0.5416666260982677,
+          0.04054404456834282
+        ],
+        "confidence": 0.5,
+        "text": "EasterEggMockingbird Heights New York CityNew New York"
+      }
+    ],
+    "ocr_text": "0,7,21,30,33,43\nname.offsets\nname.chars\nReacherHerman MunsterSpidermanFryBlack Bolt\naddress.validity\naddress.street.validity\n［\naddress.street.offsets\n0,0, 1, 1,3,3\naddress.street.items.validity\naddress.street.items.offsets\n9,28, 28,46\naddress.street.items.cnars\nEasterEgg1313 Mockingbird LnApartment 00100100\naddress.city.offsets\n0, 9,28, 41, 53,53\naddress.city.charsL\nEasterEggMockingbird Heights New York CityNew New York",
+    "description": "How does Arrow Solve this Problem?中的配图，包含文字：0,7,21,30,33,43；name.offsets；name.chars；ReacherHerman MunsterSpidermanFryBlack Bolt；address.validity；address.street.validity；［；address.street.offsets；0,0, 1, 1,3,3；address.street.items.validity；address.street.items.offsets；9,28, 28,46；address.street.items.cnars；EasterEgg1313 Mockingbird LnApartment 00100100；address.city.offsets；0, 9,28, 41, 53,53；address.city.charsL；EasterEggMockingbird Heights New York CityNew New York",
+    "entities": [
+      "0,7,21,30,33,43",
+      "name.offsets",
+      "name.chars",
+      "ReacherHerman MunsterSpidermanFryBlack Bolt",
+      "address.validity",
+      "address.street.validity",
+      "［",
+      "address.street.offsets",
+      "0,0, 1, 1,3,3",
+      "address.street.items.validity",
+      "address.street.items.offsets",
+      "9,28, 28,46",
+      "address.street.items.cnars",
+      "EasterEgg1313 Mockingbird LnApartment 00100100",
+      "address.city.offsets",
+      "0, 9,28, 41, 53,53",
+      "address.city.charsL",
+      "EasterEggMockingbird Heights New York CityNew New York"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "af3f26987dca5e730e46455ea401316f8691ea2397ac3793c6133de0106e3440"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-004",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910cd_Validity-Buffers.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-004.png",
+    "section": "Validity Buffers",
+    "alt": "Validity Buffers",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01952276858279119,
+          0.7978142072404372,
+          0.9587852494577006,
+          0.14754098360655743
+        ],
+        "confidence": 0.3,
+        "text": "outer：［｛\"item\"：53,NULL，是“item\"：NULL3］"
+      },
+      {
+        "boundingBox": [
+          0.023562348674075407,
+          0.39457277358258547,
+          0.278254908232782,
+          0.13435171992400963
+        ],
+        "confidence": 1,
+        "text": "outer.validity"
+      },
+      {
+        "boundingBox": [
+          0.42082429518709324,
+          0.3387978154371585,
+          0.0889370932754881,
+          0.19672131147540983
+        ],
+        "confidence": 1,
+        "text": "101"
+      },
+      {
+        "boundingBox": [
+          0.4186550980167338,
+          0.09289617322404364,
+          0.09544468546637747,
+          0.2295081967213115
+        ],
+        "confidence": 0.3,
+        "text": "110"
+      },
+      {
+        "boundingBox": [
+          0.032025501677348495,
+          0.053435009096726827,
+          0.2569902134562263,
+          0.1444960943336696
+        ],
+        "confidence": 1,
+        "text": "item.validity"
+      }
+    ],
+    "ocr_text": "outer：［｛\"item\"：53,NULL，是“item\"：NULL3］\nouter.validity\n101\n110\nitem.validity",
+    "description": "Validity Buffers中的配图，包含文字：outer：［｛\"item\"：53,NULL，是“item\"：NULL3］；outer.validity；101；110；item.validity",
+    "entities": [
+      "outer：［｛\"item\"：53,NULL，是“item\"：NULL3］",
+      "outer.validity",
+      "101",
+      "110",
+      "item.validity"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2ab1462db7d6be96a2d47371c8cbddf378959e5320852fd4d3d0e0362c016c69"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-005",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910d6_Offset-Buffers.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-005.png",
+    "section": "Offset Buffers",
+    "alt": "Offset Buffers",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2580612326834836,
+          0.7832880541474302,
+          0.6648888775682824,
+          0.16265631758648424
+        ],
+        "confidence": 0.3,
+        "text": "\"lists\"： LIO, 3, 5, 7］， ［1, 3, 5］， L, L2, 3, 8］1"
+      },
+      {
+        "boundingBox": [
+          0.011023620641169874,
+          0.45652173897515524,
+          0.19685039370078738,
+          0.10869565217391308
+        ],
+        "confidence": 1,
+        "text": "lists.offsets"
+      },
+      {
+        "boundingBox": [
+          0.5084470625760782,
+          0.4202058579737893,
+          0.19255469615065213,
+          0.14328394247137988
+        ],
+        "confidence": 0.3,
+        "text": "0.4,Z710"
+      },
+      {
+        "boundingBox": [
+          0.04088526936191303,
+          0.10753948264449864,
+          0.15759953776682456,
+          0.10013842582702637
+        ],
+        "confidence": 0.5,
+        "text": "ists.items"
+      },
+      {
+        "boundingBox": [
+          0.42204724179977504,
+          0.059782607686335476,
+          0.3779527559055118,
+          0.14130434782608692
+        ],
+        "confidence": 0.3,
+        "text": "0,3,5,71,3,5,2,3,8"
+      }
+    ],
+    "ocr_text": "\"lists\"： LIO, 3, 5, 7］， ［1, 3, 5］， L, L2, 3, 8］1\nlists.offsets\n0.4,Z710\nists.items\n0,3,5,71,3,5,2,3,8",
+    "description": "Offset Buffers中的配图，包含文字：\"lists\"： LIO, 3, 5, 7］， ［1, 3, 5］， L, L2, 3, 8］1；lists.offsets；0.4,Z710；ists.items；0,3,5,71,3,5,2,3,8",
+    "entities": [
+      "\"lists\"： LIO, 3, 5, 7］， ［1, 3, 5］， L, L2, 3, 8］1",
+      "lists.offsets",
+      "0.4,Z710",
+      "ists.items",
+      "0,3,5,71,3,5,2,3,8"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c676f9821ded354668db1e07ffb5fdffdc3acaa04ac0b94d15afeaded66494c8"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-006",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910ca_Buffer-Sharing.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-006.png",
+    "section": "Sharing is Caring but It Spreads Data",
+    "alt": "Buffer Sharing",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.39773772891491943,
+          0.9000968973193841,
+          0.20452454625343797,
+          0.04278141210887054
+        ],
+        "confidence": 0.5,
+        "text": "address"
+      },
+      {
+        "boundingBox": [
+          0.40306122627551016,
+          0.8388429747107438,
+          0.18877551020408162,
+          0.04958677685950419
+        ],
+        "confidence": 0.5,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.219387756505102,
+          0.6363636366046832,
+          0.16836734693877548,
+          0.037190082644628086
+        ],
+        "confidence": 1,
+        "text": "street"
+      },
+      {
+        "boundingBox": [
+          0.20918367270408167,
+          0.5743801658264462,
+          0.18877551020408162,
+          0.05371900826446274
+        ],
+        "confidence": 1,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.7448979601020408,
+          0.5702479334297521,
+          0.10204081632653061,
+          0.045454545454545414
+        ],
+        "confidence": 0.5,
+        "text": "city"
+      },
+      {
+        "boundingBox": [
+          0.04591836953352768,
+          0.3719008265938606,
+          0.30612244897959184,
+          0.037190082644628086
+        ],
+        "confidence": 1,
+        "text": "street.items"
+      },
+      {
+        "boundingBox": [
+          0.10714285561224492,
+          0.3099173551997244,
+          0.18367346938775514,
+          0.05371900826446285
+        ],
+        "confidence": 1,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.13775510159438775,
+          0.0867768600206611,
+          0.3112244897959184,
+          0.04132231404958675
+        ],
+        "confidence": 1,
+        "text": "street.items"
+      }
+    ],
+    "ocr_text": "address\nvalidity\nstreet\nvalidity\ncity\nstreet.items\nvalidity\nstreet.items",
+    "description": "Sharing is Caring but It Spreads Data中的配图，包含文字：address；validity；street；validity；city；street.items；validity；street.items",
+    "entities": [
+      "address",
+      "validity",
+      "street",
+      "city",
+      "street.items"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ef9a55ef6f47559c8e08350cc1d838b44e544a73b1b80aab3fc309836de961d3"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-007",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910d3_Data-Spreading.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-007.png",
+    "section": "Sharing is Caring but It Spreads Data",
+    "alt": "Data Spreading",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.056545047576470775,
+          0.79459555805576,
+          0.07295641751164184,
+          0.11256327388955534
+        ],
+        "confidence": 1,
+        "text": "address"
+      },
+      {
+        "boundingBox": [
+          0.19040697851915328,
+          0.8057553963026014,
+          0.06104650929890271,
+          0.09775337383901483
+        ],
+        "confidence": 0.5,
+        "text": "street"
+      },
+      {
+        "boundingBox": [
+          0.2916666680814648,
+          0.773381291996428,
+          0.12083333090552284,
+          0.12661870778035766
+        ],
+        "confidence": 1,
+        "text": "street.items"
+      },
+      {
+        "boundingBox": [
+          0.470831379890665,
+          0.7873552473865166,
+          0.06124421804787722,
+          0.10950003768042693
+        ],
+        "confidence": 0.5,
+        "text": "street"
+      },
+      {
+        "boundingBox": [
+          0.623546516662597,
+          0.7982456160599034,
+          0.11482557419660833,
+          0.10526315428370192
+        ],
+        "confidence": 1,
+        "text": "Street.items"
+      },
+      {
+        "boundingBox": [
+          0.8241279120114341,
+          0.7877697827175292,
+          0.11482557419660833,
+          0.09819512744601688
+        ],
+        "confidence": 1,
+        "text": "Street.items"
+      },
+      {
+        "boundingBox": [
+          0.6416666668826511,
+          0.6500000070332463,
+          0.07499999817914216,
+          0.17499999176684045
+        ],
+        "confidence": 0.5,
+        "text": "offsets"
+      },
+      {
+        "boundingBox": [
+          0.05812556897124901,
+          0.6377733639816574,
+          0.07203565064933248,
+          0.13917096227193038
+        ],
+        "confidence": 1,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.18604651205221803,
+          0.6315789501324875,
+          0.06976743984905234,
+          0.14912280075841677
+        ],
+        "confidence": 1,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.31831395502702414,
+          0.6140350896061718,
+          0.06976743984905237,
+          0.14912280075841666
+        ],
+        "confidence": 1,
+        "text": "validity"
+      },
+      {
+        "boundingBox": [
+          0.46656976787657245,
+          0.6474820157383663,
+          0.07122093055014966,
+          0.1079136690647482
+        ],
+        "confidence": 1,
+        "text": "offsets"
+      },
+      {
+        "boundingBox": [
+          0.8590116278733086,
+          0.6474820130388773,
+          0.04505813889970067,
+          0.1079136690647482
+        ],
+        "confidence": 1,
+        "text": "data"
+      }
+    ],
+    "ocr_text": "address\nstreet\nstreet.items\nstreet\nStreet.items\nStreet.items\noffsets\nvalidity\nvalidity\nvalidity\noffsets\ndata",
+    "description": "Sharing is Caring but It Spreads Data中的配图，包含文字：address；street；street.items；street；Street.items；Street.items；offsets；validity；validity；validity；offsets；data",
+    "entities": [
+      "address",
+      "street",
+      "street.items",
+      "Street.items",
+      "offsets",
+      "validity",
+      "data"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5375ad10c03a02c66cb0ab34797e4640e519cd1c16fd0e138010b62a2654b630"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-008",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910c7_Road-to-Def-Levels-1-1-.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-008.png",
+    "section": "Definition Levels Replace Validity Buffers",
+    "alt": "Road to Definition Levels",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10315069992025216,
+          0.7627448799537528,
+          0.12509394908111368,
+          0.1203435751108024
+        ],
+        "confidence": 1,
+        "text": "metadata"
+      },
+      {
+        "boundingBox": [
+          0.2630611028806834,
+          0.7842427508167983,
+          0.10759872334115456,
+          0.10512561064500081
+        ],
+        "confidence": 0.5,
+        "text": "01111"
+      },
+      {
+        "boundingBox": [
+          0.6453488369095204,
+          0.7147435887040879,
+          0.1875,
+          0.16025641025641024
+        ],
+        "confidence": 1,
+        "text": "zipped validity"
+      },
+      {
+        "boundingBox": [
+          0.4893629398356006,
+          0.29867600049941445,
+          0.5023787735292575,
+          0.42348135434664214
+        ],
+        "confidence": 0.3,
+        "text": "cpoaon1oopa00"
+      },
+      {
+        "boundingBox": [
+          0.04069767997803875,
+          0.42948718246740547,
+          0.18895347646418834,
+          0.13301282051282048
+        ],
+        "confidence": 1,
+        "text": "metadata.user"
+      },
+      {
+        "boundingBox": [
+          0.25581395352024183,
+          0.4513888940755313,
+          0.1162790695292838,
+          0.11111110296004845
+        ],
+        "confidence": 1,
+        "text": "11010"
+      },
+      {
+        "boundingBox": [
+          0.014043985339314865,
+          0.08115903332882568,
+          0.2150021546639052,
+          0.17205804433578098
+        ],
+        "confidence": 1,
+        "text": "metadata.user.ip"
+      },
+      {
+        "boundingBox": [
+          0.2572374946629534,
+          0.13809268661335183,
+          0.12069942807191175,
+          0.10575907046978295
+        ],
+        "confidence": 0.5,
+        "text": "01001"
+      }
+    ],
+    "ocr_text": "metadata\n01111\nzipped validity\ncpoaon1oopa00\nmetadata.user\n11010\nmetadata.user.ip\n01001",
+    "description": "Definition Levels Replace Validity Buffers中的配图，包含文字：metadata；01111；zipped validity；cpoaon1oopa00；metadata.user；11010；metadata.user.ip；01001",
+    "entities": [
+      "metadata",
+      "01111",
+      "zipped validity",
+      "cpoaon1oopa00",
+      "metadata.user",
+      "11010",
+      "metadata.user.ip",
+      "01001"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "cbefb663bf9419b0b9780b387726745773a1ec05a537d9bd34a36261387db8a6"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-009",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910c4_Road-to-Def-Levels-2-1-.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-009.png",
+    "section": "Definition Levels Replace Validity Buffers",
+    "alt": "Redundancy in Definition Levels",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.020161288047235056,
+          0.8292682921602788,
+          0.31854838709677424,
+          0.1097560975609756
+        ],
+        "confidence": 0.5,
+        "text": "metadata =1 （valid）"
+      },
+      {
+        "boundingBox": [
+          0.5020161243346775,
+          0.7682926829878048,
+          0.469758064516129,
+          0.11585365853658536
+        ],
+        "confidence": 0.5,
+        "text": "\"'metadata\"： ｛\"user\"： NULL｝"
+      },
+      {
+        "boundingBox": [
+          0.3709677423219086,
+          0.7926829271849594,
+          0.04637096774193544,
+          0.06707317073170727
+        ],
+        "confidence": 0.3,
+        "text": "—"
+      },
+      {
+        "boundingBox": [
+          0.08669354681199598,
+          0.7073170727515243,
+          0.2520161290322581,
+          0.10365853658536595
+        ],
+        "confidence": 0.3,
+        "text": "user= 0 （NULL）"
+      },
+      {
+        "boundingBox": [
+          0.12287203945036562,
+          0.5652194782381219,
+          0.21796560287475586,
+          0.12565860515687532
+        ],
+        "confidence": 0.3,
+        "text": "ip=0 （NULL）"
+      },
+      {
+        "boundingBox": [
+          0.024193546111751184,
+          0.31707317025261317,
+          0.31854838709677424,
+          0.10365853658536595
+        ],
+        "confidence": 0.5,
+        "text": "metadata = 1（valid）"
+      },
+      {
+        "boundingBox": [
+          0.44721159969982943,
+          0.22123310624962644,
+          0.5330977286061933,
+          0.1403188821746082
+        ],
+        "confidence": 0.3,
+        "text": ">\"metadata\"： ｛\"user\"： NULL｝"
+      },
+      {
+        "boundingBox": [
+          0.0907258048765121,
+          0.1951219508003048,
+          0.2520161290322581,
+          0.10365853658536595
+        ],
+        "confidence": 0.3,
+        "text": "user= 0 （NULL）"
+      },
+      {
+        "boundingBox": [
+          0.14296395348282268,
+          0.058048701743499076,
+          0.19995918581562658,
+          0.12170747431313123
+        ],
+        "confidence": 0.3,
+        "text": "ip = 1 （valid）"
+      }
+    ],
+    "ocr_text": "metadata =1 （valid）\n\"'metadata\"： ｛\"user\"： NULL｝\n—\nuser= 0 （NULL）\nip=0 （NULL）\nmetadata = 1（valid）\n>\"metadata\"： ｛\"user\"： NULL｝\nuser= 0 （NULL）\nip = 1 （valid）",
+    "description": "Definition Levels Replace Validity Buffers中的配图，包含文字：metadata =1 （valid）；\"'metadata\"： ｛\"user\"： NULL｝；—；user= 0 （NULL）；ip=0 （NULL）；metadata = 1（valid）；>\"metadata\"： ｛\"user\"： NULL｝；user= 0 （NULL）；ip = 1 （valid）",
+    "entities": [
+      "metadata =1 （valid）",
+      "\"'metadata\"： ｛\"user\"： NULL｝",
+      "—",
+      "user= 0 （NULL）",
+      "ip=0 （NULL）",
+      "metadata = 1（valid）",
+      ">\"metadata\"： ｛\"user\"： NULL｝",
+      "ip = 1 （valid）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6734e3aa3cbc4d551d062a6e80ac137622876cfe8c64ec7f69462d48c3220d33"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-010",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910dc_Road-to-Rep-Levels.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-010.png",
+    "section": "Repetition Levels Replace Offsets",
+    "alt": "Road to Repetition Levels",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.472665981092714,
+          0.8151564256207773,
+          0.30132030055428133,
+          0.13786219470905803
+        ],
+        "confidence": 0.5,
+        "text": "01111101"
+      },
+      {
+        "boundingBox": [
+          0.015290517324159038,
+          0.8264150943018868,
+          0.25535168195718655,
+          0.08679245283018877
+        ],
+        "confidence": 1,
+        "text": "Outer Repetition"
+      },
+      {
+        "boundingBox": [
+          0.2828746185830784,
+          0.4000000005660378,
+          0.7033639143730888,
+          0.16981132075471694
+        ],
+        "confidence": 0.3,
+        "text": "1012JI345JJL167］］"
+      },
+      {
+        "boundingBox": [
+          0.5090342413932722,
+          0.06983394187427783,
+          0.2602189790218248,
+          0.12448305094017176
+        ],
+        "confidence": 1,
+        "text": "1101101"
+      },
+      {
+        "boundingBox": [
+          0.018348625220863037,
+          0.0867924530398323,
+          0.24617737003058107,
+          0.08301886792452828
+        ],
+        "confidence": 0.5,
+        "text": "Inner Repetition"
+      }
+    ],
+    "ocr_text": "01111101\nOuter Repetition\n1012JI345JJL167］］\n1101101\nInner Repetition",
+    "description": "Repetition Levels Replace Offsets中的配图，包含文字：01111101；Outer Repetition；1012JI345JJL167］］；1101101；Inner Repetition",
+    "entities": [
+      "01111101",
+      "Outer Repetition",
+      "1012JI345JJL167］］",
+      "1101101",
+      "Inner Repetition"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0ce80587524030b3adaa84d4a24c7c85bb2ffbf93a2e757aee693d6c7c8d366d"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-011",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0296d48f13c62f9d910d0_Rep-Levels-Empty-Null-Lists.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-011.png",
+    "section": "Empty / Null Lists?",
+    "alt": "Repetition Levels with Empty and Null Lists",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3233075256201681,
+          0.813911055911845,
+          0.39728738428131355,
+          0.14869304859276977
+        ],
+        "confidence": 0.3,
+        "text": "L5］， NULL, LJ，［6］"
+      },
+      {
+        "boundingBox": [
+          0.7170731695238096,
+          0.6022727267045455,
+          0.26016260162601623,
+          0.07954545454545447
+        ],
+        "confidence": 0.5,
+        "text": "Rep level is always O"
+      },
+      {
+        "boundingBox": [
+          0.10373512787592448,
+          0.5538738829535721,
+          0.15187933696963923,
+          0.10058556903492333
+        ],
+        "confidence": 1,
+        "text": "Values："
+      },
+      {
+        "boundingBox": [
+          0.39837398436701515,
+          0.5227272732142857,
+          0.08780487804878045,
+          0.12878787878787878
+        ],
+        "confidence": 0.3,
+        "text": "5, 6"
+      },
+      {
+        "boundingBox": [
+          0.7073170708536587,
+          0.5303030301767677,
+          0.2780487804878048,
+          0.06818181818181812
+        ],
+        "confidence": 0.5,
+        "text": "since we always start"
+      },
+      {
+        "boundingBox": [
+          0.019512194483159113,
+          0.3901515160714286,
+          0.4764227642276423,
+          0.12878787878787867
+        ],
+        "confidence": 0.3,
+        "text": "Rep Levels: 0, 0,0, 0."
+      },
+      {
+        "boundingBox": [
+          0.7089430913937282,
+          0.4696969697510822,
+          0.27479674796747966,
+          0.053030303030303094
+        ],
+        "confidence": 0.3,
+        "text": "anew list in our data"
+      },
+      {
+        "boundingBox": [
+          0.01951219606271775,
+          0.25378787784090906,
+          0.4796747967479675,
+          0.13257575757575757
+        ],
+        "confidence": 0.3,
+        "text": "Def Levels: 2, 0, 12："
+      },
+      {
+        "boundingBox": [
+          0.7170731704227642,
+          0.20075757640151515,
+          0.24227642276422756,
+          0.06439393939393934
+        ],
+        "confidence": 0.5,
+        "text": "Def level is needed"
+      },
+      {
+        "boundingBox": [
+          0.6926829265621369,
+          0.10984848430735927,
+          0.29105691056910576,
+          0.0757575757575758
+        ],
+        "confidence": 0.5,
+        "text": "to distinguish between"
+      },
+      {
+        "boundingBox": [
+          0.762601627317073,
+          0.04545454589646469,
+          0.15609756097560978,
+          0.06818181818181823
+        ],
+        "confidence": 0.5,
+        "text": "NULL and［］"
+      }
+    ],
+    "ocr_text": "L5］， NULL, LJ，［6］\nRep level is always O\nValues：\n5, 6\nsince we always start\nRep Levels: 0, 0,0, 0.\nanew list in our data\nDef Levels: 2, 0, 12：\nDef level is needed\nto distinguish between\nNULL and［］",
+    "description": "Empty / Null Lists?中的配图，包含文字：L5］， NULL, LJ，［6］；Rep level is always O；Values：；5, 6；since we always start；Rep Levels: 0, 0,0, 0.；anew list in our data；Def Levels: 2, 0, 12：；Def level is needed；to distinguish between；NULL and［］",
+    "entities": [
+      "L5］， NULL, LJ，［6］",
+      "Rep level is always O",
+      "Values：",
+      "5, 6",
+      "since we always start",
+      "Rep Levels: 0, 0,0, 0.",
+      "anew list in our data",
+      "Def Levels: 2, 0, 12：",
+      "Def level is needed",
+      "to distinguish between",
+      "NULL and［］"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7f770523d9f693dfd30244439b0e99388da00902e18e751cc41b2caa42dc0808"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-012",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760bdc_weston-pace.avif",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-012.avif",
+    "section": "What’s Next",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What’s Next中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d540d318fb6247a94b5cc1d00a9feb5f06da70d5118d4e27cae4c86018cf400"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-013",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-013.png",
+    "section": "What’s Next",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "What’s Next中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-014",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-014.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7-fig-015",
+    "doc_id": "1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1444-https-www-lancedb-com-blog-columnar-file-readers-dc281af7/figure-015.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,1001 @@
+[
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-001",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c7228fa7ea1ddb007a5428_preview-image.avif",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-001.avif",
+    "section": "Zero Shot Image Classification with Vector Search",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09734143857650691,
+          0.8833261310615358,
+          0.14397991498311358,
+          0.04988520586932155
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.2833333364312659,
+          0.7925925929629629,
+          0.06666666269302368,
+          0.03703703703703709
+        ],
+        "confidence": 1,
+        "text": "Penguin"
+      },
+      {
+        "boundingBox": [
+          0.43459302319874255,
+          0.7129629625489895,
+          0.036337208747863725,
+          0.028703703703703676
+        ],
+        "confidence": 1,
+        "text": "Text"
+      },
+      {
+        "boundingBox": [
+          0.2906449466620333,
+          0.6922032770839182,
+          0.04661708275477089,
+          0.026446159680684422
+        ],
+        "confidence": 1,
+        "text": "Panda"
+      },
+      {
+        "boundingBox": [
+          0.41704914464152637,
+          0.6709860604257595,
+          0.07287845611572263,
+          0.03012090259128153
+        ],
+        "confidence": 1,
+        "text": "Encoder"
+      },
+      {
+        "boundingBox": [
+          0.6061046511331869,
+          0.6666666668594676,
+          0.013081395626068137,
+          0.025839793240582498
+        ],
+        "confidence": 0.5,
+        "text": "T"
+      },
+      {
+        "boundingBox": [
+          0.7340116277077992,
+          0.6692506462306993,
+          0.013081395626068137,
+          0.025839793240582498
+        ],
+        "confidence": 1,
+        "text": "T"
+      },
+      {
+        "boundingBox": [
+          0.7776162789625801,
+          0.6537037035025047,
+          0.024709302186965987,
+          0.04166666666666663
+        ],
+        "confidence": 0.3,
+        "text": "TN"
+      },
+      {
+        "boundingBox": [
+          0.6177325580544675,
+          0.6563307499820443,
+          0.007267441848913925,
+          0.020671833886040547
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.7020348837181245,
+          0.6537467705677463,
+          0.01017441848913836,
+          0.020671833886040547
+        ],
+        "confidence": 1,
+        "text": "3"
+      },
+      {
+        "boundingBox": [
+          0.2950581408223588,
+          0.5916666663612123,
+          0.03779069582621253,
+          0.031481481481481555
+        ],
+        "confidence": 1,
+        "text": "Spiny"
+      },
+      {
+        "boundingBox": [
+          0.27602860502332904,
+          0.5671978358314025,
+          0.07439627647399899,
+          0.028395025818436226
+        ],
+        "confidence": 0.5,
+        "text": "lumpsucker"
+      },
+      {
+        "boundingBox": [
+          0.4229651164006196,
+          0.27870370314666204,
+          0.055232556660970045,
+          0.031481481481481444
+        ],
+        "confidence": 1,
+        "text": "Image"
+      },
+      {
+        "boundingBox": [
+          0.6482558143412983,
+          0.26356589240017014,
+          0.027616278330484967,
+          0.023471144393638288
+        ],
+        "confidence": 0.3,
+        "text": "4T"
+      },
+      {
+        "boundingBox": [
+          0.7311046518706699,
+          0.26098191184224107,
+          0.02180232405662541,
+          0.026055124953941022
+        ],
+        "confidence": 0.3,
+        "text": "1T"
+      },
+      {
+        "boundingBox": [
+          0.7703488373331158,
+          0.2609819124882359,
+          0.024709302186965987,
+          0.026055124953941022
+        ],
+        "confidence": 0.3,
+        "text": "1,Tw"
+      },
+      {
+        "boundingBox": [
+          0.417126972533186,
+          0.24269727628633841,
+          0.07272280057271319,
+          0.028817333998503503
+        ],
+        "confidence": 1,
+        "text": "Encoder"
+      },
+      {
+        "boundingBox": [
+          0.6482558140425321,
+          0.15762274016156075,
+          0.01598837176958723,
+          0.05684754406964343
+        ],
+        "confidence": 0.3,
+        "text": "）"
+      },
+      {
+        "boundingBox": [
+          0.5421511640198936,
+          0.09537037052540909,
+          0.15988372166951503,
+          0.031481481481481555
+        ],
+        "confidence": 0.5,
+        "text": "Highest Score: Panda"
+      }
+    ],
+    "ocr_text": "LanceDB\nPenguin\nText\nPanda\nEncoder\nT\nT\nTN\n1\n3\nSpiny\nlumpsucker\nImage\n4T\n1T\n1,Tw\nEncoder\n）\nHighest Score: Panda",
+    "description": "Zero Shot Image Classification with Vector Search中的配图，包含文字：LanceDB；Penguin；Text；Panda；Encoder；T；T；TN；1；3；Spiny；lumpsucker；Image；4T；1T；1,Tw；Encoder；）；Highest Score: Panda",
+    "entities": [
+      "LanceDB",
+      "Penguin",
+      "Text",
+      "Panda",
+      "Encoder",
+      "T",
+      "TN",
+      "1",
+      "3",
+      "Spiny",
+      "lumpsucker",
+      "Image",
+      "4T",
+      "1T",
+      "1,Tw",
+      "）",
+      "Highest Score: Panda"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0b1d3cc5ab9272af4cbb76a16a737945069affd7d3b9cc48e7105b4e9e291e87"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-002",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2e043c2b26b229f81831b_69c02be7b45cfd0d2a261d63_Untitled.avif",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-002.avif",
+    "section": "Fundamentals",
+    "alt": "CLIP architecture overview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6333333351759076,
+          0.9375000002604167,
+          0.20416666978707343,
+          0.046875
+        ],
+        "confidence": 1,
+        "text": "ImageNet Zero-shot"
+      },
+      {
+        "boundingBox": [
+          0.30000001165288676,
+          0.9062500009114582,
+          0.21249998127755948,
+          0.05484510086455341
+        ],
+        "confidence": 0.5,
+        "text": "Dataset Examples"
+      },
+      {
+        "boundingBox": [
+          0.6291666680075254,
+          0.9062500002929688,
+          0.0916666662766158,
+          0.0390625
+        ],
+        "confidence": 1,
+        "text": "ResNet101"
+      },
+      {
+        "boundingBox": [
+          0.8464549385059857,
+          0.918005014269971,
+          0.07242754485709535,
+          0.03718881579572253
+        ],
+        "confidence": 0.5,
+        "text": "A Score"
+      },
+      {
+        "boundingBox": [
+          0.7576687113592792,
+          0.9077809796829971,
+          0.0475460122699386,
+          0.03458213256484155
+        ],
+        "confidence": 1,
+        "text": "CLIP"
+      },
+      {
+        "boundingBox": [
+          0.05971064888037943,
+          0.7830925697172225,
+          0.1060388249122292,
+          0.05341140131441935
+        ],
+        "confidence": 1,
+        "text": "ImageNet"
+      },
+      {
+        "boundingBox": [
+          0.6533742328111306,
+          0.792507204508028,
+          0.04447852760736193,
+          0.043227665706051854
+        ],
+        "confidence": 0.5,
+        "text": "76.2"
+      },
+      {
+        "boundingBox": [
+          0.7592024541219325,
+          0.7982708931195965,
+          0.042944785276073594,
+          0.04034582132564846
+        ],
+        "confidence": 0.5,
+        "text": "76.2"
+      },
+      {
+        "boundingBox": [
+          0.8680981597283085,
+          0.7982708930424043,
+          0.033742331288343586,
+          0.04610951008645536
+        ],
+        "confidence": 1,
+        "text": "0%"
+      },
+      {
+        "boundingBox": [
+          0.030674845513803714,
+          0.648414985518732,
+          0.1334355828220859,
+          0.04899135446685876
+        ],
+        "confidence": 1,
+        "text": "ImageNetva"
+      },
+      {
+        "boundingBox": [
+          0.6533742332726228,
+          0.6541786740814122,
+          0.04447852760736193,
+          0.04322766570605174
+        ],
+        "confidence": 1,
+        "text": "64.3"
+      },
+      {
+        "boundingBox": [
+          0.7607361966513292,
+          0.6541786744476465,
+          0.039877300613496924,
+          0.04610951008645525
+        ],
+        "confidence": 1,
+        "text": "70.1"
+      },
+      {
+        "boundingBox": [
+          0.8542944790132924,
+          0.6628242071565802,
+          0.06134969325153372,
+          0.04034582132564846
+        ],
+        "confidence": 1,
+        "text": "+5.8%"
+      },
+      {
+        "boundingBox": [
+          0.030562669679178964,
+          0.5061781215659424,
+          0.13212619383642277,
+          0.053926173823024115
+        ],
+        "confidence": 1,
+        "text": "ImageNet-R"
+      },
+      {
+        "boundingBox": [
+          0.6503067481083844,
+          0.5187319883765611,
+          0.042944785276073594,
+          0.04610951008645525
+        ],
+        "confidence": 0.3,
+        "text": "37.7"
+      },
+      {
+        "boundingBox": [
+          0.754601227198364,
+          0.5244956768972142,
+          0.04601226993865026,
+          0.040345821325648346
+        ],
+        "confidence": 0.5,
+        "text": "88.9"
+      },
+      {
+        "boundingBox": [
+          0.8495499424935393,
+          0.5294365689136895,
+          0.06470379507614787,
+          0.04199141384201721
+        ],
+        "confidence": 1,
+        "text": "+51.2%"
+      },
+      {
+        "boundingBox": [
+          0.04907975432734442,
+          0.37175792470152325,
+          0.11196319018404909,
+          0.05187319884726227
+        ],
+        "confidence": 1,
+        "text": "ObjectNet"
+      },
+      {
+        "boundingBox": [
+          0.6472392634750219,
+          0.37752161370934534,
+          0.04601226993865026,
+          0.04610951008645536
+        ],
+        "confidence": 1,
+        "text": "32.6"
+      },
+      {
+        "boundingBox": [
+          0.7530674848049956,
+          0.38040345788390284,
+          0.04447852760736193,
+          0.04610951008645536
+        ],
+        "confidence": 0.3,
+        "text": "72.3"
+      },
+      {
+        "boundingBox": [
+          0.846625766378177,
+          0.38904899123095926,
+          0.0690184049079754,
+          0.040345821325648346
+        ],
+        "confidence": 1,
+        "text": "+39.7%"
+      },
+      {
+        "boundingBox": [
+          0.0597616315449276,
+          0.26182415159343997,
+          0.10747060015157688,
+          0.049838728451247816
+        ],
+        "confidence": 1,
+        "text": "ImageNet"
+      },
+      {
+        "boundingBox": [
+          0.6485562092063718,
+          0.2383664001194603,
+          0.046445864109905255,
+          0.044881030530682264
+        ],
+        "confidence": 0.3,
+        "text": "25.2"
+      },
+      {
+        "boundingBox": [
+          0.754601227136284,
+          0.2449567720255249,
+          0.04447852760736193,
+          0.043227665706051854
+        ],
+        "confidence": 1,
+        "text": "60.2"
+      },
+      {
+        "boundingBox": [
+          0.8449800059734113,
+          0.2500516307682735,
+          0.07230992697499283,
+          0.04456532585517814
+        ],
+        "confidence": 1,
+        "text": "+35.0%"
+      },
+      {
+        "boundingBox": [
+          0.09338305773407912,
+          0.21786071081475444,
+          0.07397008088468773,
+          0.042664745012003014
+        ],
+        "confidence": 1,
+        "text": "Sketch"
+      },
+      {
+        "boundingBox": [
+          0.03667740128777757,
+          0.09100297230148269,
+          0.13216666941262462,
+          0.05430529371805759
+        ],
+        "confidence": 0.5,
+        "text": "ImageNet-A"
+      },
+      {
+        "boundingBox": [
+          0.6579754602453989,
+          0.10662824164265128,
+          0.030674846625766916,
+          0.043227665706051854
+        ],
+        "confidence": 0.3,
+        "text": "2.7"
+      },
+      {
+        "boundingBox": [
+          0.7592024542506574,
+          0.10662824219843547,
+          0.036809815950920255,
+          0.04610951008645525
+        ],
+        "confidence": 0.3,
+        "text": "7.1"
+      },
+      {
+        "boundingBox": [
+          0.8466257674207566,
+          0.11527377487992307,
+          0.0690184049079755,
+          0.04034582132564846
+        ],
+        "confidence": 1,
+        "text": "+74.4%"
+      }
+    ],
+    "ocr_text": "ImageNet Zero-shot\nDataset Examples\nResNet101\nA Score\nCLIP\nImageNet\n76.2\n76.2\n0%\nImageNetva\n64.3\n70.1\n+5.8%\nImageNet-R\n37.7\n88.9\n+51.2%\nObjectNet\n32.6\n72.3\n+39.7%\nImageNet\n25.2\n60.2\n+35.0%\nSketch\nImageNet-A\n2.7\n7.1\n+74.4%",
+    "description": "Fundamentals中的配图，包含文字：ImageNet Zero-shot；Dataset Examples；ResNet101；A Score；CLIP；ImageNet；76.2；76.2；0%；ImageNetva；64.3；70.1；+5.8%；ImageNet-R；37.7；88.9；+51.2%；ObjectNet；32.6；72.3；+39.7%；ImageNet；25.2；60.2；+35.0%；Sketch；ImageNet-A；2.7；7.1；+74.4%",
+    "entities": [
+      "ImageNet Zero-shot",
+      "Dataset Examples",
+      "ResNet101",
+      "A Score",
+      "CLIP",
+      "ImageNet",
+      "76.2",
+      "0%",
+      "ImageNetva",
+      "64.3",
+      "70.1",
+      "+5.8%",
+      "ImageNet-R",
+      "37.7",
+      "88.9",
+      "+51.2%",
+      "ObjectNet",
+      "32.6",
+      "72.3",
+      "+39.7%",
+      "25.2",
+      "60.2",
+      "+35.0%",
+      "Sketch",
+      "ImageNet-A",
+      "2.7",
+      "7.1",
+      "+74.4%"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c983c25393a915ca9bf702552e2423094388f3463efb4ff32907bfed54d87bdc"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-003",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2e043c2b26b229f818315_69c02be7b45cfd0d2a261d60_recommendation_final.avif",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-003.avif",
+    "section": "How CLIP works",
+    "alt": "Prompt engineering for labels",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.42151162846655355,
+          0.8178294567818465,
+          0.17005813598632813,
+          0.032620993325876535
+        ],
+        "confidence": 1,
+        "text": "a photo of cat"
+      },
+      {
+        "boundingBox": [
+          0.04941859650230029,
+          0.016216215939189982,
+          0.8924418640136719,
+          0.0396396400392518
+        ],
+        "confidence": 0.5,
+        "text": "Image of the \"'cat\" is nearer to it's relevant description in the Vector space"
+      }
+    ],
+    "ocr_text": "a photo of cat\nImage of the \"'cat\" is nearer to it's relevant description in the Vector space",
+    "description": "How CLIP works中的配图，包含文字：a photo of cat；Image of the \"'cat\" is nearer to it's relevant description in the Vector space",
+    "entities": [
+      "a photo of cat",
+      "Image of the \"'cat\" is nearer to it's relevant description in the Vector space"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "83678e1a06ec0140c4cf2fa2743ab556707aa615757e1c2a76433b967355e8f7"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-004",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2e043c2b26b229f818318_69c02be7b45cfd0d2a261d5d_Screenshot-2024-07-08-at-2.34.39-PM.avif",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-004.avif",
+    "section": "normalization",
+    "alt": "Sample CIFAR image",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "normalization中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "36850b7265554c1c048980f2cfe3e3d3543e817647f1733bae1a47480fa7953e"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-005",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11762f_mahesh-deshwal.avif",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-005.avif",
+    "section": "Results",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Results中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e95afcae1c30392b76147f07769a96314e02e86a600d8efe8f0fbad25e721afd"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-006",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-006.png",
+    "section": "Results",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Results中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-007",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-007.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7-fig-008",
+    "doc_id": "2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/2342-https-www-lancedb-com-blog-zero-shot-image-class-eadf94d7/figure-008.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

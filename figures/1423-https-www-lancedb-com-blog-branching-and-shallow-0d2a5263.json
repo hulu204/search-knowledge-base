@@ -1,0 +1,679 @@
+[
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-001",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029472ae8d2f8aa334a31_preview-image.avif",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-001.avif",
+    "section": "Branching and Shallow Cloning in Lance: Towards a \"Git for AI Data\"",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09738372656505495,
+          0.8811369511177293,
+          0.1438953399658203,
+          0.051679586481164996
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Branching and Shallow Cloning in Lance: Towards a \"Git for AI Data\"中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c5c02e85706c55e34b6f9168d6d557f4a42d8a54ebfc021a7f7b147c6dd7768c"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-002",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029472ae8d2f8aa334a91_iceberg-branching.png",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-002.png",
+    "section": "How Iceberg Implements Branching and Tagging",
+    "alt": "Iceberg Branching Example",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2745779114949405,
+          0.857848004179983,
+          0.10286509894400303,
+          0.06604989046977872
+        ],
+        "confidence": 1,
+        "text": "Catalog"
+      },
+      {
+        "boundingBox": [
+          0.2180937005192707,
+          0.6243654818890501,
+          0.22778675282714053,
+          0.048223350253807085
+        ],
+        "confidence": 0.5,
+        "text": "metadata.v1O.json"
+      },
+      {
+        "boundingBox": [
+          0.754442650549273,
+          0.6243654818527918,
+          0.2180936995153474,
+          0.03807106598984766
+        ],
+        "confidence": 1,
+        "text": "manifest-list.avro"
+      },
+      {
+        "boundingBox": [
+          0.06462035489499192,
+          0.5406091369035533,
+          0.051696284329563816,
+          0.040609137055837685
+        ],
+        "confidence": 0.5,
+        "text": "v1.0"
+      },
+      {
+        "boundingBox": [
+          0.5492730211227786,
+          0.5406091374365483,
+          0.05169628432956386,
+          0.030456852791878153
+        ],
+        "confidence": 1,
+        "text": "main"
+      },
+      {
+        "boundingBox": [
+          0.07431340874682668,
+          0.4340101525562001,
+          0.03231017770597738,
+          0.038071065989847774
+        ],
+        "confidence": 0.3,
+        "text": "$5"
+      },
+      {
+        "boundingBox": [
+          0.2374798061490307,
+          0.436548223572335,
+          0.030694668820678506,
+          0.035532994923857864
+        ],
+        "confidence": 0.3,
+        "text": "S6"
+      },
+      {
+        "boundingBox": [
+          0.39579967685783524,
+          0.4314720809221658,
+          0.03069466882067856,
+          0.035532994923857864
+        ],
+        "confidence": 0.5,
+        "text": "s9"
+      },
+      {
+        "boundingBox": [
+          0.549273020910743,
+          0.43401015206218274,
+          0.043618739903069526,
+          0.035532994923857864
+        ],
+        "confidence": 0.5,
+        "text": "$10"
+      },
+      {
+        "boundingBox": [
+          0.7786752833279482,
+          0.39593908591370564,
+          0.16801292407108237,
+          0.038071065989847774
+        ],
+        "confidence": 1,
+        "text": "manifest.avro"
+      },
+      {
+        "boundingBox": [
+          0.42326332746365103,
+          0.2817258887055838,
+          0.09369951534733445,
+          0.045685279187817285
+        ],
+        "confidence": 1,
+        "text": "staging"
+      },
+      {
+        "boundingBox": [
+          0.31179321490306944,
+          0.1903553302453469,
+          0.030694668820678506,
+          0.035532994923857864
+        ],
+        "confidence": 0.3,
+        "text": "S7"
+      },
+      {
+        "boundingBox": [
+          0.455573505664378,
+          0.1852791880234771,
+          0.03069466882067856,
+          0.032994923857868064
+        ],
+        "confidence": 0.3,
+        "text": "$8"
+      },
+      {
+        "boundingBox": [
+          0.7737451222655244,
+          0.11861050501842263,
+          0.16494917368850337,
+          0.05211909047238117
+        ],
+        "confidence": 1,
+        "text": "data.parquet"
+      }
+    ],
+    "ocr_text": "Catalog\nmetadata.v1O.json\nmanifest-list.avro\nv1.0\nmain\n$5\nS6\ns9\n$10\nmanifest.avro\nstaging\nS7\n$8\ndata.parquet",
+    "description": "How Iceberg Implements Branching and Tagging中的配图，包含文字：Catalog；metadata.v1O.json；manifest-list.avro；v1.0；main；$5；S6；s9；$10；manifest.avro；staging；S7；$8；data.parquet",
+    "entities": [
+      "Catalog",
+      "metadata.v1O.json",
+      "manifest-list.avro",
+      "v1.0",
+      "main",
+      "$5",
+      "S6",
+      "s9",
+      "$10",
+      "manifest.avro",
+      "staging",
+      "S7",
+      "$8",
+      "data.parquet"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "12abd5357ba43783ac81d660c57183cf992b718c24dc4276cf9602c58fa16afa"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-003",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029482ae8d2f8aa334a97_delta-shallow-clone.png",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-003.png",
+    "section": "The Delta Journey: Shallow Clone",
+    "alt": "Delta Shallow Clone Example",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01485883935470177,
+          0.7965616041956611,
+          0.2823179791976226,
+          0.054441260744985565
+        ],
+        "confidence": 1,
+        "text": "/path/to/source/table/"
+      },
+      {
+        "boundingBox": [
+          0.6166418996582467,
+          0.7965616040114614,
+          0.27786032689450224,
+          0.05730659025787965
+        ],
+        "confidence": 1,
+        "text": "/path/to/cloned/table/"
+      },
+      {
+        "boundingBox": [
+          0.7279224100929117,
+          0.634279284098149,
+          0.16971238973767755,
+          0.06095432620335439
+        ],
+        "confidence": 1,
+        "text": "delta-logl.json"
+      },
+      {
+        "boundingBox": [
+          0.18561709699285997,
+          0.6090109368335241,
+          0.15774054335981033,
+          0.0570497567469207
+        ],
+        "confidence": 0.5,
+        "text": "delta-logjson"
+      },
+      {
+        "boundingBox": [
+          0.7488855883853393,
+          0.5186246419770772,
+          0.17533432392273396,
+          0.057306590257879764
+        ],
+        "confidence": 1,
+        "text": "delta-log2.json"
+      },
+      {
+        "boundingBox": [
+          0.2585438337914809,
+          0.3810888254297994,
+          0.025260029717682042,
+          0.06017191977077374
+        ],
+        "confidence": 0.3,
+        "text": "V"
+      },
+      {
+        "boundingBox": [
+          0.708766716627043,
+          0.24355300802292268,
+          0.20356612184249634,
+          0.05730659025787965
+        ],
+        "confidence": 1,
+        "text": "new-data.parquet"
+      },
+      {
+        "boundingBox": [
+          0.2035661205918772,
+          0.2320916909980899,
+          0.1560178306092125,
+          0.054441260744985676
+        ],
+        "confidence": 1,
+        "text": "data.parquet"
+      }
+    ],
+    "ocr_text": "/path/to/source/table/\n/path/to/cloned/table/\ndelta-logl.json\ndelta-logjson\ndelta-log2.json\nV\nnew-data.parquet\ndata.parquet",
+    "description": "The Delta Journey: Shallow Clone中的配图，包含文字：/path/to/source/table/；/path/to/cloned/table/；delta-logl.json；delta-logjson；delta-log2.json；V；new-data.parquet；data.parquet",
+    "entities": [
+      "/path/to/source/table/",
+      "/path/to/cloned/table/",
+      "delta-logl.json",
+      "delta-logjson",
+      "delta-log2.json",
+      "V",
+      "new-data.parquet",
+      "data.parquet"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2fd0f0ee47a71e0a540954f2fc296251438fc2172c48df5d0b64a28b811add8b"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-004",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce117613_jack-ye.avif",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-004.avif",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusion中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9e03e1a1f55e21a843e988a016ce7d4be753a64b21e2072a9f2d53bc27a4bd29"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-005",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-005.png",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusion中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-006",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263-fig-007",
+    "doc_id": "1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1423-https-www-lancedb-com-blog-branching-and-shallow-0d2a5263/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

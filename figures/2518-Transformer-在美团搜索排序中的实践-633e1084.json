@@ -1,0 +1,1856 @@
+[
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-001",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 1,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsVqYWAk393dNLxQAjWtfrIG5CtDsjpvgOPUg1daGyIyrTK8mz8sIab7RxWuBzeo95Oo2mNEJXnxicg/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-001.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11451894991045695,
+          0.3344371333149,
+          0.5431702790436921,
+          0.39259820235402965
+        ],
+        "confidence": 1,
+        "text": "点击关注“美团技术团队”，阅读更多技术干货"
+      }
+    ],
+    "ocr_text": "点击关注“美团技术团队”，阅读更多技术干货",
+    "description": "文章中的配图，包含文字：点击关注“美团技术团队”，阅读更多技术干货",
+    "entities": [
+      "点击关注“美团技术团队”，阅读更多技术干货"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8778f2020908489095acd65d73bda1ea449c770ced8f2abfb95cfb683debd23e"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-002",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 2,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwuywjcoIbnmnKibwia60IOVUWiaezDKu3cTjxzMdMfTRHd6VkmXS3PBibHmg/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-002.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6393241455762205,
+          0.9321755450008388,
+          0.11576164435155645,
+          0.029817378289241248
+        ],
+        "confidence": 1,
+        "text": "Output"
+      },
+      {
+        "boundingBox": [
+          0.5993788835093168,
+          0.9049676023542117,
+          0.19565217391304346,
+          0.023758099352051754
+        ],
+        "confidence": 1,
+        "text": "Probabilities"
+      },
+      {
+        "boundingBox": [
+          0.6364808122280783,
+          0.8504614830642199,
+          0.12144831544864243,
+          0.02045932341342871
+        ],
+        "confidence": 1,
+        "text": "Softmax"
+      },
+      {
+        "boundingBox": [
+          0.6894409936723602,
+          0.8207343414956804,
+          0.01552795031055898,
+          0.01943844492440605
+        ],
+        "confidence": 0.3,
+        "text": "个"
+      },
+      {
+        "boundingBox": [
+          0.6521739133152173,
+          0.7904967600161987,
+          0.09627329192546585,
+          0.01943844492440605
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "boundingBox": [
+          0.6086956534383319,
+          0.7257019439370564,
+          0.17701863354037262,
+          0.021598272138228958
+        ],
+        "confidence": 0.5,
+        "text": "Add & Norm"
+      },
+      {
+        "boundingBox": [
+          0.658385094068323,
+          0.68682505412527,
+          0.09006211180124224,
+          0.021598272138228958
+        ],
+        "confidence": 1,
+        "text": "Feed"
+      },
+      {
+        "boundingBox": [
+          0.6363385763960686,
+          0.6600639734878136,
+          0.11862719281119594,
+          0.023284580486124584
+        ],
+        "confidence": 1,
+        "text": "Forward"
+      },
+      {
+        "boundingBox": [
+          0.6086956536490683,
+          0.5961123110691144,
+          0.17701863354037262,
+          0.01943844492440605
+        ],
+        "confidence": 0.3,
+        "text": "Add &Norm"
+      },
+      {
+        "boundingBox": [
+          0.27950310329968947,
+          0.5723542115280777,
+          0.18322981366459629,
+          0.01943844492440605
+        ],
+        "confidence": 0.5,
+        "text": "Add & Norm"
+      },
+      {
+        "boundingBox": [
+          0.6179342932558579,
+          0.55692885824116,
+          0.15543576353084965,
+          0.020051570999442103
+        ],
+        "confidence": 1,
+        "text": "Multi-Head"
+      },
+      {
+        "boundingBox": [
+          0.3354037270962733,
+          0.5334773215442765,
+          0.07453416149068326,
+          0.021598272138228847
+        ],
+        "confidence": 1,
+        "text": "Feed"
+      },
+      {
+        "boundingBox": [
+          0.6333850908879081,
+          0.5308130225693448,
+          0.12763975866092658,
+          0.020447389095957336
+        ],
+        "confidence": 1,
+        "text": "Attention"
+      },
+      {
+        "boundingBox": [
+          0.3074534145962734,
+          0.5075593950323973,
+          0.124223602484472,
+          0.021598272138228958
+        ],
+        "confidence": 1,
+        "text": "Forward"
+      },
+      {
+        "boundingBox": [
+          0.9068322977639752,
+          0.5053995682721382,
+          0.0496894409937888,
+          0.023758099352051865
+        ],
+        "confidence": 0.3,
+        "text": "Nx"
+      },
+      {
+        "boundingBox": [
+          0.6086956539130435,
+          0.4449244061123111,
+          0.17391304347826086,
+          0.01943844492440594
+        ],
+        "confidence": 0.3,
+        "text": "Add & Norm"
+      },
+      {
+        "boundingBox": [
+          0.10559006252587991,
+          0.4276457884089273,
+          0.04968944099378883,
+          0.021598272138228847
+        ],
+        "confidence": 0.3,
+        "text": "NX"
+      },
+      {
+        "boundingBox": [
+          0.2701863338509317,
+          0.4168466519978402,
+          0.19254658385093165,
+          0.021598272138228958
+        ],
+        "confidence": 0.5,
+        "text": "Add & Norm"
+      },
+      {
+        "boundingBox": [
+          0.6396204559776728,
+          0.40566561196282835,
+          0.11516902757727587,
+          0.020202253601206088
+        ],
+        "confidence": 0.5,
+        "text": "Masked"
+      },
+      {
+        "boundingBox": [
+          0.2919254671583851,
+          0.3822894169366451,
+          0.15838509316770188,
+          0.01943844492440605
+        ],
+        "confidence": 0.5,
+        "text": "Multi-Head"
+      },
+      {
+        "boundingBox": [
+          0.6179859195821107,
+          0.3800266596249652,
+          0.1553325060731876,
+          0.01964430469158651
+        ],
+        "confidence": 0.5,
+        "text": "Multi-Head"
+      },
+      {
+        "boundingBox": [
+          0.3105290884922557,
+          0.3541260260531588,
+          0.12738903116735611,
+          0.021769546278094576
+        ],
+        "confidence": 1,
+        "text": "Attention"
+      },
+      {
+        "boundingBox": [
+          0.6366169128951251,
+          0.3519686982314776,
+          0.12738728967512614,
+          0.021764546182191702
+        ],
+        "confidence": 1,
+        "text": "Attention"
+      },
+      {
+        "boundingBox": [
+          0.0807453425854037,
+          0.248380129711123,
+          0.15527950310559008,
+          0.023758099352051865
+        ],
+        "confidence": 0.3,
+        "text": "Positional"
+      },
+      {
+        "boundingBox": [
+          0.8353004392088068,
+          0.2437228257505507,
+          0.15859166731745555,
+          0.024433396547453468
+        ],
+        "confidence": 1,
+        "text": "Positional"
+      },
+      {
+        "boundingBox": [
+          0.08070666274938514,
+          0.21371261480508297,
+          0.15225127320852339,
+          0.026138485894089847
+        ],
+        "confidence": 1,
+        "text": "Encoding"
+      },
+      {
+        "boundingBox": [
+          0.8345784319845141,
+          0.21058406472777302,
+          0.1540212335053438,
+          0.0266295303278814
+        ],
+        "confidence": 1,
+        "text": "Encoding"
+      },
+      {
+        "boundingBox": [
+          0.332298135636646,
+          0.17710583147948167,
+          0.08074534161490687,
+          0.021598272138228958
+        ],
+        "confidence": 0.5,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.6459627320186335,
+          0.1771058317710582,
+          0.10248447204968947,
+          0.023758099352051865
+        ],
+        "confidence": 0.5,
+        "text": "Output"
+      },
+      {
+        "boundingBox": [
+          0.2916993221811943,
+          0.1482608259161785,
+          0.1619429736403945,
+          0.025292600462812564
+        ],
+        "confidence": 1,
+        "text": "Embedding"
+      },
+      {
+        "boundingBox": [
+          0.6177115840544409,
+          0.14801680887280644,
+          0.15898677280970985,
+          0.02578063557008936
+        ],
+        "confidence": 0.5,
+        "text": "Embedding"
+      },
+      {
+        "boundingBox": [
+          0.31987577636645964,
+          0.06263498896328301,
+          0.10248447204968941,
+          0.023758099352051865
+        ],
+        "confidence": 0.5,
+        "text": "Inputs"
+      },
+      {
+        "boundingBox": [
+          0.630039926110162,
+          0.06161363155245947,
+          0.13433008608610741,
+          0.027960640307894025
+        ],
+        "confidence": 1,
+        "text": "Outputs"
+      },
+      {
+        "boundingBox": [
+          0.5869565199922361,
+          0.03239740853131745,
+          0.2142857142857143,
+          0.02591792656587477
+        ],
+        "confidence": 0.5,
+        "text": "（shifted right）"
+      }
+    ],
+    "ocr_text": "Output\nProbabilities\nSoftmax\n个\nLinear\nAdd & Norm\nFeed\nForward\nAdd &Norm\nAdd & Norm\nMulti-Head\nFeed\nAttention\nForward\nNx\nAdd & Norm\nNX\nAdd & Norm\nMasked\nMulti-Head\nMulti-Head\nAttention\nAttention\nPositional\nPositional\nEncoding\nEncoding\nInput\nOutput\nEmbedding\nEmbedding\nInputs\nOutputs\n（shifted right）",
+    "description": "文章中的配图，包含文字：Output；Probabilities；Softmax；个；Linear；Add & Norm；Feed；Forward；Add &Norm；Add & Norm；Multi-Head；Feed；Attention；Forward；Nx；Add & Norm；NX；Add & Norm；Masked；Multi-Head；Multi-Head；Attention；Attention；Positional；Positional；Encoding；Encoding；Input；Output；Embedding",
+    "entities": [
+      "Output",
+      "Probabilities",
+      "Softmax",
+      "个",
+      "Linear",
+      "Add & Norm",
+      "Feed",
+      "Forward",
+      "Add &Norm",
+      "Multi-Head",
+      "Attention",
+      "Nx",
+      "NX",
+      "Masked",
+      "Positional",
+      "Encoding",
+      "Input",
+      "Embedding",
+      "Inputs",
+      "Outputs",
+      "（shifted right）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4c0a3eb20a25d8886fdd47f93081288cf68c92fd7e745422c7634207ee91b404"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-003",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 3,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsW2fr4icXumSlQ8nGMyR2Awu5817hexyUyZichwUib4zALmc2J9icAa0TO1n1zTaMMiahWwUQ3dyat5BMQ/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-003.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7110091748088685,
+          0.27500000340277775,
+          0.15366972477064222,
+          0.6124999999999999
+        ],
+        "confidence": 0.3,
+        "text": "（gK"
+      },
+      {
+        "boundingBox": [
+          0.04587155410932729,
+          0.3499999998958334,
+          0.6628440366972477,
+          0.2875
+        ],
+        "confidence": 0.5,
+        "text": "Attention （K, Q, V） =softmax"
+      }
+    ],
+    "ocr_text": "（gK\nAttention （K, Q, V） =softmax",
+    "description": "文章中的配图，包含文字：（gK；Attention （K, Q, V） =softmax",
+    "entities": [
+      "（gK",
+      "Attention （K, Q, V） =softmax"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5dee46c70209c8a1d5ff63b391dfa3c923ee4de5cfe70fb4cdec2e3b36531a32"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-004",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 4,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwupEC97NQChp5YKAjluSrIChQ4EV1tV6Lhib1PgjSzWbgShiceKgKnrviag/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-004.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.19026316638027121,
+          0.1010869771855063,
+          0.21607105857447576,
+          0.6047355195750361
+        ],
+        "confidence": 0.3,
+        "text": "，W"
+      },
+      {
+        "boundingBox": [
+          0.4210526307500001,
+          0.15217391576086958,
+          0.5552631578947368,
+          0.5434782608695651
+        ],
+        "confidence": 0.3,
+        "text": "，W'ERoxd"
+      },
+      {
+        "boundingBox": [
+          0.06052631605263156,
+          0.2826086973278984,
+          0.1736842105263158,
+          0.4021739130434784
+        ],
+        "confidence": 0.3,
+        "text": "w2"
+      }
+    ],
+    "ocr_text": "，W\n，W'ERoxd\nw2",
+    "description": "文章中的配图，包含文字：，W；，W'ERoxd；w2",
+    "entities": [
+      "，W",
+      "，W'ERoxd",
+      "w2"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f3c26967fd7b927a2d1f985ecea2655c6f1c0c06e749c3a49926c2eec8b8e333"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-005",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 5,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwuQiaZfrxGhDicoDpCeNMClvvE4YyMLJibKP6d6cvXXexpeEB00g3WOH6Sg/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-005.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04583334729310522,
+          0.26530613051355434,
+          0.6208333110577289,
+          0.5510203951881045
+        ],
+        "confidence": 0.3,
+        "text": "EW9 EWK"
+      },
+      {
+        "boundingBox": [
+          0.7007299274939173,
+          0.2738095254201681,
+          0.2725060827250608,
+          0.5476190476190476
+        ],
+        "confidence": 0.3,
+        "text": "EWY"
+      }
+    ],
+    "ocr_text": "EW9 EWK\nEWY",
+    "description": "文章中的配图，包含文字：EW9 EWK；EWY",
+    "entities": [
+      "EW9 EWK",
+      "EWY"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "00d504d8f50ce2c1f2d7ff5a89edfd5da1b0c13da4f5807851164cd69abcd93f"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-006",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 6,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsW2fr4icXumSlQ8nGMyR2Awukdia3Y7eeEtbwN8Dbz4xJAgMp2cfhIgUTHyCyf0X6JtVqyNf2xV3EvA/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-006.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11111111075231482,
+          0.5932203409427965,
+          0.7351851851851852,
+          0.31355932203389836
+        ],
+        "confidence": 0.3,
+        "text": "nead， = Attention （EW9, EW！，EWY）"
+      },
+      {
+        "boundingBox": [
+          0.02916667608333312,
+          0.09322033694128451,
+          0.9416666666666667,
+          0.24640230405128605
+        ],
+        "confidence": 0.3,
+        "text": "S = MH （E） = Concat （headi,headz，..，headn） W\"I"
+      }
+    ],
+    "ocr_text": "nead， = Attention （EW9, EW！，EWY）\nS = MH （E） = Concat （headi,headz，..，headn） W\"I",
+    "description": "文章中的配图，包含文字：nead， = Attention （EW9, EW！，EWY）；S = MH （E） = Concat （headi,headz，..，headn） W\"I",
+    "entities": [
+      "nead， = Attention （EW9, EW！，EWY）",
+      "S = MH （E） = Concat （headi,headz，..，headn） W\"I"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "89f374a1a1968952475b2aadb19159da0734c4c0a800c4edc0b954b2d226cf40"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-007",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 7,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsW2fr4icXumSlQ8nGMyR2Awue1zcUJzuc5cJ2uw2SaSynrA3tJY0cibWuvlKmORPcM5ynejP0ofU47Q/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-007.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.15185184722222222,
+          0.5795454565746754,
+          0.6925925925925926,
+          0.28409090909090895
+        ],
+        "confidence": 0.3,
+        "text": "S' = Layer Norm（E + Dropout（MH（E）））"
+      },
+      {
+        "boundingBox": [
+          0.03148148448412697,
+          0.10227272532467535,
+          0.9314814814814814,
+          0.2727272727272727
+        ],
+        "confidence": 0.3,
+        "text": "F = LayerNorm（S'+ Dropout（Relu（S'W（）+6①）W②2） +62））"
+      }
+    ],
+    "ocr_text": "S' = Layer Norm（E + Dropout（MH（E）））\nF = LayerNorm（S'+ Dropout（Relu（S'W（）+6①）W②2） +62））",
+    "description": "文章中的配图，包含文字：S' = Layer Norm（E + Dropout（MH（E）））；F = LayerNorm（S'+ Dropout（Relu（S'W（）+6①）W②2） +62））",
+    "entities": [
+      "S' = Layer Norm（E + Dropout（MH（E）））",
+      "F = LayerNorm（S'+ Dropout（Relu（S'W（）+6①）W②2） +62））"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "705d03a58e1deda455bdbc4742b92afeb909cb9562a5b6783cd9d00d075cb28f"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-008",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 8,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwuS5VwDV9iaMUfv1kcLmSBd5IMnXXOlgZjeS7OeAtMfDIsy7mGib9iarNkg/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-008.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4121580469749134,
+          0.8806229866400263,
+          0.1158900939312178,
+          0.05303974151611335
+        ],
+        "confidence": 0.5,
+        "text": "Sigmod"
+      },
+      {
+        "boundingBox": [
+          0.5237113402319588,
+          0.8749999992410714,
+          0.014432989690721598,
+          0.06071428571428572
+        ],
+        "confidence": 0.3,
+        "text": "J"
+      },
+      {
+        "boundingBox": [
+          0.2412371121305842,
+          0.6321428569940476,
+          0.15257731958762885,
+          0.03928571428571426
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.6164948448969072,
+          0.6321428569642857,
+          0.05567010309278353,
+          0.04285714285714293
+        ],
+        "confidence": 1,
+        "text": "MLP"
+      },
+      {
+        "boundingBox": [
+          0.8577319578350515,
+          0.39642857169642853,
+          0.08659793814432992,
+          0.021428571428571463
+        ],
+        "confidence": 1,
+        "text": "Concatenate"
+      },
+      {
+        "boundingBox": [
+          0.4515463916838488,
+          0.3678571435119048,
+          0.012371134020618568,
+          0.03928571428571426
+        ],
+        "confidence": 0.3,
+        "text": "||"
+      },
+      {
+        "boundingBox": [
+          0.8515463928608248,
+          0.3321428572321429,
+          0.0886597938144329,
+          0.021428571428571463
+        ],
+        "confidence": 0.5,
+        "text": "User features"
+      },
+      {
+        "boundingBox": [
+          0.8453608231615121,
+          0.2749999997619047,
+          0.09484536082474226,
+          0.021428571428571463
+        ],
+        "confidence": 1,
+        "text": "Item features"
+      },
+      {
+        "boundingBox": [
+          0.3505154628006873,
+          0.1821428576190477,
+          0.2164948453608248,
+          0.05714285714285716
+        ],
+        "confidence": 1,
+        "text": "Embedding Layer"
+      },
+      {
+        "boundingBox": [
+          0.826804125257732,
+          0.21428571441964273,
+          0.12371134020618546,
+          0.025000000000000022
+        ],
+        "confidence": 0.3,
+        "text": "Query features"
+      },
+      {
+        "boundingBox": [
+          0.839175259637145,
+          0.1607142854761905,
+          0.12164947667072734,
+          0.021428571428571352
+        ],
+        "confidence": 0.5,
+        "text": "Context features"
+      },
+      {
+        "boundingBox": [
+          0.8515463915120275,
+          0.10000000041666668,
+          0.09278350515463918,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "Cross features"
+      }
+    ],
+    "ocr_text": "Sigmod\nJ\nTransformer\nMLP\nConcatenate\n||\nUser features\nItem features\nEmbedding Layer\nQuery features\nContext features\nCross features",
+    "description": "文章中的配图，包含文字：Sigmod；J；Transformer；MLP；Concatenate；||；User features；Item features；Embedding Layer；Query features；Context features；Cross features",
+    "entities": [
+      "Sigmod",
+      "J",
+      "Transformer",
+      "MLP",
+      "Concatenate",
+      "||",
+      "User features",
+      "Item features",
+      "Embedding Layer",
+      "Query features",
+      "Context features",
+      "Cross features"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6c4d843a51c2ac518ab77b8eedeb815cfa4ee45e5d9c9e194943203313a1ecfc"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-009",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 9,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwuBN59FuZ7fs3phSLicr25uv6g2C7F7tE0D2u3dcjgJfzkffgmPjRXMUA/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-009.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3510863938898138,
+          0.9187775224446343,
+          0.11791089588628156,
+          0.05362142675063186
+        ],
+        "confidence": 0.5,
+        "text": "Sigmod"
+      },
+      {
+        "boundingBox": [
+          0.37866108768679024,
+          0.7852941173529412,
+          0.06694560669456062,
+          0.04117647058823526
+        ],
+        "confidence": 1,
+        "text": "MLP"
+      },
+      {
+        "boundingBox": [
+          0.3597337762313608,
+          0.6289140102145268,
+          0.09643202745764823,
+          0.03923080388237454
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.08368200742677825,
+          0.5205882351470589,
+          0.09414225941422596,
+          0.032352941176470584
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.3116648284614398,
+          0.5230917711000918,
+          0.16537327147926745,
+          0.039110576405244624
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.5857740583472804,
+          0.5235294121470588,
+          0.16527196652719667,
+          0.038235294117647034
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.8556485374128312,
+          0.3794117648039216,
+          0.11087866108786615,
+          0.0235294117647058
+        ],
+        "confidence": 1,
+        "text": "User features"
+      },
+      {
+        "boundingBox": [
+          0.8389121355125523,
+          0.3176470589338235,
+          0.12970711297071125,
+          0.026470588235294135
+        ],
+        "confidence": 0.5,
+        "text": "Item features"
+      },
+      {
+        "boundingBox": [
+          0.8535564864016736,
+          0.25882352953431376,
+          0.12552301255230136,
+          0.026470588235294135
+        ],
+        "confidence": 1,
+        "text": "Query features"
+      },
+      {
+        "boundingBox": [
+          0.26666667122032167,
+          0.21029411816909938,
+          0.2791666645385232,
+          0.05882352941176472
+        ],
+        "confidence": 0.5,
+        "text": "Embedding Layer"
+      },
+      {
+        "boundingBox": [
+          0.8535564863419007,
+          0.20294117659663868,
+          0.13807531380753146,
+          0.02352941176470591
+        ],
+        "confidence": 1,
+        "text": "Context features"
+      },
+      {
+        "boundingBox": [
+          0.8535564850679915,
+          0.1441176473897059,
+          0.11924686192468625,
+          0.026470588235294135
+        ],
+        "confidence": 1,
+        "text": "Cross features"
+      },
+      {
+        "boundingBox": [
+          0.05648535664973101,
+          0.07352941186974782,
+          0.1401673640167364,
+          0.026470588235294135
+        ],
+        "confidence": 1,
+        "text": "Other features"
+      },
+      {
+        "boundingBox": [
+          0.849372384539749,
+          0.08235294141176475,
+          0.043933054393305526,
+          0.02352941176470591
+        ],
+        "confidence": 1,
+        "text": "item"
+      },
+      {
+        "boundingBox": [
+          0.3033472828451882,
+          0.038235294264705844,
+          0.20083682008368198,
+          0.02941176470588236
+        ],
+        "confidence": 0.5,
+        "text": "Long-term Sequence"
+      },
+      {
+        "boundingBox": [
+          0.5794979099790795,
+          0.041176470705882484,
+          0.20292887029288698,
+          0.02941176470588236
+        ],
+        "confidence": 0.5,
+        "text": "Short-term Sequence"
+      }
+    ],
+    "ocr_text": "Sigmod\nMLP\nConcat\nConcat\nTransformer\nTransformer\nUser features\nItem features\nQuery features\nEmbedding Layer\nContext features\nCross features\nOther features\nitem\nLong-term Sequence\nShort-term Sequence",
+    "description": "文章中的配图，包含文字：Sigmod；MLP；Concat；Concat；Transformer；Transformer；User features；Item features；Query features；Embedding Layer；Context features；Cross features；Other features；item；Long-term Sequence；Short-term Sequence",
+    "entities": [
+      "Sigmod",
+      "MLP",
+      "Concat",
+      "Transformer",
+      "User features",
+      "Item features",
+      "Query features",
+      "Embedding Layer",
+      "Context features",
+      "Cross features",
+      "Other features",
+      "item",
+      "Long-term Sequence",
+      "Short-term Sequence"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "56b5cc19a384e2e203c41ede13bca7eefd7446e60df8517141507609a6233e37"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-010",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 10,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwusjJWIYuj40gjc0rqorSQdIY26Kv8OqqrnypXhbibMmWaB6LUb3VgicvA/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-010.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3849659240414334,
+          0.9239405059867677,
+          0.10506815295065602,
+          0.051490054940277696
+        ],
+        "confidence": 0.5,
+        "text": "Sigmod"
+      },
+      {
+        "boundingBox": [
+          0.405241934858871,
+          0.7798742137106918,
+          0.0625,
+          0.04402515723270439
+        ],
+        "confidence": 1,
+        "text": "MLP"
+      },
+      {
+        "boundingBox": [
+          0.3870442841224428,
+          0.6223262302568404,
+          0.08478240043886248,
+          0.03522175512973624
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.10878349431853566,
+          0.515182009161109,
+          0.08686849378770396,
+          0.03567371578336509
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.2903225791330646,
+          0.5188679243710692,
+          0.15120967741935482,
+          0.03459119496855356
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.6068548371975806,
+          0.5188679243710692,
+          0.15120967741935487,
+          0.03459119496855356
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.8709677416330645,
+          0.3710691827044025,
+          0.10080645161290325,
+          0.02515723270440251
+        ],
+        "confidence": 1,
+        "text": "User features"
+      },
+      {
+        "boundingBox": [
+          0.8365023922118067,
+          0.30343458037638593,
+          0.13546296088926257,
+          0.04407423547228928
+        ],
+        "confidence": 0.5,
+        "text": "• item features"
+      },
+      {
+        "boundingBox": [
+          0.8344614594952925,
+          0.237295666683349,
+          0.14760934152910787,
+          0.050565896544066624
+        ],
+        "confidence": 0.5,
+        "text": "• Query features"
+      },
+      {
+        "boundingBox": [
+          0.2983870980040322,
+          0.20754716996855338,
+          0.24596774193548387,
+          0.05031446540880502
+        ],
+        "confidence": 1,
+        "text": "Embedding Layer"
+      },
+      {
+        "boundingBox": [
+          0.8709677431653227,
+          0.19496855361635224,
+          0.12298387096774188,
+          0.022012578616352196
+        ],
+        "confidence": 1,
+        "text": "Context features"
+      },
+      {
+        "boundingBox": [
+          0.8689516136664747,
+          0.13207547181042223,
+          0.10685483870967738,
+          0.028301886792452824
+        ],
+        "confidence": 1,
+        "text": "Cross features"
+      },
+      {
+        "boundingBox": [
+          0.08870967832661288,
+          0.06289308187331533,
+          0.12701612903225806,
+          0.028301886792452824
+        ],
+        "confidence": 1,
+        "text": "Other features"
+      },
+      {
+        "boundingBox": [
+          0.4838094122876429,
+          0.06871490246794476,
+          0.09689730213534448,
+          0.03238151658256094
+        ],
+        "confidence": 1,
+        "text": "Target item"
+      },
+      {
+        "boundingBox": [
+          0.8669354834425402,
+          0.06918239029088047,
+          0.03830645161290325,
+          0.028301886792452824
+        ],
+        "confidence": 1,
+        "text": "item"
+      },
+      {
+        "boundingBox": [
+          0.6025151178868221,
+          0.029743262292907136,
+          0.18399870780206495,
+          0.03341624271944632
+        ],
+        "confidence": 1,
+        "text": "Short-term Sequence"
+      },
+      {
+        "boundingBox": [
+          0.28427419532258064,
+          0.02515723283018878,
+          0.1774193548387097,
+          0.02515723270440251
+        ],
+        "confidence": 1,
+        "text": "Long-term Sequence"
+      }
+    ],
+    "ocr_text": "Sigmod\nMLP\nConcat\nConcat\nTransformer\nTransformer\nUser features\n• item features\n• Query features\nEmbedding Layer\nContext features\nCross features\nOther features\nTarget item\nitem\nShort-term Sequence\nLong-term Sequence",
+    "description": "文章中的配图，包含文字：Sigmod；MLP；Concat；Concat；Transformer；Transformer；User features；• item features；• Query features；Embedding Layer；Context features；Cross features；Other features；Target item；item；Short-term Sequence；Long-term Sequence",
+    "entities": [
+      "Sigmod",
+      "MLP",
+      "Concat",
+      "Transformer",
+      "User features",
+      "• item features",
+      "• Query features",
+      "Embedding Layer",
+      "Context features",
+      "Cross features",
+      "Other features",
+      "Target item",
+      "item",
+      "Short-term Sequence",
+      "Long-term Sequence"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fc47bf10e626503dc6b63ca9d8a2565f8238164c942774aa2379a6bf44461191"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-011",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 11,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2Awu3XhATLWh6fvNSvkZOT58VOcZVINCOxmsfpdVL1qibY4tia7k4Pib8g2Uw/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-011.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3626834386792453,
+          0.9200000004358975,
+          0.12578616352201255,
+          0.05230769230769228
+        ],
+        "confidence": 0.5,
+        "text": "Sigmod"
+      },
+      {
+        "boundingBox": [
+          0.38574423433662774,
+          0.7815384613846154,
+          0.06498951781970652,
+          0.040000000000000036
+        ],
+        "confidence": 0.3,
+        "text": "MLP"
+      },
+      {
+        "boundingBox": [
+          0.364779873312369,
+          0.6246153844615385,
+          0.09014675052410898,
+          0.03384615384615386
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.07511066989835592,
+          0.5147713192990111,
+          0.08877237187991353,
+          0.038149669353778504
+        ],
+        "confidence": 1,
+        "text": "Concat"
+      },
+      {
+        "boundingBox": [
+          0.26624737921907754,
+          0.5200000004615385,
+          0.15723270440251574,
+          0.03692307692307695
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.454166676866565,
+          0.5121951225112427,
+          0.3041666538710365,
+          0.043189493326040496
+        ],
+        "confidence": 0.3,
+        "text": "•attn Transformer"
+      },
+      {
+        "boundingBox": [
+          0.8679245293710691,
+          0.39076923089230764,
+          0.10691823899371067,
+          0.024615384615384595
+        ],
+        "confidence": 1,
+        "text": "User features"
+      },
+      {
+        "boundingBox": [
+          0.8364779888050313,
+          0.3292307693538462,
+          0.13836477987421392,
+          0.03076923076923077
+        ],
+        "confidence": 0.5,
+        "text": "• Item features"
+      },
+      {
+        "boundingBox": [
+          0.8595387860042251,
+          0.2738461536410257,
+          0.12368971946604346,
+          0.024615384615384595
+        ],
+        "confidence": 1,
+        "text": "Query features"
+      },
+      {
+        "boundingBox": [
+          0.27253668979734447,
+          0.21538461553846144,
+          0.259958071278826,
+          0.0492307692307693
+        ],
+        "confidence": 0.5,
+        "text": "Embedding Layer"
+      },
+      {
+        "boundingBox": [
+          0.8595387823637317,
+          0.21538461523076924,
+          0.13626834381551356,
+          0.024615384615384706
+        ],
+        "confidence": 1,
+        "text": "Context features"
+      },
+      {
+        "boundingBox": [
+          0.8679245280223621,
+          0.1600000004102563,
+          0.10901467505241091,
+          0.024615383881788966
+        ],
+        "confidence": 0.5,
+        "text": "Cross features"
+      },
+      {
+        "boundingBox": [
+          0.46656391105885653,
+          0.07863121272349727,
+          0.10437218048287644,
+          0.0378595264141377
+        ],
+        "confidence": 0.5,
+        "text": "Target item"
+      },
+      {
+        "boundingBox": [
+          0.863731655520615,
+          0.09846153830769222,
+          0.03983228511530401,
+          0.021538461538461506
+        ],
+        "confidence": 1,
+        "text": "item"
+      },
+      {
+        "boundingBox": [
+          0.05241090258560445,
+          0.07384615394871796,
+          0.13417190775681342,
+          0.024615384615384595
+        ],
+        "confidence": 1,
+        "text": "Other features"
+      },
+      {
+        "boundingBox": [
+          0.2599580714360587,
+          0.03384615419230774,
+          0.18448637316561844,
+          0.027692307692307683
+        ],
+        "confidence": 1,
+        "text": "Long-term Sequence"
+      },
+      {
+        "boundingBox": [
+          0.5911949695492662,
+          0.039999999615384696,
+          0.19287211740041932,
+          0.03076923076923077
+        ],
+        "confidence": 1,
+        "text": "Short-term Sequence"
+      }
+    ],
+    "ocr_text": "Sigmod\nMLP\nConcat\nConcat\nTransformer\n•attn Transformer\nUser features\n• Item features\nQuery features\nEmbedding Layer\nContext features\nCross features\nTarget item\nitem\nOther features\nLong-term Sequence\nShort-term Sequence",
+    "description": "文章中的配图，包含文字：Sigmod；MLP；Concat；Concat；Transformer；•attn Transformer；User features；• Item features；Query features；Embedding Layer；Context features；Cross features；Target item；item；Other features；Long-term Sequence；Short-term Sequence",
+    "entities": [
+      "Sigmod",
+      "MLP",
+      "Concat",
+      "Transformer",
+      "•attn Transformer",
+      "User features",
+      "• Item features",
+      "Query features",
+      "Embedding Layer",
+      "Context features",
+      "Cross features",
+      "Target item",
+      "item",
+      "Other features",
+      "Long-term Sequence",
+      "Short-term Sequence"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "89f76f0acbe35559a551348b08c0d8a068bebdf5aa45d9d47f9da2f01ebf9ab0"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-012",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 12,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_jpg/hEx03cFgUsW2fr4icXumSlQ8nGMyR2AwuMWDJbVSQ1cg8X3TaXWGJeLVz7CSViagXqyW6psfTian7VgTvk2ALvfKw/640?wx_fmt=jpeg",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-012.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.272222222037037,
+          0.77215189907173,
+          0.0222222222222222,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D1"
+      },
+      {
+        "boundingBox": [
+          0.3555555557407407,
+          0.7721518989029537,
+          0.018518518518518545,
+          0.033755274261603296
+        ],
+        "confidence": 0.5,
+        "text": "X1"
+      },
+      {
+        "boundingBox": [
+          0.398148148,
+          0.77215189907173,
+          0.018518518518518545,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "P1"
+      },
+      {
+        "boundingBox": [
+          0.7925925922436693,
+          0.7763713067155334,
+          0.012962963845994713,
+          0.02953586699087407
+        ],
+        "confidence": 0.3,
+        "text": "A"
+      },
+      {
+        "boundingBox": [
+          0.8092592578703705,
+          0.7679324893459916,
+          0.11111111111111105,
+          0.04219409282700415
+        ],
+        "confidence": 0.5,
+        "text": "Score（D1）一"
+      },
+      {
+        "boundingBox": [
+          0.9462962961296297,
+          0.77215189907173,
+          0.020370370370370372,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D1"
+      },
+      {
+        "boundingBox": [
+          0.272222222,
+          0.6286919829535864,
+          0.022222222222222254,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D2"
+      },
+      {
+        "boundingBox": [
+          0.3537037035185185,
+          0.6286919835021096,
+          0.0222222222222222,
+          0.03797468354430389
+        ],
+        "confidence": 0.5,
+        "text": "X2"
+      },
+      {
+        "boundingBox": [
+          0.39814814833333334,
+          0.628691982700422,
+          0.0222222222222222,
+          0.033755274261603296
+        ],
+        "confidence": 0.5,
+        "text": "P2"
+      },
+      {
+        "boundingBox": [
+          0.818415737648699,
+          0.6276610996376392,
+          0.07983519236246739,
+          0.0442558602441715
+        ],
+        "confidence": 1,
+        "text": "Score（D2）"
+      },
+      {
+        "boundingBox": [
+          0.9462962961111112,
+          0.6286919834599156,
+          0.022222222222222143,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "Dn"
+      },
+      {
+        "boundingBox": [
+          0.5351851862191358,
+          0.49367088625175815,
+          0.12407407407407411,
+          0.04641350210970463
+        ],
+        "confidence": 1,
+        "text": "Transformer"
+      },
+      {
+        "boundingBox": [
+          0.272222222,
+          0.4894514766244725,
+          0.022222222222222254,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D3"
+      },
+      {
+        "boundingBox": [
+          0.35370370342592594,
+          0.4894514765822785,
+          0.0222222222222222,
+          0.033755274261603296
+        ],
+        "confidence": 0.3,
+        "text": "X3"
+      },
+      {
+        "boundingBox": [
+          0.39814814829365075,
+          0.48945147697408076,
+          0.020370370370370372,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "P3"
+      },
+      {
+        "boundingBox": [
+          0.8184798351606145,
+          0.4806303617873381,
+          0.07970699734157982,
+          0.042958686120399436
+        ],
+        "confidence": 1,
+        "text": "Score（D3）"
+      },
+      {
+        "boundingBox": [
+          0.9462962964550264,
+          0.48945147697408076,
+          0.022222222222222254,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D2"
+      },
+      {
+        "boundingBox": [
+          0.7055555554320988,
+          0.3628691990857946,
+          0.011111111111111072,
+          0.04641350210970463
+        ],
+        "confidence": 0.3,
+        "text": "："
+      },
+      {
+        "boundingBox": [
+          0.011111113302469054,
+          0.36708860780590713,
+          0.1314814814814815,
+          0.029535864978902926
+        ],
+        "confidence": 0.3,
+        "text": "泉始（user、item、"
+      },
+      {
+        "boundingBox": [
+          0.13888888801851854,
+          0.3670886073839662,
+          0.08703703703703705,
+          0.029535864978902926
+        ],
+        "confidence": 0.3,
+        "text": "交叉等）维度"
+      },
+      {
+        "boundingBox": [
+          0.8407407406481481,
+          0.3628691990154712,
+          0.012962962962962954,
+          0.04219409282700415
+        ],
+        "confidence": 0.3,
+        "text": "："
+      },
+      {
+        "boundingBox": [
+          0.08703703764814813,
+          0.32489451497890287,
+          0.061111111111111116,
+          0.03797468354430378
+        ],
+        "confidence": 1,
+        "text": "统计特征"
+      },
+      {
+        "boundingBox": [
+          0.8092592596759259,
+          0.24472573792194097,
+          0.0888888888888889,
+          0.03797468354430378
+        ],
+        "confidence": 1,
+        "text": "Score（Dn）"
+      },
+      {
+        "boundingBox": [
+          0.2740740742195767,
+          0.23628692001205553,
+          0.020370370370370372,
+          0.033755274261603296
+        ],
+        "confidence": 1,
+        "text": "Dn"
+      },
+      {
+        "boundingBox": [
+          0.35370370354938274,
+          0.23628692011251762,
+          0.0222222222222222,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "Xn"
+      },
+      {
+        "boundingBox": [
+          0.39814814842592594,
+          0.23628692004219398,
+          0.0222222222222222,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "Pn"
+      },
+      {
+        "boundingBox": [
+          0.9462962961111112,
+          0.2362869201687764,
+          0.022222222222222143,
+          0.03375527426160341
+        ],
+        "confidence": 1,
+        "text": "D3"
+      },
+      {
+        "boundingBox": [
+          0.07592592657407406,
+          0.03797468375527424,
+          0.09074074074074075,
+          0.03797468354430378
+        ],
+        "confidence": 1,
+        "text": "特征向量生成"
+      },
+      {
+        "boundingBox": [
+          0.3592592589285714,
+          0.037974683333333425,
+          0.04629629629629628,
+          0.03797468354430378
+        ],
+        "confidence": 1,
+        "text": "输入层"
+      },
+      {
+        "boundingBox": [
+          0.5370370381327161,
+          0.03797468372011259,
+          0.13148148148148142,
+          0.03797468354430378
+        ],
+        "confidence": 0.5,
+        "text": "Transformer 编码层"
+      },
+      {
+        "boundingBox": [
+          0.7759259263888888,
+          0.03797468375527424,
+          0.04629629629629628,
+          0.03797468354430378
+        ],
+        "confidence": 1,
+        "text": "输出层"
+      }
+    ],
+    "ocr_text": "D1\nX1\nP1\nA\nScore（D1）一\nD1\nD2\nX2\nP2\nScore（D2）\nDn\nTransformer\nD3\nX3\nP3\nScore（D3）\nD2\n：\n泉始（user、item、\n交叉等）维度\n：\n统计特征\nScore（Dn）\nDn\nXn\nPn\nD3\n特征向量生成\n输入层\nTransformer 编码层\n输出层",
+    "description": "文章中的配图，包含文字：D1；X1；P1；A；Score（D1）一；D1；D2；X2；P2；Score（D2）；Dn；Transformer；D3；X3；P3；Score（D3）；D2；：；泉始（user、item、；交叉等）维度；：；统计特征；Score（Dn）；Dn；Xn；Pn；D3；特征向量生成；输入层；Transformer 编码层",
+    "entities": [
+      "D1",
+      "X1",
+      "P1",
+      "A",
+      "Score（D1）一",
+      "D2",
+      "X2",
+      "P2",
+      "Score（D2）",
+      "Dn",
+      "Transformer",
+      "D3",
+      "X3",
+      "P3",
+      "Score（D3）",
+      "：",
+      "泉始（user、item、",
+      "交叉等）维度",
+      "统计特征",
+      "Score（Dn）",
+      "Xn",
+      "Pn",
+      "特征向量生成",
+      "输入层",
+      "Transformer 编码层",
+      "输出层"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f0e03bfe7becc7577875b63fe195c9f5604d5301dd48694c102a86a35d0616f2"
+  },
+  {
+    "figure_id": "2518-Transformer-在美团搜索排序中的实践-633e1084-fig-013",
+    "doc_id": "2518-Transformer-在美团搜索排序中的实践-633e1084",
+    "seq": 13,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsVqYWAk393dNLxQAjWtfrIGRsyiaFNm0lM7TN0S2WicBWTVTxpgicia04QWjNYicWlNGI5XRhGanxqxK5g/640?wx_fmt=png",
+    "image_path": "images/2518-Transformer-在美团搜索排序中的实践-633e1084/figure-013.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.17962962858465611,
+          0.8381742736514524,
+          0.14629629629629629,
+          0.06224066390041483
+        ],
+        "confidence": 1,
+        "text": "美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.1796296294212963,
+          0.8008298759336099,
+          0.1462962962962963,
+          0.03319502074688807
+        ],
+        "confidence": 1,
+        "text": "tech.meituan.com"
+      },
+      {
+        "boundingBox": [
+          0.7203703706481481,
+          0.5477178425311203,
+          0.04444444444444451,
+          0.049792531120331884
+        ],
+        "confidence": 1,
+        "text": "美团"
+      },
+      {
+        "boundingBox": [
+          0.7184586520117591,
+          0.5140987653736551,
+          0.04641602834065761,
+          0.03404313400078607
+        ],
+        "confidence": 0.3,
+        "text": "技术团队"
+      },
+      {
+        "boundingBox": [
+          0.10740740527777777,
+          0.2531120329875519,
+          0.29814814814814816,
+          0.053941908713692976
+        ],
+        "confidence": 1,
+        "text": "CODE A BETTER LIFE"
+      },
+      {
+        "boundingBox": [
+          0.10740740611111113,
+          0.19502074676348546,
+          0.12962962962962962,
+          0.045643153526971014
+        ],
+        "confidence": 0.5,
+        "text": "一行代码"
+      },
+      {
+        "boundingBox": [
+          0.2777777786772487,
+          0.1950207470954356,
+          0.12592592592592594,
+          0.045643153526971014
+        ],
+        "confidence": 0.5,
+        "text": "亿万生活"
+      },
+      {
+        "boundingBox": [
+          0.6222222202160494,
+          0.12448132755878283,
+          0.2407407407407407,
+          0.053941908713692976
+        ],
+        "confidence": 1,
+        "text": "长按二维码关注我们"
+      }
+    ],
+    "ocr_text": "美团技术团队\ntech.meituan.com\n美团\n技术团队\nCODE A BETTER LIFE\n一行代码\n亿万生活\n长按二维码关注我们",
+    "description": "文章中的配图，包含文字：美团技术团队；tech.meituan.com；美团；技术团队；CODE A BETTER LIFE；一行代码；亿万生活；长按二维码关注我们",
+    "entities": [
+      "美团技术团队",
+      "tech.meituan.com",
+      "美团",
+      "技术团队",
+      "CODE A BETTER LIFE",
+      "一行代码",
+      "亿万生活",
+      "长按二维码关注我们"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7d46d23331b692922251e7f54f4a0e491562d3aa3aaba4339df2465c533ac06d"
+  }
+]

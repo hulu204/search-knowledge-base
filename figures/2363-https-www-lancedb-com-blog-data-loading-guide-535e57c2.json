@@ -1,0 +1,210 @@
+[
+  {
+    "figure_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2-fig-001",
+    "doc_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a7a382205f14767ae1150a4_preview-image.png",
+    "image_path": "images/2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2/figure-001.png",
+    "section": "Data Loading for AI/ML: A Comprehensive Guide",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09633862586042517,
+          0.880116941864258,
+          0.14407238045688253,
+          0.05747444927692413
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Data Loading for AI/ML: A Comprehensive Guide中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4b2c23630390e391ebb96beda8df1dcff0b3b665931fb728ab5630842aab5310"
+  },
+  {
+    "figure_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2-fig-002",
+    "doc_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760bdc_weston-pace.avif",
+    "image_path": "images/2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2/figure-002.avif",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusion中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d540d318fb6247a94b5cc1d00a9feb5f06da70d5118d4e27cae4c86018cf400"
+  },
+  {
+    "figure_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2-fig-003",
+    "doc_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a7b2c638f8bcabc3dca80e6_LanceDB_Blog%20Header%201672x941px_Portal.jpg",
+    "image_path": "images/2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2/figure-003.jpg",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.041998604894868174,
+          0.8029154400613037,
+          0.2895493028266578,
+          0.11839592887084693
+        ],
+        "confidence": 1,
+        "text": "Reverie"
+      },
+      {
+        "boundingBox": [
+          0.04505814344255727,
+          0.7473460722458374,
+          0.2848837090451181,
+          0.03873640210258977
+        ],
+        "confidence": 0.5,
+        "text": "The Summit for Al Builders"
+      },
+      {
+        "boundingBox": [
+          0.045058146373758746,
+          0.5923566896763603,
+          0.28488370904511806,
+          0.07259176136834866
+        ],
+        "confidence": 0.5,
+        "text": "November 5,2026"
+      },
+      {
+        "boundingBox": [
+          0.04360465213851303,
+          0.5254777051004396,
+          0.27906976362164515,
+          0.07246043778275735
+        ],
+        "confidence": 0.5,
+        "text": "San Francisco, CA"
+      },
+      {
+        "boundingBox": [
+          0.04764676529224052,
+          0.0841140364966092,
+          0.12859568071137206,
+          0.04100062133400306
+        ],
+        "confidence": 0.5,
+        "text": "Presented by"
+      },
+      {
+        "boundingBox": [
+          0.2354651174971677,
+          0.0876288672611506,
+          0.09302325454054838,
+          0.03657495494607654
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "Reverie\nThe Summit for Al Builders\nNovember 5,2026\nSan Francisco, CA\nPresented by\nLanceDB",
+    "description": "Conclusion中的配图，包含文字：Reverie；The Summit for Al Builders；November 5,2026；San Francisco, CA；Presented by；LanceDB",
+    "entities": [
+      "Reverie",
+      "The Summit for Al Builders",
+      "November 5,2026",
+      "San Francisco, CA",
+      "Presented by",
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e082e33bc27ecc9c81bda19981123bfc102eee329e85909c212a591ea544d069"
+  },
+  {
+    "figure_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2-fig-004",
+    "doc_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a74cad2eb2d6fbd8877d0b0_july%20hero.png",
+    "image_path": "images/2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2/figure-004.png",
+    "section": "Announcing Reverie Summit: What AI’s Next Breakthroughs Are Made On",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2655514832362685,
+          0.5076652942748814,
+          0.4645365715026855,
+          0.17329990245677807
+        ],
+        "confidence": 0.5,
+        "text": "July 2026"
+      },
+      {
+        "boundingBox": [
+          0.3203947589767732,
+          0.2783249676514358,
+          0.3936623891194661,
+          0.08895462530630605
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "July 2026\nLanceDB Newsletter",
+    "description": "Announcing Reverie Summit: What AI’s Next Breakthroughs Are Made On中的配图，包含文字：July 2026；LanceDB Newsletter",
+    "entities": [
+      "July 2026",
+      "LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d9f67f169bbcb537f1fcdb90b00af6cce78e5460b1b26dd3d935db55931f88c9"
+  },
+  {
+    "figure_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2-fig-005",
+    "doc_id": "2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a7397b4b98c23e0d66b3a2d_geneva-examples-hero.png",
+    "image_path": "images/2363-https-www-lancedb-com-blog-data-loading-guide-535e57c2/figure-005.png",
+    "section": "⚡ Multi-Bit RaBitQ Without Refine, 🌋 Bytedance’s Lance-Based AI Stack, 🤖 Lance for Embodied AI Data",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10319767531705955,
+          0.8757961786599945,
+          0.14389534544146232,
+          0.05203887307719823
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "⚡ Multi-Bit RaBitQ Without Refine, 🌋 Bytedance’s Lance-Based AI Stack, 🤖 Lance for Embodied AI Data中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3f13dbc8f578fe8fbfc45cea21cdb2dd9504adcca75f121cb2cfe9d3189444df"
+  }
+]

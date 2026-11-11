@@ -1,0 +1,486 @@
+[
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-001",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab6e826f1de06999f9d869a_rerank_hero.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-001.avif",
+    "section": "How Jev Compares to Other Rerankers for LanceDB Search",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09872580829480705,
+          0.8778908876261025,
+          0.13394373113458807,
+          0.05091925740495096
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "How Jev Compares to Other Rerankers for LanceDB Search中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "780abe86ffb5e80f447f81b381b9dbbaf9a5d8050703469b8c791ac4ad6c276d"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-002",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab6bb15599f8e93c9e71038_6ab69757261deb4c494cbbd8_jev-reranker-inline-2.png",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-002.png",
+    "section": "**Use Jev with LanceDB**",
+    "alt": "Vector search results reranked by Jev for a password reset query.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.44576877219997496,
+          0.8498293512190075,
+          0.10846245288848883,
+          0.0426621160409556
+        ],
+        "confidence": 0.5,
+        "text": "Vector search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.03814065088098037,
+          0.675000000442639,
+          0.369487464427948,
+          0.050255972370759516
+        ],
+        "confidence": 0.5,
+        "text": "jev-1.13.0• How do I reset a forgotten password？"
+      },
+      {
+        "boundingBox": [
+          0.0381406467316745,
+          0.5541666665017593,
+          0.21811680495738983,
+          0.04651592697299789
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in results："
+      },
+      {
+        "boundingBox": [
+          0.10607866778710101,
+          0.4583333335894213,
+          0.1215732991695404,
+          0.054166666883657455
+        ],
+        "confidence": 0.5,
+        "text": "print （result［\"_"
+      },
+      {
+        "boundingBox": [
+          0.22050059106064823,
+          0.45000000036796295,
+          0.3110846281051636,
+          0.06706484511443778
+        ],
+        "confidence": 0.5,
+        "text": "_relevance_score\"］， result ［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.04052443426754315,
+          0.4658703074390508,
+          0.02264600619673729,
+          0.022184300341296925
+        ],
+        "confidence": 0.3,
+        "text": "•••"
+      },
+      {
+        "boundingBox": [
+          0.03814064373995896,
+          0.33276450583806516,
+          0.711561381816864,
+          0.059726962457337884
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.03933256109012501,
+          0.245733788230997,
+          0.668653130531311,
+          0.05460750853242324
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enable two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.03814063223775599,
+          0.15833333301650454,
+          0.6448152661323547,
+          0.054977246111977185
+        ],
+        "confidence": 0.5,
+        "text": "0.009999999776482582 You can change your billing address in account settings."
+      }
+    ],
+    "ocr_text": "Vector search + Jev\njev-1.13.0• How do I reset a forgotten password？\n>>> for result in results：\nprint （result［\"_\n_relevance_score\"］， result ［\"answer\"］）\n•••\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enable two-factor authentication.\n0.009999999776482582 You can change your billing address in account settings.",
+    "description": "**Use Jev with LanceDB**中的配图，包含文字：Vector search + Jev；jev-1.13.0• How do I reset a forgotten password？；>>> for result in results：；print （result［\"_；_relevance_score\"］， result ［\"answer\"］）；•••；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enable two-factor authentication.；0.009999999776482582 You can change your billing address in account settings.",
+    "entities": [
+      "Vector search + Jev",
+      "jev-1.13.0• How do I reset a forgotten password？",
+      ">>> for result in results：",
+      "print （result［\"_",
+      "_relevance_score\"］， result ［\"answer\"］）",
+      "•••",
+      "0.949999988079071 To reset your password, choose Forgot password on the sign-in page.",
+      "0.029999999329447746 Use a unique password and enable two-factor authentication.",
+      "0.009999999776482582 You can change your billing address in account settings."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c56524e74ff58d12c430075c8e295b8341fb77da1284ae625ea9831af967d3a9"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-003",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab6bb15599f8e93c9e71035_6ab69755227e1840d9d9e4ac_jev-reranker-inline-1.png",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-003.png",
+    "section": "**Use Jev with LanceDB**",
+    "alt": "Full-text and hybrid search results reranked by Jev for a password reset query.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.41424418938471774,
+          0.9159663861489413,
+          0.17296510934829712,
+          0.025653199736456855
+        ],
+        "confidence": 0.5,
+        "text": "Full-text and hybrid search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.03924418921318937,
+          0.820728291464436,
+          0.36918604373931885,
+          0.028011203485693636
+        ],
+        "confidence": 0.5,
+        "text": "jev-1.13.0•How do I reset a forgotten password？"
+      },
+      {
+        "boundingBox": [
+          0.03779070065325807,
+          0.7476459513503027,
+          0.29360464215278625,
+          0.03389830508474578
+        ],
+        "confidence": 0.5,
+        "text": ">>> print （\"Full-text search + Jev\"）"
+      },
+      {
+        "boundingBox": [
+          0.03756431160919102,
+          0.694448173424675,
+          0.2519453465938568,
+          0.04329162712600043
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in fts_results："
+      },
+      {
+        "boundingBox": [
+          0.1061046565968003,
+          0.6468926549361906,
+          0.42587208747863764,
+          0.03672316384180796
+        ],
+        "confidence": 0.5,
+        "text": "print（result ［\"_relevance_score\"］，result［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.040697674655720426,
+          0.6553672314530303,
+          0.023255813866853714,
+          0.01412429378531077
+        ],
+        "confidence": 0.3,
+        "text": "__."
+      },
+      {
+        "boundingBox": [
+          0.039244187893295285,
+          0.5882352941496416,
+          0.18459302186965942,
+          0.025210084214722372
+        ],
+        "confidence": 0.5,
+        "text": "Full-text search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.037790706422795084,
+          0.5291902070487342,
+          0.7122092843055725,
+          0.03672316384180796
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.03779070741669999,
+          0.4845938386916955,
+          0.6700581312179565,
+          0.03081232275666479
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enable two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.03779069509009744,
+          0.4001883246608898,
+          0.26889535784721375,
+          0.03118422341212046
+        ],
+        "confidence": 0.5,
+        "text": ">>> print （\"Hybrid search + Jev\"）"
+      },
+      {
+        "boundingBox": [
+          0.03779070367787679,
+          0.3473389353601197,
+          0.2776162624359131,
+          0.034016997127209736
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in hybrid_results："
+      },
+      {
+        "boundingBox": [
+          0.10610465653684387,
+          0.2966101700044216,
+          0.4258720874786377,
+          0.039548022598870025
+        ],
+        "confidence": 0.5,
+        "text": "print （result［\"_relevance_score\"］，result［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.040697674171224316,
+          0.305084745808594,
+          0.023255813866853714,
+          0.01424298492977627
+        ],
+        "confidence": 0.3,
+        "text": "••。"
+      },
+      {
+        "boundingBox": [
+          0.037790698074905454,
+          0.2352941188737684,
+          0.161337211728096,
+          0.03118422341212035
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.037790706422795084,
+          0.18173258066744458,
+          0.7122092843055725,
+          0.03395369362696421
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.0377907085334635,
+          0.13445378268329222,
+          0.6700581312179565,
+          0.03127126460245999
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enable two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.03779069927636597,
+          0.08662900177541866,
+          0.645348846912384,
+          0.031073446327683607
+        ],
+        "confidence": 0.5,
+        "text": "0.009999999776482582 You can change your billing address in account settings."
+      }
+    ],
+    "ocr_text": "Full-text and hybrid search + Jev\njev-1.13.0•How do I reset a forgotten password？\n>>> print （\"Full-text search + Jev\"）\n>>> for result in fts_results：\nprint（result ［\"_relevance_score\"］，result［\"answer\"］）\n__.\nFull-text search + Jev\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enable two-factor authentication.\n>>> print （\"Hybrid search + Jev\"）\n>>> for result in hybrid_results：\nprint （result［\"_relevance_score\"］，result［\"answer\"］）\n••。\nHybrid search + Jev\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enable two-factor authentication.\n0.009999999776482582 You can change your billing address in account settings.",
+    "description": "**Use Jev with LanceDB**中的配图，包含文字：Full-text and hybrid search + Jev；jev-1.13.0•How do I reset a forgotten password？；>>> print （\"Full-text search + Jev\"）；>>> for result in fts_results：；print（result ［\"_relevance_score\"］，result［\"answer\"］）；__.；Full-text search + Jev；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enable two-factor authentication.；>>> print （\"Hybrid search + Jev\"）；>>> for result in hybrid_results：；print （result［\"_relevance_score\"］，result［\"answer\"］）；••。；Hybrid search + Jev；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enable two-factor authentication.；0.009999999776482582 You can change your billing address in account settings.",
+    "entities": [
+      "Full-text and hybrid search + Jev",
+      "jev-1.13.0•How do I reset a forgotten password？",
+      ">>> print （\"Full-text search + Jev\"）",
+      ">>> for result in fts_results：",
+      "print（result ［\"_relevance_score\"］，result［\"answer\"］）",
+      "__.",
+      "Full-text search + Jev",
+      "0.949999988079071 To reset your password, choose Forgot password on the sign-in page.",
+      "0.029999999329447746 Use a unique password and enable two-factor authentication.",
+      ">>> print （\"Hybrid search + Jev\"）",
+      ">>> for result in hybrid_results：",
+      "print （result［\"_relevance_score\"］，result［\"answer\"］）",
+      "••。",
+      "Hybrid search + Jev",
+      "0.009999999776482582 You can change your billing address in account settings."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8faa5b2d0fdcf8699a62976147a041738395bd69aad0c61d46128cba3068fe9d"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-004",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab18c0501c69f065c732902_headshot.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-004.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try Jev on your search results**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a0dc9b7f783bedc616b44872b273d4e4f3516b91b8adba82856dab3f65da9b29"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-005",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-005.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try Jev on your search results**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-006",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19ba7029b7b371ee6cd31_10m%20to%2010b%20hero%20compressed.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-006.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10290883365232312,
+          0.8736139123673776,
+          0.13720558933093788,
+          0.05431856774980093
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "**Try Jev on your search results**中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bb5e3ba49a1c6734f519f0f7c5b66fbc350ebeb777db61e4d100a483a869d93"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-007",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19b007eb4bab4e23c5b8f_Pretraining%20hero%20compressed.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-007.avif",
+    "section": "From 10 Million to 10 Billion: Vector Search Built to Grow",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08284883620343861,
+          0.8917197447737097,
+          0.10465116363963442,
+          0.038692626224202
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "From 10 Million to 10 Billion: Vector Search Built to Grow中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1421c30ab4b30eafff08b18ddb714875c0da5004b7cfc56d45368ccf9b4f445e"
+  },
+  {
+    "figure_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4-fig-008",
+    "doc_id": "2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a97ce425af87a267ae9457f_Data%20Mining.avif",
+    "image_path": "images/2522-How-Jev-Compares-to-Other-Rerankers-for-LanceDB-877668c4/figure-008.avif",
+    "section": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0770044296223736,
+          0.9043811230006883,
+          0.11052602558044726,
+          0.04175321817904265
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical LLM Pretraining Pipeline with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "861e26369015e22ab8d2e39fd0a8d6a39158c58e2b8b5232dfae1c5a5f463fbf"
+  }
+]

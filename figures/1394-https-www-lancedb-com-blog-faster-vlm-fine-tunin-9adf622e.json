@@ -1,0 +1,3052 @@
+[
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-001",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d6bfaf39cb8a745855f7_preview-image4.webp",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-001.webp",
+    "section": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08307582733695493,
+          0.8911474102401165,
+          0.12218167622884116,
+          0.04906612317237635
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e28b8f698eee2019935894e0e0c2506bacaf935f478a2f38f664edfaceb1af44"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-002",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c043468f019364e952fee_conventional-pipeline.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-002.png",
+    "section": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07558139625372703,
+          0.7087628869879063,
+          0.05377906817568545,
+          0.02835051421147239
+        ],
+        "confidence": 1,
+        "text": "images/"
+      },
+      {
+        "boundingBox": [
+          0.215055356899002,
+          0.7081407699872396,
+          0.09023812398956152,
+          0.029594750414481896
+        ],
+        "confidence": 1,
+        "text": "prompts.jsonl"
+      },
+      {
+        "boundingBox": [
+          0.37062052422051,
+          0.7085716387954222,
+          0.09015430103648797,
+          0.02873301050465582
+        ],
+        "confidence": 1,
+        "text": "answers.jsonl"
+      },
+      {
+        "boundingBox": [
+          0.5203177857684417,
+          0.7058516663776084,
+          0.10471326654607604,
+          0.031595638096965306
+        ],
+        "confidence": 0.5,
+        "text": "image_emb.npy"
+      },
+      {
+        "boundingBox": [
+          0.6845702799137638,
+          0.7059758191072683,
+          0.09016176616175897,
+          0.03134733147428803
+        ],
+        "confidence": 1,
+        "text": "text_emb.npy"
+      },
+      {
+        "boundingBox": [
+          0.8560072747975076,
+          0.7080556196212946,
+          0.06414824125299046,
+          0.02976505012269226
+        ],
+        "confidence": 1,
+        "text": "meta.json"
+      },
+      {
+        "boundingBox": [
+          0.04215116610058929,
+          0.677835051508265,
+          0.12209301816219349,
+          0.025986604629808285
+        ],
+        "confidence": 0.5,
+        "text": "（folder / object store）"
+      },
+      {
+        "boundingBox": [
+          0.24418604709929076,
+          0.6778350510572342,
+          0.029069765903162625,
+          0.025986604629808063
+        ],
+        "confidence": 0.5,
+        "text": "（file）"
+      },
+      {
+        "boundingBox": [
+          0.4011627914724895,
+          0.6778350517015641,
+          0.027616277265776812,
+          0.025986604629808063
+        ],
+        "confidence": 0.5,
+        "text": "（file）"
+      },
+      {
+        "boundingBox": [
+          0.5581395354713838,
+          0.6778350517015641,
+          0.02906976590316257,
+          0.025986604629808063
+        ],
+        "confidence": 0.5,
+        "text": "（file）"
+      },
+      {
+        "boundingBox": [
+          0.7151162796574303,
+          0.6778350513086285,
+          0.02906976590316257,
+          0.02319587618428931
+        ],
+        "confidence": 1,
+        "text": "（file）"
+      },
+      {
+        "boundingBox": [
+          0.8735465126879537,
+          0.6804123715084764,
+          0.02906976590316257,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "（file）"
+      },
+      {
+        "boundingBox": [
+          0.07118440232093998,
+          0.5151758642518411,
+          0.06402654510936098,
+          0.026349302563191457
+        ],
+        "confidence": 1,
+        "text": "000123.jpg"
+      },
+      {
+        "boundingBox": [
+          0.22077819395628143,
+          0.5139487516783969,
+          0.07733896246367092,
+          0.028803527734841516
+        ],
+        "confidence": 0.3,
+        "text": "id, prompt， ."
+      },
+      {
+        "boundingBox": [
+          0.37790697898315456,
+          0.518041237122632,
+          0.07703488181082258,
+          0.023360036740637025
+        ],
+        "confidence": 0.3,
+        "text": "id, answer， ..."
+      },
+      {
+        "boundingBox": [
+          0.5450183615905825,
+          0.5151860162006339,
+          0.05676560196579927,
+          0.02632899800683286
+        ],
+        "confidence": 1,
+        "text": "id,vector"
+      },
+      {
+        "boundingBox": [
+          0.7019922379074603,
+          0.5151657673303318,
+          0.05677133770080278,
+          0.026369495756307204
+        ],
+        "confidence": 0.5,
+        "text": "id,vector"
+      },
+      {
+        "boundingBox": [
+          0.834302326989863,
+          0.5154639174103268,
+          0.10901162727027414,
+          0.0259373567666219
+        ],
+        "confidence": 0.3,
+        "text": "id, alt_text, size， .."
+      },
+      {
+        "boundingBox": [
+          0.3546511662903609,
+          0.33757961765812206,
+          0.14825580907210206,
+          0.030977083113036596
+        ],
+        "confidence": 0.5,
+        "text": "manifest.csv / parquet"
+      },
+      {
+        "boundingBox": [
+          0.7122093015364492,
+          0.3397027596325113,
+          0.13953488181082263,
+          0.026539278131634814
+        ],
+        "confidence": 0.5,
+        "text": "• Many files to manage"
+      },
+      {
+        "boundingBox": [
+          0.35319767393464274,
+          0.30360934146832685,
+          0.1453488363603656,
+          0.026539278131634814
+        ],
+        "confidence": 0.5,
+        "text": "（trying to join everything）"
+      },
+      {
+        "boundingBox": [
+          0.7151162842518888,
+          0.30360934191302025,
+          0.14680231815319889,
+          0.023710245792526563
+        ],
+        "confidence": 0.5,
+        "text": "• Easy to get out of sync"
+      },
+      {
+        "boundingBox": [
+          0.30377908359136035,
+          0.2547770698389783,
+          0.3212209090091395,
+          0.028728084199747483
+        ],
+        "confidence": 0.5,
+        "text": "id, path_to_image, prompt_ref, answer_ref, emb_refs， ."
+      },
+      {
+        "boundingBox": [
+          0.7136627912203656,
+          0.2600849257040797,
+          0.25145349091890323,
+          0.0286624203821656
+        ],
+        "confidence": 0.5,
+        "text": "• Slower and more brittle training pipelines"
+      }
+    ],
+    "ocr_text": "images/\nprompts.jsonl\nanswers.jsonl\nimage_emb.npy\ntext_emb.npy\nmeta.json\n（folder / object store）\n（file）\n（file）\n（file）\n（file）\n（file）\n000123.jpg\nid, prompt， .\nid, answer， ...\nid,vector\nid,vector\nid, alt_text, size， ..\nmanifest.csv / parquet\n• Many files to manage\n（trying to join everything）\n• Easy to get out of sync\nid, path_to_image, prompt_ref, answer_ref, emb_refs， .\n• Slower and more brittle training pipelines",
+    "description": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB中的配图，包含文字：images/；prompts.jsonl；answers.jsonl；image_emb.npy；text_emb.npy；meta.json；（folder / object store）；（file）；（file）；（file）；（file）；（file）；000123.jpg；id, prompt， .；id, answer， ...；id,vector；id,vector；id, alt_text, size， ..；manifest.csv / parquet；• Many files to manage；（trying to join everything）；• Easy to get out of sync；id, path_to_image, prompt_ref, answer_ref, emb_refs， .；• Slower and more brittle training pipelines",
+    "entities": [
+      "images/",
+      "prompts.jsonl",
+      "answers.jsonl",
+      "image_emb.npy",
+      "text_emb.npy",
+      "meta.json",
+      "（folder / object store）",
+      "（file）",
+      "000123.jpg",
+      "id, prompt， .",
+      "id, answer， ...",
+      "id,vector",
+      "id, alt_text, size， ..",
+      "manifest.csv / parquet",
+      "• Many files to manage",
+      "（trying to join everything）",
+      "• Easy to get out of sync",
+      "id, path_to_image, prompt_ref, answer_ref, emb_refs， .",
+      "• Slower and more brittle training pipelines"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f21782c702ac1b158a5db4f2aa2c7227091d46d811f0843a61723438b36e690f"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-003",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5eaba8362f554488dcbead_lancedb-table-view.webp",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-003.webp",
+    "section": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09302325584066766,
+          0.6939759036916466,
+          0.014534883861300307,
+          0.0373493975903616
+        ],
+        "confidence": 1,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.15988372099070777,
+          0.6910299008577477,
+          0.039244185017131034,
+          0.036680941983877946
+        ],
+        "confidence": 0.5,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.4084302314527654,
+          0.7009966775050347,
+          0.11046511815067078,
+          0.03654485036091626
+        ],
+        "confidence": 0.5,
+        "text": "image_embedding"
+      },
+      {
+        "boundingBox": [
+          0.543604652796312,
+          0.700996677690923,
+          0.0988372046233229,
+          0.03654485036091637
+        ],
+        "confidence": 0.5,
+        "text": "text_embedding"
+      },
+      {
+        "boundingBox": [
+          0.2601744198779394,
+          0.6910299006224616,
+          0.04651162594179564,
+          0.03322259144610673
+        ],
+        "confidence": 1,
+        "text": "prompt"
+      },
+      {
+        "boundingBox": [
+          0.3371718418358153,
+          0.6940062648200453,
+          0.046586547722796356,
+          0.027269862071577333
+        ],
+        "confidence": 1,
+        "text": "answer"
+      },
+      {
+        "boundingBox": [
+          0.6889534901595762,
+          0.6877076414723657,
+          0.0494186023116614,
+          0.03654485036091626
+        ],
+        "confidence": 0.5,
+        "text": "alt_text"
+      },
+      {
+        "boundingBox": [
+          0.7731897736067376,
+          0.6871094424460943,
+          0.06844603462058285,
+          0.041063506344714784
+        ],
+        "confidence": 1,
+        "text": "image_size"
+      },
+      {
+        "boundingBox": [
+          0.8662790709989188,
+          0.6939759038634181,
+          0.04360464957192978,
+          0.026954329157450108
+        ],
+        "confidence": 0.5,
+        "text": "source"
+      },
+      {
+        "boundingBox": [
+          0.9389534883518832,
+          0.6877076411984009,
+          0.015988372046233268,
+          0.02657807361648734
+        ],
+        "confidence": 0.3,
+        "text": "…"
+      },
+      {
+        "boundingBox": [
+          0.44184365867326114,
+          0.6643287712107627,
+          0.04654524195546339,
+          0.03346870376403077
+        ],
+        "confidence": 1,
+        "text": "（vector）"
+      },
+      {
+        "boundingBox": [
+          0.5711149850683805,
+          0.6669195803568823,
+          0.045270030508564485,
+          0.03160934448242181
+        ],
+        "confidence": 1,
+        "text": "（vector）"
+      },
+      {
+        "boundingBox": [
+          0.6671511651083029,
+          0.5514950165970314,
+          0.08720929914385966,
+          0.03043269421680861
+        ],
+        "confidence": 0.5,
+        "text": "Golden retriever"
+      },
+      {
+        "boundingBox": [
+          0.042151163307582715,
+          0.5348837207997297,
+          0.06104651181506708,
+          0.026578073616487563
+        ],
+        "confidence": 1,
+        "text": "550e8400-"
+      },
+      {
+        "boundingBox": [
+          0.25576462107907033,
+          0.5344700042504947,
+          0.042249828451293436,
+          0.027405506731515872
+        ],
+        "confidence": 0.5,
+        "text": "What is"
+      },
+      {
+        "boundingBox": [
+          0.8531976753098099,
+          0.5313253017074475,
+          0.06686046455479866,
+          0.030136492166174422
+        ],
+        "confidence": 0.5,
+        "text": "s3://bucket/"
+      },
+      {
+        "boundingBox": [
+          0.3343023269209872,
+          0.518072289094835,
+          0.04505813775686274,
+          0.026778209640319073
+        ],
+        "confidence": 0.5,
+        "text": "Atennis"
+      },
+      {
+        "boundingBox": [
+          0.6686046522840049,
+          0.5048192776616007,
+          0.08866278732879251,
+          0.030120481927710774
+        ],
+        "confidence": 1,
+        "text": "running on grass"
+      },
+      {
+        "boundingBox": [
+          0.04207902620492011,
+          0.48754604443143745,
+          0.06409776261084191,
+          0.03155242965882077
+        ],
+        "confidence": 1,
+        "text": "e29b-41d4-"
+      },
+      {
+        "boundingBox": [
+          0.2557633890310765,
+          0.4846740434164716,
+          0.04225229110395862,
+          0.030651912919009927
+        ],
+        "confidence": 0.5,
+        "text": "the dog"
+      },
+      {
+        "boundingBox": [
+          0.7775896448341293,
+          0.4880929445252168,
+          0.05964629257781595,
+          0.03045862956219414
+        ],
+        "confidence": 1,
+        "text": "1024×1024"
+      },
+      {
+        "boundingBox": [
+          0.8531600918463935,
+          0.48463345700133476,
+          0.0698426081661434,
+          0.034055345604218634
+        ],
+        "confidence": 1,
+        "text": "dataset/img/"
+      },
+      {
+        "boundingBox": [
+          0.33430232616079664,
+          0.47469879572093054,
+          0.02180232478596489,
+          0.026962334276681932
+        ],
+        "confidence": 1,
+        "text": "ball"
+      },
+      {
+        "boundingBox": [
+          0.47965116274868574,
+          0.49156626501598455,
+          0.015988372046233212,
+          0.01341712388647609
+        ],
+        "confidence": 0.3,
+        "text": "⋯•"
+      },
+      {
+        "boundingBox": [
+          0.6671511655779965,
+          0.46144578289782734,
+          0.09156976369865832,
+          0.03024856958044586
+        ],
+        "confidence": 0.5,
+        "text": "with a tennis ball"
+      },
+      {
+        "boundingBox": [
+          0.040697674089823346,
+          0.4451827248889343,
+          0.07122092910959751,
+          0.027106432167880556
+        ],
+        "confidence": 1,
+        "text": "a716-446655"
+      },
+      {
+        "boundingBox": [
+          0.2558139547907301,
+          0.43853820560585033,
+          0.04651162594179564,
+          0.03375095114650495
+        ],
+        "confidence": 0.5,
+        "text": "holding？"
+      },
+      {
+        "boundingBox": [
+          0.8546284578819423,
+          0.4383246427613853,
+          0.0596384338185757,
+          0.033649718043315846
+        ],
+        "confidence": 1,
+        "text": "000123.jpg"
+      },
+      {
+        "boundingBox": [
+          0.6656632747856762,
+          0.4148582194450299,
+          0.06983624228948282,
+          0.030748677540974434
+        ],
+        "confidence": 0.5,
+        "text": "in its mouth."
+      },
+      {
+        "boundingBox": [
+          0.08575582766497299,
+          0.2421686757048881,
+          0.49273253493168173,
+          0.040223349146096044
+        ],
+        "confidence": 0.5,
+        "text": "All raw data and derived features live together in one fast, queryable Lance table."
+      }
+    ],
+    "ocr_text": "id\nimage\nimage_embedding\ntext_embedding\nprompt\nanswer\nalt_text\nimage_size\nsource\n…\n（vector）\n（vector）\nGolden retriever\n550e8400-\nWhat is\ns3://bucket/\nAtennis\nrunning on grass\ne29b-41d4-\nthe dog\n1024×1024\ndataset/img/\nball\n⋯•\nwith a tennis ball\na716-446655\nholding？\n000123.jpg\nin its mouth.\nAll raw data and derived features live together in one fast, queryable Lance table.",
+    "description": "Faster VLM Fine-Tuning With Materialized Model Features in LanceDB中的配图，包含文字：id；image；image_embedding；text_embedding；prompt；answer；alt_text；image_size；source；…；（vector）；（vector）；Golden retriever；550e8400-；What is；s3://bucket/；Atennis；running on grass；e29b-41d4-；the dog；1024×1024；dataset/img/；ball；⋯•；with a tennis ball；a716-446655；holding？；000123.jpg；in its mouth.；All raw data and derived features live together in one fast, queryable Lance table.",
+    "entities": [
+      "id",
+      "image",
+      "image_embedding",
+      "text_embedding",
+      "prompt",
+      "answer",
+      "alt_text",
+      "image_size",
+      "source",
+      "…",
+      "（vector）",
+      "Golden retriever",
+      "550e8400-",
+      "What is",
+      "s3://bucket/",
+      "Atennis",
+      "running on grass",
+      "e29b-41d4-",
+      "the dog",
+      "1024×1024",
+      "dataset/img/",
+      "ball",
+      "⋯•",
+      "with a tennis ball",
+      "a716-446655",
+      "holding？",
+      "000123.jpg",
+      "in its mouth.",
+      "All raw data and derived features live together in one fast, queryable Lance table."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c18e337b2bbc42177b773a8b3ef25ec73dd7b714fd97ff2d4e7b3bf07eea6af1"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-004",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c46bebd5588560c250700_similar-images-books.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-004.png",
+    "section": "fan out from one good example to visually similar images",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.042523788624022875,
+          0.7712949178888995,
+          0.059747745884217905,
+          0.054448480550953415
+        ],
+        "confidence": 0.3,
+        "text": "AANAAICIFEOUE"
+      },
+      {
+        "boundingBox": [
+          0.1016031907653335,
+          0.3457638256611827,
+          0.032540922355945745,
+          0.04257639570732341
+        ],
+        "confidence": 1,
+        "text": "seed"
+      },
+      {
+        "boundingBox": [
+          0.041291771415572304,
+          0.2605671749736901,
+          0.1531274146034464,
+          0.07880980982256758
+        ],
+        "confidence": 0.5,
+        "text": "What page number is"
+      },
+      {
+        "boundingBox": [
+          0.30346440990522877,
+          0.29371646987690225,
+          0.04946563203456039,
+          0.054185558605745365
+        ],
+        "confidence": 1,
+        "text": "d=0.90"
+      },
+      {
+        "boundingBox": [
+          0.5685508979006245,
+          0.24833895049626353,
+          0.04933888298704736,
+          0.052455047651522424
+        ],
+        "confidence": 1,
+        "text": "d=0.90"
+      },
+      {
+        "boundingBox": [
+          0.8428151644100214,
+          0.24828731973314466,
+          0.04934655940404109,
+          0.05255830908097292
+        ],
+        "confidence": 1,
+        "text": "d=0.93"
+      },
+      {
+        "boundingBox": [
+          0.2326656400616333,
+          0.21965317839595377,
+          0.19106317411402154,
+          0.06358381502890176
+        ],
+        "confidence": 0.5,
+        "text": "who is full of eagerness to"
+      },
+      {
+        "boundingBox": [
+          0.09855725361850719,
+          0.2075846065314716,
+          0.03709196493328075,
+          0.05881922506872628
+        ],
+        "confidence": 1,
+        "text": "this？"
+      },
+      {
+        "boundingBox": [
+          0.45146378967642525,
+          0.17919075223988434,
+          0.2835130970724192,
+          0.06358381502890176
+        ],
+        "confidence": 0.5,
+        "text": "what is written in bold on the top of the"
+      },
+      {
+        "boundingBox": [
+          0.7565485340061633,
+          0.18497109791907518,
+          0.22033898305084754,
+          0.05780346820809246
+        ],
+        "confidence": 0.5,
+        "text": "what is the name of this book？"
+      },
+      {
+        "boundingBox": [
+          0.30492865327968305,
+          0.1654079692886261,
+          0.04499631449694991,
+          0.05068695200661011
+        ],
+        "confidence": 0.3,
+        "text": "work："
+      },
+      {
+        "boundingBox": [
+          0.08166409935285053,
+          0.15606936445086717,
+          0.07395993836671803,
+          0.040462427745664664
+        ],
+        "confidence": 0.5,
+        "text": "answer:34"
+      },
+      {
+        "boundingBox": [
+          0.5546110332875749,
+          0.11393346707939866,
+          0.0756777805980805,
+          0.061150407515509264
+        ],
+        "confidence": 0.5,
+        "text": "left page？"
+      },
+      {
+        "boundingBox": [
+          0.7750385214637905,
+          0.12138728271676291,
+          0.18644067796610164,
+          0.052023121387283267
+        ],
+        "confidence": 0.5,
+        "text": "answer: where to put the \"3"
+      },
+      {
+        "boundingBox": [
+          0.2758089370724191,
+          0.09248554855491331,
+          0.10477657935285051,
+          0.05780346820809246
+        ],
+        "confidence": 1,
+        "text": "answer:garuda"
+      },
+      {
+        "boundingBox": [
+          0.5161787370184899,
+          0.052023122109826514,
+          0.15408320493066252,
+          0.05780346820809246
+        ],
+        "confidence": 0.5,
+        "text": "answer: gayatri mantra"
+      },
+      {
+        "boundingBox": [
+          0.8304834110752266,
+          0.05729725704790589,
+          0.07401006431168144,
+          0.053035543144093755
+        ],
+        "confidence": 0.5,
+        "text": "bottle bar\""
+      }
+    ],
+    "ocr_text": "AANAAICIFEOUE\nseed\nWhat page number is\nd=0.90\nd=0.90\nd=0.93\nwho is full of eagerness to\nthis？\nwhat is written in bold on the top of the\nwhat is the name of this book？\nwork：\nanswer:34\nleft page？\nanswer: where to put the \"3\nanswer:garuda\nanswer: gayatri mantra\nbottle bar\"",
+    "description": "fan out from one good example to visually similar images中的配图，包含文字：AANAAICIFEOUE；seed；What page number is；d=0.90；d=0.90；d=0.93；who is full of eagerness to；this？；what is written in bold on the top of the；what is the name of this book？；work：；answer:34；left page？；answer: where to put the \"3；answer:garuda；answer: gayatri mantra；bottle bar\"",
+    "entities": [
+      "AANAAICIFEOUE",
+      "seed",
+      "What page number is",
+      "d=0.90",
+      "d=0.93",
+      "who is full of eagerness to",
+      "this？",
+      "what is written in bold on the top of the",
+      "what is the name of this book？",
+      "work：",
+      "answer:34",
+      "left page？",
+      "answer: where to put the \"3",
+      "answer:garuda",
+      "answer: gayatri mantra",
+      "bottle bar\""
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "71ef8c8703ec394eea7cfbe9070e5f8af0b5706d3f43ccd09866bbb6793ed5f2"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-005",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c04681fc44cbf9ec427cc_vision-tower-cached.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-005.png",
+    "section": "fan out from one good example to visually similar images",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1293604620467776,
+          0.8969072174022896,
+          0.25145349091890323,
+          0.03621380192459012
+        ],
+        "confidence": 0.5,
+        "text": "EVERY EPOCH （without caching）"
+      },
+      {
+        "boundingBox": [
+          0.6162790714805455,
+          0.8969072176047933,
+          0.2819767454594516,
+          0.03621380192459012
+        ],
+        "confidence": 0.5,
+        "text": "CACHED （with vision_tower_hiddens）"
+      },
+      {
+        "boundingBox": [
+          0.026075892114856107,
+          0.8109461746757953,
+          0.08302263323770184,
+          0.027592188233782622
+        ],
+        "confidence": 0.5,
+        "text": "1. Decode image"
+      },
+      {
+        "boundingBox": [
+          0.15261627960088717,
+          0.8118556697213235,
+          0.07703488181082255,
+          0.025773196210273963
+        ],
+        "confidence": 0.5,
+        "text": "2. Vision tower"
+      },
+      {
+        "boundingBox": [
+          0.2701752892089525,
+          0.807393868113012,
+          0.09191686456853693,
+          0.032119479655207006
+        ],
+        "confidence": 0.5,
+        "text": "3. Project & splice"
+      },
+      {
+        "boundingBox": [
+          0.3996859003602894,
+          0.8116381084629916,
+          0.07562819850501828,
+          0.026208318722475865
+        ],
+        "confidence": 0.5,
+        "text": "4. LLM forward"
+      },
+      {
+        "boundingBox": [
+          0.5276162780973465,
+          0.8142250531578276,
+          0.07848837272972575,
+          0.023403812619025022
+        ],
+        "confidence": 0.5,
+        "text": "1. Read cached"
+      },
+      {
+        "boundingBox": [
+          0.6480291459374685,
+          0.809290663718219,
+          0.09347659206846681,
+          0.0334805288132588
+        ],
+        "confidence": 0.5,
+        "text": "2. Project & splice"
+      },
+      {
+        "boundingBox": [
+          0.7834302319652139,
+          0.8142250531793052,
+          0.07558139545495435,
+          0.023403812619025133
+        ],
+        "confidence": 0.5,
+        "text": "3. LLM forward"
+      },
+      {
+        "boundingBox": [
+          0.9053547434534607,
+          0.8129090051060539,
+          0.06283702576559702,
+          0.026243845621744755
+        ],
+        "confidence": 0.5,
+        "text": "Vision tower"
+      },
+      {
+        "boundingBox": [
+          0.04065865765846677,
+          0.7806636787381341,
+          0.049496637006695765,
+          0.02372418948292987
+        ],
+        "confidence": 1,
+        "text": "from disk"
+      },
+      {
+        "boundingBox": [
+          0.15693820144929563,
+          0.7779959927910721,
+          0.06693755154404343,
+          0.02390492190221305
+        ],
+        "confidence": 1,
+        "text": "forward pass"
+      },
+      {
+        "boundingBox": [
+          0.28048277220813234,
+          0.775456598236507,
+          0.06984840739857068,
+          0.02898371143705525
+        ],
+        "confidence": 0.5,
+        "text": "image tokens"
+      },
+      {
+        "boundingBox": [
+          0.412790697605173,
+          0.7781316350043818,
+          0.04651162727027419,
+          0.02341475658862202
+        ],
+        "confidence": 1,
+        "text": "（QLORA）"
+      },
+      {
+        "boundingBox": [
+          0.534883722432531,
+          0.7757731954515641,
+          0.06395348635586817,
+          0.025773196210273963
+        ],
+        "confidence": 0.5,
+        "text": "embeddings"
+      },
+      {
+        "boundingBox": [
+          0.6584302321635734,
+          0.775773195644863,
+          0.0697674409054112,
+          0.025773196210273963
+        ],
+        "confidence": 0.5,
+        "text": "image tokens"
+      },
+      {
+        "boundingBox": [
+          0.7979230480279225,
+          0.7780824147158946,
+          0.04659576507276331,
+          0.023732078050099137
+        ],
+        "confidence": 1,
+        "text": "（QLORA）"
+      },
+      {
+        "boundingBox": [
+          0.9039981360300103,
+          0.7853592799264281,
+          0.06409675196597453,
+          0.02206494600656439
+        ],
+        "confidence": 0.5,
+        "text": "（removed from"
+      },
+      {
+        "boundingBox": [
+          0.9069564608402393,
+          0.7524163995223598,
+          0.05818010175057009,
+          0.02351771595624852
+        ],
+        "confidence": 0.5,
+        "text": "training loop）"
+      },
+      {
+        "boundingBox": [
+          0.0305232567558886,
+          0.7006369430858254,
+          0.03052325454054837,
+          0.023589861114566735
+        ],
+        "confidence": 0.5,
+        "text": "TOTAL"
+      },
+      {
+        "boundingBox": [
+          0.0698121645076049,
+          0.6760102839266825,
+          0.03642665370229328,
+          0.03461702107876985
+        ],
+        "confidence": 0.3,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.02906976764283945,
+          0.6597938141952264,
+          0.021802324997751338,
+          0.02319587618428942
+        ],
+        "confidence": 0.3,
+        "text": "OTA-"
+      },
+      {
+        "boundingBox": [
+          0.04098837225891148,
+          0.627164109066725,
+          0.04912790727387204,
+          0.03330064781658715
+        ],
+        "confidence": 0.5,
+        "text": "THANK YOU"
+      },
+      {
+        "boundingBox": [
+          0.15985205628742136,
+          0.5719327623195806,
+          0.059656353088086894,
+          0.026237568784418186
+        ],
+        "confidence": 1,
+        "text": "（expensive）"
+      },
+      {
+        "boundingBox": [
+          0.10465116398998112,
+          0.48711340240398937,
+          0.04796511362614245,
+          0.023502308345397793
+        ],
+        "confidence": 0.5,
+        "text": "read row"
+      },
+      {
+        "boundingBox": [
+          0.6060674730356754,
+          0.48685491424352767,
+          0.04513249556984056,
+          0.021135533691211794
+        ],
+        "confidence": 0.5,
+        "text": "read row"
+      },
+      {
+        "boundingBox": [
+          0.05813953324195605,
+          0.3891752580037998,
+          0.16715116363963442,
+          0.0283505142114725
+        ],
+        "confidence": 0.5,
+        "text": "lance_table （single Lance table）"
+      },
+      {
+        "boundingBox": [
+          0.556686048176549,
+          0.39171974537266996,
+          0.16715116363963445,
+          0.02580602811906496
+        ],
+        "confidence": 0.5,
+        "text": "lance_table （single Lance table）"
+      },
+      {
+        "boundingBox": [
+          0.05232558139014585,
+          0.3195329082653706,
+          0.017441860226352822,
+          0.030982555097835096
+        ],
+        "confidence": 1,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.8095930259231516,
+          0.329896907152595,
+          0.1075581363513709,
+          0.025773196210274074
+        ],
+        "confidence": 0.5,
+        "text": "vision_tower_hiddens"
+      },
+      {
+        "boundingBox": [
+          0.12354651236036848,
+          0.31953290896145836,
+          0.03197674317793414,
+          0.02582791605825896
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.20639534904323817,
+          0.31953290828974523,
+          0.037790697727477146,
+          0.023354564755838636
+        ],
+        "confidence": 0.5,
+        "text": "prompt"
+      },
+      {
+        "boundingBox": [
+          0.2833223333564941,
+          0.3238658330851002,
+          0.03800649734205036,
+          0.01721678772296631
+        ],
+        "confidence": 1,
+        "text": "answer"
+      },
+      {
+        "boundingBox": [
+          0.3589966101168124,
+          0.3246395493545622,
+          0.03346026799325169,
+          0.01566935496725097
+        ],
+        "confidence": 0.5,
+        "text": "source"
+      },
+      {
+        "boundingBox": [
+          0.5479651164458669,
+          0.3216560506503958,
+          0.011627906817568534,
+          0.023704773807728174
+        ],
+        "confidence": 1,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.6090116287011406,
+          0.3195329088768808,
+          0.030523254540548383,
+          0.023354564755838636
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.6773255815723079,
+          0.31953290828974523,
+          0.03779069772747712,
+          0.023354564755838636
+        ],
+        "confidence": 0.5,
+        "text": "prompt"
+      },
+      {
+        "boundingBox": [
+          0.7456395350526023,
+          0.32165605127970776,
+          0.036337209090091416,
+          0.01855013375575887
+        ],
+        "confidence": 1,
+        "text": "answer"
+      },
+      {
+        "boundingBox": [
+          0.8154069768947897,
+          0.2961783441196587,
+          0.09447674545945162,
+          0.025986604629808174
+        ],
+        "confidence": 0.5,
+        "text": "（fp16［400,2048］）"
+      },
+      {
+        "boundingBox": [
+          0.030523257299058523,
+          0.22680412387091375,
+          0.050872090900913935,
+          0.02319587618428942
+        ],
+        "confidence": 1,
+        "text": "550e8400-"
+      },
+      {
+        "boundingBox": [
+          0.10465116331779854,
+          0.2319587630290949,
+          0.02906976590316261,
+          0.02069516495787671
+        ],
+        "confidence": 0.5,
+        "text": "TOTAL"
+      },
+      {
+        "boundingBox": [
+          0.20203488497684371,
+          0.22680412384084503,
+          0.04069767272073116,
+          0.02319587618428942
+        ],
+        "confidence": 0.5,
+        "text": "What is"
+      },
+      {
+        "boundingBox": [
+          0.5246826339782311,
+          0.22658919708088576,
+          0.05237891913601089,
+          0.021048410176724652
+        ],
+        "confidence": 1,
+        "text": "550e8400-"
+      },
+      {
+        "boundingBox": [
+          0.5930232553808016,
+          0.2268041238538372,
+          0.026162790909908584,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "TOTAL"
+      },
+      {
+        "boundingBox": [
+          0.6744186048945671,
+          0.22680412409315986,
+          0.03779069772747712,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "What is"
+      },
+      {
+        "boundingBox": [
+          0.1438953493430979,
+          0.21125265400406656,
+          0.030523254540548383,
+          0.025860747967049846
+        ],
+        "confidence": 0.5,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.6264534889288847,
+          0.20876288648904084,
+          0.027616277265776867,
+          0.023721189762123562
+        ],
+        "confidence": 0.5,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.030523255535651658,
+          0.19320594462080087,
+          0.05232558181981721,
+          0.02123142250530785
+        ],
+        "confidence": 1,
+        "text": "e29b-41d4-"
+      },
+      {
+        "boundingBox": [
+          0.10465116301161546,
+          0.19320594458956064,
+          0.026162790909908598,
+          0.02123142250530785
+        ],
+        "confidence": 0.3,
+        "text": "OTAL."
+      },
+      {
+        "boundingBox": [
+          0.2019218312343213,
+          0.19249256269303194,
+          0.045284243862024315,
+          0.022231369261529133
+        ],
+        "confidence": 0.5,
+        "text": "the total"
+      },
+      {
+        "boundingBox": [
+          0.28338760024002946,
+          0.1905238031457559,
+          0.0378759625996129,
+          0.026168888035347004
+        ],
+        "confidence": 0.5,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.34435394518895956,
+          0.1901874037693676,
+          0.058593927958365266,
+          0.026143952792870295
+        ],
+        "confidence": 1,
+        "text": "receipt.png"
+      },
+      {
+        "boundingBox": [
+          0.5246677287711026,
+          0.19295246044078251,
+          0.05386221579957806,
+          0.021311573668396866
+        ],
+        "confidence": 1,
+        "text": "e29b-41d4-"
+      },
+      {
+        "boundingBox": [
+          0.5930232557885764,
+          0.19320594476138198,
+          0.01889534886373856,
+          0.02123142250530785
+        ],
+        "confidence": 0.3,
+        "text": "IOTAL"
+      },
+      {
+        "boundingBox": [
+          0.674396611769167,
+          0.1931517422057788,
+          0.04364863765296745,
+          0.020913010696443468
+        ],
+        "confidence": 1,
+        "text": "the total"
+      },
+      {
+        "boundingBox": [
+          0.7440694481046503,
+          0.19017410426867665,
+          0.03802389391301342,
+          0.026868285646863832
+        ],
+        "confidence": 0.5,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.11796825874686583,
+          0.16550477682497555,
+          0.04313324741199255,
+          0.02981518585464249
+        ],
+        "confidence": 0.5,
+        "text": "THANK YOU"
+      },
+      {
+        "boundingBox": [
+          0.6035330960397227,
+          0.16524452036299142,
+          0.03885286048268588,
+          0.030434830173565408
+        ],
+        "confidence": 0.5,
+        "text": "THANK YOU"
+      },
+      {
+        "boundingBox": [
+          0.03051055985986193,
+          0.15711349212735282,
+          0.05961841601504093,
+          0.023401881985350537
+        ],
+        "confidence": 1,
+        "text": "a716-446655"
+      },
+      {
+        "boundingBox": [
+          0.20192697893474723,
+          0.1591165591637721,
+          0.04527394965504916,
+          0.02455038831998335
+        ],
+        "confidence": 1,
+        "text": "amount？"
+      },
+      {
+        "boundingBox": [
+          0.5247093019461339,
+          0.15979381459793274,
+          0.0581395363693602,
+          0.02319587618428931
+        ],
+        "confidence": 1,
+        "text": "a716-446655"
+      },
+      {
+        "boundingBox": [
+          0.672913131488094,
+          0.15947220476235136,
+          0.04516210966703427,
+          0.023839096101732515
+        ],
+        "confidence": 0.5,
+        "text": "amount？"
+      }
+    ],
+    "ocr_text": "EVERY EPOCH （without caching）\nCACHED （with vision_tower_hiddens）\n1. Decode image\n2. Vision tower\n3. Project & splice\n4. LLM forward\n1. Read cached\n2. Project & splice\n3. LLM forward\nVision tower\nfrom disk\nforward pass\nimage tokens\n（QLORA）\nembeddings\nimage tokens\n（QLORA）\n（removed from\ntraining loop）\nTOTAL\n$24.36\nOTA-\nTHANK YOU\n（expensive）\nread row\nread row\nlance_table （single Lance table）\nlance_table （single Lance table）\nid\nvision_tower_hiddens\nimage\nprompt\nanswer\nsource\nid\nimage\nprompt\nanswer\n（fp16［400,2048］）\n550e8400-\nTOTAL\nWhat is\n550e8400-\nTOTAL\nWhat is\n$24.36\n$24.36\ne29b-41d4-\nOTAL.\nthe total\n$24.36\nreceipt.png\ne29b-41d4-\nIOTAL\nthe total\n$24.36\nTHANK YOU\nTHANK YOU\na716-446655\namount？\na716-446655\namount？",
+    "description": "fan out from one good example to visually similar images中的配图，包含文字：EVERY EPOCH （without caching）；CACHED （with vision_tower_hiddens）；1. Decode image；2. Vision tower；3. Project & splice；4. LLM forward；1. Read cached；2. Project & splice；3. LLM forward；Vision tower；from disk；forward pass；image tokens；（QLORA）；embeddings；image tokens；（QLORA）；（removed from；training loop）；TOTAL；$24.36；OTA-；THANK YOU；（expensive）；read row；read row；lance_table （single Lance table）；lance_table （single Lance table）；id；vision_tower_hiddens",
+    "entities": [
+      "EVERY EPOCH （without caching）",
+      "CACHED （with vision_tower_hiddens）",
+      "1. Decode image",
+      "2. Vision tower",
+      "3. Project & splice",
+      "4. LLM forward",
+      "1. Read cached",
+      "2. Project & splice",
+      "3. LLM forward",
+      "Vision tower",
+      "from disk",
+      "forward pass",
+      "image tokens",
+      "（QLORA）",
+      "embeddings",
+      "（removed from",
+      "training loop）",
+      "TOTAL",
+      "$24.36",
+      "OTA-",
+      "THANK YOU",
+      "（expensive）",
+      "read row",
+      "lance_table （single Lance table）",
+      "id",
+      "vision_tower_hiddens",
+      "image",
+      "prompt",
+      "answer",
+      "source",
+      "（fp16［400,2048］）",
+      "550e8400-",
+      "What is",
+      "e29b-41d4-",
+      "OTAL.",
+      "the total",
+      "receipt.png",
+      "IOTAL",
+      "a716-446655",
+      "amount？"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a476392e5c8d4efd440f5fefa6ac93a10af8af70f1ffc9b2aa0e3191a537e25"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-006",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c04f806f5cb2b50ff31bb_read-throughput-bars.svg",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-006.svg",
+    "section": "Benefit 2: Reading it back during training is cheap",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.055232567183044784,
+          0.8655685447274583,
+          0.4694767272073116,
+          0.04941551540913924
+        ],
+        "confidence": 0.5,
+        "text": "Dataset read throughput, rows per second"
+      },
+      {
+        "boundingBox": [
+          0.05377906341662368,
+          0.8267800216834613,
+          0.6438953454414623,
+          0.028692879914983926
+        ],
+        "confidence": 0.5,
+        "text": "Rows read from storage for each training data access pattern; this is not query QPS. Higher is better."
+      },
+      {
+        "boundingBox": [
+          0.07558139517084711,
+          0.785334750689039,
+          0.05668604545045697,
+          0.020866799430563465
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.17732558090334927,
+          0.7803617580321349,
+          0.04941860454504568,
+          0.028423771468029768
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      },
+      {
+        "boundingBox": [
+          0.22662556224158198,
+          0.7173538837035325,
+          0.052562827698922066,
+          0.022656573499300503
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.49120760708556005,
+          0.7103155537944914,
+          0.03502664611670386,
+          0.02898129494613344
+        ],
+        "confidence": 1,
+        "text": "2,603"
+      },
+      {
+        "boundingBox": [
+          0.05523255788570871,
+          0.7028423771562136,
+          0.14534883636036558,
+          0.023512564607431674
+        ],
+        "confidence": 0.5,
+        "text": "image + question + answer"
+      },
+      {
+        "boundingBox": [
+          0.05523255834437717,
+          0.6716259300303298,
+          0.08430232727926885,
+          0.020880529908394063
+        ],
+        "confidence": 0.5,
+        "text": "sequential scan"
+      },
+      {
+        "boundingBox": [
+          0.23527960357214156,
+          0.673228925213385,
+          0.045429165853837994,
+          0.02563517405300164
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      },
+      {
+        "boundingBox": [
+          0.8662790702605658,
+          0.669250646921024,
+          0.0348837204527056,
+          0.028423771468029768
+        ],
+        "confidence": 1,
+        "text": "8,311"
+      },
+      {
+        "boundingBox": [
+          0.22819767511640351,
+          0.5759829972301544,
+          0.05087209090091396,
+          0.020916227326509662
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.4912790699771044,
+          0.5710594322407914,
+          0.037790697727477174,
+          0.028423771468029768
+        ],
+        "confidence": 1,
+        "text": "2,613"
+      },
+      {
+        "boundingBox": [
+          0.05232558235348386,
+          0.5579171091687306,
+          0.1482558090721021,
+          0.026062218466423315
+        ],
+        "confidence": 0.5,
+        "text": "image + question + answer"
+      },
+      {
+        "boundingBox": [
+          0.6656668421298486,
+          0.5578888147302783,
+          0.07273608303526369,
+          0.02892521362628997
+        ],
+        "confidence": 1,
+        "text": "7.4x faster"
+      },
+      {
+        "boundingBox": [
+          0.05377907258308523,
+          0.5270988310072364,
+          0.1279069727117365,
+          0.023379383634431483
+        ],
+        "confidence": 1,
+        "text": "shuffled random access"
+      },
+      {
+        "boundingBox": [
+          0.23546511603989004,
+          0.5297157628558021,
+          0.045058140914405936,
+          0.026075947930784937
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      },
+      {
+        "boundingBox": [
+          0.32412790705287525,
+          0.5322997419979448,
+          0.0058139534087843225,
+          0.023255813387831226
+        ],
+        "confidence": 0.3,
+        "text": "］"
+      },
+      {
+        "boundingBox": [
+          0.3401162786337449,
+          0.5297157627525115,
+          0.027616279547294342,
+          0.028423771468029768
+        ],
+        "confidence": 1,
+        "text": "352"
+      },
+      {
+        "boundingBox": [
+          0.6642441881820967,
+          0.5244420827403927,
+          0.13662789997301594,
+          0.023379383634431483
+        ],
+        "confidence": 1,
+        "text": "for shuffled raw batches"
+      },
+      {
+        "boundingBox": [
+          0.6671511677541994,
+          0.49612403113171333,
+          0.13226743634237625,
+          0.018222408517640898
+        ],
+        "confidence": 0.5,
+        "text": "2,613 rows/s vs 352 rows/s"
+      },
+      {
+        "boundingBox": [
+          0.22813897695994578,
+          0.43364301274219996,
+          0.05098948866556707,
+          0.02160286472657036
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.4156630400318804,
+          0.42622203323127794,
+          0.03495298960562526,
+          0.028692884982329026
+        ],
+        "confidence": 1,
+        "text": "1,452"
+      },
+      {
+        "boundingBox": [
+          0.0523255800029568,
+          0.4160206721322879,
+          0.14534883636036555,
+          0.026062218466423315
+        ],
+        "confidence": 0.5,
+        "text": "vision_tower_hiddens fp16"
+      },
+      {
+        "boundingBox": [
+          0.05377907175755363,
+          0.3850129199469112,
+          0.08575580907210208,
+          0.023255813387831226
+        ],
+        "confidence": 1,
+        "text": "sequential scan"
+      },
+      {
+        "boundingBox": [
+          0.23546511796166916,
+          0.3873538785869006,
+          0.04505813635137093,
+          0.026082813169700292
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      },
+      {
+        "boundingBox": [
+          0.3226744189019393,
+          0.39001062720904145,
+          0.020348836360365552,
+          0.02603613177470776
+        ],
+        "confidence": 1,
+        "text": "90"
+      },
+      {
+        "boundingBox": [
+          0.6133274006066312,
+          0.38456125891246995,
+          0.0814847352972442,
+          0.026743115578143684
+        ],
+        "confidence": 0.5,
+        "text": "16.1x faster"
+      },
+      {
+        "boundingBox": [
+          0.611918608045307,
+          0.3436692508615924,
+          0.22674418180182787,
+          0.028423771468029768
+        ],
+        "confidence": 1,
+        "text": "for materialized fp16 vectors, sequential"
+      },
+      {
+        "boundingBox": [
+          0.6148255801453488,
+          0.32040382588334937,
+          0.125,
+          0.01809746603403284
+        ],
+        "confidence": 0.3,
+        "text": "1,452 rows/s vS 90 rOwS/S"
+      },
+      {
+        "boundingBox": [
+          0.22816642595885434,
+          0.2917443673534754,
+          0.05093459079140111,
+          0.021162428333959427
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.46075581387248443,
+          0.28682170611161606,
+          0.0348837204527056,
+          0.025839792427930552
+        ],
+        "confidence": 1,
+        "text": "2,149"
+      },
+      {
+        "boundingBox": [
+          0.053779072493139256,
+          0.2736450581404468,
+          0.14389534544146232,
+          0.02609654364753089
+        ],
+        "confidence": 0.5,
+        "text": "vision_tower_hiddens fp16"
+      },
+      {
+        "boundingBox": [
+          0.05377907269728787,
+          0.24547803642524801,
+          0.1279069727117365,
+          0.020728127482593672
+        ],
+        "confidence": 1,
+        "text": "shuffled random access"
+      },
+      {
+        "boundingBox": [
+          0.2354262138854034,
+          0.24526247798065437,
+          0.045135945224305696,
+          0.026270909973209466
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      },
+      {
+        "boundingBox": [
+          0.4433139547304277,
+          0.24547803616784147,
+          0.08284883636036555,
+          0.02338487562286995
+        ],
+        "confidence": 0.5,
+        "text": "not measured"
+      },
+      {
+        "boundingBox": [
+          0.4302325585514467,
+          0.12646121152778744,
+          0.0159883715889671,
+          0.018241630983910073
+        ],
+        "confidence": 0.3,
+        "text": "2k"
+      },
+      {
+        "boundingBox": [
+          0.5639534897936792,
+          0.1291179600078095,
+          0.09302325454054838,
+          0.018168861883733012
+        ],
+        "confidence": 0.5,
+        "text": "4k rows/sec read"
+      },
+      {
+        "boundingBox": [
+          0.6947674419526095,
+          0.12646121126938958,
+          0.015988371588967154,
+          0.018241630983910073
+        ],
+        "confidence": 0.3,
+        "text": "6k"
+      },
+      {
+        "boundingBox": [
+          0.8270348841061949,
+          0.12646121150625433,
+          0.015988371588967154,
+          0.018241630983910073
+        ],
+        "confidence": 0.3,
+        "text": "8K"
+      },
+      {
+        "boundingBox": [
+          0.8561046514618491,
+          0.12380446296761449,
+          0.02470930227252288,
+          0.023482358164285677
+        ],
+        "confidence": 0.5,
+        "text": "8.5k"
+      },
+      {
+        "boundingBox": [
+          0.053779075274310924,
+          0.0903294371438802,
+          0.7122093091170754,
+          0.02603613177470776
+        ],
+        "confidence": 0.5,
+        "text": "Bars show dataset read throughput in rows/sec, not serving QPS. Parquet was uncompressed to compare layout and access patterns."
+      },
+      {
+        "boundingBox": [
+          0.053779081717216605,
+          0.059431524862931795,
+          0.5145348726847526,
+          0.023459016960054924
+        ],
+        "confidence": 0.5,
+        "text": "Dashed Parquet fp16 shuffled bar means not measured; that read path was slow enough to skip."
+      }
+    ],
+    "ocr_text": "Dataset read throughput, rows per second\nRows read from storage for each training data access pattern; this is not query QPS. Higher is better.\nLanceDB\nParquet\nLanceDB\n2,603\nimage + question + answer\nsequential scan\nParquet\n8,311\nLanceDB\n2,613\nimage + question + answer\n7.4x faster\nshuffled random access\nParquet\n］\n352\nfor shuffled raw batches\n2,613 rows/s vs 352 rows/s\nLanceDB\n1,452\nvision_tower_hiddens fp16\nsequential scan\nParquet\n90\n16.1x faster\nfor materialized fp16 vectors, sequential\n1,452 rows/s vS 90 rOwS/S\nLanceDB\n2,149\nvision_tower_hiddens fp16\nshuffled random access\nParquet\nnot measured\n2k\n4k rows/sec read\n6k\n8K\n8.5k\nBars show dataset read throughput in rows/sec, not serving QPS. Parquet was uncompressed to compare layout and access patterns.\nDashed Parquet fp16 shuffled bar means not measured; that read path was slow enough to skip.",
+    "description": "Benefit 2: Reading it back during training is cheap中的配图，包含文字：Dataset read throughput, rows per second；Rows read from storage for each training data access pattern; this is not query QPS. Higher is better.；LanceDB；Parquet；LanceDB；2,603；image + question + answer；sequential scan；Parquet；8,311；LanceDB；2,613；image + question + answer；7.4x faster；shuffled random access；Parquet；］；352；for shuffled raw batches；2,613 rows/s vs 352 rows/s；LanceDB；1,452；vision_tower_hiddens fp16；sequential scan；Parquet；90；16.1x faster；for materialized fp16 vectors, sequential；1,452 rows/s vS 90 rOwS/S；LanceDB",
+    "entities": [
+      "Dataset read throughput, rows per second",
+      "Rows read from storage for each training data access pattern; this is not query QPS. Higher is better.",
+      "LanceDB",
+      "Parquet",
+      "2,603",
+      "image + question + answer",
+      "sequential scan",
+      "8,311",
+      "2,613",
+      "7.4x faster",
+      "shuffled random access",
+      "］",
+      "352",
+      "for shuffled raw batches",
+      "2,613 rows/s vs 352 rows/s",
+      "1,452",
+      "vision_tower_hiddens fp16",
+      "90",
+      "16.1x faster",
+      "for materialized fp16 vectors, sequential",
+      "1,452 rows/s vS 90 rOwS/S",
+      "2,149",
+      "not measured",
+      "2k",
+      "4k rows/sec read",
+      "6k",
+      "8K",
+      "8.5k",
+      "Bars show dataset read throughput in rows/sec, not serving QPS. Parquet was uncompressed to compare layout and access patterns.",
+      "Dashed Parquet fp16 shuffled bar means not measured; that read path was slow enough to skip."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9a9786b3e7ba4660f66c13917c40060890ddd996683c4b36a6a7c1e81d51e265"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-007",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c05396c1ce74a61800521_tiered-compute.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-007.png",
+    "section": "Benefit 3: Iterating on the feature is fast",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.15988372006830154,
+          0.8840206194089171,
+          0.15116279090990858,
+          0.03636154652654233
+        ],
+        "confidence": 0.3,
+        "text": "Tier 3 - GPU"
+      },
+      {
+        "boundingBox": [
+          0.4491279037816532,
+          0.8503184713610442,
+          0.1802325636576238,
+          0.0339702749960995
+        ],
+        "confidence": 0.5,
+        "text": "vision_tower_hiddens"
+      },
+      {
+        "boundingBox": [
+          0.1586565941476618,
+          0.8351356366568063,
+          0.04415269331498581,
+          0.032238441920837246
+        ],
+        "confidence": 0.5,
+        "text": "heavy"
+      },
+      {
+        "boundingBox": [
+          0.7310251570793097,
+          0.8344110013035887,
+          0.08446131254497324,
+          0.03478624461309676
+        ],
+        "confidence": 1,
+        "text": "input_ids"
+      },
+      {
+        "boundingBox": [
+          0.48401163117420776,
+          0.8089171970604503,
+          0.1119185999820107,
+          0.03128898827133664
+        ],
+        "confidence": 0.5,
+        "text": "fp16,400×2048"
+      },
+      {
+        "boundingBox": [
+          0.4723837201816239,
+          0.6825902334008618,
+          0.13081395454954303,
+          0.03397027600849256
+        ],
+        "confidence": 1,
+        "text": "attention_mask"
+      },
+      {
+        "boundingBox": [
+          0.7412790705293432,
+          0.6855670105615781,
+          0.059593022725228484,
+          0.033505154263441694
+        ],
+        "confidence": 0.5,
+        "text": "labels"
+      },
+      {
+        "boundingBox": [
+          0.19476744240841778,
+          0.6546391754070446,
+          0.1511627909099086,
+          0.031135771684585922
+        ],
+        "confidence": 0.5,
+        "text": "frozen Qwen2.5-VL"
+      },
+      {
+        "boundingBox": [
+          0.21947674703513256,
+          0.6185567017491975,
+          0.1017441818018279,
+          0.02835051421147239
+        ],
+        "confidence": 0.5,
+        "text": "vision tower"
+      },
+      {
+        "boundingBox": [
+          0.007246145302269799,
+          0.5050028183748844,
+          0.06399608228765606,
+          0.02865415722954301
+        ],
+        "confidence": 0.5,
+        "text": "increasing"
+      },
+      {
+        "boundingBox": [
+          0.1584302291012963,
+          0.4871134021574236,
+          0.3168604727567098,
+          0.05154639242054804
+        ],
+        "confidence": 0.5,
+        "text": "Tier 2 - CPU + image decode"
+      },
+      {
+        "boundingBox": [
+          0.007096029994472601,
+          0.46667528922391666,
+          0.08180918533836255,
+          0.026663460296177388
+        ],
+        "confidence": 0.5,
+        "text": "compute cost"
+      },
+      {
+        "boundingBox": [
+          0.15827401902044086,
+          0.4452045560520218,
+          0.04537056735828163,
+          0.034848620177833856
+        ],
+        "confidence": 0.5,
+        "text": "light"
+      },
+      {
+        "boundingBox": [
+          0.466456330718105,
+          0.4246782589430077,
+          0.04964547864558022,
+          0.03208678239470075
+        ],
+        "confidence": 1,
+        "text": "dhash"
+      },
+      {
+        "boundingBox": [
+          0.4069767506027694,
+          0.35031847180133624,
+          0.30959301816219353,
+          0.03397027499609939
+        ],
+        "confidence": 1,
+        "text": "perceptual hash, near-duplicate detection"
+      },
+      {
+        "boundingBox": [
+          0.15988371987934805,
+          0.23969072250170054,
+          0.1511627909099086,
+          0.036317770648154446
+        ],
+        "confidence": 0.5,
+        "text": "Tier 1 - CPU"
+      },
+      {
+        "boundingBox": [
+          0.15959356596844806,
+          0.1887573247757668,
+          0.18078315771367562,
+          0.03977827003300827
+        ],
+        "confidence": 0.5,
+        "text": "Cheap, runs in seconds"
+      },
+      {
+        "boundingBox": [
+          0.32083333330997194,
+          0.11111111051576461,
+          0.12916666240783403,
+          0.037508847100972575
+        ],
+        "confidence": 1,
+        "text": "question_length"
+      },
+      {
+        "boundingBox": [
+          0.48544550346156734,
+          0.11319754017123285,
+          0.11050434203809523,
+          0.03391419752894442
+        ],
+        "confidence": 0.5,
+        "text": "answer_length"
+      },
+      {
+        "boundingBox": [
+          0.6333333379461542,
+          0.1111111112565053,
+          0.112499994524358,
+          0.037508847100972686
+        ],
+        "confidence": 1,
+        "text": "question_type"
+      },
+      {
+        "boundingBox": [
+          0.7761627923868644,
+          0.1134020624623513,
+          0.12790697271173646,
+          0.033505154263441694
+        ],
+        "confidence": 0.5,
+        "text": "ocr_token_count"
+      },
+      {
+        "boundingBox": [
+          0.1758394356036086,
+          0.04862817957519927,
+          0.09308856982363467,
+          0.029032300232322394
+        ],
+        "confidence": 0.5,
+        "text": "Python UDFs"
+      }
+    ],
+    "ocr_text": "Tier 3 - GPU\nvision_tower_hiddens\nheavy\ninput_ids\nfp16,400×2048\nattention_mask\nlabels\nfrozen Qwen2.5-VL\nvision tower\nincreasing\nTier 2 - CPU + image decode\ncompute cost\nlight\ndhash\nperceptual hash, near-duplicate detection\nTier 1 - CPU\nCheap, runs in seconds\nquestion_length\nanswer_length\nquestion_type\nocr_token_count\nPython UDFs",
+    "description": "Benefit 3: Iterating on the feature is fast中的配图，包含文字：Tier 3 - GPU；vision_tower_hiddens；heavy；input_ids；fp16,400×2048；attention_mask；labels；frozen Qwen2.5-VL；vision tower；increasing；Tier 2 - CPU + image decode；compute cost；light；dhash；perceptual hash, near-duplicate detection；Tier 1 - CPU；Cheap, runs in seconds；question_length；answer_length；question_type；ocr_token_count；Python UDFs",
+    "entities": [
+      "Tier 3 - GPU",
+      "vision_tower_hiddens",
+      "heavy",
+      "input_ids",
+      "fp16,400×2048",
+      "attention_mask",
+      "labels",
+      "frozen Qwen2.5-VL",
+      "vision tower",
+      "increasing",
+      "Tier 2 - CPU + image decode",
+      "compute cost",
+      "light",
+      "dhash",
+      "perceptual hash, near-duplicate detection",
+      "Tier 1 - CPU",
+      "Cheap, runs in seconds",
+      "question_length",
+      "answer_length",
+      "question_type",
+      "ocr_token_count",
+      "Python UDFs"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e66635fa07fd6475cf6173001ec84988f4e7e325fc37a5035e2a4e6e2a92b6ec"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-008",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a3c054b80e20ba8d8b4dfcf_textvqa-row.svg",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-008.svg",
+    "section": "How fine-tuning is done",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05416665139706081,
+          0.8666312423896916,
+          0.637500014601712,
+          0.05207226354941552
+        ],
+        "confidence": 0.5,
+        "text": "One TextVQA row becomes a complete training example"
+      },
+      {
+        "boundingBox": [
+          0.05377907224674449,
+          0.8267800207927313,
+          0.5450581454774409,
+          0.028692879914984037
+        ],
+        "confidence": 0.5,
+        "text": "Raw multimodal data and materialized model features stay attached to the same row."
+      },
+      {
+        "boundingBox": [
+          0.07122092839383315,
+          0.7209302330515148,
+          0.13081395454954303,
+          0.028423771468029768
+        ],
+        "confidence": 0.5,
+        "text": "lance_table: textvqa"
+      },
+      {
+        "boundingBox": [
+          0.6482558186257217,
+          0.7235142119365754,
+          0.2325581272253009,
+          0.023255813387831226
+        ],
+        "confidence": 1,
+        "text": "row id: 550e8400-e29b-41d4-a716-446655"
+      },
+      {
+        "boundingBox": [
+          0.0744989501973155,
+          0.6455221554246655,
+          0.03368076981539932,
+          0.024579313685612725
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.22529069690474673,
+          0.6485788111381733,
+          0.04215116363963439,
+          0.018264972188140827
+        ],
+        "confidence": 1,
+        "text": "question"
+      },
+      {
+        "boundingBox": [
+          0.37645348881794743,
+          0.650903294477252,
+          0.037790697727477174,
+          0.015940488841657774
+        ],
+        "confidence": 1,
+        "text": "answer"
+      },
+      {
+        "boundingBox": [
+          0.4752380372509497,
+          0.6455415862045109,
+          0.05533787850557903,
+          0.02157832560199735
+        ],
+        "confidence": 0.5,
+        "text": "ocr_tokens"
+      },
+      {
+        "boundingBox": [
+          0.60901162852902,
+          0.6459948324533712,
+          0.10465116363963445,
+          0.02350569936851643
+        ],
+        "confidence": 0.5,
+        "text": "vision_tower_hiddens"
+      },
+      {
+        "boundingBox": [
+          0.7805232569346179,
+          0.650903294477252,
+          0.07267441818018283,
+          0.015940488841657774
+        ],
+        "confidence": 0.5,
+        "text": "token columns"
+      },
+      {
+        "boundingBox": [
+          0.22529069759141,
+          0.5993623800384311,
+          0.05523255909458871,
+          0.028692879914984037
+        ],
+        "confidence": 0.5,
+        "text": "What is"
+      },
+      {
+        "boundingBox": [
+          0.4941860466794872,
+          0.5786397448849687,
+          0.03924418636486293,
+          0.020843459239801687
+        ],
+        "confidence": 1,
+        "text": "TOTAL"
+      },
+      {
+        "boundingBox": [
+          0.8139240600657219,
+          0.5760226877388818,
+          0.05093094948946575,
+          0.023665218373540853
+        ],
+        "confidence": 0.5,
+        "text": "input_ids"
+      },
+      {
+        "boundingBox": [
+          0.22376083626913368,
+          0.5575581506228282,
+          0.061199256677946956,
+          0.027002562625248583
+        ],
+        "confidence": 0.5,
+        "text": "the total"
+      },
+      {
+        "boundingBox": [
+          0.3851744193105993,
+          0.5425079704862275,
+          0.04651162727027419,
+          0.02603613177470776
+        ],
+        "confidence": 1,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.2252729328174477,
+          0.514085287572196,
+          0.06398901870946566,
+          0.02867697047883222
+        ],
+        "confidence": 1,
+        "text": "amount？"
+      },
+      {
+        "boundingBox": [
+          0.49273255842792807,
+          0.5191285870115417,
+          0.03779069772747712,
+          0.020923092565425017
+        ],
+        "confidence": 1,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.7979651140250943,
+          0.5142118863575724,
+          0.0843023272792689,
+          0.02085718870416331
+        ],
+        "confidence": 1,
+        "text": "attention_mask"
+      },
+      {
+        "boundingBox": [
+          0.6395348838873421,
+          0.47024442066041616,
+          0.08866279090990858,
+          0.02603613177470776
+        ],
+        "confidence": 0.3,
+        "text": "fp16［400,2048］"
+      },
+      {
+        "boundingBox": [
+          0.10864514674271741,
+          0.4565881302952812,
+          0.03579393642370782,
+          0.021972162690603536
+        ],
+        "confidence": 1,
+        "text": "$24.36"
+      },
+      {
+        "boundingBox": [
+          0.4883720920047136,
+          0.45994832044149025,
+          0.06831395454954298,
+          0.020923092565425017
+        ],
+        "confidence": 0.5,
+        "text": "THANK YOU"
+      },
+      {
+        "boundingBox": [
+          0.8211946860296057,
+          0.4494718748219617,
+          0.0349362090443881,
+          0.02095289159403846
+        ],
+        "confidence": 1,
+        "text": "labels"
+      },
+      {
+        "boundingBox": [
+          0.11191860471547654,
+          0.4341085270794115,
+          0.037790697727477146,
+          0.015503876267533467
+        ],
+        "confidence": 0.5,
+        "text": "THANK YOU"
+      },
+      {
+        "boundingBox": [
+          0.10465116364108168,
+          0.37460148738004195,
+          0.05377906817568548,
+          0.020747349948862737
+        ],
+        "confidence": 1,
+        "text": "receipt.png"
+      },
+      {
+        "boundingBox": [
+          0.07703488267438752,
+          0.2996811904152208,
+          0.06540697727477152,
+          0.018148267180455924
+        ],
+        "confidence": 1,
+        "text": "Raw columns"
+      },
+      {
+        "boundingBox": [
+          0.5305232579528611,
+          0.2996811902860219,
+          0.1031976727207311,
+          0.018148267180455924
+        ],
+        "confidence": 1,
+        "text": "Materialized columns"
+      },
+      {
+        "boundingBox": [
+          0.24709302652304507,
+          0.19638242920856308,
+          0.11191859998201067,
+          0.02067183434773201
+        ],
+        "confidence": 0.5,
+        "text": "Geneva UDF backfill"
+      },
+      {
+        "boundingBox": [
+          0.5537790696871524,
+          0.1963824289501651,
+          0.14970929999100535,
+          0.02067183434773201
+        ],
+        "confidence": 0.5,
+        "text": "Permutation APl batch read"
+      },
+      {
+        "boundingBox": [
+          0.07412790728480904,
+          0.10573857587423463,
+          0.09447674545945163,
+          0.020876411170432485
+        ],
+        "confidence": 0.5,
+        "text": "Explore and curate"
+      },
+      {
+        "boundingBox": [
+          0.39825581415833067,
+          0.10839532415208397,
+          0.08430232727926884,
+          0.018219663030156208
+        ],
+        "confidence": 0.5,
+        "text": "Materialize once"
+      },
+      {
+        "boundingBox": [
+          0.7238372106439079,
+          0.10839532415208397,
+          0.0988372090900913,
+          0.018219663030156208
+        ],
+        "confidence": 0.5,
+        "text": "Train from columns"
+      },
+      {
+        "boundingBox": [
+          0.07267442299739162,
+          0.0775193800871159,
+          0.18459301816219348,
+          0.02078030086602467
+        ],
+        "confidence": 0.5,
+        "text": "image, question, answer, OCR metadata"
+      },
+      {
+        "boundingBox": [
+          0.39680232371136487,
+          0.08010335903868993,
+          0.17587209090091388,
+          0.018196321825925454
+        ],
+        "confidence": 0.5,
+        "text": "frozen vision tower outputs and tokens"
+      },
+      {
+        "boundingBox": [
+          0.7238372141620706,
+          0.08010335921095535,
+          0.16424418180182787,
+          0.018196321825925454
+        ],
+        "confidence": 0.5,
+        "text": "shuffle batches into the QLoRA loop"
+      }
+    ],
+    "ocr_text": "One TextVQA row becomes a complete training example\nRaw multimodal data and materialized model features stay attached to the same row.\nlance_table: textvqa\nrow id: 550e8400-e29b-41d4-a716-446655\nimage\nquestion\nanswer\nocr_tokens\nvision_tower_hiddens\ntoken columns\nWhat is\nTOTAL\ninput_ids\nthe total\n$24.36\namount？\n$24.36\nattention_mask\nfp16［400,2048］\n$24.36\nTHANK YOU\nlabels\nTHANK YOU\nreceipt.png\nRaw columns\nMaterialized columns\nGeneva UDF backfill\nPermutation APl batch read\nExplore and curate\nMaterialize once\nTrain from columns\nimage, question, answer, OCR metadata\nfrozen vision tower outputs and tokens\nshuffle batches into the QLoRA loop",
+    "description": "How fine-tuning is done中的配图，包含文字：One TextVQA row becomes a complete training example；Raw multimodal data and materialized model features stay attached to the same row.；lance_table: textvqa；row id: 550e8400-e29b-41d4-a716-446655；image；question；answer；ocr_tokens；vision_tower_hiddens；token columns；What is；TOTAL；input_ids；the total；$24.36；amount？；$24.36；attention_mask；fp16［400,2048］；$24.36；THANK YOU；labels；THANK YOU；receipt.png；Raw columns；Materialized columns；Geneva UDF backfill；Permutation APl batch read；Explore and curate；Materialize once",
+    "entities": [
+      "One TextVQA row becomes a complete training example",
+      "Raw multimodal data and materialized model features stay attached to the same row.",
+      "lance_table: textvqa",
+      "row id: 550e8400-e29b-41d4-a716-446655",
+      "image",
+      "question",
+      "answer",
+      "ocr_tokens",
+      "vision_tower_hiddens",
+      "token columns",
+      "What is",
+      "TOTAL",
+      "input_ids",
+      "the total",
+      "$24.36",
+      "amount？",
+      "attention_mask",
+      "fp16［400,2048］",
+      "THANK YOU",
+      "labels",
+      "receipt.png",
+      "Raw columns",
+      "Materialized columns",
+      "Geneva UDF backfill",
+      "Permutation APl batch read",
+      "Explore and curate",
+      "Materialize once",
+      "Train from columns",
+      "image, question, answer, OCR metadata",
+      "frozen vision tower outputs and tokens",
+      "shuffle batches into the QLoRA loop"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "28560835cf2ed44ab273c10c792cc5984d10d786002e9a27fc7294ed4412f17a"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-009",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-009.avif",
+    "section": "Takeaway: Faster training lifecycles",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Takeaway: Faster training lifecycles中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-010",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-010.avif",
+    "section": "Takeaway: Faster training lifecycles",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Takeaway: Faster training lifecycles中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-011",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-011.png",
+    "section": "Takeaway: Faster training lifecycles",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Takeaway: Faster training lifecycles中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-012",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-012.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e-fig-013",
+    "doc_id": "1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1394-https-www-lancedb-com-blog-faster-vlm-fine-tunin-9adf622e/figure-013.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-001",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-002",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-002.webp",
+    "section": "Common Crawl Foundation at LREC 2026",
+    "alt": "Malte Ostendorff",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at LREC 2026中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-003",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-003.webp",
+    "section": "Common Crawl Foundation at LREC 2026",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Common Crawl Foundation at LREC 2026中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-004",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a43fc1049d2174ba9bf6b18_image1.jpg",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-004.jpg",
+    "section": "Common Crawl Foundation at LREC 2026",
+    "alt": "A photo of Laurie Burchell, Luca Foppiano, Pedro Ortiz Suarez, and Malte Ostendorff at LREC 2026 in Palma, Mallorca.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.024709305091851663,
+          0.7013333321162818,
+          0.3866278991699219,
+          0.10874418640136718
+        ],
+        "confidence": 0.5,
+        "text": "LREC20"
+      },
+      {
+        "boundingBox": [
+          0.04601943294220751,
+          0.577667591536699,
+          0.22772857666015628,
+          0.11598265075683589
+        ],
+        "confidence": 0.3,
+        "text": "Polra"
+      },
+      {
+        "boundingBox": [
+          0.29215116391039475,
+          0.5833333335330139,
+          0.11627906799316406,
+          0.09883720906575522
+        ],
+        "confidence": 0.3,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.05377906929153798,
+          0.44379845035018095,
+          0.23546511840820317,
+          0.08553488413492849
+        ],
+        "confidence": 0.5,
+        "text": "Welcor"
+      },
+      {
+        "boundingBox": [
+          0.06970347893823095,
+          0.288532430769357,
+          0.12367443847656248,
+          0.06247002156575521
+        ],
+        "confidence": 0.5,
+        "text": "11-16"
+      },
+      {
+        "boundingBox": [
+          0.0741279092086983,
+          0.21511627997682925,
+          0.11918604278564454,
+          0.07170542399088542
+        ],
+        "confidence": 0.5,
+        "text": "May"
+      }
+    ],
+    "ocr_text": "LREC20\nPolra\n25\nWelcor\n11-16\nMay",
+    "description": "Common Crawl Foundation at LREC 2026中的配图，包含文字：LREC20；Polra；25；Welcor；11-16；May",
+    "entities": [
+      "LREC20",
+      "Polra",
+      "25",
+      "Welcor",
+      "11-16",
+      "May"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c212bdf153446ec3996a6a43a59671f74db1c34d7db715af36d347ac84b79a68"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-005",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-005.webp",
+    "section": "Next Steps",
+    "alt": "Malte is a Senior Research Engineer at Common Crawl.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Next Steps中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-006",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-006.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-007",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-007.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-008",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f-fig-009",
+    "doc_id": "2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2299-https-commoncrawl-org-blog-common-crawl-foundati-ceb3649f/figure-009.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

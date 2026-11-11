@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>sgt-kb · 本地知识库演示</title>
+  <style>
+    :root {
+      --ink: #1c1916;
+      --muted: #5c564e;
+      --line: #e3d9cc;
+      --paper: #f7f1e8;
+      --card: #fffdf8;
+      --accent: #b5492c;
+      --accent-soft: #f3e0d8;
+      --teal: #2b6a62;
+      --chip: #efe7db;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; background: var(--paper); color: var(--ink); }
+    body {
+      font: 16px/1.6 "Source Han Sans SC", "Noto Sans CJK SC", "PingFang SC", "IBM Plex Sans", system-ui, sans-serif;
+    }
+    header {
+      max-width: 920px;
+      margin: 0 auto;
+      padding: 48px 24px 16px;
+    }
+    header p.kicker {
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      font-size: 12px;
+      color: var(--accent);
+      margin: 0 0 8px;
+    }
+    h1 { font-size: 32px; line-height: 1.25; margin: 0 0 12px; font-weight: 650; }
+    .lede { color: var(--muted); max-width: 42em; margin: 0; }
+    main { max-width: 920px; margin: 0 auto; padding: 16px 24px 80px; }
+    .pipeline {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 8px;
+      margin: 28px 0 32px;
+    }
+    .step {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px 12px 14px;
+      min-height: 118px;
+    }
+    .step b { display: block; font-size: 12px; color: var(--teal); margin-bottom: 6px; }
+    .step span { font-size: 14px; color: var(--ink); }
+    form.search {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    input[type="search"] {
+      flex: 1;
+      border: 1px solid var(--line);
+      background: var(--card);
+      border-radius: 10px;
+      padding: 12px 14px;
+      font: inherit;
+      color: var(--ink);
+    }
+    input[type="search"]:focus { outline: 2px solid var(--accent); border-color: transparent; }
+    button {
+      border: 0;
+      background: var(--accent);
+      color: white;
+      border-radius: 10px;
+      padding: 0 18px;
+      font: inherit;
+      cursor: pointer;
+    }
+    button:hover { filter: brightness(0.95); }
+    .hints { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 20px; }
+    .hints button {
+      background: var(--chip);
+      color: var(--ink);
+      padding: 6px 10px;
+      font-size: 13px;
+    }
+    .meta { color: var(--muted); font-size: 13px; margin: 0 0 16px; }
+    .result {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 16px 18px 14px;
+      margin: 0 0 12px;
+    }
+    .result h2 { font-size: 18px; margin: 0 0 6px; font-weight: 600; }
+    .result h2 a { color: inherit; text-decoration: none; }
+    .result h2 a:hover { color: var(--accent); }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 8px; }
+    .chip {
+      background: var(--accent-soft);
+      color: var(--accent);
+      border-radius: 999px;
+      padding: 1px 8px;
+      font-size: 12px;
+    }
+    .chip.tag { background: #e4ecea; color: var(--teal); }
+    .snippet { margin: 0 0 8px; color: var(--ink); }
+    mark { background: #f6e2a1; color: inherit; padding: 0 1px; }
+    .cite { font-size: 12px; color: var(--muted); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    footer { color: var(--muted); font-size: 13px; margin-top: 36px; }
+    footer a { color: var(--teal); }
+    .empty { color: var(--muted); padding: 12px 0 24px; }
+    @media (max-width: 800px) {
+      .pipeline { grid-template-columns: 1fr 1fr; }
+      h1 { font-size: 26px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <p class="kicker">sgt-kb demo</p>
+    <h1>爬取、切块、索引、混合检索，结果带来源引用</h1>
+    <p class="lede">这是公开技术文章知识库的可点开演示。下面用仓库里约 2400 篇公开文章的标题和摘要做检索；完整的 bge-m3 混合检索和全文阅读在本地运行。</p>
+  </header>
+  <main>
+    <div class="pipeline" aria-label="流水线">
+      <div class="step"><b>1. 爬取</b><span>公开 URL、RSS，或可选的本机公众号采集。</span></div>
+      <div class="step"><b>2. 解析分块</b><span>按标题树递归切块，在标题和段落边界切开。</span></div>
+      <div class="step"><b>3. 索引</b><span>本地 bge-m3 写入 dense 向量和 sparse 词权重。</span></div>
+      <div class="step"><b>4. 混合检索</b><span>双路召回后做 RRF 融合，可按来源和主题过滤。</span></div>
+      <div class="step"><b>5. 带引用结果</b><span>每条结果保留标题、来源、doc_id 和原文链接。</span></div>
+    </div>
+
+    <form class="search" id="form">
+      <input type="search" id="q" placeholder="试试：混合检索、查询理解、索引构建…" autocomplete="off" autofocus>
+      <button type="submit">检索</button>
+    </form>
+    <div class="hints" id="hints">
+      <button type="button" data-q="混合检索 RRF">混合检索 RRF</button>
+      <button type="button" data-q="查询理解">查询理解</button>
+      <button type="button" data-q="切块 chunking">切块 chunking</button>
+      <button type="button" data-q="向量召回">向量召回</button>
+    </div>
+    <p class="meta" id="status">正在加载公开文章索引…</p>
+    <div id="results"></div>
+    <footer>
+      演示语料来自公开技术博客和公众号，版权归原作者，请打开原文链接阅读。代码仓库：<a href="https://github.com/hulu204/sgt-kb">github.com/hulu204/sgt-kb</a>。
+    </footer>
+  </main>
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const status = $("status");
+    const results = $("results");
+    let docs = [];
+
+    const tokenize = (s) => (s || "").toLowerCase().match(/[\u4e00-\u9fff]|[a-z0-9_]+/g) || [];
+
+    function score(doc, terms) {
+      const title = tokenize(doc.title);
+      const body = tokenize(`${doc.company} ${doc.tag} ${doc.snippet}`);
+      let s = 0;
+      for (const t of terms) {
+        const tc = title.filter((x) => x === t || (t.length > 1 && x.includes(t))).length;
+        const bc = body.filter((x) => x === t || (t.length > 1 && x.includes(t))).length;
+        if (tc || bc) s += 4 * tc + bc;
+      }
+      return s;
+    }
+
+    function highlight(text, terms) {
+      const raw = text || "";
+      const escaped = raw.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+      if (!terms.length) return escaped;
+      const pattern = terms
+        .slice()
+        .sort((a, b) => b.length - a.length)
+        .map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+        .join("|");
+      if (!pattern) return escaped;
+      return escaped.replace(new RegExp(`(${pattern})`, "gi"), "<mark>$1</mark>");
+    }
+
+    function render(query) {
+      const terms = tokenize(query);
+      if (!docs.length) return;
+      if (!terms.length) {
+        status.textContent = `已加载 ${docs.length} 篇公开文章。输入问题后检索。`;
+        results.innerHTML = "";
+        return;
+      }
+      const ranked = docs
+        .map((d) => ({ d, s: score(d, terms) }))
+        .filter((x) => x.s > 0)
+        .sort((a, b) => b.s - a.s)
+        .slice(0, 12);
+      status.textContent = ranked.length
+        ? `找到 ${ranked.length === 12 ? "至少 12" : ranked.length} 条相关结果（演示为标题和摘要检索）`
+        : "没有命中，换个词试试。";
+      results.innerHTML = ranked
+        .map(({ d }) => {
+          const href = d.url || "#";
+          const chips = [
+            d.company ? `<span class="chip">${highlight(d.company, terms)}</span>` : "",
+            d.tag ? `<span class="chip tag">${highlight(d.tag, terms)}</span>` : "",
+            d.date ? `<span class="chip tag">${d.date}</span>` : "",
+          ].join("");
+          const link = d.url
+            ? `<a href="${d.url}" target="_blank" rel="noopener noreferrer">${highlight(d.title, terms)}</a>`
+            : highlight(d.title, terms);
+          return `<article class="result">
+            <h2>${link}</h2>
+            <div class="chips">${chips}</div>
+            <p class="snippet">${highlight(d.snippet, terms)}${d.snippet && d.snippet.length >= 240 ? "…" : ""}</p>
+            <div class="cite">doc_id: ${d.id}</div>
+          </article>`;
+        })
+        .join("");
+    }
+
+    $("form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      render($("q").value);
+    });
+    $("hints").addEventListener("click", (e) => {
+      const btn = e.target.closest("button[data-q]");
+      if (!btn) return;
+      $("q").value = btn.dataset.q;
+      render(btn.dataset.q);
+    });
+
+    fetch("./demo-index.json")
+      .then((r) => {
+        if (!r.ok) throw new Error("index");
+        return r.json();
+      })
+      .then((data) => {
+        docs = data.docs || [];
+        status.textContent = `已加载 ${docs.length} 篇公开文章。输入问题后检索。`;
+        const params = new URLSearchParams(location.search);
+        if (params.get("q")) {
+          $("q").value = params.get("q");
+          render(params.get("q"));
+        }
+      })
+      .catch(() => {
+        status.textContent = "演示索引加载失败。请稍后刷新，或到仓库本地运行完整检索。";
+      });
+  </script>
+</body>
+</html>

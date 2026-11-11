@@ -1,0 +1,229 @@
+[
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-001",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-002",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/685e77cb286e933224ff5fad_683397fb6efccb98feccc93d_hande-p-800.webp",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-002.webp",
+    "section": "October 2025 Crawl Archive Now Available",
+    "alt": "Hande Çelikkanat",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "October 2025 Crawl Archive Now Available中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "852e29863fe712d76efe93876c96edc006d5e2570e0f431c389c6456d4b9cc88"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-003",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e648e958ff552eb78d24e9_archiverelease2.webp",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-003.webp",
+    "section": "October 2025 Crawl Archive Now Available",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "October 2025 Crawl Archive Now Available中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c0d7d5979eb38c174d594e7951a700ee2aefad4033d83eeb457615ceb4ad2c4f"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-004",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/685e77cb286e933224ff5fad_683397fb6efccb98feccc93d_hande-p-800.webp",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-004.webp",
+    "section": "Archive Location & Download",
+    "alt": "Hande is a Senior ML Engineer with the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Archive Location & Download中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "852e29863fe712d76efe93876c96edc006d5e2570e0f431c389c6456d4b9cc88"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-005",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-005.webp",
+    "section": "Archive Location & Download",
+    "alt": "Malte is a Senior Research Engineer at Common Crawl.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Archive Location & Download中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-006",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68fa74453a477777273fbfa6_68dff7183e725e1e0818a9c3_damian-p-800.webp",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-006.webp",
+    "section": "Archive Location & Download",
+    "alt": "Damian is a software developer and researcher with a multidisciplinary background, based in Vienna, Austria.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Archive Location & Download中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9d79cbe097fc3d3ade8e6d887d9c5de236fddd701399292dcc3a43580b902d2b"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-007",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-008",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-009",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975-fig-010",
+    "doc_id": "2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2328-https-commoncrawl-org-blog-october-2025-crawl-ar-9645f975/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-001",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c73e8cf6a997e1903c0cc6_python-package-to-convert-image-datasets-to-lance-type.avif",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-001.avif",
+    "section": "Python Package to convert image datasets to Lance type",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09710330962267939,
+          0.8811557163683964,
+          0.14300268491109214,
+          0.05681001521922924
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.3644562490357201,
+          0.49858092165323686,
+          0.08531501293182375,
+          0.06207905522099244
+        ],
+        "confidence": 1,
+        "text": "DICTA"
+      },
+      {
+        "boundingBox": [
+          0.3606900362731161,
+          0.4558290414331675,
+          0.09384866555531818,
+          0.04199249479505751
+        ],
+        "confidence": 0.5,
+        "text": "DECIMA SEPTIMA"
+      },
+      {
+        "boundingBox": [
+          0.38040229593661307,
+          0.42223609419093355,
+          0.05430583953857421,
+          0.04022336889196321
+        ],
+        "confidence": 0.3,
+        "text": "3. IVEA"
+      }
+    ],
+    "ocr_text": "LanceDB\nDICTA\nDECIMA SEPTIMA\n3. IVEA",
+    "description": "Python Package to convert image datasets to Lance type中的配图，包含文字：LanceDB；DICTA；DECIMA SEPTIMA；3. IVEA",
+    "entities": [
+      "LanceDB",
+      "DICTA",
+      "DECIMA SEPTIMA",
+      "3. IVEA"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ff97771da0002d235fcfe302b4754cee699ee402d82c0af74dfa941b55ce0609"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-002",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd2f377f85d6011539e_image-6.avif",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-002.avif",
+    "section": "Python Package to convert image datasets to Lance type",
+    "alt": "Lancify Package Overview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5477687340867615,
+          0.49711022371784686,
+          0.12968775889537,
+          0.05427839794555389
+        ],
+        "confidence": 1,
+        "text": "MACHINE"
+      },
+      {
+        "boundingBox": [
+          0.4774774793825075,
+          0.4364896073325635,
+          0.30480480480480476,
+          0.04618937644341803
+        ],
+        "confidence": 0.3,
+        "text": "LEARNINGENGREER"
+      },
+      {
+        "boundingBox": [
+          0.7672672678678678,
+          0.3856812934115986,
+          0.21621621621621623,
+          0.0808314087759815
+        ],
+        "confidence": 0.3,
+        "text": "HOUHIE"
+      },
+      {
+        "boundingBox": [
+          0.7777777772811273,
+          0.25866050769230775,
+          0.1921921921921922,
+          0.10161662817551964
+        ],
+        "confidence": 0.5,
+        "text": "COLAB"
+      },
+      {
+        "boundingBox": [
+          0.18749999922944524,
+          0.2628205134555003,
+          0.17083333562444283,
+          0.0835998085850106
+        ],
+        "confidence": 0.5,
+        "text": "LANCIFY"
+      },
+      {
+        "boundingBox": [
+          0.09459459285118453,
+          0.18706697419810103,
+          0.3588588588588589,
+          0.07159353348729791
+        ],
+        "confidence": 0.5,
+        "text": "PYTHON PACKAGE"
+      }
+    ],
+    "ocr_text": "MACHINE\nLEARNINGENGREER\nHOUHIE\nCOLAB\nLANCIFY\nPYTHON PACKAGE",
+    "description": "Python Package to convert image datasets to Lance type中的配图，包含文字：MACHINE；LEARNINGENGREER；HOUHIE；COLAB；LANCIFY；PYTHON PACKAGE",
+    "entities": [
+      "MACHINE",
+      "LEARNINGENGREER",
+      "HOUHIE",
+      "COLAB",
+      "LANCIFY",
+      "PYTHON PACKAGE"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b8b89a4870e8c7f732bb461aa8bd51735905cfa551b8cf3f1d49a5754921aaed"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-003",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd2f377f85d60115396_image-5.avif",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-003.avif",
+    "section": "Convert Lance table to Pandas dataframe",
+    "alt": "Lance Format Benefits",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11353711513568313,
+          0.90112359535313,
+          0.7751091703056769,
+          0.09213483146067414
+        ],
+        "confidence": 0.5,
+        "text": "WHEN YOU HAVEA PIP"
+      },
+      {
+        "boundingBox": [
+          0.016666659586773346,
+          0.7939914164009354,
+          0.9500000133264533,
+          0.10300429269169153
+        ],
+        "confidence": 0.5,
+        "text": "PACKAGE FOR CONVERTING"
+      },
+      {
+        "boundingBox": [
+          0.15720524159388646,
+          0.10786516863295881,
+          0.6812227074235808,
+          0.09887640449438206
+        ],
+        "confidence": 0.5,
+        "text": "IMAGE DATASETS"
+      },
+      {
+        "boundingBox": [
+          0.13537117712594804,
+          0.0022471908929627693,
+          0.7270742358078603,
+          0.09438202247191019
+        ],
+        "confidence": 0.5,
+        "text": "TO LANCE FORMAT"
+      }
+    ],
+    "ocr_text": "WHEN YOU HAVEA PIP\nPACKAGE FOR CONVERTING\nIMAGE DATASETS\nTO LANCE FORMAT",
+    "description": "Convert Lance table to Pandas dataframe中的配图，包含文字：WHEN YOU HAVEA PIP；PACKAGE FOR CONVERTING；IMAGE DATASETS；TO LANCE FORMAT",
+    "entities": [
+      "WHEN YOU HAVEA PIP",
+      "PACKAGE FOR CONVERTING",
+      "IMAGE DATASETS",
+      "TO LANCE FORMAT"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0dbc67782f5eb2c90997bb504b136fa2bf1ca1e1cb7e240fba5385da683374f7"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-004",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11762f_mahesh-deshwal.avif",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-004.avif",
+    "section": "Convert Lance table to Pandas dataframe",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Convert Lance table to Pandas dataframe中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e95afcae1c30392b76147f07769a96314e02e86a600d8efe8f0fbad25e721afd"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-005",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-005.png",
+    "section": "Convert Lance table to Pandas dataframe",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Convert Lance table to Pandas dataframe中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-006",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42-fig-007",
+    "doc_id": "1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1461-https-www-lancedb-com-blog-python-package-to-con-6844ab42/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

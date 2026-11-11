@@ -1,0 +1,943 @@
+[
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-001",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccc56c0354a390eb360cc8_preview-image.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-001.avif",
+    "section": "Inverted File Product Quantization (IVF\\_PQ): Accelerate Vector Search by Creating Indices",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09704854152976594,
+          0.8803984021668794,
+          0.14456570943196614,
+          0.05574066374037001
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.456395347836299,
+          0.8062015508731045,
+          0.06976744333902996,
+          0.03361326323615177
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.2877906975042838,
+          0.7260981914549125,
+          0.014534883697827627,
+          0.020671833886040547
+        ],
+        "confidence": 0.5,
+        "text": "m"
+      },
+      {
+        "boundingBox": [
+          0.42296511636551287,
+          0.5296296299926045,
+          0.020348836978276552,
+          0.023341945365623173
+        ],
+        "confidence": 0.3,
+        "text": "u2"
+      },
+      {
+        "boundingBox": [
+          0.5625000004475166,
+          0.5322997420061133,
+          0.01889534791310632,
+          0.023255813563311634
+        ],
+        "confidence": 0.3,
+        "text": "uB"
+      },
+      {
+        "boundingBox": [
+          0.6904069768068448,
+          0.5348837210682218,
+          0.020348836978276608,
+          0.026227390324627953
+        ],
+        "confidence": 0.3,
+        "text": "w4"
+      },
+      {
+        "boundingBox": [
+          0.3909883735859834,
+          0.4599483203903211,
+          0.23255813916524248,
+          0.03912575333206736
+        ],
+        "confidence": 0.5,
+        "text": "Sub-Vectors of equal size"
+      },
+      {
+        "boundingBox": [
+          0.3808139534583951,
+          0.294444444017103,
+          0.014534883697827683,
+          0.02080103379708742
+        ],
+        "confidence": 0.3,
+        "text": "ul"
+      },
+      {
+        "boundingBox": [
+          0.45639534874923376,
+          0.29444444459744,
+          0.020348836978276608,
+          0.02080103291405566
+        ],
+        "confidence": 0.3,
+        "text": "u2"
+      },
+      {
+        "boundingBox": [
+          0.5392441866660245,
+          0.2971576226433227,
+          0.01889534791310621,
+          0.023255814446343392
+        ],
+        "confidence": 0.3,
+        "text": "u3"
+      },
+      {
+        "boundingBox": [
+          0.6119186049242609,
+          0.29444444483856325,
+          0.01889534791310632,
+          0.02338501170829488
+        ],
+        "confidence": 0.3,
+        "text": "u4"
+      },
+      {
+        "boundingBox": [
+          0.44622093075416547,
+          0.09814814774342095,
+          0.01308139463265734,
+          0.02071490111174401
+        ],
+        "confidence": 0.5,
+        "text": "c1"
+      },
+      {
+        "boundingBox": [
+          0.4854651163945827,
+          0.09814814811374317,
+          0.020348836978276608,
+          0.023298879905983227
+        ],
+        "confidence": 0.3,
+        "text": "c2"
+      },
+      {
+        "boundingBox": [
+          0.53052325626147,
+          0.09814814853165865,
+          0.01889534791310632,
+          0.02329887902295147
+        ],
+        "confidence": 0.3,
+        "text": "c3"
+      },
+      {
+        "boundingBox": [
+          0.5770348835153455,
+          0.10077519431574689,
+          0.017441860834757517,
+          0.020671833886040547
+        ],
+        "confidence": 0.3,
+        "text": "c4"
+      }
+    ],
+    "ocr_text": "LanceDB\nVector\nm\nu2\nuB\nw4\nSub-Vectors of equal size\nul\nu2\nu3\nu4\nc1\nc2\nc3\nc4",
+    "description": "Inverted File Product Quantization (IVF\\_PQ): Accelerate Vector Search by Creating Indices中的配图，包含文字：LanceDB；Vector；m；u2；uB；w4；Sub-Vectors of equal size；ul；u2；u3；u4；c1；c2；c3；c4",
+    "entities": [
+      "LanceDB",
+      "Vector",
+      "m",
+      "u2",
+      "uB",
+      "w4",
+      "Sub-Vectors of equal size",
+      "ul",
+      "u3",
+      "u4",
+      "c1",
+      "c2",
+      "c3",
+      "c4"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "065c86b597be1d170113e15735837c046549a018fc9be1fd9b60a8ce53275dd6"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-002",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294348f13c62f9d90618_1*9ibrbi3Gox6nMDda8oL7yg.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-002.avif",
+    "section": "Inverted File Product Quantization (IVF\\_PQ): Accelerate Vector Search by Creating Indices",
+    "alt": "Quantization: Dimensionality Reduction",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.9228571427142856,
+          0.7197452234076434,
+          0.022857142857142798,
+          0.0573248407643312
+        ],
+        "confidence": 0.5,
+        "text": "S"
+      },
+      {
+        "boundingBox": [
+          0.45428571411428575,
+          0.4777070069426752,
+          0.022857142857142854,
+          0.0573248407643312
+        ],
+        "confidence": 0.5,
+        "text": "D"
+      },
+      {
+        "boundingBox": [
+          0.7914285712857142,
+          0.2547770705414013,
+          0.022857142857142798,
+          0.0573248407643312
+        ],
+        "confidence": 0.3,
+        "text": "<"
+      },
+      {
+        "boundingBox": [
+          0.8199999998979592,
+          0.2484076437215651,
+          0.03142857142857147,
+          0.0573248407643312
+        ],
+        "confidence": 0.3,
+        "text": "S"
+      },
+      {
+        "boundingBox": [
+          0.43436173757519736,
+          0.08606808690614765,
+          0.05867669786725721,
+          0.07509309319174218
+        ],
+        "confidence": 0.3,
+        "text": "LD"
+      }
+    ],
+    "ocr_text": "S\nD\n<\nS\nLD",
+    "description": "Inverted File Product Quantization (IVF\\_PQ): Accelerate Vector Search by Creating Indices中的配图，包含文字：S；D；<；S；LD",
+    "entities": [
+      "S",
+      "D",
+      "<",
+      "LD"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "895372ca18377cf9592ce3a97bd5105b943bbd0a2ec47043b5754449f9e82c50"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-003",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294348f13c62f9d9061b_1*5EyBpJ2H0jQkKFpIDIPhAg.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-003.avif",
+    "section": "How does Product Quantization work?",
+    "alt": "Product Quantization",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4254738114755939,
+          0.8863492563870563,
+          0.11762380327497207,
+          0.038559765215741004
+        ],
+        "confidence": 0.5,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.13428571478571427,
+          0.8013245034768212,
+          0.04000000000000001,
+          0.019867549668874163
+        ],
+        "confidence": 0.3,
+        "text": "m"
+      },
+      {
+        "boundingBox": [
+          0.5857142867764341,
+          0.8046357617549669,
+          0.022857141494750932,
+          0.01655629139072845
+        ],
+        "confidence": 0.3,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.8057142860145294,
+          0.8046357614238411,
+          0.022857141494750932,
+          0.01655629139072845
+        ],
+        "confidence": 0.3,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.1542857143142857,
+          0.5827814566887417,
+          0.025714285714285717,
+          0.026490066225165476
+        ],
+        "confidence": 0.3,
+        "text": "ui"
+      },
+      {
+        "boundingBox": [
+          0.605714286,
+          0.5827814571467991,
+          0.03428571428571425,
+          0.0298013245033113
+        ],
+        "confidence": 0.3,
+        "text": "us"
+      },
+      {
+        "boundingBox": [
+          0.3142857192499999,
+          0.5033112583195364,
+          0.3971428571428572,
+          0.04304635761589404
+        ],
+        "confidence": 0.5,
+        "text": "Sub-Vectors of equal size"
+      },
+      {
+        "boundingBox": [
+          0.2999999998571428,
+          0.32450331145143496,
+          0.022857142857142854,
+          0.023178807947019764
+        ],
+        "confidence": 0.3,
+        "text": "ul"
+      },
+      {
+        "boundingBox": [
+          0.5657142856666667,
+          0.32450331147902867,
+          0.03428571428571425,
+          0.026490066225165587
+        ],
+        "confidence": 0.3,
+        "text": "uS"
+      },
+      {
+        "boundingBox": [
+          0.6828571432571429,
+          0.32450331142384115,
+          0.040000000000000036,
+          0.023178807947019764
+        ],
+        "confidence": 0.3,
+        "text": "uH"
+      },
+      {
+        "boundingBox": [
+          0.47428571475,
+          0.10596026506622525,
+          0.03714285714285709,
+          0.026490066225165587
+        ],
+        "confidence": 0.3,
+        "text": "c2"
+      },
+      {
+        "boundingBox": [
+          0.5514285714,
+          0.1059602651655629,
+          0.03142857142857136,
+          0.026490066225165587
+        ],
+        "confidence": 0.3,
+        "text": "cS"
+      },
+      {
+        "boundingBox": [
+          0.628571428595238,
+          0.10596026467991182,
+          0.03142857142857147,
+          0.026490066225165476
+        ],
+        "confidence": 0.3,
+        "text": "c4"
+      }
+    ],
+    "ocr_text": "Vector\nm\nM\nM\nui\nus\nSub-Vectors of equal size\nul\nuS\nuH\nc2\ncS\nc4",
+    "description": "How does Product Quantization work?中的配图，包含文字：Vector；m；M；M；ui；us；Sub-Vectors of equal size；ul；uS；uH；c2；cS；c4",
+    "entities": [
+      "Vector",
+      "m",
+      "M",
+      "ui",
+      "us",
+      "Sub-Vectors of equal size",
+      "ul",
+      "uS",
+      "uH",
+      "c2",
+      "cS",
+      "c4"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "cd76f91af8150c5c3ad6265c7d7d6effa4986c6d07710b5fd988e61c74da7230"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-004",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294248f13c62f9d90611_1*sqiTUncKKCVBOTks7XtvIw.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-004.avif",
+    "section": "Create and train the index - you need enough data in the table for an effective training step",
+    "alt": "PQ vectors",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.8771428569999998,
+          0.8702702706756756,
+          0.02285714285714291,
+          0.04864864864864871
+        ],
+        "confidence": 0.5,
+        "text": "c1"
+      }
+    ],
+    "ocr_text": "c1",
+    "description": "Create and train the index - you need enough data in the table for an effective training step中的配图，包含文字：c1",
+    "entities": [
+      "c1"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3bb6cb30ea8c2922f373e35a840f1267c9620b18f5533eefa01da43957884e06"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-005",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294248f13c62f9d9060b_1*dolXJIJ4YVubaREDPSxFww.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-005.avif",
+    "section": "Create and train the index - you need enough data in the table for an effective training step",
+    "alt": "Vectors assigned to Voronoi cells via IVF",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5114285713214286,
+          0.7771428575714285,
+          0.03428571428571425,
+          0.06857142857142862
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.9228571428571428,
+          0.7028571433714286,
+          0.040000000000000036,
+          0.05142857142857138
+        ],
+        "confidence": 0.3,
+        "text": "c2"
+      }
+    ],
+    "ocr_text": "8\nc2",
+    "description": "Create and train the index - you need enough data in the table for an effective training step中的配图，包含文字：8；c2",
+    "entities": [
+      "8",
+      "c2"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "df70e5140e573f31267d734dc555beb5e271baba059e2b1a0095892c07a65a98"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-006",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294248f13c62f9d9060e_1*07pM49ui5dtkCeRYQLbmlQ.avif",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-006.avif",
+    "section": "Create and train the index - you need enough data in the table for an effective training step",
+    "alt": "Query Vector searches closest cell",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.49705882375,
+          0.9078014187943262,
+          0.01764705882352946,
+          0.042553191489361764
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.42058823506302523,
+          0.8156028364235056,
+          0.032352941176470584,
+          0.07801418439716312
+        ],
+        "confidence": 0.5,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.8087403146492297,
+          0.7506819925928556,
+          0.17369584476246547,
+          0.08019629945146278
+        ],
+        "confidence": 0.5,
+        "text": "Query Vector"
+      },
+      {
+        "boundingBox": [
+          0.447058823382353,
+          0.7021276601063831,
+          0.017647058823529405,
+          0.04255319148936165
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.8143642446174021,
+          0.5766109917030877,
+          0.16538916195140163,
+          0.08082057060079384
+        ],
+        "confidence": 0.5,
+        "text": "Fltered Cell"
+      },
+      {
+        "boundingBox": [
+          0.37941176505882346,
+          0.3971631210638298,
+          0.035294117647058865,
+          0.07801418439716312
+        ],
+        "confidence": 0.3,
+        "text": "8"
+      }
+    ],
+    "ocr_text": "◎\n8\nQuery Vector\n◎\nFltered Cell\n8",
+    "description": "Create and train the index - you need enough data in the table for an effective training step中的配图，包含文字：◎；8；Query Vector；◎；Fltered Cell；8",
+    "entities": [
+      "◎",
+      "8",
+      "Query Vector",
+      "Fltered Cell"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c21f0f96c6c2aab84fdb722b849a664b4f02656619354e823abcebf7c8751358"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-007",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-007.jpg",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusion中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-008",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-008.png",
+    "section": "Conclusion",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusion中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-009",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-009.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc-fig-010",
+    "doc_id": "1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1449-https-www-lancedb-com-blog-benchmarking-lancedb-d3f481dc/figure-010.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

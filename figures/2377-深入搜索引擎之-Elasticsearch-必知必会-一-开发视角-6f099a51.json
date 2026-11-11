@@ -1,0 +1,675 @@
+[
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-001",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 1,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicTctfzb5gUYyxa3mSakGflVWhmyF22OnVh2qiaQ7xmBOoyqBb8WY2kicg/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-001.png",
+    "section": "起源",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1462506054603328,
+          0.6095056947994038,
+          0.08342471652560765,
+          0.024483032829256346
+        ],
+        "confidence": 1,
+        "text": "Kibana"
+      },
+      {
+        "boundingBox": [
+          0.1444444429814815,
+          0.4368029742193308,
+          0.15740740740740738,
+          0.024163568773234223
+        ],
+        "confidence": 1,
+        "text": "Elasticsearch"
+      },
+      {
+        "boundingBox": [
+          0.14065946607177637,
+          0.26926333947825176,
+          0.07423662256311486,
+          0.02467034563256021
+        ],
+        "confidence": 1,
+        "text": "Beats"
+      },
+      {
+        "boundingBox": [
+          0.4016218052239391,
+          0.11435086696145547,
+          0.11157120598687065,
+          0.031521315025131114
+        ],
+        "confidence": 1,
+        "text": "Logstash"
+      }
+    ],
+    "ocr_text": "Kibana\nElasticsearch\nBeats\nLogstash",
+    "description": "起源中的配图，包含文字：Kibana；Elasticsearch；Beats；Logstash",
+    "entities": [
+      "Kibana",
+      "Elasticsearch",
+      "Beats",
+      "Logstash"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0135fe9a862f8395b45995aba1ced42e301fb9465083da474847f38e17ed7674"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-002",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 2,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicINurPxmBvKict7ibvNUXZR9VAbuo9U1gic9dqIgEUqK2Ip1aTLSfTJrLw/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-002.png",
+    "section": "Lucene Index",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1907407405185185,
+          0.6967930026239066,
+          0.08888888888888888,
+          0.029154518950437414
+        ],
+        "confidence": 1,
+        "text": "Segment 1"
+      },
+      {
+        "boundingBox": [
+          0.42946440099909633,
+          0.6927014302833945,
+          0.089219347635905,
+          0.034422214107680205
+        ],
+        "confidence": 0.5,
+        "text": "Segment 2"
+      },
+      {
+        "boundingBox": [
+          0.6814204628050275,
+          0.6962948790187893,
+          0.09456647943567353,
+          0.030150766622915937
+        ],
+        "confidence": 1,
+        "text": "Segment 3"
+      },
+      {
+        "boundingBox": [
+          0.41851851993055555,
+          0.27113702634839654,
+          0.11296296296296293,
+          0.026239067055393583
+        ],
+        "confidence": 0.5,
+        "text": "Commit Point"
+      },
+      {
+        "boundingBox": [
+          0.7444444442361111,
+          0.26530612208454807,
+          0.03888888888888886,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": ".del"
+      }
+    ],
+    "ocr_text": "Segment 1\nSegment 2\nSegment 3\nCommit Point\n.del",
+    "description": "Lucene Index中的配图，包含文字：Segment 1；Segment 2；Segment 3；Commit Point；.del",
+    "entities": [
+      "Segment 1",
+      "Segment 2",
+      "Segment 3",
+      "Commit Point",
+      ".del"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c4c09544b81f2877c12c55f2da77b4a0ee1f54e557f480f765ba3052e565d5ec"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-003",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 3,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicPP740oCttmeKtpTdSNtB6gEnOme2MMPuzhVRe9Q0YicWBvs5hP8EzPQ/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-003.png",
+    "section": "数据入库过程（Indexing）",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.581481480617284,
+          0.6774193546082949,
+          0.05185185185185193,
+          0.032258064516129004
+        ],
+        "confidence": 1,
+        "text": "Segment"
+      },
+      {
+        "boundingBox": [
+          0.11661398406692382,
+          0.5061952611156626,
+          0.059364622610586656,
+          0.0290841320143318
+        ],
+        "confidence": 1,
+        "text": "Document"
+      },
+      {
+        "boundingBox": [
+          0.31296296386574074,
+          0.5069124426267281,
+          0.07222222222222219,
+          0.027649769585253448
+        ],
+        "confidence": 1,
+        "text": "Index Buffer"
+      },
+      {
+        "boundingBox": [
+          0.8370370372962963,
+          0.5069124425806452,
+          0.025925925925925908,
+          0.027649769585253448
+        ],
+        "confidence": 1,
+        "text": "Disk"
+      },
+      {
+        "boundingBox": [
+          0.5740740752160493,
+          0.3317972351766513,
+          0.06851851851851853,
+          0.027649769585253448
+        ],
+        "confidence": 0.5,
+        "text": "Transcation"
+      },
+      {
+        "boundingBox": [
+          0.5962962965185185,
+          0.28571428585253456,
+          0.022222222222222254,
+          0.032258064516129004
+        ],
+        "confidence": 1,
+        "text": "Log"
+      }
+    ],
+    "ocr_text": "Segment\nDocument\nIndex Buffer\nDisk\nTranscation\nLog",
+    "description": "数据入库过程（Indexing）中的配图，包含文字：Segment；Document；Index Buffer；Disk；Transcation；Log",
+    "entities": [
+      "Segment",
+      "Document",
+      "Index Buffer",
+      "Disk",
+      "Transcation",
+      "Log"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2ad364f3538844a2d36c90f82144d0f24caa83eebee3258ca0f62d7d29e31e28"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-004",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 4,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicVMVPMnQicrfHt456AEVS61djPXJ8Q9tZsLy7jCZ5parmjCBHStOJiavw/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-004.png",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07975460659509193,
+          0.35483871129032263,
+          0.8588957055214724,
+          0.3870967741935484
+        ],
+        "confidence": 0.5,
+        "text": "TF =匹配词数量/文档总词数量"
+      }
+    ],
+    "ocr_text": "TF =匹配词数量/文档总词数量",
+    "description": "TF-IDF中的配图，包含文字：TF =匹配词数量/文档总词数量",
+    "entities": [
+      "TF =匹配词数量/文档总词数量"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1374b985e97584cbbc3d09e8467dd4bb2d09cba12572bfa9d9a8c362c532f57a"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-005",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 5,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicWJ4qIia2P3mib87mLQLEoOemHNZW47yCJzJBgC2C547jkmsb3u0lUq6g/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-005.png",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2360248476535541,
+          0.3666666685185186,
+          0.5279503105590062,
+          0.4
+        ],
+        "confidence": 0.5,
+        "text": "TF（我）＋TF（苹果）"
+      }
+    ],
+    "ocr_text": "TF（我）＋TF（苹果）",
+    "description": "TF-IDF中的配图，包含文字：TF（我）＋TF（苹果）",
+    "entities": [
+      "TF（我）＋TF（苹果）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "49b7bfc18d98711a3bce16a3be9b55fa5d639c7961e441242b89fb2f17ea0daa"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-006",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 6,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZiczq2DxdbDn2yrE2acKcA8WiaYmml1XZxiaP2kh1icPb4t2HEsqAuz2aIiag/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-006.png",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05785124524793385,
+          0.3611111123263888,
+          0.8925619834710744,
+          0.36111111111111116
+        ],
+        "confidence": 0.5,
+        "text": "IDF =log（全部文档数/检索词出现过的文档总数）"
+      }
+    ],
+    "ocr_text": "IDF =log（全部文档数/检索词出现过的文档总数）",
+    "description": "TF-IDF中的配图，包含文字：IDF =log（全部文档数/检索词出现过的文档总数）",
+    "entities": [
+      "IDF =log（全部文档数/检索词出现过的文档总数）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fda9da1470d560fd06e26cf7e326fcf35d6d2cf3d94249b2865641a1ee2269b5"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-007",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 7,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZic9ibreeR1ouM0ic4DvLDwmvK7t0OwIJo08VEUPp4uZlxzo32mpUHNHicCQ/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-007.png",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08445945250563072,
+          0.3714285702380954,
+          0.8344594594594595,
+          0.31428571428571417
+        ],
+        "confidence": 0.3,
+        "text": "TF-IDF=TF（我）*IDF（我）＋TF（苹果）*IDF（苹果）"
+      }
+    ],
+    "ocr_text": "TF-IDF=TF（我）*IDF（我）＋TF（苹果）*IDF（苹果）",
+    "description": "TF-IDF中的配图，包含文字：TF-IDF=TF（我）*IDF（我）＋TF（苹果）*IDF（苹果）",
+    "entities": [
+      "TF-IDF=TF（我）*IDF（我）＋TF（苹果）*IDF（苹果）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "13848f0d7e64e23644069c714a3282c150a10a2e5037627d88333c2526fe552a"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-008",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 8,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZic5JR0KdEzSqqxCvf1vKs8icSyfBJ9iaFVzR1wtfzX9gf7SaUibz6GOeSUg/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-008.png",
+    "section": "Lucene 中的 TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.40285714253571425,
+          0.5744680880319148,
+          0.16285714285714292,
+          0.23404255319148937
+        ],
+        "confidence": 0.5,
+        "text": "score（g,d） ="
+      },
+      {
+        "boundingBox": [
+          0.03999999254761917,
+          0.19148936046099285,
+          0.8942857142857144,
+          0.3191489361702128
+        ],
+        "confidence": 0.3,
+        "text": "coord（a, d）•query,Norm（g）-Z（tf（tind）.idf （t）2.t.get Boost（）.norm（t,d））"
+      }
+    ],
+    "ocr_text": "score（g,d） =\ncoord（a, d）•query,Norm（g）-Z（tf（tind）.idf （t）2.t.get Boost（）.norm（t,d））",
+    "description": "Lucene 中的 TF-IDF中的配图，包含文字：score（g,d） =；coord（a, d）•query,Norm（g）-Z（tf（tind）.idf （t）2.t.get Boost（）.norm（t,d））",
+    "entities": [
+      "score（g,d） =",
+      "coord（a, d）•query,Norm（g）-Z（tf（tind）.idf （t）2.t.get Boost（）.norm（t,d））"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b300838a06bdb49a10f362c67f6813d023c317f50986a53c00f0efc499187243"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-009",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 9,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicHianYqRaUB1ofxTJIPIXsQsYlPQGjoJT3YZQlGkLX8ibeoDm3HwicWibwQ/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-009.png",
+    "section": "BM 25",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.34933333576,
+          0.7580645164112904,
+          0.24266666666666664,
+          0.04435483870967738
+        ],
+        "confidence": 0.5,
+        "text": "tf（）of TF/IDF"
+      },
+      {
+        "boundingBox": [
+          0.09333333311111111,
+          0.7298387092069893,
+          0.029333333333333336,
+          0.028225806451612767
+        ],
+        "confidence": 0.3,
+        "text": "-8"
+      },
+      {
+        "boundingBox": [
+          0.09333333369999999,
+          0.5846774195564516,
+          0.029333333333333322,
+          0.024193548387096864
+        ],
+        "confidence": 0.3,
+        "text": "-6"
+      },
+      {
+        "boundingBox": [
+          0.093333333,
+          0.4354838707157257,
+          0.026666666666666658,
+          0.028225806451612878
+        ],
+        "confidence": 0.3,
+        "text": "-4"
+      },
+      {
+        "boundingBox": [
+          0.5199999979200001,
+          0.24193548375000007,
+          0.20799999999999996,
+          0.04435483870967738
+        ],
+        "confidence": 0.3,
+        "text": "tf（）of BM25"
+      },
+      {
+        "boundingBox": [
+          0.16266666552843423,
+          0.1491935459804954,
+          0.02933333587646486,
+          0.048387100619654566
+        ],
+        "confidence": 0.3,
+        "text": "-0L"
+      },
+      {
+        "boundingBox": [
+          0.2453333321951009,
+          0.15322580408533404,
+          0.02933333587646486,
+          0.04435484255513833
+        ],
+        "confidence": 0.3,
+        "text": "-0Z"
+      },
+      {
+        "boundingBox": [
+          0.41333333221732316,
+          0.14919354602753843,
+          0.02933333587646486,
+          0.05241935868417058
+        ],
+        "confidence": 0.3,
+        "text": "-0b"
+      },
+      {
+        "boundingBox": [
+          0.4959999971368685,
+          0.1491935464240437,
+          0.03200000381469725,
+          0.05241935868417058
+        ],
+        "confidence": 0.3,
+        "text": "-0S"
+      },
+      {
+        "boundingBox": [
+          0.5733333328666668,
+          0.15322580640120964,
+          0.03733333333333333,
+          0.04435483870967738
+        ],
+        "confidence": 0.5,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.6640000002933333,
+          0.16532258080645168,
+          0.029333333333333322,
+          0.032258064516129004
+        ],
+        "confidence": 1,
+        "text": "70"
+      },
+      {
+        "boundingBox": [
+          0.7493333335555556,
+          0.1653225808467741,
+          0.026666666666666616,
+          0.032258064516129115
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.43722834737566457,
+          0.051694648280316224,
+          0.14420997111002604,
+          0.04983651061211858
+        ],
+        "confidence": 1,
+        "text": "Frequency"
+      }
+    ],
+    "ocr_text": "tf（）of TF/IDF\n-8\n-6\n-4\ntf（）of BM25\n-0L\n-0Z\n-0b\n-0S\n60\n70\n80\nFrequency",
+    "description": "BM 25中的配图，包含文字：tf（）of TF/IDF；-8；-6；-4；tf（）of BM25；-0L；-0Z；-0b；-0S；60；70；80；Frequency",
+    "entities": [
+      "tf（）of TF/IDF",
+      "-8",
+      "-6",
+      "-4",
+      "tf（）of BM25",
+      "-0L",
+      "-0Z",
+      "-0b",
+      "-0S",
+      "60",
+      "70",
+      "80",
+      "Frequency"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6c93609ac5a40006969caf99deb31e8993aafc11e8d75c81ba58b0a263dd8289"
+  },
+  {
+    "figure_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51-fig-010",
+    "doc_id": "2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51",
+    "seq": 10,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/6GYDCe0a26ibn9nZfy0KiamLiaaTNhtaSZicpkoWZ94cuzdv4t9rG5g2DNMzQQNyVvkXicTzQW9nHCiaF5PdcXbJ5e6Q/640?wx_fmt=png",
+    "image_path": "images/2377-深入搜索引擎之-Elasticsearch-必知必会-一-开发视角-6f099a51/figure-010.png",
+    "section": "Query",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7388888890972223,
+          0.6826568267066421,
+          0.016666666666666607,
+          0.02583025830258301
+        ],
+        "confidence": 0.5,
+        "text": "P2"
+      },
+      {
+        "boundingBox": [
+          0.8370370371180555,
+          0.6863468633533211,
+          0.016666666666666607,
+          0.01845018450184499
+        ],
+        "confidence": 1,
+        "text": "RO"
+      },
+      {
+        "boundingBox": [
+          0.07407407443287037,
+          0.35793357958948346,
+          0.11481481481481481,
+          0.27306273062730624
+        ],
+        "confidence": 0.3,
+        "text": "？"
+      },
+      {
+        "boundingBox": [
+          0.37592592712962963,
+          0.5793357935424355,
+          0.09629629629629632,
+          0.022140221402213944
+        ],
+        "confidence": 0.5,
+        "text": "Coordinating Node"
+      },
+      {
+        "boundingBox": [
+          0.3759259258148148,
+          0.479704797306273,
+          0.014814814814814836,
+          0.02583025830258301
+        ],
+        "confidence": 0.5,
+        "text": "PO"
+      },
+      {
+        "boundingBox": [
+          0.4759259260030864,
+          0.4833948337945879,
+          0.01296296296296301,
+          0.01845018450184499
+        ],
+        "confidence": 1,
+        "text": "R1"
+      },
+      {
+        "boundingBox": [
+          0.37592592600168345,
+          0.2509225085374035,
+          0.061111111111111116,
+          0.1512915129151292
+        ],
+        "confidence": 0.3,
+        "text": "U"
+      },
+      {
+        "boundingBox": [
+          0.7407407414291701,
+          0.31365313665436645,
+          0.014814813931783077,
+          0.022140221402214055
+        ],
+        "confidence": 1,
+        "text": "P1"
+      },
+      {
+        "boundingBox": [
+          0.8351851850462962,
+          0.3099630999538745,
+          0.0185185185185186,
+          0.02583025830258301
+        ],
+        "confidence": 1,
+        "text": "R2"
+      }
+    ],
+    "ocr_text": "P2\nRO\n？\nCoordinating Node\nPO\nR1\nU\nP1\nR2",
+    "description": "Query中的配图，包含文字：P2；RO；？；Coordinating Node；PO；R1；U；P1；R2",
+    "entities": [
+      "P2",
+      "RO",
+      "？",
+      "Coordinating Node",
+      "PO",
+      "R1",
+      "U",
+      "P1",
+      "R2"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2bd11bb2725f2b52a8a0cd4607260e06fa3432ee7ccbe7504631a743b5b3f389"
+  }
+]

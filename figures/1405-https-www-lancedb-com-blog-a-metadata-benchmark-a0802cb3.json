@@ -1,0 +1,3761 @@
+[
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-001",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a51d54aaf39cb8a74583b21_preview-image2.webp",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-001.webp",
+    "section": "A Metadata Benchmark of Lance, Delta Lake, and Iceberg on S3",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09333333406481481,
+          0.8905325445101906,
+          0.13166666666666668,
+          0.047337278106508895
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Metadata Benchmark of Lance, Delta Lake, and Iceberg on S3中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "107e54f68b66c5e8f6e82d8a8d6dbb129895351864e8be9ec3ba34f362f5c6d8"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-002",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a28736073461f9ecf7ea61c_delta-metadata-layout.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-002.png",
+    "section": "Delta Lake: versioned JSON log and Parquet checkpoint",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02083333465277772,
+          0.8366666652083334,
+          0.6291666666666667,
+          0.08833333333333326
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake: versioned JSON log and Parquet checkpoint"
+      },
+      {
+        "boundingBox": [
+          0.043055554774305574,
+          0.6666666661979167,
+          0.0625,
+          0.04583333333333328
+        ],
+        "confidence": 0.3,
+        "text": "-delta_1og/"
+      },
+      {
+        "boundingBox": [
+          0.766666666375,
+          0.6874999998333333,
+          0.029166666666666674,
+          0.03333333333333344
+        ],
+        "confidence": 0.5,
+        "text": "data/"
+      },
+      {
+        "boundingBox": [
+          0.5388888889429012,
+          0.6333333334143518,
+          0.06944444444444453,
+          0.029166666666666674
+        ],
+        "confidence": 0.5,
+        "text": "reverse LIST"
+      },
+      {
+        "boundingBox": [
+          0.7986111128703703,
+          0.5958333336111111,
+          0.10555555555555551,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "part-0001.parquet"
+      },
+      {
+        "boundingBox": [
+          0.06805555437500001,
+          0.5374999994791667,
+          0.09444444444444446,
+          0.050000000000000044
+        ],
+        "confidence": 0.5,
+        "text": "-last_checkpoint"
+      },
+      {
+        "boundingBox": [
+          0.08333333398611109,
+          0.5125000002083334,
+          0.06527777777777777,
+          0.029166666666666674
+        ],
+        "confidence": 1,
+        "text": "version hint"
+      },
+      {
+        "boundingBox": [
+          0.7986111128703703,
+          0.37916666694444434,
+          0.10555555555555551,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "part-0002.parquet"
+      },
+      {
+        "boundingBox": [
+          0.3444132503090071,
+          0.29538906928783615,
+          0.03895127614339189,
+          0.02588852802912389
+        ],
+        "confidence": 0.3,
+        "text": ".000100"
+      },
+      {
+        "boundingBox": [
+          0.5666666672685184,
+          0.28666666611111113,
+          0.08333333333333337,
+          0.03416666666666668
+        ],
+        "confidence": 0.3,
+        "text": "•.000102.Json"
+      },
+      {
+        "boundingBox": [
+          0.06666666560763893,
+          0.2749999996875,
+          0.0847222222222222,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "•.000099.json"
+      },
+      {
+        "boundingBox": [
+          0.15833333329861113,
+          0.2750000004166666,
+          0.013888888888888895,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "-"
+      },
+      {
+        "boundingBox": [
+          0.18194444552083328,
+          0.2750000002083334,
+          0.08611111111111114,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "•.000100.json"
+      },
+      {
+        "boundingBox": [
+          0.2763888890625,
+          0.2750000002083334,
+          0.013888888888888895,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "一"
+      },
+      {
+        "boundingBox": [
+          0.3069444439756944,
+          0.26250000052083333,
+          0.10416666666666663,
+          0.04166666666666663
+        ],
+        "confidence": 0.5,
+        "text": "-heckpoint.parquet"
+      },
+      {
+        "boundingBox": [
+          0.4486111121875,
+          0.2750000002083334,
+          0.08611111111111108,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "•.000101.json"
+      },
+      {
+        "boundingBox": [
+          0.5902777782407407,
+          0.2666666662886047,
+          0.036111111111111094,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "Latest"
+      },
+      {
+        "boundingBox": [
+          0.7986111128703703,
+          0.16250000027777767,
+          0.10555555555555551,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "part-0003.parquet"
+      }
+    ],
+    "ocr_text": "Delta Lake: versioned JSON log and Parquet checkpoint\n-delta_1og/\ndata/\nreverse LIST\npart-0001.parquet\n-last_checkpoint\nversion hint\npart-0002.parquet\n.000100\n•.000102.Json\n•.000099.json\n-\n•.000100.json\n一\n-heckpoint.parquet\n•.000101.json\nLatest\npart-0003.parquet",
+    "description": "Delta Lake: versioned JSON log and Parquet checkpoint中的配图，包含文字：Delta Lake: versioned JSON log and Parquet checkpoint；-delta_1og/；data/；reverse LIST；part-0001.parquet；-last_checkpoint；version hint；part-0002.parquet；.000100；•.000102.Json；•.000099.json；-；•.000100.json；一；-heckpoint.parquet；•.000101.json；Latest；part-0003.parquet",
+    "entities": [
+      "Delta Lake: versioned JSON log and Parquet checkpoint",
+      "-delta_1og/",
+      "data/",
+      "reverse LIST",
+      "part-0001.parquet",
+      "-last_checkpoint",
+      "version hint",
+      "part-0002.parquet",
+      ".000100",
+      "•.000102.Json",
+      "•.000099.json",
+      "-",
+      "•.000100.json",
+      "一",
+      "-heckpoint.parquet",
+      "•.000101.json",
+      "Latest",
+      "part-0003.parquet"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "22a190b503c2eed2fba181b45a100c4986ab9b10da359f7f345fc2b08d0fc5e5"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-003",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a287382be707888494a1d0f_iceberg-metadata-layout.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-003.png",
+    "section": "Iceberg: catalog pointer, JSON metadata, and Avro 2-level manifests",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.020348838796531873,
+          0.8575757566303399,
+          0.7558139377170139,
+          0.07127799698800752
+        ],
+        "confidence": 0.5,
+        "text": "Iceberg: catalog pointer, JSON metadata and Avro 2-level manifests"
+      },
+      {
+        "boundingBox": [
+          0.7703488376491102,
+          0.7786561277570119,
+          0.029069766998291113,
+          0.03194993336995444
+        ],
+        "confidence": 1,
+        "text": "data/"
+      },
+      {
+        "boundingBox": [
+          0.20491309876531438,
+          0.7189817740452681,
+          0.056743570963541656,
+          0.03239218393961585
+        ],
+        "confidence": 1,
+        "text": "metadata/"
+      },
+      {
+        "boundingBox": [
+          0.8328488383675193,
+          0.7030303026771394,
+          0.08575581020779088,
+          0.028787878787878807
+        ],
+        "confidence": 1,
+        "text": "file-a.parquet"
+      },
+      {
+        "boundingBox": [
+          0.6351744196638556,
+          0.6403162068620645,
+          0.08720930311414932,
+          0.027865610700665067
+        ],
+        "confidence": 0.5,
+        "text": "019e5a-mO.avro"
+      },
+      {
+        "boundingBox": [
+          0.6468023255161747,
+          0.6121212122144409,
+          0.0625,
+          0.024242424242424288
+        ],
+        "confidence": 0.5,
+        "text": "manifest A"
+      },
+      {
+        "boundingBox": [
+          0.220930241140471,
+          0.5691699616710235,
+          0.14825580173068575,
+          0.02779973492477883
+        ],
+        "confidence": 1,
+        "text": "00040-9b2d.metadata.json"
+      },
+      {
+        "boundingBox": [
+          0.8328488383675193,
+          0.5454545449757331,
+          0.08575581020779088,
+          0.027667984817967284
+        ],
+        "confidence": 1,
+        "text": "file-b.parquet"
+      },
+      {
+        "boundingBox": [
+          0.07113245227289124,
+          0.4062803753300269,
+          0.04959556155734593,
+          0.04119419040101946
+        ],
+        "confidence": 1,
+        "text": "catalog"
+      },
+      {
+        "boundingBox": [
+          0.220930241140471,
+          0.4030303035359498,
+          0.14825580173068575,
+          0.02779973492477883
+        ],
+        "confidence": 1,
+        "text": "00041-a84f.metadata.json"
+      },
+      {
+        "boundingBox": [
+          0.44186046676419666,
+          0.40303030361829517,
+          0.10029069688585068,
+          0.02779973636973987
+        ],
+        "confidence": 1,
+        "text": "snap-8845-0.avro"
+      },
+      {
+        "boundingBox": [
+          0.04651163073796706,
+          0.36363636368392926,
+          0.09883720397949218,
+          0.03952569094571201
+        ],
+        "confidence": 0.5,
+        "text": "current pointer"
+      },
+      {
+        "boundingBox": [
+          0.4520348818753238,
+          0.37549407110537936,
+          0.07994186401367187,
+          0.023715415145411534
+        ],
+        "confidence": 0.5,
+        "text": "Avro manifest"
+      },
+      {
+        "boundingBox": [
+          0.4796511636352303,
+          0.34387351792136533,
+          0.026162789662679042,
+          0.024308300018310525
+        ],
+        "confidence": 0.5,
+        "text": "List"
+      },
+      {
+        "boundingBox": [
+          0.8328488383675193,
+          0.2964426872682232,
+          0.08575581020779088,
+          0.02779973636973987
+        ],
+        "confidence": 1,
+        "text": "file-c.parquet"
+      },
+      {
+        "boundingBox": [
+          0.22093023765209902,
+          0.25296442846944256,
+          0.14825580173068575,
+          0.027667981928045093
+        ],
+        "confidence": 1,
+        "text": "00042-c7e2.metadata.ison"
+      },
+      {
+        "boundingBox": [
+          0.6351744211921317,
+          0.2569169958979992,
+          0.08575581020779088,
+          0.027931489366473494
+        ],
+        "confidence": 0.5,
+        "text": "019e5a-m1.avro"
+      },
+      {
+        "boundingBox": [
+          0.27324336566096435,
+          0.22512599323892724,
+          0.04362954881456166,
+          0.024056314699577586
+        ],
+        "confidence": 1,
+        "text": "current"
+      },
+      {
+        "boundingBox": [
+          0.6468023255402131,
+          0.22878787851328253,
+          0.0625,
+          0.024242424242424288
+        ],
+        "confidence": 0.5,
+        "text": "manifest B"
+      },
+      {
+        "boundingBox": [
+          0.8328488383675193,
+          0.137878788593639,
+          0.08575581020779088,
+          0.028787878787878807
+        ],
+        "confidence": 1,
+        "text": "file-d.parquet"
+      }
+    ],
+    "ocr_text": "Iceberg: catalog pointer, JSON metadata and Avro 2-level manifests\ndata/\nmetadata/\nfile-a.parquet\n019e5a-mO.avro\nmanifest A\n00040-9b2d.metadata.json\nfile-b.parquet\ncatalog\n00041-a84f.metadata.json\nsnap-8845-0.avro\ncurrent pointer\nAvro manifest\nList\nfile-c.parquet\n00042-c7e2.metadata.ison\n019e5a-m1.avro\ncurrent\nmanifest B\nfile-d.parquet",
+    "description": "Iceberg: catalog pointer, JSON metadata, and Avro 2-level manifests中的配图，包含文字：Iceberg: catalog pointer, JSON metadata and Avro 2-level manifests；data/；metadata/；file-a.parquet；019e5a-mO.avro；manifest A；00040-9b2d.metadata.json；file-b.parquet；catalog；00041-a84f.metadata.json；snap-8845-0.avro；current pointer；Avro manifest；List；file-c.parquet；00042-c7e2.metadata.ison；019e5a-m1.avro；current；manifest B；file-d.parquet",
+    "entities": [
+      "Iceberg: catalog pointer, JSON metadata and Avro 2-level manifests",
+      "data/",
+      "metadata/",
+      "file-a.parquet",
+      "019e5a-mO.avro",
+      "manifest A",
+      "00040-9b2d.metadata.json",
+      "file-b.parquet",
+      "catalog",
+      "00041-a84f.metadata.json",
+      "snap-8845-0.avro",
+      "current pointer",
+      "Avro manifest",
+      "List",
+      "file-c.parquet",
+      "00042-c7e2.metadata.ison",
+      "019e5a-m1.avro",
+      "current",
+      "manifest B",
+      "file-d.parquet"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d5aa7ccda36e946af25b29665be5ce67c6274f37bd0e51af20ceb84bfd2ea863"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-004",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2873dd80f893f25c7ec7a7_lance-metadata-layout.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-004.png",
+    "section": "Lance: versioned Protobuf manifest and transaction",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.023255823306988836,
+          0.8850174214871481,
+          0.5784883626302083,
+          0.04878048706054694
+        ],
+        "confidence": 0.5,
+        "text": "Lance: versioned Protobuf manifest and transaction"
+      },
+      {
+        "boundingBox": [
+          0.767441860444653,
+          0.7559999995865346,
+          0.029069766998291002,
+          0.028000000000000025
+        ],
+        "confidence": 1,
+        "text": "data/"
+      },
+      {
+        "boundingBox": [
+          0.04486594443143736,
+          0.7364216210637382,
+          0.05997741275363498,
+          0.035867560068766347
+        ],
+        "confidence": 1,
+        "text": "_versions/"
+      },
+      {
+        "boundingBox": [
+          0.8081395340170533,
+          0.6826666662340544,
+          0.0872093031141492,
+          0.028134726206461513
+        ],
+        "confidence": 0.5,
+        "text": "frag-001.Lance"
+      },
+      {
+        "boundingBox": [
+          0.05232557949578339,
+          0.6266666668052158,
+          0.13081395467122395,
+          0.03599999999999992
+        ],
+        "confidence": 0.5,
+        "text": "latest_version_hint.json"
+      },
+      {
+        "boundingBox": [
+          0.0872093033315575,
+          0.6062717769717971,
+          0.06540697309705946,
+          0.02439488983154292
+        ],
+        "confidence": 1,
+        "text": "version hint"
+      },
+      {
+        "boundingBox": [
+          0.8081395353615299,
+          0.5052264811965357,
+          0.08720930311414932,
+          0.024390243530273414
+        ],
+        "confidence": 1,
+        "text": "frag-002.Lance"
+      },
+      {
+        "boundingBox": [
+          0.3982558163551193,
+          0.4279999994162742,
+          0.07412790086534288,
+          0.02533333333333332
+        ],
+        "confidence": 0.5,
+        "text": "Logical v102"
+      },
+      {
+        "boundingBox": [
+          0.08866279025610162,
+          0.4181184672592537,
+          0.07412790934244791,
+          0.024548199971516915
+        ],
+        "confidence": 0.5,
+        "text": "Logical v100"
+      },
+      {
+        "boundingBox": [
+          0.23837209542488672,
+          0.4146341461210421,
+          0.0741279008653429,
+          0.024390243530273414
+        ],
+        "confidence": 0.5,
+        "text": "Logical v101"
+      },
+      {
+        "boundingBox": [
+          0.40406976943457157,
+          0.40766550530840684,
+          0.0726744164360894,
+          0.017667828241984096
+        ],
+        "confidence": 0.5,
+        "text": "513.manifes'"
+      },
+      {
+        "boundingBox": [
+          0.07848837379547834,
+          0.39024390233474715,
+          0.09302324930826823,
+          0.024422763824462845
+        ],
+        "confidence": 0.5,
+        "text": "•．.515.manifest"
+      },
+      {
+        "boundingBox": [
+          0.2296511649878182,
+          0.3902439027993232,
+          0.09156976487901472,
+          0.024422763824462956
+        ],
+        "confidence": 0.5,
+        "text": "...514.manifest"
+      },
+      {
+        "boundingBox": [
+          0.3938712794039231,
+          0.37945306020533875,
+          0.08435046725802953,
+          0.0355189666748047
+        ],
+        "confidence": 0.5,
+        "text": "atest protobut"
+      },
+      {
+        "boundingBox": [
+          0.8081395333993207,
+          0.32399999980212846,
+          0.08720930311414932,
+          0.028000000000000025
+        ],
+        "confidence": 0.5,
+        "text": "frag-003.lance"
+      },
+      {
+        "boundingBox": [
+          0.5345161989439281,
+          0.21204614037861547,
+          0.13863267686631942,
+          0.04080304972330728
+        ],
+        "confidence": 0.5,
+        "text": "_transactions/ if separate"
+      },
+      {
+        "boundingBox": [
+          0.5755813949072643,
+          0.11149825813033354,
+          0.07412790934244795,
+          0.024501742045084596
+        ],
+        "confidence": 1,
+        "text": "102-uuid.txn"
+      },
+      {
+        "boundingBox": [
+          0.6875000006958323,
+          0.09407665560382839,
+          0.08720930311414932,
+          0.031358884175618496
+        ],
+        "confidence": 0.5,
+        "text": "or inline section"
+      },
+      {
+        "boundingBox": [
+          0.5871648301318776,
+          0.08307894057301568,
+          0.050961036682128924,
+          0.025479749043782474
+        ],
+        "confidence": 1,
+        "text": "protobuf"
+      }
+    ],
+    "ocr_text": "Lance: versioned Protobuf manifest and transaction\ndata/\n_versions/\nfrag-001.Lance\nlatest_version_hint.json\nversion hint\nfrag-002.Lance\nLogical v102\nLogical v100\nLogical v101\n513.manifes'\n•．.515.manifest\n...514.manifest\natest protobut\nfrag-003.lance\n_transactions/ if separate\n102-uuid.txn\nor inline section\nprotobuf",
+    "description": "Lance: versioned Protobuf manifest and transaction中的配图，包含文字：Lance: versioned Protobuf manifest and transaction；data/；_versions/；frag-001.Lance；latest_version_hint.json；version hint；frag-002.Lance；Logical v102；Logical v100；Logical v101；513.manifes'；•．.515.manifest；...514.manifest；atest protobut；frag-003.lance；_transactions/ if separate；102-uuid.txn；or inline section；protobuf",
+    "entities": [
+      "Lance: versioned Protobuf manifest and transaction",
+      "data/",
+      "_versions/",
+      "frag-001.Lance",
+      "latest_version_hint.json",
+      "version hint",
+      "frag-002.Lance",
+      "Logical v102",
+      "Logical v100",
+      "Logical v101",
+      "513.manifes'",
+      "•．.515.manifest",
+      "...514.manifest",
+      "atest protobut",
+      "frag-003.lance",
+      "_transactions/ if separate",
+      "102-uuid.txn",
+      "or inline section",
+      "protobuf"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e5c899ef961a80647efabe64d38a9638d05d77ee41c0ca77a95f92c482cb49a1"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-005",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a287462bc4c55f665f9d4db_s3-commit-latency.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-005.png",
+    "section": "Metadata commit latency",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.27616279938956984,
+          0.951482479901473,
+          0.4956395075871394,
+          0.027088948658534506
+        ],
+        "confidence": 0.5,
+        "text": "$3:Commit latency （ms） over continuous appends （20-commit rolling mean）"
+      },
+      {
+        "boundingBox": [
+          0.024709302822447408,
+          0.9107142851171818,
+          0.03924418596120982,
+          0.03303571428571428
+        ],
+        "confidence": 0.5,
+        "text": "2500-"
+      },
+      {
+        "boundingBox": [
+          0.07264485780662241,
+          0.9108176222603425,
+          0.055291678355290336,
+          0.024725941249302497
+        ],
+        "confidence": 0.3,
+        "text": "— Lance"
+      },
+      {
+        "boundingBox": [
+          0.1831395335503266,
+          0.9107142858526358,
+          0.09302325615516074,
+          0.02767857142857144
+        ],
+        "confidence": 0.5,
+        "text": "- Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.09156976767083237,
+          0.8866071427384379,
+          0.05813953326298642,
+          0.02444407003266469
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.19040697539125942,
+          0.8866071427384379,
+          0.07558139654306265,
+          0.02444407003266469
+        ],
+        "confidence": 0.5,
+        "text": "Iceberg Polaris"
+      },
+      {
+        "boundingBox": [
+          0.021756258099983876,
+          0.7464040121745131,
+          0.04224329728346605,
+          0.030103026117597298
+        ],
+        "confidence": 0.5,
+        "text": "2000-"
+      },
+      {
+        "boundingBox": [
+          0.010174418028024528,
+          0.5714285716273446,
+          0.05377907019395095,
+          0.045822102682931076
+        ],
+        "confidence": 0.3,
+        "text": "ms1500-"
+      },
+      {
+        "boundingBox": [
+          0.010174418296557389,
+          0.40970350411926704,
+          0.05523255788362943,
+          0.08625337055751259
+        ],
+        "confidence": 0.3,
+        "text": "J.：00-"
+      },
+      {
+        "boundingBox": [
+          0.031976744623123006,
+          0.2614555255805805,
+          0.031976743844839235,
+          0.021580188614981566
+        ],
+        "confidence": 0.3,
+        "text": "500 -"
+      },
+      {
+        "boundingBox": [
+          0.10029069783022031,
+          0.056603774006199425,
+          0.007267441657873297,
+          0.021563340936388342
+        ],
+        "confidence": 0.3,
+        "text": "o"
+      },
+      {
+        "boundingBox": [
+          0.2587209305726973,
+          0.05624999999535507,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.4273255818045287,
+          0.05625000002230918,
+          0.027616278941814676,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.5959302329673193,
+          0.05625000002230918,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7645348840610693,
+          0.05624999999535507,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9287189446857548,
+          0.05614554603026778,
+          0.035003970219538716,
+          0.01708896160125728
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.45784883790807296,
+          0.026785714281031825,
+          0.13517441382774942,
+          0.0190363875457219
+        ],
+        "confidence": 0.5,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "$3:Commit latency （ms） over continuous appends （20-commit rolling mean）\n2500-\n— Lance\n- Iceberg Postgres\nDelta Lake\nIceberg Polaris\n2000-\nms1500-\nJ.：00-\n500 -\no\n2000\n4000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Metadata commit latency中的配图，包含文字：$3:Commit latency （ms） over continuous appends （20-commit rolling mean）；2500-；— Lance；- Iceberg Postgres；Delta Lake；Iceberg Polaris；2000-；ms1500-；J.：00-；500 -；o；2000；4000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "$3:Commit latency （ms） over continuous appends （20-commit rolling mean）",
+      "2500-",
+      "— Lance",
+      "- Iceberg Postgres",
+      "Delta Lake",
+      "Iceberg Polaris",
+      "2000-",
+      "ms1500-",
+      "J.：00-",
+      "500 -",
+      "o",
+      "2000",
+      "4000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ae0d18a3f5beebdf20b24546e387c29e20af4166b972cdf698d82be35f64a387"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-006",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a287497606b680c0600f84f_s3-active-metadata.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-006.png",
+    "section": "Why Lance is the best performer",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22965115834375704,
+          0.9541778975051777,
+          0.5741279015174279,
+          0.024393531254359724
+        ],
+        "confidence": 0.5,
+        "text": "S3:estimated active metadata bytes over continuous appends （20-commit rolling mean）"
+      },
+      {
+        "boundingBox": [
+          0.06976744343545875,
+          0.9107142853322824,
+          0.04360464903024526,
+          0.022321428571428492
+        ],
+        "confidence": 0.5,
+        "text": "- Lance"
+      },
+      {
+        "boundingBox": [
+          0.17732558352098932,
+          0.908035713903711,
+          0.08575581037081204,
+          0.02767857142857144
+        ],
+        "confidence": 0.5,
+        "text": "Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.07558139575549896,
+          0.889285714200702,
+          0.05959302095266489,
+          0.019070080348423613
+        ],
+        "confidence": 0.3,
+        "text": "• Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.17582881332969807,
+          0.8863604043386375,
+          0.07712144118088943,
+          0.02781827534948078
+        ],
+        "confidence": 0.5,
+        "text": "Iceberg Polaris"
+      },
+      {
+        "boundingBox": [
+          0.02470930280063277,
+          0.8328840972019432,
+          0.02470930172846867,
+          0.024258760043552985
+        ],
+        "confidence": 0.3,
+        "text": "40-"
+      },
+      {
+        "boundingBox": [
+          0.00872092256802199,
+          0.35849056271703184,
+          0.014534898446156429,
+          0.3126684733799525
+        ],
+        "confidence": 0.5,
+        "text": "Active metadata read set （MiB）"
+      },
+      {
+        "boundingBox": [
+          0.024709302687491,
+          0.6522911054959624,
+          0.01744185961209811,
+          0.027173180239541295
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.02470930280063277,
+          0.29375000026011144,
+          0.02470930172846867,
+          0.021613881417683167
+        ],
+        "confidence": 0.5,
+        "text": "10-"
+      },
+      {
+        "boundingBox": [
+          0.41709406217401296,
+          0.05373678062255527,
+          0.03063745682056135,
+          0.03538358211517334
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.0857558140940685,
+          0.05660377431879893,
+          0.00872092980604905,
+          0.01886792353221345
+        ],
+        "confidence": 0.3,
+        "text": "o"
+      },
+      {
+        "boundingBox": [
+          0.24559386410603795,
+          0.05101397701254995,
+          0.03061459798079269,
+          0.024656682355063242
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.58866279086061,
+          0.05357142832419581,
+          0.029069766631493188,
+          0.022321428571428603
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7601744193005323,
+          0.05357142821280014,
+          0.029069766631493188,
+          0.03035714285714286
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9272620957539335,
+          0.053534602255261854,
+          0.03646418131314788,
+          0.022310849598475846
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.4520348871053832,
+          0.026785714682718065,
+          0.13372092613807096,
+          0.021731805801391557
+        ],
+        "confidence": 0.5,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "S3:estimated active metadata bytes over continuous appends （20-commit rolling mean）\n- Lance\nIceberg Postgres\n• Delta Lake\nIceberg Polaris\n40-\nActive metadata read set （MiB）\n30\n10-\n4000\no\n2000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Why Lance is the best performer中的配图，包含文字：S3:estimated active metadata bytes over continuous appends （20-commit rolling mean）；- Lance；Iceberg Postgres；• Delta Lake；Iceberg Polaris；40-；Active metadata read set （MiB）；30；10-；4000；o；2000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "S3:estimated active metadata bytes over continuous appends （20-commit rolling mean）",
+      "- Lance",
+      "Iceberg Postgres",
+      "• Delta Lake",
+      "Iceberg Polaris",
+      "40-",
+      "Active metadata read set （MiB）",
+      "30",
+      "10-",
+      "4000",
+      "o",
+      "2000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "87abc4642777a37ab8056877203d4056b619f813272e5f920943ff47f2d160c7"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-007",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2874c40a832421f23c9d4e_delta-write-path-s3.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-007.png",
+    "section": "Why Delta Lake commit latency was unexpectedly high",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.37209303531448945,
+          0.9537815125281205,
+          0.30668602852799776,
+          0.024655144955931574
+        ],
+        "confidence": 0.5,
+        "text": "53:Lance vs Delta Lake write-path components"
+      },
+      {
+        "boundingBox": [
+          0.026078408020266702,
+          0.9267639451196354,
+          0.03795946216151726,
+          0.025178309849330338
+        ],
+        "confidence": 0.3,
+        "text": "7000f"
+      },
+      {
+        "boundingBox": [
+          0.08575581436803416,
+          0.9134453781478096,
+          0.0406976725720712,
+          0.019327731092436906
+        ],
+        "confidence": 0.5,
+        "text": "- Lance"
+      },
+      {
+        "boundingBox": [
+          0.09447674246819261,
+          0.8865546215141095,
+          0.10755814081942873,
+          0.021848739495798353
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake （Log Only）"
+      },
+      {
+        "boundingBox": [
+          0.09302325488782742,
+          0.859663865762679,
+          0.1511627887708569,
+          0.024433168844014697
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake （Log + Checkpoint）"
+      },
+      {
+        "boundingBox": [
+          0.02466736239513335,
+          0.8084139059852721,
+          0.039328065069552456,
+          0.02737704044630551
+        ],
+        "confidence": 0.3,
+        "text": "6000 -"
+      },
+      {
+        "boundingBox": [
+          0.023194407355235588,
+          0.6897047136326123,
+          0.040820488562950716,
+          0.02759865832929853
+        ],
+        "confidence": 0.5,
+        "text": "5000-"
+      },
+      {
+        "boundingBox": [
+          0.008720930254708468,
+          0.5873949585851234,
+          0.014534883801214295,
+          0.051419056163114596
+        ],
+        "confidence": 0.3,
+        "text": "ms"
+      },
+      {
+        "boundingBox": [
+          0.024709301554034856,
+          0.34201680670411727,
+          0.03924418660850008,
+          0.024560012336538595
+        ],
+        "confidence": 0.5,
+        "text": "2000 -"
+      },
+      {
+        "boundingBox": [
+          0.024709302353453436,
+          0.2235294119469733,
+          0.03924418660850007,
+          0.024449024681283626
+        ],
+        "confidence": 0.3,
+        "text": "1000 -"
+      },
+      {
+        "boundingBox": [
+          0.047965116745554856,
+          0.11320754730414329,
+          0.008720929590285628,
+          0.01617250682926985
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.10029069758167318,
+          0.05390835697018714,
+          0.007267441900607144,
+          0.02695417644596909
+        ],
+        "confidence": 0.3,
+        "text": "o"
+      },
+      {
+        "boundingBox": [
+          0.2572406390270032,
+          0.05108806845464875,
+          0.029123373592601143,
+          0.02181308169324858
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.4273255822487329,
+          0.05378151233593931,
+          0.02761627818664275,
+          0.019327731092437017
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.5959302334115236,
+          0.05378151233593931,
+          0.027616278186642806,
+          0.019327731092437017
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7645106940435242,
+          0.05378590324848853,
+          0.02766465924983652,
+          0.019112829000008213
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9287790715849326,
+          0.05378151233593931,
+          0.03488371836114257,
+          0.019327731092437017
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.45930232757404327,
+          0.024258760556675307,
+          0.13372092959028564,
+          0.018867923832741162
+        ],
+        "confidence": 1,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "53:Lance vs Delta Lake write-path components\n7000f\n- Lance\nDelta Lake （Log Only）\nDelta Lake （Log + Checkpoint）\n6000 -\n5000-\nms\n2000 -\n1000 -\n0\no\n2000\n4000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Why Delta Lake commit latency was unexpectedly high中的配图，包含文字：53:Lance vs Delta Lake write-path components；7000f；- Lance；Delta Lake （Log Only）；Delta Lake （Log + Checkpoint）；6000 -；5000-；ms；2000 -；1000 -；0；o；2000；4000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "53:Lance vs Delta Lake write-path components",
+      "7000f",
+      "- Lance",
+      "Delta Lake （Log Only）",
+      "Delta Lake （Log + Checkpoint）",
+      "6000 -",
+      "5000-",
+      "ms",
+      "2000 -",
+      "1000 -",
+      "0",
+      "o",
+      "2000",
+      "4000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4afc381e213e94057afa8a9d3148ddbc797bce67da31952a394e749984eeea37"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-008",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a28751d136c65dcfe373926_s3-reload-latency.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-008.png",
+    "section": "Metadata load latency",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22238370730303683,
+          0.9514824798745188,
+          0.5988372215857872,
+          0.027088948658534506
+        ],
+        "confidence": 0.5,
+        "text": "$3:Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）"
+      },
+      {
+        "boundingBox": [
+          0.024709303614646072,
+          0.9299191382919136,
+          0.03488371922419621,
+          0.02186657616070342
+        ],
+        "confidence": 0.3,
+        "text": "7000-"
+      },
+      {
+        "boundingBox": [
+          0.07122093126857858,
+          0.9107142859293863,
+          0.056686045573307905,
+          0.025000000000000022
+        ],
+        "confidence": 0.3,
+        "text": "— Lance"
+      },
+      {
+        "boundingBox": [
+          0.19033134117840797,
+          0.9075840452136249,
+          0.08590708512526293,
+          0.031193096297127854
+        ],
+        "confidence": 1,
+        "text": "Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.08575581462173051,
+          0.8866071431764433,
+          0.06395348768967848,
+          0.02444407003266469
+        ],
+        "confidence": 0.5,
+        "text": "- Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.19040697539125942,
+          0.8866071427384379,
+          0.07558139654306265,
+          0.02444407003266469
+        ],
+        "confidence": 1,
+        "text": "Iceberg Polaris"
+      },
+      {
+        "boundingBox": [
+          0.02470930187767999,
+          0.8113207546480349,
+          0.03924418596120982,
+          0.024393531254359613
+        ],
+        "confidence": 0.5,
+        "text": "6000-"
+      },
+      {
+        "boundingBox": [
+          0.024697138935147727,
+          0.6953499566024892,
+          0.03926851199223445,
+          0.024394427027021104
+        ],
+        "confidence": 0.3,
+        "text": "5000-"
+      },
+      {
+        "boundingBox": [
+          0.010174418510651291,
+          0.6495956878001128,
+          0.011627907019395095,
+          0.04861859764371601
+        ],
+        "confidence": 0.3,
+        "text": "m9"
+      },
+      {
+        "boundingBox": [
+          0.011627906064871175,
+          0.6064690026866986,
+          0.010174420246711145,
+          0.0404312678745814
+        ],
+        "confidence": 0.3,
+        "text": "-ncy"
+      },
+      {
+        "boundingBox": [
+          0.00872092361441893,
+          0.37466307809463595,
+          0.01308140754699707,
+          0.2371967588152204
+        ],
+        "confidence": 0.5,
+        "text": "reload latest-state late"
+      },
+      {
+        "boundingBox": [
+          0.020338031975820355,
+          0.5767440315588301,
+          0.04362626075744629,
+          0.021714093003954105
+        ],
+        "confidence": 0.3,
+        "text": "4000-"
+      },
+      {
+        "boundingBox": [
+          0.020348838638947122,
+          0.45803571398000387,
+          0.04360464903024526,
+          0.027139488288334457
+        ],
+        "confidence": 0.3,
+        "text": "3000-"
+      },
+      {
+        "boundingBox": [
+          0.023242112096027032,
+          0.3422287899136235,
+          0.040725077115572425,
+          0.02174188068934846
+        ],
+        "confidence": 0.3,
+        "text": "2000-"
+      },
+      {
+        "boundingBox": [
+          0.02616279143768475,
+          0.22641509473658872,
+          0.036337206913874695,
+          0.019120619126728577
+        ],
+        "confidence": 0.5,
+        "text": "1000 -"
+      },
+      {
+        "boundingBox": [
+          0.6482558135210669,
+          0.1830357144733279,
+          0.2979651231032152,
+          0.04107142857142865
+        ],
+        "confidence": 0.3,
+        "text": "W~2~/ww~~wm~wnwmmtnlhmw"
+      },
+      {
+        "boundingBox": [
+          0.04651162793559823,
+          0.1078167124028061,
+          0.007267441657873304,
+          0.01886792353221345
+        ],
+        "confidence": 0.3,
+        "text": "o"
+      },
+      {
+        "boundingBox": [
+          0.2587209305726973,
+          0.05624999999535507,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.4273255818045287,
+          0.05625000002230918,
+          0.027616278941814676,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.5959302328982787,
+          0.05624999999535507,
+          0.02761627894181462,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7645348840610693,
+          0.05624999999535507,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9287117081557721,
+          0.05616614432423961,
+          0.0350184440612793,
+          0.019743184532437952
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.45784884094949735,
+          0.02678571451688061,
+          0.13517441382774947,
+          0.0190363875457219
+        ],
+        "confidence": 0.5,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "$3:Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）\n7000-\n— Lance\nIceberg Postgres\n- Delta Lake\nIceberg Polaris\n6000-\n5000-\nm9\n-ncy\nreload latest-state late\n4000-\n3000-\n2000-\n1000 -\nW~2~/ww~~wm~wnwmmtnlhmw\no\n2000\n4000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Metadata load latency中的配图，包含文字：$3:Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）；7000-；— Lance；Iceberg Postgres；- Delta Lake；Iceberg Polaris；6000-；5000-；m9；-ncy；reload latest-state late；4000-；3000-；2000-；1000 -；W~2~/ww~~wm~wnwmmtnlhmw；o；2000；4000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "$3:Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）",
+      "7000-",
+      "— Lance",
+      "Iceberg Postgres",
+      "- Delta Lake",
+      "Iceberg Polaris",
+      "6000-",
+      "5000-",
+      "m9",
+      "-ncy",
+      "reload latest-state late",
+      "4000-",
+      "3000-",
+      "2000-",
+      "1000 -",
+      "W~2~/ww~~wm~wnwmmtnlhmw",
+      "o",
+      "2000",
+      "4000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c06f5741e75115123a07af9a658d0e18cccdfc46c51851178cc602ff26abae5b"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-009",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a28754537faefe45b0bd908_s3-concurrent.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-009.png",
+    "section": "Concurrent commit throughput",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.37936047386577615,
+          0.9631249998069673,
+          0.24127905709402903,
+          0.016549797058105442
+        ],
+        "confidence": 0.5,
+        "text": "$3:concurrent append commit behavior"
+      },
+      {
+        "boundingBox": [
+          0.19476744478624916,
+          0.894308943346126,
+          0.14534883499145504,
+          0.020325202941894438
+        ],
+        "confidence": 0.5,
+        "text": "Successful commits/sec"
+      },
+      {
+        "boundingBox": [
+          0.7107558164062534,
+          0.896250000160329,
+          0.11773255211966371,
+          0.018384145498275717
+        ],
+        "confidence": 0.5,
+        "text": "Attempt failure rate"
+      },
+      {
+        "boundingBox": [
+          0.023255813870813366,
+          0.8760162603706996,
+          0.017441860267094204,
+          0.01648373961448668
+        ],
+        "confidence": 1,
+        "text": "6.5"
+      },
+      {
+        "boundingBox": [
+          0.5276162792894242,
+          0.8699186991432407,
+          0.015988372053418853,
+          0.012195122241973833
+        ],
+        "confidence": 1,
+        "text": "1.0"
+      },
+      {
+        "boundingBox": [
+          0.024709302508869616,
+          0.831249999821781,
+          0.02325581312179565,
+          0.012499999999999956
+        ],
+        "confidence": 0.5,
+        "text": "6.0 -"
+      },
+      {
+        "boundingBox": [
+          0.5276162795582883,
+          0.8028455282717977,
+          0.0232558131217957,
+          0.012195122241973833
+        ],
+        "confidence": 0.3,
+        "text": "0.8 -"
+      },
+      {
+        "boundingBox": [
+          0.023255814446630708,
+          0.7843750001597308,
+          0.018895348480769566,
+          0.012500000000000067
+        ],
+        "confidence": 1,
+        "text": "5.5"
+      },
+      {
+        "boundingBox": [
+          0.5130813910681937,
+          0.6504065049398033,
+          0.008720938648496324,
+          0.1382113838195802
+        ],
+        "confidence": 0.5,
+        "text": "Attempt failure rate"
+      },
+      {
+        "boundingBox": [
+          0.024709302818723737,
+          0.7375000002131278,
+          0.01889534848076957,
+          0.012500000000000067
+        ],
+        "confidence": 1,
+        "text": "5.0"
+      },
+      {
+        "boundingBox": [
+          0.5348837208343893,
+          0.7375000000098757,
+          0.008720930133547022,
+          0.012500000000000067
+        ],
+        "confidence": 0.3,
+        "text": ".6"
+      },
+      {
+        "boundingBox": [
+          0.024709302818723737,
+          0.688750000251803,
+          0.01889534848076957,
+          0.012500000000000067
+        ],
+        "confidence": 1,
+        "text": "4.5"
+      },
+      {
+        "boundingBox": [
+          0.018895348355023975,
+          0.6422764225172244,
+          0.029069767679486956,
+          0.012195122241973944
+        ],
+        "confidence": 0.5,
+        "text": "4.0 -"
+      },
+      {
+        "boundingBox": [
+          0.023255814818450057,
+          0.5912499997568037,
+          0.02616278954914638,
+          0.018750000000000044
+        ],
+        "confidence": 0.5,
+        "text": "3.5-"
+      },
+      {
+        "boundingBox": [
+          0.5276162797763114,
+          0.6056250000192456,
+          0.0232558131217957,
+          0.012500000000000067
+        ],
+        "confidence": 0.3,
+        "text": "0.2-"
+      },
+      {
+        "boundingBox": [
+          0.024709303232458277,
+          0.5487499999514489,
+          0.024709301335471015,
+          0.012499999999999956
+        ],
+        "confidence": 0.5,
+        "text": "3.0 -"
+      },
+      {
+        "boundingBox": [
+          0.5261627912942504,
+          0.5406250000143538,
+          0.020348836694444983,
+          0.012499999999999956
+        ],
+        "confidence": 0.5,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.21802325649766893,
+          0.5203252033054755,
+          0.09738371712820873,
+          0.02032520294189455
+        ],
+        "confidence": 0.5,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.7208412187788676,
+          0.5196779835787836,
+          0.09610825947352819,
+          0.02771720409393308
+        ],
+        "confidence": 0.5,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.18313953481949205,
+          0.48750000054744935,
+          0.1671511650085449,
+          0.020630080699920672
+        ],
+        "confidence": 0.5,
+        "text": "Failed attempts per success"
+      },
+      {
+        "boundingBox": [
+          0.6787790705861443,
+          0.48750000054744935,
+          0.18168604714529857,
+          0.020630080699920672
+        ],
+        "confidence": 0.5,
+        "text": "P95 commit-only latency （ms）"
+      },
+      {
+        "boundingBox": [
+          0.026162791222532407,
+          0.4631250002868095,
+          0.023255813121795657,
+          0.018749999999999933
+        ],
+        "confidence": 0.5,
+        "text": "16-"
+      },
+      {
+        "boundingBox": [
+          0.026162791026311475,
+          0.4225000002168481,
+          0.023255813121795654,
+          0.018750000000000044
+        ],
+        "confidence": 0.3,
+        "text": "14-"
+      },
+      {
+        "boundingBox": [
+          0.5101744186350123,
+          0.42682926828331313,
+          0.040697673388889855,
+          0.014420731663703945
+        ],
+        "confidence": 0.5,
+        "text": "10000-"
+      },
+      {
+        "boundingBox": [
+          0.013081389444412663,
+          0.21341463377152603,
+          0.010174430268151421,
+          0.1951219558715821
+        ],
+        "confidence": 0.5,
+        "text": "Failed attempts per success"
+      },
+      {
+        "boundingBox": [
+          0.49709301642068565,
+          0.20731707460517357,
+          0.008720943757465849,
+          0.2093495941162109
+        ],
+        "confidence": 0.5,
+        "text": "P95 commit-only latency （ms）"
+      },
+      {
+        "boundingBox": [
+          0.026162790670939868,
+          0.3861788619147495,
+          0.021802324908120296,
+          0.014446138143539344
+        ],
+        "confidence": 0.5,
+        "text": "12-"
+      },
+      {
+        "boundingBox": [
+          0.5174233953995255,
+          0.3718514764375085,
+          0.03346716335841593,
+          0.012394608259201023
+        ],
+        "confidence": 0.3,
+        "text": "8000 -"
+      },
+      {
+        "boundingBox": [
+          0.02761627925260887,
+          0.34750000004827497,
+          0.014534883839743478,
+          0.012500000000000067
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.03343023253497064,
+          0.3089430894379561,
+          0.008720930133547099,
+          0.012195122241973833
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.5158880366579562,
+          0.31445266942651473,
+          0.03508439064025881,
+          0.013371084332466143
+        ],
+        "confidence": 0.3,
+        "text": "6000 -"
+      },
+      {
+        "boundingBox": [
+          0.033430232520435754,
+          0.26829268290340325,
+          0.008720930133547099,
+          0.012195122241973833
+        ],
+        "confidence": 1,
+        "text": "6"
+      },
+      {
+        "boundingBox": [
+          0.517441860918232,
+          0.25812499994076954,
+          0.03343023232051301,
+          0.012500000000000067
+        ],
+        "confidence": 0.3,
+        "text": "4000 -"
+      },
+      {
+        "boundingBox": [
+          0.03343023253497064,
+          0.22967479675502944,
+          0.008720930133547099,
+          0.012195122241973833
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.5173460520048266,
+          0.20068386956922102,
+          0.03362184933253698,
+          0.01326640725135797
+        ],
+        "confidence": 0.3,
+        "text": "2000 -"
+      },
+      {
+        "boundingBox": [
+          0.0334302328444146,
+          0.1887500001840524,
+          0.015988372053418846,
+          0.012500000000000067
+        ],
+        "confidence": 0.5,
+        "text": "2-"
+      },
+      {
+        "boundingBox": [
+          0.09011627902342964,
+          0.11562499943561311,
+          0.017441860267094197,
+          0.022586382627487134
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.14389534888162325,
+          0.11562500010162613,
+          0.014534883839743495,
+          0.018749999999999933
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.1962209300859422,
+          0.11585365848973339,
+          0.014534883839743468,
+          0.024390244483947776
+        ],
+        "confidence": 0.3,
+        "text": "5L-"
+      },
+      {
+        "boundingBox": [
+          0.2412790702770319,
+          0.11562500006031007,
+          0.02470930133547103,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.29796511639114964,
+          0.11562500013580357,
+          0.020348836694444927,
+          0.016488820910453894
+        ],
+        "confidence": 1,
+        "text": "125"
+      },
+      {
+        "boundingBox": [
+          0.35029069790277756,
+          0.11562500006031007,
+          0.020348836694444927,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.402616279588091,
+          0.11562499972849127,
+          0.021802324908120285,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "175"
+      },
+      {
+        "boundingBox": [
+          0.45494186098343986,
+          0.11562499972849127,
+          0.021802324908120285,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.5930232559669921,
+          0.11562499972849127,
+          0.015988372053418853,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.6453488372109359,
+          0.11562500001965959,
+          0.015988372053418853,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.7456395350088696,
+          0.11562500012128563,
+          0.0232558131217957,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.7994186051694864,
+          0.11562499972849127,
+          0.021802324908120285,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "125"
+      },
+      {
+        "boundingBox": [
+          0.8517441863286433,
+          0.11562500022865863,
+          0.021802324908120285,
+          0.018750000000000044
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.9055232561440566,
+          0.11562500016483968,
+          0.020348836694444872,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "175"
+      },
+      {
+        "boundingBox": [
+          0.9578488374376612,
+          0.11562500006031007,
+          0.020348836694444983,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.2180232589322619,
+          0.09750000016462279,
+          0.09738371712820873,
+          0.016321138143539415
+        ],
+        "confidence": 1,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.7223837236175943,
+          0.09937499994171106,
+          0.09447674070085799,
+          0.014446138143539455
+        ],
+        "confidence": 1,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.31686046573186133,
+          0.012195121941849685,
+          0.052325579098292774,
+          0.014227641820907633
+        ],
+        "confidence": 0.3,
+        "text": "- Lance"
+      },
+      {
+        "boundingBox": [
+          0.40988372130261036,
+          0.014227642277737651,
+          0.049418602670942,
+          0.010162601470947275
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.4752907015087934,
+          0.01219512253739008,
+          0.10174418176923483,
+          0.012195121049881075
+        ],
+        "confidence": 0.3,
+        "text": "—•- Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.6162790689457113,
+          0.012195122334138109,
+          0.06831395285470154,
+          0.012195121049880964
+        ],
+        "confidence": 1,
+        "text": "Iceberg Polaris"
+      }
+    ],
+    "ocr_text": "$3:concurrent append commit behavior\nSuccessful commits/sec\nAttempt failure rate\n6.5\n1.0\n6.0 -\n0.8 -\n5.5\nAttempt failure rate\n5.0\n.6\n4.5\n4.0 -\n3.5-\n0.2-\n3.0 -\n0.0\nConcurrent writers\nConcurrent writers\nFailed attempts per success\nP95 commit-only latency （ms）\n16-\n14-\n10000-\nFailed attempts per success\nP95 commit-only latency （ms）\n12-\n8000 -\n10\n8\n6000 -\n6\n4000 -\n4\n2000 -\n2-\n25\n50\n5L-\n100\n125\n150\n175\n200\n25\n50\n100\n125\n150\n175\n200\nConcurrent writers\nConcurrent writers\n- Lance\nDelta Lake\n—•- Iceberg Postgres\nIceberg Polaris",
+    "description": "Concurrent commit throughput中的配图，包含文字：$3:concurrent append commit behavior；Successful commits/sec；Attempt failure rate；6.5；1.0；6.0 -；0.8 -；5.5；Attempt failure rate；5.0；.6；4.5；4.0 -；3.5-；0.2-；3.0 -；0.0；Concurrent writers；Concurrent writers；Failed attempts per success；P95 commit-only latency （ms）；16-；14-；10000-；Failed attempts per success；P95 commit-only latency （ms）；12-；8000 -；10；8",
+    "entities": [
+      "$3:concurrent append commit behavior",
+      "Successful commits/sec",
+      "Attempt failure rate",
+      "6.5",
+      "1.0",
+      "6.0 -",
+      "0.8 -",
+      "5.5",
+      "5.0",
+      ".6",
+      "4.5",
+      "4.0 -",
+      "3.5-",
+      "0.2-",
+      "3.0 -",
+      "0.0",
+      "Concurrent writers",
+      "Failed attempts per success",
+      "P95 commit-only latency （ms）",
+      "16-",
+      "14-",
+      "10000-",
+      "12-",
+      "8000 -",
+      "10",
+      "8",
+      "6000 -",
+      "6",
+      "4000 -",
+      "4",
+      "2000 -",
+      "2-",
+      "25",
+      "50",
+      "5L-",
+      "100",
+      "125",
+      "150",
+      "175",
+      "200",
+      "- Lance",
+      "Delta Lake",
+      "—•- Iceberg Postgres",
+      "Iceberg Polaris"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c29d6e0d76a320d47377513728f35b84bb5118a6bec22dea4cac07a9b6d07072"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-010",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2875955082efe9ac370694_s3-express-commit-latency.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-010.png",
+    "section": "Metadata commit latency",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.247093028635206,
+          0.9514824798745188,
+          0.5523255568284254,
+          0.027088948658534506
+        ],
+        "confidence": 0.5,
+        "text": "s3-express: Commit latency （ms） over continuous appends （20-commit rolling mean）"
+      },
+      {
+        "boundingBox": [
+          0.07267441804219694,
+          0.9107142856935373,
+          0.05523255788362942,
+          0.02499999999999991
+        ],
+        "confidence": 0.3,
+        "text": "— Lance"
+      },
+      {
+        "boundingBox": [
+          0.1874756398180664,
+          0.9081032152935699,
+          0.08871151117178108,
+          0.030154756137302896
+        ],
+        "confidence": 1,
+        "text": "Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.09011627962541176,
+          0.8866071427384379,
+          0.0595930209526649,
+          0.02444407003266469
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.19040697539125942,
+          0.8866071427384379,
+          0.07558139654306265,
+          0.02444407003266469
+        ],
+        "confidence": 1,
+        "text": "Iceberg Polaris"
+      },
+      {
+        "boundingBox": [
+          0.02321362668027451,
+          0.8595926440839413,
+          0.040782048152043275,
+          0.024750021525791754
+        ],
+        "confidence": 0.3,
+        "text": "1400 -"
+      },
+      {
+        "boundingBox": [
+          0.02320605120620412,
+          0.7517609672840395,
+          0.04079720056973971,
+          0.027475370679582944
+        ],
+        "confidence": 0.3,
+        "text": "1200-"
+      },
+      {
+        "boundingBox": [
+          0.02461836203030038,
+          0.6410472144140501,
+          0.03942606632526105,
+          0.027878616537366674
+        ],
+        "confidence": 0.5,
+        "text": "1000 -"
+      },
+      {
+        "boundingBox": [
+          0.010174413940213503,
+          0.4097035075593555,
+          0.011627916189340443,
+          0.21024258477347246
+        ],
+        "confidence": 0.5,
+        "text": "Commit latency （ms）"
+      },
+      {
+        "boundingBox": [
+          0.030523256561956244,
+          0.5336927231603021,
+          0.033430231534517726,
+          0.0297001344817025
+        ],
+        "confidence": 0.5,
+        "text": "800-"
+      },
+      {
+        "boundingBox": [
+          0.023255813828625634,
+          0.42587601064533953,
+          0.0406976736508883,
+          0.024258760043552985
+        ],
+        "confidence": 0.3,
+        "text": "600 -"
+      },
+      {
+        "boundingBox": [
+          0.2637006206139348,
+          0.33430758102556735,
+          0.08810457082895135,
+          0.1026674713407244
+        ],
+        "confidence": 0.3,
+        "text": "AMkaalaln"
+      },
+      {
+        "boundingBox": [
+          0.03332000679578024,
+          0.32015373416607074,
+          0.029290219453664924,
+          0.020069890362875764
+        ],
+        "confidence": 0.5,
+        "text": "400 -"
+      },
+      {
+        "boundingBox": [
+          0.031976743942768455,
+          0.20714285756720707,
+          0.030523256155160765,
+          0.022321428571428603
+        ],
+        "confidence": 0.5,
+        "text": "200 -"
+      },
+      {
+        "boundingBox": [
+          0.04651162795376684,
+          0.10512129430794837,
+          0.007267441657873304,
+          0.016172506128038666
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.25726744259268364,
+          0.0508928573858648,
+          0.029069766631493243,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.42727576142170565,
+          0.05630625401355316,
+          0.027715919567988467,
+          0.01676754610879072
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.5959302329673193,
+          0.05625000002230918,
+          0.02761627894181473,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7630813956086718,
+          0.05357142867460041,
+          0.029069766631493188,
+          0.022321428571428603
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9273255825169,
+          0.05357142867460041,
+          0.03633720691387465,
+          0.022321428571428603
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.45784884094949735,
+          0.02678571451688061,
+          0.13517441382774947,
+          0.0190363875457219
+        ],
+        "confidence": 0.5,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "s3-express: Commit latency （ms） over continuous appends （20-commit rolling mean）\n— Lance\nIceberg Postgres\nDelta Lake\nIceberg Polaris\n1400 -\n1200-\n1000 -\nCommit latency （ms）\n800-\n600 -\nAMkaalaln\n400 -\n200 -\n0\n2000\n4000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Metadata commit latency中的配图，包含文字：s3-express: Commit latency （ms） over continuous appends （20-commit rolling mean）；— Lance；Iceberg Postgres；Delta Lake；Iceberg Polaris；1400 -；1200-；1000 -；Commit latency （ms）；800-；600 -；AMkaalaln；400 -；200 -；0；2000；4000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "s3-express: Commit latency （ms） over continuous appends （20-commit rolling mean）",
+      "— Lance",
+      "Iceberg Postgres",
+      "Delta Lake",
+      "Iceberg Polaris",
+      "1400 -",
+      "1200-",
+      "1000 -",
+      "Commit latency （ms）",
+      "800-",
+      "600 -",
+      "AMkaalaln",
+      "400 -",
+      "200 -",
+      "0",
+      "2000",
+      "4000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4537608ed74fdf90ae5bed2342a2b40746489f245024232732ceacfa00f0c1f1"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-011",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2875bd91a0ca576135f117_s3-express-reload-latency.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-011.png",
+    "section": "Metadata load latency",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.20203488204434372,
+          0.954177897471485,
+          0.6453488276554988,
+          0.024393531254359724
+        ],
+        "confidence": 0.5,
+        "text": "s3-express: Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）"
+      },
+      {
+        "boundingBox": [
+          0.07703488349439956,
+          0.9133928571782632,
+          0.04941860345693734,
+          0.019642857142857073
+        ],
+        "confidence": 0.3,
+        "text": "— Lance"
+      },
+      {
+        "boundingBox": [
+          0.19186046551263095,
+          0.9107142856935373,
+          0.08430232268113355,
+          0.02499999999999991
+        ],
+        "confidence": 1,
+        "text": "Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.09302325684997394,
+          0.8866071427882342,
+          0.056686045573307905,
+          0.021748652628489906
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.19040697855536157,
+          0.8892857141670093,
+          0.07558138920710636,
+          0.019070080348423613
+        ],
+        "confidence": 1,
+        "text": "Iceberg Polaris"
+      },
+      {
+        "boundingBox": [
+          0.02616279010842038,
+          0.8544474392410957,
+          0.03779069827153134,
+          0.026954177447727767
+        ],
+        "confidence": 0.5,
+        "text": "6000-"
+      },
+      {
+        "boundingBox": [
+          0.024578826394498012,
+          0.729711751949825,
+          0.03950513693002554,
+          0.025751698017120406
+        ],
+        "confidence": 0.3,
+        "text": "5000-"
+      },
+      {
+        "boundingBox": [
+          0.010174418525186177,
+          0.6495956878809754,
+          0.011627907019395096,
+          0.0486185976437159
+        ],
+        "confidence": 0.3,
+        "text": "m9"
+      },
+      {
+        "boundingBox": [
+          0.010174415759667686,
+          0.4528301909079169,
+          0.011627912521362305,
+          0.11320754459926063
+        ],
+        "confidence": 1,
+        "text": "latest-state"
+      },
+      {
+        "boundingBox": [
+          0.020348838537202936,
+          0.48214285746577445,
+          0.04360464903024527,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "3000 -"
+      },
+      {
+        "boundingBox": [
+          0.01017441636351379,
+          0.3800539092080527,
+          0.011627910687373236,
+          0.06738544191632945
+        ],
+        "confidence": 1,
+        "text": "reload"
+      },
+      {
+        "boundingBox": [
+          0.008720930134857679,
+          0.3312500001347709,
+          0.05668604557330792,
+          0.05178571428571421
+        ],
+        "confidence": 0.3,
+        "text": "od200-"
+      },
+      {
+        "boundingBox": [
+          0.02461572705513819,
+          0.23397035750338413,
+          0.03943133720984825,
+          0.0253207411084857
+        ],
+        "confidence": 0.3,
+        "text": "1000-"
+      },
+      {
+        "boundingBox": [
+          0.25726744247329,
+          0.05089285697237522,
+          0.029069766631493188,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.42729444892253676,
+          0.05641903965100714,
+          0.02767854470473069,
+          0.0165419748851231
+        ],
+        "confidence": 1,
+        "text": "4000"
+      },
+      {
+        "boundingBox": [
+          0.5959302328982787,
+          0.05624999999535507,
+          0.02761627894181462,
+          0.016964285714285765
+        ],
+        "confidence": 1,
+        "text": "6000"
+      },
+      {
+        "boundingBox": [
+          0.7630115787826887,
+          0.05092242852202311,
+          0.02920940105731673,
+          0.024839780160359037
+        ],
+        "confidence": 1,
+        "text": "8000"
+      },
+      {
+        "boundingBox": [
+          0.9273018952040261,
+          0.051090376957892536,
+          0.03638458251953125,
+          0.024503881590706933
+        ],
+        "confidence": 1,
+        "text": "10000"
+      },
+      {
+        "boundingBox": [
+          0.45784884094949735,
+          0.02678571451688061,
+          0.13517441382774947,
+          0.0190363875457219
+        ],
+        "confidence": 0.5,
+        "text": "Append commit iteration"
+      }
+    ],
+    "ocr_text": "s3-express: Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）\n— Lance\nIceberg Postgres\nDelta Lake\nIceberg Polaris\n6000-\n5000-\nm9\nlatest-state\n3000 -\nreload\nod200-\n1000-\n2000\n4000\n6000\n8000\n10000\nAppend commit iteration",
+    "description": "Metadata load latency中的配图，包含文字：s3-express: Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）；— Lance；Iceberg Postgres；Delta Lake；Iceberg Polaris；6000-；5000-；m9；latest-state；3000 -；reload；od200-；1000-；2000；4000；6000；8000；10000；Append commit iteration",
+    "entities": [
+      "s3-express: Cold reload latest-state latency （ms） over continuous appends （20-commit rolling mean）",
+      "— Lance",
+      "Iceberg Postgres",
+      "Delta Lake",
+      "Iceberg Polaris",
+      "6000-",
+      "5000-",
+      "m9",
+      "latest-state",
+      "3000 -",
+      "reload",
+      "od200-",
+      "1000-",
+      "2000",
+      "4000",
+      "6000",
+      "8000",
+      "10000",
+      "Append commit iteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "574b37d320d11e01f1c1c4e989cb0469de813f4926d6267092907fbf8fc50500"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-012",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2875d5178b355c59a771a6_s3-express-concurrent.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-012.png",
+    "section": "Concurrent commit throughput",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.35465117336291935,
+          0.9631250001597769,
+          0.29215115138462605,
+          0.018750000000000044
+        ],
+        "confidence": 0.5,
+        "text": "s3-express: concurrent append commit behavior"
+      },
+      {
+        "boundingBox": [
+          0.19912790991413104,
+          0.8962499999301361,
+          0.15116278784615655,
+          0.018384146094322262
+        ],
+        "confidence": 1,
+        "text": "Successful commits/sec"
+      },
+      {
+        "boundingBox": [
+          0.7122093063166216,
+          0.8981249997139995,
+          0.11773255211966382,
+          0.016509146690368626
+        ],
+        "confidence": 0.5,
+        "text": "Attempt failure rate"
+      },
+      {
+        "boundingBox": [
+          0.5290697676876549,
+          0.8656250000196597,
+          0.021802324908120285,
+          0.016488820910453783
+        ],
+        "confidence": 0.3,
+        "text": "1.0、"
+      },
+      {
+        "boundingBox": [
+          0.023255814259565653,
+          0.8556250001694687,
+          0.03197674410683768,
+          0.016326219439506517
+        ],
+        "confidence": 0.5,
+        "text": "22.5-"
+      },
+      {
+        "boundingBox": [
+          0.023255814029430003,
+          0.8150000001880894,
+          0.03197674410683768,
+          0.018333332538604696
+        ],
+        "confidence": 0.5,
+        "text": "20.0-"
+      },
+      {
+        "boundingBox": [
+          0.5290697677604207,
+          0.7987499997093837,
+          0.024709301335471,
+          0.018323170542717038
+        ],
+        "confidence": 0.5,
+        "text": "0.8-"
+      },
+      {
+        "boundingBox": [
+          0.010002076434697076,
+          0.7718157803737579,
+          0.045402823175702774,
+          0.02953917026519781
+        ],
+        "confidence": 0.3,
+        "text": "617：.5-"
+      },
+      {
+        "boundingBox": [
+          0.5159883679097571,
+          0.6504065049398033,
+          0.010174426862171737,
+          0.1382113838195802
+        ],
+        "confidence": 0.5,
+        "text": "Attempt failure rate"
+      },
+      {
+        "boundingBox": [
+          0.5305232560360014,
+          0.7356250002836004,
+          0.0232558131217957,
+          0.014375000000000027
+        ],
+        "confidence": 0.5,
+        "text": "0.6 -"
+      },
+      {
+        "boundingBox": [
+          0.018895348508820076,
+          0.7012195122535028,
+          0.03633720874786377,
+          0.014405487775802639
+        ],
+        "confidence": 0.5,
+        "text": "12.5 -"
+      },
+      {
+        "boundingBox": [
+          0.5305232557907846,
+          0.6724999998181636,
+          0.008720930133547022,
+          0.010624999999999885
+        ],
+        "confidence": 0.3,
+        "text": "0."
+      },
+      {
+        "boundingBox": [
+          0.5377906979303132,
+          0.6727642277960304,
+          0.010174418347222436,
+          0.010162601470947275
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.2965116280422255,
+          0.6402439025793717,
+          0.01162790656089785,
+          0.01626016259193419
+        ],
+        "confidence": 0.5,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.5305232559972418,
+          0.6056249998363188,
+          0.0232558131217957,
+          0.012499999999999956
+        ],
+        "confidence": 0.3,
+        "text": "0.2 -"
+      },
+      {
+        "boundingBox": [
+          0.03052325651491953,
+          0.581250000154931,
+          0.024709301335471015,
+          0.01631097555160521
+        ],
+        "confidence": 0.5,
+        "text": "5.0-"
+      },
+      {
+        "boundingBox": [
+          0.029069768371496097,
+          0.5424999999077897,
+          0.02761627776282174,
+          0.014410569071769741
+        ],
+        "confidence": 0.3,
+        "text": "2.5-"
+      },
+      {
+        "boundingBox": [
+          0.22379038992064218,
+          0.5199887011513347,
+          0.09602387292044504,
+          0.027095768451690594
+        ],
+        "confidence": 0.5,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.5290697676862203,
+          0.5386178864913077,
+          0.017441860267094156,
+          0.01450711369514468
+        ],
+        "confidence": 0.5,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.7223837239511636,
+          0.522357723980623,
+          0.09593022891453329,
+          0.01829268217086788
+        ],
+        "confidence": 0.5,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.18750000378130366,
+          0.48750000054744946,
+          0.16860464641026085,
+          0.020630080699920672
+        ],
+        "confidence": 0.5,
+        "text": "Failed attempts per success"
+      },
+      {
+        "boundingBox": [
+          0.6802325593367499,
+          0.48750000054744946,
+          0.18168604714529857,
+          0.020630080699920672
+        ],
+        "confidence": 0.5,
+        "text": "P95 commit-only latency （ms）"
+      },
+      {
+        "boundingBox": [
+          0.03197674479569131,
+          0.46747967490321995,
+          0.023255813121795657,
+          0.016270325183868395
+        ],
+        "confidence": 0.5,
+        "text": "10-"
+      },
+      {
+        "boundingBox": [
+          0.5130669151838921,
+          0.4755513573458684,
+          0.03345919336591452,
+          0.016376960873603852
+        ],
+        "confidence": 1,
+        "text": "16000"
+      },
+      {
+        "boundingBox": [
+          0.5130813957910202,
+          0.43495934984666007,
+          0.040697673388889855,
+          0.014415650367736843
+        ],
+        "confidence": 0.5,
+        "text": "14000 -"
+      },
+      {
+        "boundingBox": [
+          0.01964497416256397,
+          0.21524573234581612,
+          0.012080947841916764,
+          0.19545038223266598
+        ],
+        "confidence": 0.5,
+        "text": "Failed attempts per success"
+      },
+      {
+        "boundingBox": [
+          0.040697674480322056,
+          0.4043749998084717,
+          0.014534883839743482,
+          0.014374999999999916
+        ],
+        "confidence": 0.3,
+        "text": "8-"
+      },
+      {
+        "boundingBox": [
+          0.5130813955391819,
+          0.39430894337191025,
+          0.020348836694444872,
+          0.014441056847572242
+        ],
+        "confidence": 1,
+        "text": "120"
+      },
+      {
+        "boundingBox": [
+          0.5334302324179835,
+          0.39625000000959976,
+          0.01453488383974344,
+          0.012500000000000067
+        ],
+        "confidence": 1,
+        "text": "00"
+      },
+      {
+        "boundingBox": [
+          0.5130813951854001,
+          0.3536585367114974,
+          0.040697673388889855,
+          0.014466463327407864
+        ],
+        "confidence": 0.5,
+        "text": "10000-"
+      },
+      {
+        "boundingBox": [
+          0.040697674504546866,
+          0.3412500001394517,
+          0.014534883839743475,
+          0.012499999999999956
+        ],
+        "confidence": 0.3,
+        "text": "6-"
+      },
+      {
+        "boundingBox": [
+          0.5203190823555515,
+          0.31284663523869827,
+          0.03348974159785678,
+          0.012518112063407916
+        ],
+        "confidence": 0.3,
+        "text": "8000 -"
+      },
+      {
+        "boundingBox": [
+          0.03924418634479961,
+          0.2784552850712656,
+          0.010174418347222464,
+          0.012195121049880964
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.5202955285672045,
+          0.2720654175120074,
+          0.03353684970310755,
+          0.012779734134674148
+        ],
+        "confidence": 0.3,
+        "text": "6000 -"
+      },
+      {
+        "boundingBox": [
+          0.5188953487445338,
+          0.22750000003890536,
+          0.03488372053418842,
+          0.016402438879013048
+        ],
+        "confidence": 0.5,
+        "text": "4000-"
+      },
+      {
+        "boundingBox": [
+          0.03779069805249312,
+          0.2073170733200539,
+          0.01889534848076957,
+          0.01830792665481562
+        ],
+        "confidence": 0.5,
+        "text": "2-"
+      },
+      {
+        "boundingBox": [
+          0.5188767250654719,
+          0.18690205610883626,
+          0.03492096832820346,
+          0.014407269954681334
+        ],
+        "confidence": 0.3,
+        "text": "2000 -"
+      },
+      {
+        "boundingBox": [
+          0.03924418602334273,
+          0.14837398414544056,
+          0.008720930133547099,
+          0.014227641820907522
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.14825581399435986,
+          0.115853658287147,
+          0.01744186026709421,
+          0.026422765254974334
+        ],
+        "confidence": 0.3,
+        "text": "0S！"
+      },
+      {
+        "boundingBox": [
+          0.09593023241805802,
+          0.11562500014161092,
+          0.01598837205341884,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.20058139449945409,
+          0.11585365844908291,
+          0.01744186111858914,
+          0.024390244483947776
+        ],
+        "confidence": 0.3,
+        "text": "5L1"
+      },
+      {
+        "boundingBox": [
+          0.2500000002155135,
+          0.11788617885241892,
+          0.021802324908120285,
+          0.014227641820907633
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.3023255819500096,
+          0.11788617919117228,
+          0.021802324908120285,
+          0.014227641820907633
+        ],
+        "confidence": 1,
+        "text": "125"
+      },
+      {
+        "boundingBox": [
+          0.3546511633998643,
+          0.11562499972849127,
+          0.021802324908120285,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.4055232560779166,
+          0.11562500018292676,
+          0.021802324908120285,
+          0.018750000000000044
+        ],
+        "confidence": 1,
+        "text": "175"
+      },
+      {
+        "boundingBox": [
+          0.4578488375023353,
+          0.11562500006031007,
+          0.021802324908120285,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.5959302323949124,
+          0.11562500013580357,
+          0.01453488383974344,
+          0.016488820910453894
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.6482558139979023,
+          0.11562500010162613,
+          0.014534883839743551,
+          0.018749999999999933
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.7005813951731515,
+          0.11562500018292676,
+          0.01453488383974344,
+          0.018750000000000044
+        ],
+        "confidence": 1,
+        "text": "75"
+      },
+      {
+        "boundingBox": [
+          0.7485465116011725,
+          0.11788617898792009,
+          0.021802324908120285,
+          0.014227641820907633
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.8008720935415794,
+          0.11562499972849127,
+          0.021802324908120285,
+          0.016488821506500217
+        ],
+        "confidence": 1,
+        "text": "125"
+      },
+      {
+        "boundingBox": [
+          0.8531976746825677,
+          0.11562499977775387,
+          0.021802324908120285,
+          0.022586382627487245
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.9055232561571255,
+          0.11562500052063596,
+          0.0232558131217957,
+          0.026874999999999982
+        ],
+        "confidence": 0.3,
+        "text": "155"
+      },
+      {
+        "boundingBox": [
+          0.9578488374376612,
+          0.11562500006031007,
+          0.020348836694444983,
+          0.016488820910453783
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.22383721208343096,
+          0.0975000001442976,
+          0.09593022891453337,
+          0.016321138143539415
+        ],
+        "confidence": 1,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.7223837217927332,
+          0.0974999999816959,
+          0.0959302289145334,
+          0.016321138143539415
+        ],
+        "confidence": 1,
+        "text": "Concurrent writers"
+      },
+      {
+        "boundingBox": [
+          0.31686046573186133,
+          0.012195121941849685,
+          0.052325579098292774,
+          0.014227641820907633
+        ],
+        "confidence": 0.3,
+        "text": "- Lance"
+      },
+      {
+        "boundingBox": [
+          0.40988372109669957,
+          0.014227642252331196,
+          0.04941860267094195,
+          0.010162601470947275
+        ],
+        "confidence": 0.5,
+        "text": "Delta Lake"
+      },
+      {
+        "boundingBox": [
+          0.4752907015087934,
+          0.01219512253739008,
+          0.10174418176923483,
+          0.012195121049881075
+        ],
+        "confidence": 0.3,
+        "text": "—•- Iceberg Postgres"
+      },
+      {
+        "boundingBox": [
+          0.6162790689457113,
+          0.012195122334138109,
+          0.06831395285470154,
+          0.012195121049880964
+        ],
+        "confidence": 0.5,
+        "text": "Iceberg Polaris"
+      }
+    ],
+    "ocr_text": "s3-express: concurrent append commit behavior\nSuccessful commits/sec\nAttempt failure rate\n1.0、\n22.5-\n20.0-\n0.8-\n617：.5-\nAttempt failure rate\n0.6 -\n12.5 -\n0.\n4\n•\n0.2 -\n5.0-\n2.5-\nConcurrent writers\n0.0\nConcurrent writers\nFailed attempts per success\nP95 commit-only latency （ms）\n10-\n16000\n14000 -\nFailed attempts per success\n8-\n120\n00\n10000-\n6-\n8000 -\n4\n6000 -\n4000-\n2-\n2000 -\n0\n0S！\n25\n5L1\n100\n125\n150\n175\n200\n25\n50\n75\n100\n125\n150\n155\n200\nConcurrent writers\nConcurrent writers\n- Lance\nDelta Lake\n—•- Iceberg Postgres\nIceberg Polaris",
+    "description": "Concurrent commit throughput中的配图，包含文字：s3-express: concurrent append commit behavior；Successful commits/sec；Attempt failure rate；1.0、；22.5-；20.0-；0.8-；617：.5-；Attempt failure rate；0.6 -；12.5 -；0.；4；•；0.2 -；5.0-；2.5-；Concurrent writers；0.0；Concurrent writers；Failed attempts per success；P95 commit-only latency （ms）；10-；16000；14000 -；Failed attempts per success；8-；120；00；10000-",
+    "entities": [
+      "s3-express: concurrent append commit behavior",
+      "Successful commits/sec",
+      "Attempt failure rate",
+      "1.0、",
+      "22.5-",
+      "20.0-",
+      "0.8-",
+      "617：.5-",
+      "0.6 -",
+      "12.5 -",
+      "0.",
+      "4",
+      "•",
+      "0.2 -",
+      "5.0-",
+      "2.5-",
+      "Concurrent writers",
+      "0.0",
+      "Failed attempts per success",
+      "P95 commit-only latency （ms）",
+      "10-",
+      "16000",
+      "14000 -",
+      "8-",
+      "120",
+      "00",
+      "10000-",
+      "6-",
+      "8000 -",
+      "6000 -",
+      "4000-",
+      "2-",
+      "2000 -",
+      "0",
+      "0S！",
+      "25",
+      "5L1",
+      "100",
+      "125",
+      "150",
+      "175",
+      "200",
+      "50",
+      "75",
+      "155",
+      "- Lance",
+      "Delta Lake",
+      "—•- Iceberg Postgres",
+      "Iceberg Polaris"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7d9ca423435ad60fa352b8ea44451a02e6afe00befaed8b7a5f1f5f71396ef58"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-013",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce117613_jack-ye.avif",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-013.avif",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9e03e1a1f55e21a843e988a016ce7d4be753a64b21e2072a9f2d53bc27a4bd29"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-014",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-014.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-015",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-015.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3-fig-016",
+    "doc_id": "1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1405-https-www-lancedb-com-blog-a-metadata-benchmark-a0802cb3/figure-016.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

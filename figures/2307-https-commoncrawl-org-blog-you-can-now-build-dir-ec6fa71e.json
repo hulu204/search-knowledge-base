@@ -1,0 +1,309 @@
+[
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-001",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-002",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-002.webp",
+    "section": "You can now build directly on Common Crawl from the browser",
+    "alt": "Thom Vaughan",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "You can now build directly on Common Crawl from the browser中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-003",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-003.webp",
+    "section": "You can now build directly on Common Crawl from the browser",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "You can now build directly on Common Crawl from the browser中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-004",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69fb96725faec90c1d36016b_byte-range.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-004.svg",
+    "section": "You can now build directly on Common Crawl from the browser",
+    "alt": "An animation showing a visualisation of an HTTP byte-range request.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "You can now build directly on Common Crawl from the browser中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7b55034148166fdd3cd16d805fabb243103b85e8376950b859c5aff8343e98a4"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-005",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69fb962fd87658af1b50e820_cors.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-005.svg",
+    "section": "**What on earth is CORS anyway?**",
+    "alt": "An animation showing a visualisation of two HTTP requests, one blocked, and one allowed.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.071220931343107,
+          0.5988372095581953,
+          0.03924418449401855,
+          0.02616279045740777
+        ],
+        "confidence": 0.3,
+        "text": "•••"
+      },
+      {
+        "boundingBox": [
+          0.5843023259345358,
+          0.6046511635944041,
+          0.014534883499145557,
+          0.017441859245300284
+        ],
+        "confidence": 1,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.5959302329186326,
+          0.5988372095581953,
+          0.013081394831339521,
+          0.026162789662679042
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.3314583330861705,
+          0.5258333334614538,
+          0.02755329529444378,
+          0.017771317164103184
+        ],
+        "confidence": 0.3,
+        "text": "---"
+      }
+    ],
+    "ocr_text": "•••\n•\n•\n---",
+    "description": "**What on earth is CORS anyway?**中的配图，包含文字：•••；•；•；---",
+    "entities": [
+      "•••",
+      "•",
+      "---"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6e68ffe35a54738ec73c18c0243d40379c7171eec404e7e1dd46c54e40383800"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-006",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-006.webp",
+    "section": "**A note on the index server**",
+    "alt": "Thom is Principal Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**A note on the index server**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-007",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-008",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-009",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e-fig-010",
+    "doc_id": "2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2307-https-commoncrawl-org-blog-you-can-now-build-dir-ec6fa71e/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

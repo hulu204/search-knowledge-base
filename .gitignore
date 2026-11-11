@@ -1,0 +1,34 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+.DS_Store
+
+# local runtime and secrets — never commit
+images/
+index/
+models/
+cache/
+logs/
+ingestion/*.sqlite
+ingestion/*.sqlite-shm
+ingestion/*.sqlite-wal
+ingestion/*.lock
+.wechat_mp_auth.json
+.weread_auth.json
+.oneapi_key
+.oneapi_key.json
+.env
+.env.*
+extra-docs/local-context.md
+
+# workbench build artifacts
+workbench/node_modules/
+workbench/dist/
+workbench/.vinext/
+workbench/.wrangler/
+workbench/.openai/
+workbench/.next/
+workbench/out/
+workbench/coverage/

@@ -1,0 +1,468 @@
+[
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-001",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-002",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-002.webp",
+    "section": "Common Crawl Foundation at COLM 2025",
+    "alt": "Malte Ostendorff",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at COLM 2025中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-003",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-003.webp",
+    "section": "Common Crawl Foundation at COLM 2025",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Common Crawl Foundation at COLM 2025中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-004",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68f6af96d8d8d3d7093e3ff4_0945ffef.jpeg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-004.jpg",
+    "section": "Contributions by the Common Crawl Team",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5456979849536103,
+          0.4560395382209036,
+          0.27328683853149405,
+          0.05461084577772357
+        ],
+        "confidence": 0.5,
+        "text": "Where the pre-training data comes from？"
+      },
+      {
+        "boundingBox": [
+          0.5403195060807725,
+          0.4193529488459774,
+          0.28270021438598636,
+          0.04120336744520392
+        ],
+        "confidence": 0.5,
+        "text": "Since the introduction of XLM-RoBERTa, most foundational models have leveraged"
+      },
+      {
+        "boundingBox": [
+          0.5421511635719476,
+          0.4233333336120605,
+          0.0625,
+          0.018888888888888844
+        ],
+        "confidence": 0.5,
+        "text": "Common Craw！！"
+      },
+      {
+        "boundingBox": [
+          0.5348837211014238,
+          0.37726098210761494,
+          0.02034883737564086,
+          0.012919896443684853
+        ],
+        "confidence": 0.5,
+        "text": "2019"
+      },
+      {
+        "boundingBox": [
+          0.5683139530972768,
+          0.36950904419836783,
+          0.027616279125213583,
+          0.016046511332194036
+        ],
+        "confidence": 0.3,
+        "text": "CC:100"
+      },
+      {
+        "boundingBox": [
+          0.2674418586169221,
+          0.33074935413771045,
+          0.08575581550598144,
+          0.025917312833998007
+        ],
+        "confidence": 0.5,
+        "text": "Palais des congres"
+      },
+      {
+        "boundingBox": [
+          0.5683139544625925,
+          0.3462532301696304,
+          0.024709300994873118,
+          0.012919896443684964
+        ],
+        "confidence": 0.3,
+        "text": "XLM-R"
+      },
+      {
+        "boundingBox": [
+          0.2688688423873986,
+          0.31245024063820004,
+          0.05819254875183111,
+          0.023678330315483942
+        ],
+        "confidence": 0.5,
+        "text": "de Montreal"
+      },
+      {
+        "boundingBox": [
+          0.8287499999232351,
+          0.14987080126136187,
+          0.015726744234561996,
+          0.013462531831529345
+        ],
+        "confidence": 0.3,
+        "text": "MRa"
+      }
+    ],
+    "ocr_text": "Where the pre-training data comes from？\nSince the introduction of XLM-RoBERTa, most foundational models have leveraged\nCommon Craw！！\n2019\nCC:100\nPalais des congres\nXLM-R\nde Montreal\nMRa",
+    "description": "Contributions by the Common Crawl Team中的配图，包含文字：Where the pre-training data comes from？；Since the introduction of XLM-RoBERTa, most foundational models have leveraged；Common Craw！！；2019；CC:100；Palais des congres；XLM-R；de Montreal；MRa",
+    "entities": [
+      "Where the pre-training data comes from？",
+      "Since the introduction of XLM-RoBERTa, most foundational models have leveraged",
+      "Common Craw！！",
+      "2019",
+      "CC:100",
+      "Palais des congres",
+      "XLM-R",
+      "de Montreal",
+      "MRa"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8e8b139e1116603e8abad2a3e1cb1951fc360a9607b6144756d30ba3b1a60aca"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-005",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68f6af96d8d8d3d7093e3fee_de8e7523.jpeg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-005.jpg",
+    "section": "Contributions by the Common Crawl Team",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3134887408365784,
+          0.5330502476410343,
+          0.11270367622375488,
+          0.032653598785400306
+        ],
+        "confidence": 0.5,
+        "text": "1st Workshop on"
+      },
+      {
+        "boundingBox": [
+          0.25436046647256744,
+          0.5064599490903239,
+          0.220930233001709,
+          0.02842377132839613
+        ],
+        "confidence": 0.5,
+        "text": "Multilingual Data Quality Signals"
+      },
+      {
+        "boundingBox": [
+          0.3473837211927412,
+          0.4077777776645184,
+          0.0436046504974365,
+          0.013410852750142421
+        ],
+        "confidence": 0.3,
+        "text": "COLM 2025"
+      },
+      {
+        "boundingBox": [
+          0.3152242909378963,
+          0.38885332867926914,
+          0.1050685405731201,
+          0.02027594248453779
+        ],
+        "confidence": 0.5,
+        "text": "Palais des Congres, Montreal"
+      }
+    ],
+    "ocr_text": "1st Workshop on\nMultilingual Data Quality Signals\nCOLM 2025\nPalais des Congres, Montreal",
+    "description": "Contributions by the Common Crawl Team中的配图，包含文字：1st Workshop on；Multilingual Data Quality Signals；COLM 2025；Palais des Congres, Montreal",
+    "entities": [
+      "1st Workshop on",
+      "Multilingual Data Quality Signals",
+      "COLM 2025",
+      "Palais des Congres, Montreal"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3a24dda3c89a2076bc43f9961efb65eebe89208073c4ddf18396fd7186c94976"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-006",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68f6af96d8d8d3d7093e3ff1_9145b89e.jpeg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-006.jpg",
+    "section": "Submitted Works featuring Common Crawl",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.43378859251765617,
+          0.6485829867548745,
+          0.19201583862304689,
+          0.17602014541625977
+        ],
+        "confidence": 0.5,
+        "text": "COLM"
+      },
+      {
+        "boundingBox": [
+          0.4197129664375362,
+          0.4610974217631224,
+          0.22598104476928704,
+          0.14720578815626062
+        ],
+        "confidence": 0.3,
+        "text": "Moritreal"
+      },
+      {
+        "boundingBox": [
+          0.5087209298982558,
+          0.3722397475583693,
+          0.0625,
+          0.05047318728073791
+        ],
+        "confidence": 0.5,
+        "text": "r7-10，"
+      },
+      {
+        "boundingBox": [
+          0.614825581346918,
+          0.1987381713021108,
+          0.017441860437393153,
+          0.04100946239803149
+        ],
+        "confidence": 0.3,
+        "text": "皿"
+      },
+      {
+        "boundingBox": [
+          0.7020348840692179,
+          0.07880434772397538,
+          0.015988371372222976,
+          0.022142024143882333
+        ],
+        "confidence": 0.3,
+        "text": "o%"
+      }
+    ],
+    "ocr_text": "COLM\nMoritreal\nr7-10，\n皿\no%",
+    "description": "Submitted Works featuring Common Crawl中的配图，包含文字：COLM；Moritreal；r7-10，；皿；o%",
+    "entities": [
+      "COLM",
+      "Moritreal",
+      "r7-10，",
+      "皿",
+      "o%"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "79f381584b247d4d03c8c97713856469854e6542802cf2b3694a526d531861ba"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-007",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-008",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-009",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211-fig-010",
+    "doc_id": "2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2329-https-commoncrawl-org-blog-common-crawl-foundati-c18da211/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

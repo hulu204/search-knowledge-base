@@ -1,0 +1,4424 @@
+[
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-001",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 1,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=c5b25779&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_jpg%2FV95GN2mm0DyVozURj6yVdTHxnT9LEoHzlmNgs9psYmlahJymuUNXTXPIBhoe0q8sXMhhP4x2gibh5bExYnEsqXvlNCLyQpLphOV60VhpN9ks%2F0%3Fwx_fmt%3Djpeg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-001.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03865546204481793,
+          0.8221343867918314,
+          0.05714285714285715,
+          0.06719367588932812
+        ],
+        "confidence": 1,
+        "text": "美团"
+      },
+      {
+        "boundingBox": [
+          0.03864053317916658,
+          0.7864320964137027,
+          0.055492042092715986,
+          0.035831458954942996
+        ],
+        "confidence": 0.5,
+        "text": "技术团队"
+      },
+      {
+        "boundingBox": [
+          0.7731092434768908,
+          0.7470355729496048,
+          0.03529411764705881,
+          0.04347826086956519
+        ],
+        "confidence": 1,
+        "text": "搜索"
+      },
+      {
+        "boundingBox": [
+          0.2705882357703081,
+          0.6086956523715414,
+          0.08571428571428569,
+          0.0513833992094862
+        ],
+        "confidence": 1,
+        "text": "特征验证"
+      },
+      {
+        "boundingBox": [
+          0.4252100845004668,
+          0.6086956523715414,
+          0.08403361344537819,
+          0.0513833992094862
+        ],
+        "confidence": 1,
+        "text": "体系重构"
+      },
+      {
+        "boundingBox": [
+          0.5781047079416605,
+          0.6043415611500321,
+          0.08580738997259063,
+          0.056139011156888796
+        ],
+        "confidence": 0.5,
+        "text": "迁移拓展"
+      },
+      {
+        "boundingBox": [
+          0.9075630254789916,
+          0.5454545456521739,
+          0.037815126050420145,
+          0.07114624505928857
+        ],
+        "confidence": 0.3,
+        "text": "1-"
+      },
+      {
+        "boundingBox": [
+          0.7512605038991597,
+          0.4664031618972333,
+          0.030252100840336138,
+          0.031620553359683834
+        ],
+        "confidence": 1,
+        "text": "KTV"
+      },
+      {
+        "boundingBox": [
+          0.8352941178511405,
+          0.4664031622529644,
+          0.02857142857142858,
+          0.035573122529644174
+        ],
+        "confidence": 1,
+        "text": "美甲"
+      },
+      {
+        "boundingBox": [
+          0.9075630255822328,
+          0.4664031622529644,
+          0.05210084033613449,
+          0.035573122529644174
+        ],
+        "confidence": 1,
+        "text": "运动健身"
+      },
+      {
+        "boundingBox": [
+          0.7747899161704682,
+          0.3320158104743083,
+          0.02857142857142858,
+          0.035573122529644174
+        ],
+        "confidence": 1,
+        "text": "订单"
+      },
+      {
+        "boundingBox": [
+          0.7747899159103642,
+          0.2687747030961791,
+          0.08403361344537819,
+          0.055335968379446654
+        ],
+        "confidence": 1,
+        "text": "+0.59%"
+      },
+      {
+        "boundingBox": [
+          0.08403361384153661,
+          0.249011857933371,
+          0.05546218487394956,
+          0.055335968379446654
+        ],
+        "confidence": 1,
+        "text": "LLM"
+      },
+      {
+        "boundingBox": [
+          0.7747899156162465,
+          0.18972331992753622,
+          0.04201680672268915,
+          0.035573122529644285
+        ],
+        "confidence": 0.3,
+        "text": "点击宰"
+      },
+      {
+        "boundingBox": [
+          0.774789916512605,
+          0.13043478283926224,
+          0.06554621848739495,
+          0.05138339920948609
+        ],
+        "confidence": 1,
+        "text": "+0.1%"
+      }
+    ],
+    "ocr_text": "美团\n技术团队\n搜索\n特征验证\n体系重构\n迁移拓展\n1-\nKTV\n美甲\n运动健身\n订单\n+0.59%\nLLM\n点击宰\n+0.1%",
+    "description": "文章中的配图，包含文字：美团；技术团队；搜索；特征验证；体系重构；迁移拓展；1-；KTV；美甲；运动健身；订单；+0.59%；LLM；点击宰；+0.1%",
+    "entities": [
+      "美团",
+      "技术团队",
+      "搜索",
+      "特征验证",
+      "体系重构",
+      "迁移拓展",
+      "1-",
+      "KTV",
+      "美甲",
+      "运动健身",
+      "订单",
+      "+0.59%",
+      "LLM",
+      "点击宰",
+      "+0.1%"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9ec0eebbe5b48b4b5a694d32337fb89512a547cf35aa5f1e6a996fd569a292f1"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-002",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 2,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=82c43e2d&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_gif%2FV95GN2mm0DxF02oh3f8zbibSWYMLCzPmVictXGk8g5HrmictaJaWtoUycOw3e8vzDmrwl1koykr9XAxhyhj4HSRibGYB51eicRKMficichkOS5bjcg%2F640%3Fwx_fmt%3Dgif%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-002.gif",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "文章中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "34f3f6a8ebf8a3b8ecb5caeeebf8cc5290914d0f8070f92f90c1a0426d469454"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-003",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 3,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=9d8f9933&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DwLCxZ1weUbiciaia7bPq6EQaLYnHLCOOrvce7HVfvIpB8xicibJXK2Qkia0wia0o0Wu53AccKXEDeKia4ibwHSgUXkCHqfAsY7pFpYNTJ0%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-003.png",
+    "section": "一、背景与动机",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2981481486111111,
+          0.9162995596475771,
+          0.04629629629629628,
+          0.03524229074889862
+        ],
+        "confidence": 1,
+        "text": "扩展升级"
+      },
+      {
+        "boundingBox": [
+          0.6611111114814815,
+          0.9162995596916299,
+          0.0444444444444444,
+          0.03524229074889873
+        ],
+        "confidence": 1,
+        "text": "场景迁移"
+      },
+      {
+        "boundingBox": [
+          0.06296296423611109,
+          0.8942731280286343,
+          0.10185185185185183,
+          0.03964757709251099
+        ],
+        "confidence": 0.3,
+        "text": "一期（2025Q4）"
+      },
+      {
+        "boundingBox": [
+          0.16296296217592593,
+          0.8942731275881057,
+          0.06296296296296297,
+          0.03964757709251099
+        ],
+        "confidence": 1,
+        "text": "商家精排"
+      },
+      {
+        "boundingBox": [
+          0.4074074089814815,
+          0.894273128010279,
+          0.18888888888888883,
+          0.03964757709251099
+        ],
+        "confidence": 0.5,
+        "text": "二期（2026Q1）商家精排升级"
+      },
+      {
+        "boundingBox": [
+          0.7777777766269841,
+          0.8986784139081183,
+          0.1611111111111111,
+          0.03524229074889873
+        ],
+        "confidence": 0.5,
+        "text": "三期（2026Q2） 下挂精排"
+      },
+      {
+        "boundingBox": [
+          0.10555555587037035,
+          0.7488986787665197,
+          0.07962962962962963,
+          0.03524229074889873
+        ],
+        "confidence": 0.5,
+        "text": "基座：全参微调"
+      },
+      {
+        "boundingBox": [
+          0.4721974117971875,
+          0.7529754048382247,
+          0.06116073043258102,
+          0.027088836426251706
+        ],
+        "confidence": 0.5,
+        "text": "基座：LoRA"
+      },
+      {
+        "boundingBox": [
+          0.7777777789285715,
+          0.7444933922907488,
+          0.1611111111111111,
+          0.0396475770925111
+        ],
+        "confidence": 0.5,
+        "text": "复用二期模型 一迁移下挂精排"
+      },
+      {
+        "boundingBox": [
+          0.09814814937499998,
+          0.7180616741740088,
+          0.09814814814814814,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "实体：Query + POI"
+      },
+      {
+        "boundingBox": [
+          0.4351851850000001,
+          0.7136563881281288,
+          0.13333333333333336,
+          0.03524228969859666
+        ],
+        "confidence": 0.5,
+        "text": "实体：Query + POI + Deal"
+      },
+      {
+        "boundingBox": [
+          0.7925925948148147,
+          0.7180616740822321,
+          0.1333333333333333,
+          0.03083700440528625
+        ],
+        "confidence": 0.3,
+        "text": "覆盖率修复：81% 99%"
+      },
+      {
+        "boundingBox": [
+          0.08333333455555553,
+          0.678414097092511,
+          0.12222222222222223,
+          0.03524229074889873
+        ],
+        "confidence": 0.5,
+        "text": "目标：点击率分类（BCE）"
+      },
+      {
+        "boundingBox": [
+          0.442592591087963,
+          0.6828193829845814,
+          0.12037037037037035,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "目标：InfoNCE + Triplet"
+      },
+      {
+        "boundingBox": [
+          0.811111112037037,
+          0.678414097092511,
+          0.09259259259259267,
+          0.03524229074889873
+        ],
+        "confidence": 1,
+        "text": "PEPNet门控注入"
+      },
+      {
+        "boundingBox": [
+          0.09259259393518514,
+          0.6519823789647576,
+          0.10740740740740741,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "降维：Linear 64维"
+      },
+      {
+        "boundingBox": [
+          0.44444444561111107,
+          0.651982379030837,
+          0.1166666666666667,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "降维：MRL-E 128维"
+      },
+      {
+        "boundingBox": [
+          0.803703702808642,
+          0.6431718059471365,
+          0.1074074074074074,
+          0.03524229074889873
+        ],
+        "confidence": 0.5,
+        "text": "+ 全域交叉统计特征"
+      },
+      {
+        "boundingBox": [
+          0.3777167820451158,
+          0.43984486061105443,
+          0.06864051112422237,
+          0.036609838712583054
+        ],
+        "confidence": 1,
+        "text": "策略迭代要点"
+      },
+      {
+        "boundingBox": [
+          0.7406990396385106,
+          0.444429989775597,
+          0.06489821539984808,
+          0.03184486485787952
+        ],
+        "confidence": 1,
+        "text": "策略迭代要点"
+      },
+      {
+        "boundingBox": [
+          0.02771660385218974,
+          0.4309731532945763,
+          0.06493716063322844,
+          0.032326821188569554
+        ],
+        "confidence": 1,
+        "text": "策略迭代要点"
+      },
+      {
+        "boundingBox": [
+          0.3777777818827159,
+          0.3832599119676945,
+          0.2462962962962963,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "•五元组数据：Q/DealPos/POIPos/DealNeg/POINeg"
+      },
+      {
+        "boundingBox": [
+          0.7388888868287038,
+          0.3876651980176212,
+          0.16481481481481486,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• 覆盖率修复：按下挂样本重新圈选"
+      },
+      {
+        "boundingBox": [
+          0.025925928541666584,
+          0.37004405308370036,
+          0.20925925925925926,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• 特珠Token:query/item/qi 三token聚合锚点"
+      },
+      {
+        "boundingBox": [
+          0.37777777599537044,
+          0.35682819361233487,
+          0.1425925925925926,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• 难负样本：同请求曝光未点击"
+      },
+      {
+        "boundingBox": [
+          0.7388888910648147,
+          0.35682819405286337,
+          0.17407407407407416,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "•前置验证：100桶label均值单调递增"
+      },
+      {
+        "boundingBox": [
+          0.02592592361111117,
+          0.3392070482378855,
+          0.18518518518518517,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• Attention Mask： 三次forward信息隔离"
+      },
+      {
+        "boundingBox": [
+          0.37777777466049395,
+          0.32599118928047,
+          0.18703703703703706,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• Prompt做减法：精简信息优于复杂指令"
+      },
+      {
+        "boundingBox": [
+          0.7407407433641974,
+          0.3259911895741556,
+          0.15740740740740744,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• 5种分桶策略：V1-V5多目标优化"
+      },
+      {
+        "boundingBox": [
+          0.025925923518518582,
+          0.3083700438876652,
+          0.1925925925925926,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "•双Loss协同：cosine BCE + qi CTR预估"
+      },
+      {
+        "boundingBox": [
+          0.3777777800694444,
+          0.29515418524229065,
+          0.18333333333333335,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "• nn.Parameter向量：batch 5路forwvard"
+      },
+      {
+        "boundingBox": [
+          0.7388888859567901,
+          0.29074889860499264,
+          0.17592592592592593,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "•PEPNet门控：优于底层拼接（+25bp）"
+      },
+      {
+        "boundingBox": [
+          0.02592592337962966,
+          0.27753303948237884,
+          0.20370370370370372,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "•分桶注入：10桶cosine 一 12维embedding"
+      },
+      {
+        "boundingBox": [
+          0.3777777774691358,
+          0.25991189375917756,
+          0.1555555555555555,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "•底层分桶＋顶层LHUC双重融合"
+      },
+      {
+        "boundingBox": [
+          0.7388888867592592,
+          0.2643171803964759,
+          0.1703703703703704,
+          0.026431718061673992
+        ],
+        "confidence": 0.5,
+        "text": "•语义+统计叠加：两类特征互补增益"
+      },
+      {
+        "boundingBox": [
+          0.3916666694270833,
+          0.059405942171634085,
+          0.22083333333333333,
+          0.0495049480824743
+        ],
+        "confidence": 0.5,
+        "text": "效果：QV_CTR +0.10pp1大盘UV +0.07%"
+      },
+      {
+        "boundingBox": [
+          0.04074073725308654,
+          0.06607929493392073,
+          0.2092592592592593,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "效果：订单+0.27% | 长尾NDCG +2.21pp"
+      },
+      {
+        "boundingBox": [
+          0.7666666648148148,
+          0.06607929493392062,
+          0.18518518518518523,
+          0.03083700440528636
+        ],
+        "confidence": 0.5,
+        "text": "效果：订单 +0.32% | 访购率 +0.25%"
+      }
+    ],
+    "ocr_text": "扩展升级\n场景迁移\n一期（2025Q4）\n商家精排\n二期（2026Q1）商家精排升级\n三期（2026Q2） 下挂精排\n基座：全参微调\n基座：LoRA\n复用二期模型 一迁移下挂精排\n实体：Query + POI\n实体：Query + POI + Deal\n覆盖率修复：81% 99%\n目标：点击率分类（BCE）\n目标：InfoNCE + Triplet\nPEPNet门控注入\n降维：Linear 64维\n降维：MRL-E 128维\n+ 全域交叉统计特征\n策略迭代要点\n策略迭代要点\n策略迭代要点\n•五元组数据：Q/DealPos/POIPos/DealNeg/POINeg\n• 覆盖率修复：按下挂样本重新圈选\n• 特珠Token:query/item/qi 三token聚合锚点\n• 难负样本：同请求曝光未点击\n•前置验证：100桶label均值单调递增\n• Attention Mask： 三次forward信息隔离\n• Prompt做减法：精简信息优于复杂指令\n• 5种分桶策略：V1-V5多目标优化\n•双Loss协同：cosine BCE + qi CTR预估\n• nn.Parameter向量：batch 5路forwvard\n•PEPNet门控：优于底层拼接（+25bp）\n•分桶注入：10桶cosine 一 12维embedding\n•底层分桶＋顶层LHUC双重融合\n•语义+统计叠加：两类特征互补增益\n效果：QV_CTR +0.10pp1大盘UV +0.07%\n效果：订单+0.27% | 长尾NDCG +2.21pp\n效果：订单 +0.32% | 访购率 +0.25%",
+    "description": "一、背景与动机中的配图，包含文字：扩展升级；场景迁移；一期（2025Q4）；商家精排；二期（2026Q1）商家精排升级；三期（2026Q2） 下挂精排；基座：全参微调；基座：LoRA；复用二期模型 一迁移下挂精排；实体：Query + POI；实体：Query + POI + Deal；覆盖率修复：81% 99%；目标：点击率分类（BCE）；目标：InfoNCE + Triplet；PEPNet门控注入；降维：Linear 64维；降维：MRL-E 128维；+ 全域交叉统计特征；策略迭代要点；策略迭代要点；策略迭代要点；•五元组数据：Q/DealPos/POIPos/DealNeg/POINeg；• 覆盖率修复：按下挂样本重新圈选；• 特珠Token:query/item/qi 三token聚合锚点；• 难负样本：同请求曝光未点击；•前置验证：100桶label均值单调递增；• Attention Mask： 三次forward信息隔离；• Prompt做减法：精简信息优于复杂指令；• 5种分桶策略：V1-V5多目标优化；•双Loss协同：cosine BCE + qi CTR预估",
+    "entities": [
+      "扩展升级",
+      "场景迁移",
+      "一期（2025Q4）",
+      "商家精排",
+      "二期（2026Q1）商家精排升级",
+      "三期（2026Q2） 下挂精排",
+      "基座：全参微调",
+      "基座：LoRA",
+      "复用二期模型 一迁移下挂精排",
+      "实体：Query + POI",
+      "实体：Query + POI + Deal",
+      "覆盖率修复：81% 99%",
+      "目标：点击率分类（BCE）",
+      "目标：InfoNCE + Triplet",
+      "PEPNet门控注入",
+      "降维：Linear 64维",
+      "降维：MRL-E 128维",
+      "+ 全域交叉统计特征",
+      "策略迭代要点",
+      "•五元组数据：Q/DealPos/POIPos/DealNeg/POINeg",
+      "• 覆盖率修复：按下挂样本重新圈选",
+      "• 特珠Token:query/item/qi 三token聚合锚点",
+      "• 难负样本：同请求曝光未点击",
+      "•前置验证：100桶label均值单调递增",
+      "• Attention Mask： 三次forward信息隔离",
+      "• Prompt做减法：精简信息优于复杂指令",
+      "• 5种分桶策略：V1-V5多目标优化",
+      "•双Loss协同：cosine BCE + qi CTR预估",
+      "• nn.Parameter向量：batch 5路forwvard",
+      "•PEPNet门控：优于底层拼接（+25bp）",
+      "•分桶注入：10桶cosine 一 12维embedding",
+      "•底层分桶＋顶层LHUC双重融合",
+      "•语义+统计叠加：两类特征互补增益",
+      "效果：QV_CTR +0.10pp1大盘UV +0.07%",
+      "效果：订单+0.27% | 长尾NDCG +2.21pp",
+      "效果：订单 +0.32% | 访购率 +0.25%"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0e279eff84494a9c960df2a722a32aa2a308fa20e81fdae747744e802f259c8b"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-004",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 4,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=1738ccbe&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0DzBhoUN5fVxos1BCBE1sd0U4ANaJMyjiasOQbib8veIJbGyjxRQklKRr02scTJXURcCEG9ollC2qGDehvyuWHkDHZ1k16Mu36ibvQ%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "",
+    "section": "| 2.2 技术方案",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='wechat2rss.xlab.app', port=443): Read timed out. (read timeout=30)"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-005",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 5,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=80537530&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DxFcMW33TdpNzbKNlO3RyUmN3hSzD6cbVDqX6K7ab3RLdiay3IJ7FWQFAKLGibU5m2rMSmU5Hf9HAPMiaDx4a9giaEiceYmqttvYW0I%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-005.png",
+    "section": "| 2.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.020833323958333632,
+          0.7927631601119949,
+          0.5625,
+          0.10526315475765025
+        ],
+        "confidence": 0.3,
+        "text": "• Logits 计算：ctr_logits = W .ReLU（eg） +6"
+      },
+      {
+        "boundingBox": [
+          0.02083334610423951,
+          0.4407894731940144,
+          0.929166610152633,
+          0.11842105263157887
+        ],
+        "confidence": 0.3,
+        "text": "• Loss 计算：L2= -y • log（a（ctr_Logits）） + （1-y） • log（1 -q（ctr_logits））］"
+      },
+      {
+        "boundingBox": [
+          0.022222217526455076,
+          0.0855263156015037,
+          0.6574074074074074,
+          0.11842105263157898
+        ],
+        "confidence": 0.3,
+        "text": "• 其中，Egi 代表<lqil＞的嵌入向量，y为点击标签（0或 1）"
+      }
+    ],
+    "ocr_text": "• Logits 计算：ctr_logits = W .ReLU（eg） +6\n• Loss 计算：L2= -y • log（a（ctr_Logits）） + （1-y） • log（1 -q（ctr_logits））］\n• 其中，Egi 代表<lqil＞的嵌入向量，y为点击标签（0或 1）",
+    "description": "| 2.2 技术方案中的配图，包含文字：• Logits 计算：ctr_logits = W .ReLU（eg） +6；• Loss 计算：L2= -y • log（a（ctr_Logits）） + （1-y） • log（1 -q（ctr_logits））］；• 其中，Egi 代表<lqil＞的嵌入向量，y为点击标签（0或 1）",
+    "entities": [
+      "• Logits 计算：ctr_logits = W .ReLU（eg） +6",
+      "• Loss 计算：L2= -y • log（a（ctr_Logits）） + （1-y） • log（1 -q（ctr_logits））］",
+      "• 其中，Egi 代表<lqil＞的嵌入向量，y为点击标签（0或 1）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0c4aec2925a778a3d3d058ef54b0cfb8ce7133967af5fd5942a505b0c6037d82"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-006",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 6,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=019b92ea&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0Dx2THdibYEY116aibbk3Vhro9DpBv5WLZEibRIzanuqCE6MdaEcVrtG9T1ibEXqZeqLQialLfMvmb9nsiaV9b6Pj9q4cAfjCbIk5lFhE%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-006.png",
+    "section": "| 2.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2129106384261766,
+          0.9274390844957643,
+          0.06306761282461662,
+          0.025421083122120214
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "boundingBox": [
+          0.6998082615480594,
+          0.9267446084170265,
+          0.06519829078956885,
+          0.026810033660279897
+        ],
+        "confidence": 1,
+        "text": "Linear"
+      },
+      {
+        "boundingBox": [
+          0.23703703695767195,
+          0.8653366586925544,
+          0.018518518518518517,
+          0.04738154613466328
+        ],
+        "confidence": 0.3,
+        "text": "||"
+      },
+      {
+        "boundingBox": [
+          0.15370370478009257,
+          0.723192020074813,
+          0.17222222222222225,
+          0.029925187032418865
+        ],
+        "confidence": 0.5,
+        "text": "Hidden States［-1］"
+      },
+      {
+        "boundingBox": [
+          0.6425925947453703,
+          0.723192020074813,
+          0.17222222222222228,
+          0.029925187032418865
+        ],
+        "confidence": 0.5,
+        "text": "Hidden States［-1］"
+      },
+      {
+        "boundingBox": [
+          0.07192220238665538,
+          0.601748592016798,
+          0.32282225997359665,
+          0.10572974759147047
+        ],
+        "confidence": 0.3,
+        "text": "-二-一"
+      },
+      {
+        "boundingBox": [
+          0.09629629585978837,
+          0.5685785535090844,
+          0.0611111111111111,
+          0.01995012468827939
+        ],
+        "confidence": 0.3,
+        "text": "<query＞"
+      },
+      {
+        "boundingBox": [
+          0.27037037120370366,
+          0.5735660848711555,
+          0.050000000000000044,
+          0.014962593516209433
+        ],
+        "confidence": 0.3,
+        "text": "citem>"
+      },
+      {
+        "boundingBox": [
+          0.5833333327037037,
+          0.5685785535162095,
+          0.062962962962963,
+          0.01995012468827928
+        ],
+        "confidence": 0.3,
+        "text": "<query>"
+      },
+      {
+        "boundingBox": [
+          0.7574074082407408,
+          0.5735660848711555,
+          0.04999999999999993,
+          0.014962593516209433
+        ],
+        "confidence": 0.3,
+        "text": "<item>"
+      },
+      {
+        "boundingBox": [
+          0.624074073962963,
+          0.521197007755611,
+          0.014814814814814836,
+          0.027431421446383997
+        ],
+        "confidence": 1,
+        "text": "个"
+      },
+      {
+        "boundingBox": [
+          0.32962963158730163,
+          0.441396508888493,
+          0.274074074074074,
+          0.032418952618453845
+        ],
+        "confidence": 1,
+        "text": "Pretrained Language Model"
+      },
+      {
+        "boundingBox": [
+          0.644444447037037,
+          0.2967581048628428,
+          0.20740740740740748,
+          0.029925187032418976
+        ],
+        "confidence": 0.5,
+        "text": "Prompt Construction"
+      },
+      {
+        "boundingBox": [
+          0.1370370363888889,
+          0.28428927657938485,
+          0.2074074074074074,
+          0.027431421446384108
+        ],
+        "confidence": 1,
+        "text": "Prompt Construction"
+      },
+      {
+        "boundingBox": [
+          0.5185185148765433,
+          0.24688279291354942,
+          0.4370370370370371,
+          0.027431421446383997
+        ],
+        "confidence": 0.5,
+        "text": "用户查询：<lqueryl>候选商铺信息如下：商铺名称：｛热销"
+      },
+      {
+        "boundingBox": [
+          0.012962959761904778,
+          0.2344139649625936,
+          0.4481481481481482,
+          0.027431421446383997
+        ],
+        "confidence": 0.5,
+        "text": "用户查询：｛<lqueryl＞候选商铺信息如下：商铺名称：热销商"
+      },
+      {
+        "boundingBox": [
+          0.5185185240972221,
+          0.22194513728179543,
+          0.4462962962962964,
+          0.02493765586034913
+        ],
+        "confidence": 0.3,
+        "text": "商品：小所属品牌：商铺分类：｛--｛用户评分：｛分平"
+      },
+      {
+        "boundingBox": [
+          0.012962967444444421,
+          0.2094763093765587,
+          0.44814814814814813,
+          0.02493765586034913
+        ],
+        "confidence": 0.5,
+        "text": "品：所属品牌：商铺分类：-- 用户评分：分平均价格：元所"
+      },
+      {
+        "boundingBox": [
+          0.5185185230185185,
+          0.19451371586034927,
+          0.44999999999999996,
+          0.02493765586034913
+        ],
+        "confidence": 0.5,
+        "text": "均价格：0元 所在商圈：｛<liteml>请判断该商铺是否匹配用户"
+      },
+      {
+        "boundingBox": [
+          0.0129629669629629,
+          0.18204488788029938,
+          0.39999999999999997,
+          0.02493765586034913
+        ],
+        "confidence": 0.5,
+        "text": "在商圈：cliteml>请判断该商铺是否匹配用户查询<lqil＞"
+      },
+      {
+        "boundingBox": [
+          0.5185185188734568,
+          0.16708229403574393,
+          0.07592592592592595,
+          0.027431421446384108
+        ],
+        "confidence": 0.5,
+        "text": "查询<lqil>"
+      },
+      {
+        "boundingBox": [
+          0.21666666631172835,
+          0.052369077493765626,
+          0.04629629629629631,
+          0.02244389027431415
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.7296296292592592,
+          0.042394015243142125,
+          0.03333333333333344,
+          0.02244389027431426
+        ],
+        "confidence": 0.5,
+        "text": "Item"
+      }
+    ],
+    "ocr_text": "Linear\nLinear\n||\nHidden States［-1］\nHidden States［-1］\n-二-一\n<query＞\ncitem>\n<query>\n<item>\n个\nPretrained Language Model\nPrompt Construction\nPrompt Construction\n用户查询：<lqueryl>候选商铺信息如下：商铺名称：｛热销\n用户查询：｛<lqueryl＞候选商铺信息如下：商铺名称：热销商\n商品：小所属品牌：商铺分类：｛--｛用户评分：｛分平\n品：所属品牌：商铺分类：-- 用户评分：分平均价格：元所\n均价格：0元 所在商圈：｛<liteml>请判断该商铺是否匹配用户\n在商圈：cliteml>请判断该商铺是否匹配用户查询<lqil＞\n查询<lqil>\nQuery\nItem",
+    "description": "| 2.2 技术方案中的配图，包含文字：Linear；Linear；||；Hidden States［-1］；Hidden States［-1］；-二-一；<query＞；citem>；<query>；<item>；个；Pretrained Language Model；Prompt Construction；Prompt Construction；用户查询：<lqueryl>候选商铺信息如下：商铺名称：｛热销；用户查询：｛<lqueryl＞候选商铺信息如下：商铺名称：热销商；商品：小所属品牌：商铺分类：｛--｛用户评分：｛分平；品：所属品牌：商铺分类：-- 用户评分：分平均价格：元所；均价格：0元 所在商圈：｛<liteml>请判断该商铺是否匹配用户；在商圈：cliteml>请判断该商铺是否匹配用户查询<lqil＞；查询<lqil>；Query；Item",
+    "entities": [
+      "Linear",
+      "||",
+      "Hidden States［-1］",
+      "-二-一",
+      "<query＞",
+      "citem>",
+      "<query>",
+      "<item>",
+      "个",
+      "Pretrained Language Model",
+      "Prompt Construction",
+      "用户查询：<lqueryl>候选商铺信息如下：商铺名称：｛热销",
+      "用户查询：｛<lqueryl＞候选商铺信息如下：商铺名称：热销商",
+      "商品：小所属品牌：商铺分类：｛--｛用户评分：｛分平",
+      "品：所属品牌：商铺分类：-- 用户评分：分平均价格：元所",
+      "均价格：0元 所在商圈：｛<liteml>请判断该商铺是否匹配用户",
+      "在商圈：cliteml>请判断该商铺是否匹配用户查询<lqil＞",
+      "查询<lqil>",
+      "Query",
+      "Item"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "378745f0f2d26d017ed0b0deb11d87137773672a6d39dc17ca93a5c3623f3e16"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-007",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 7,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=81cf1fe8&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0DxfRvhtC3Avd8L5ib5ic2YhNEBMNPxNeWhpicVUuqTFicSEicOs10ZAMqASQV0dicIoDtXunTBXr6twViaNNARHYvGAI6IibMOBIkicERss%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-007.png",
+    "section": "| 2.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3537037034027778,
+          0.9523809522774327,
+          0.02407407407407408,
+          0.012422360248447228
+        ],
+        "confidence": 1,
+        "text": "CTR"
+      },
+      {
+        "boundingBox": [
+          0.5851851847592593,
+          0.9503105589026916,
+          0.042592592592592626,
+          0.01449275362318836
+        ],
+        "confidence": 1,
+        "text": "CTCVR"
+      },
+      {
+        "boundingBox": [
+          0.20555555722222218,
+          0.8488612837474121,
+          0.1333333333333333,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "到餐预估子网络FFN"
+      },
+      {
+        "boundingBox": [
+          0.4111111127592592,
+          0.848861283768116,
+          0.1648148148148148,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "服务零售预估子网络FFN"
+      },
+      {
+        "boundingBox": [
+          0.6388888877777777,
+          0.8488612835403727,
+          0.1333333333333333,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "酒店预估子网络FFN"
+      },
+      {
+        "boundingBox": [
+          0.44074074148148146,
+          0.7287784680272109,
+          0.10370370370370363,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "AdaTT专家网络"
+      },
+      {
+        "boundingBox": [
+          0.44259259321759253,
+          0.6459627326604556,
+          0.09444444444444439,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "Neural Layer3"
+      },
+      {
+        "boundingBox": [
+          0.44062059944858406,
+          0.5106643048704755,
+          0.09653657983850544,
+          0.02214964971285671
+        ],
+        "confidence": 0.5,
+        "text": "Neural Layer2"
+      },
+      {
+        "boundingBox": [
+          0.092592593125,
+          0.44720496920289854,
+          0.06481481481481481,
+          0.020703933747411973
+        ],
+        "confidence": 1,
+        "text": "meta信息"
+      },
+      {
+        "boundingBox": [
+          0.2573189986387573,
+          0.44680137295518874,
+          0.06684348494918257,
+          0.0194407309064214
+        ],
+        "confidence": 0.5,
+        "text": "Gate 网络"
+      },
+      {
+        "boundingBox": [
+          0.3981481491481481,
+          0.3830227744513457,
+          0.09999999999999998,
+          0.0165631469979296
+        ],
+        "confidence": 1,
+        "text": "Neural Layer1"
+      },
+      {
+        "boundingBox": [
+          0.4944444434953704,
+          0.38302277419772257,
+          0.07592592592592595,
+          0.01863354037267073
+        ],
+        "confidence": 0.5,
+        "text": "（降维 512）"
+      },
+      {
+        "boundingBox": [
+          0.4814814819135803,
+          0.3105590062801932,
+          0.025925925925925908,
+          0.008281573498964856
+        ],
+        "confidence": 0.5,
+        "text": "concal"
+      },
+      {
+        "boundingBox": [
+          0.7222222223148148,
+          0.258799172015183,
+          0.020370370370370372,
+          0.010351966873705987
+        ],
+        "confidence": 0.5,
+        "text": "DCN"
+      },
+      {
+        "boundingBox": [
+          0.8833333324768519,
+          0.2505175982660456,
+          0.06851851851851853,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "氽弦韬似廉分揟建模"
+      },
+      {
+        "boundingBox": [
+          0.03325089390474563,
+          0.23361214650584494,
+          0.03349821302625869,
+          0.011036576691621502
+        ],
+        "confidence": 0.3,
+        "text": "OCN-mic"
+      },
+      {
+        "boundingBox": [
+          0.2518518519444444,
+          0.23602484470201124,
+          0.051851851851851816,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "SoNet特征选擇"
+      },
+      {
+        "boundingBox": [
+          0.4833333341203704,
+          0.23395445142339544,
+          0.06296296296296289,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "高燎稀邈交叉特征"
+      },
+      {
+        "boundingBox": [
+          0.7203703702777777,
+          0.22153209112916072,
+          0.024074074074074026,
+          0.008281573498964745
+        ],
+        "confidence": 0.5,
+        "text": "concat"
+      },
+      {
+        "boundingBox": [
+          0.5962962967283951,
+          0.20703933757763981,
+          0.025925925925925908,
+          0.010351966873705987
+        ],
+        "confidence": 1,
+        "text": "concat"
+      },
+      {
+        "boundingBox": [
+          0.8796296315311799,
+          0.18633540383022784,
+          0.020370368604306854,
+          0.006211180124223614
+        ],
+        "confidence": 0.3,
+        "text": "wuery"
+      },
+      {
+        "boundingBox": [
+          0.9351851854629629,
+          0.1863354037957211,
+          0.01666666666666672,
+          0.008281573498964856
+        ],
+        "confidence": 0.5,
+        "text": "itom"
+      },
+      {
+        "boundingBox": [
+          0.8703703730623598,
+          0.17598343690476193,
+          0.037037033504909944,
+          0.006211180124223614
+        ],
+        "confidence": 0.3,
+        "text": "emnoooding"
+      },
+      {
+        "boundingBox": [
+          0.9240740745601851,
+          0.17391304355590065,
+          0.03888888888888886,
+          0.010351966873705987
+        ],
+        "confidence": 0.5,
+        "text": "Embedding"
+      },
+      {
+        "boundingBox": [
+          0.5629629644135802,
+          0.0973084884057972,
+          0.09074074074074068,
+          0.012422360248447228
+        ],
+        "confidence": 0.5,
+        "text": "SDIM长序列建模+SIM建模"
+      },
+      {
+        "boundingBox": [
+          0.7962962974999999,
+          0.09730848871635622,
+          0.0722222222222223,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "MIHA-DIN短序列建模"
+      },
+      {
+        "boundingBox": [
+          0.1481481484567901,
+          0.08695652184265024,
+          0.018518518518518517,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "Mem"
+      },
+      {
+        "boundingBox": [
+          0.22037037,
+          0.0869565216614907,
+          0.029629629629629645,
+          0.010351966873705987
+        ],
+        "confidence": 0.5,
+        "text": "Context"
+      },
+      {
+        "boundingBox": [
+          0.30185185225308636,
+          0.08695652184265024,
+          0.02407407407407408,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "Quory"
+      },
+      {
+        "boundingBox": [
+          0.3907407410802469,
+          0.08695652184265024,
+          0.020370370370370372,
+          0.010351966873705987
+        ],
+        "confidence": 1,
+        "text": "User"
+      },
+      {
+        "boundingBox": [
+          0.14074074129629627,
+          0.07867494830917876,
+          0.033333333333333326,
+          0.008281573498964745
+        ],
+        "confidence": 0.3,
+        "text": "Features"
+      },
+      {
+        "boundingBox": [
+          0.21851851907407405,
+          0.07660455496894414,
+          0.033333333333333326,
+          0.010351966873706098
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "boundingBox": [
+          0.2981481477546296,
+          0.07660455478778472,
+          0.0314814814814815,
+          0.010351966873705987
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "boundingBox": [
+          0.38518518570987653,
+          0.07660455496894414,
+          0.031481481481481444,
+          0.010351966873706098
+        ],
+        "confidence": 1,
+        "text": "Features"
+      },
+      {
+        "boundingBox": [
+          0.5648148162654322,
+          0.020703933816425102,
+          0.08703703703703702,
+          0.012422360248447228
+        ],
+        "confidence": 0.3,
+        "text": "Long Tem User Behavior"
+      },
+      {
+        "boundingBox": [
+          0.7055555550694446,
+          0.016563146920289817,
+          0.03888888888888886,
+          0.010351966873705987
+        ],
+        "confidence": 0.5,
+        "text": "Target iem"
+      },
+      {
+        "boundingBox": [
+          0.8018518546055697,
+          0.022774327225672963,
+          0.05925925572713209,
+          0.010351966873705987
+        ],
+        "confidence": 0.3,
+        "text": "Shor Term User"
+      },
+      {
+        "boundingBox": [
+          0.7962962947685186,
+          0.014492753531657798,
+          0.06481481481481477,
+          0.006211180124223614
+        ],
+        "confidence": 0.3,
+        "text": "Bonaror Secuenee"
+      }
+    ],
+    "ocr_text": "CTR\nCTCVR\n到餐预估子网络FFN\n服务零售预估子网络FFN\n酒店预估子网络FFN\nAdaTT专家网络\nNeural Layer3\nNeural Layer2\nmeta信息\nGate 网络\nNeural Layer1\n（降维 512）\nconcal\nDCN\n氽弦韬似廉分揟建模\nOCN-mic\nSoNet特征选擇\n高燎稀邈交叉特征\nconcat\nconcat\nwuery\nitom\nemnoooding\nEmbedding\nSDIM长序列建模+SIM建模\nMIHA-DIN短序列建模\nMem\nContext\nQuory\nUser\nFeatures\nFeatures\nFeatures\nFeatures\nLong Tem User Behavior\nTarget iem\nShor Term User\nBonaror Secuenee",
+    "description": "| 2.2 技术方案中的配图，包含文字：CTR；CTCVR；到餐预估子网络FFN；服务零售预估子网络FFN；酒店预估子网络FFN；AdaTT专家网络；Neural Layer3；Neural Layer2；meta信息；Gate 网络；Neural Layer1；（降维 512）；concal；DCN；氽弦韬似廉分揟建模；OCN-mic；SoNet特征选擇；高燎稀邈交叉特征；concat；concat；wuery；itom；emnoooding；Embedding；SDIM长序列建模+SIM建模；MIHA-DIN短序列建模；Mem；Context；Quory；User",
+    "entities": [
+      "CTR",
+      "CTCVR",
+      "到餐预估子网络FFN",
+      "服务零售预估子网络FFN",
+      "酒店预估子网络FFN",
+      "AdaTT专家网络",
+      "Neural Layer3",
+      "Neural Layer2",
+      "meta信息",
+      "Gate 网络",
+      "Neural Layer1",
+      "（降维 512）",
+      "concal",
+      "DCN",
+      "氽弦韬似廉分揟建模",
+      "OCN-mic",
+      "SoNet特征选擇",
+      "高燎稀邈交叉特征",
+      "concat",
+      "wuery",
+      "itom",
+      "emnoooding",
+      "Embedding",
+      "SDIM长序列建模+SIM建模",
+      "MIHA-DIN短序列建模",
+      "Mem",
+      "Context",
+      "Quory",
+      "User",
+      "Features",
+      "Long Tem User Behavior",
+      "Target iem",
+      "Shor Term User",
+      "Bonaror Secuenee"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "cb441e4cc10b3887c461534e71008f9e0675bb1271254bc99323614e989297d5"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-008",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 8,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=aba72d5b&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DwtPia6Q4KG5OXgnBIlWWDavnwIlOsicP2e1nm1yIqQBoUzib5pb8cbZPxjicwibGJiaxMLsIliaf3QIudrra84ykXL3nD20EZ9QssGPk%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-008.png",
+    "section": "| 2.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.35740741122685177,
+          0.9465020579218107,
+          0.3055555555555555,
+          0.04115226337448552
+        ],
+        "confidence": 1,
+        "text": "不同分桶下曝光占比、点击占比、下单占比分布"
+      },
+      {
+        "boundingBox": [
+          0.12407407561111107,
+          0.8971193418106995,
+          0.15370370370370373,
+          0.03292181069958855
+        ],
+        "confidence": 0.5,
+        "text": "曝光占比=桶内样本量/总样本量"
+      },
+      {
+        "boundingBox": [
+          0.8703703707037037,
+          0.9094650206995885,
+          0.033333333333333326,
+          0.028806584362139898
+        ],
+        "confidence": 0.5,
+        "text": "37.25%"
+      },
+      {
+        "boundingBox": [
+          0.12407407211111113,
+          0.864197530617284,
+          0.19629629629629627,
+          0.03292181069958844
+        ],
+        "confidence": 0.5,
+        "text": "点击占比=桶内点击样本量/总点击样本量"
+      },
+      {
+        "boundingBox": [
+          0.05925926063611818,
+          0.8477366257201646,
+          0.029629627863566085,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "0.35-"
+      },
+      {
+        "boundingBox": [
+          0.12407407211111113,
+          0.83127572,
+          0.19629629629629627,
+          0.03292181069958844
+        ],
+        "confidence": 0.5,
+        "text": "下单占比=桶内下单样本量/总下单样本量"
+      },
+      {
+        "boundingBox": [
+          0.7925925920679013,
+          0.781893003909465,
+          0.031481481481481444,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "31.30%"
+      },
+      {
+        "boundingBox": [
+          0.05740740780092592,
+          0.7283950619341564,
+          0.03148148148148148,
+          0.03292181069958844
+        ],
+        "confidence": 0.3,
+        "text": "0.30-"
+      },
+      {
+        "boundingBox": [
+          0.6944444449691357,
+          0.6954732511659808,
+          0.031481481481481444,
+          0.024691358024691357
+        ],
+        "confidence": 0.5,
+        "text": "27.47%"
+      },
+      {
+        "boundingBox": [
+          0.05925926060525398,
+          0.6255144035665295,
+          0.02777777601171423,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "0.25-"
+      },
+      {
+        "boundingBox": [
+          0.7740740744675927,
+          0.5925925927469136,
+          0.031481481481481444,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "22. 71%"
+      },
+      {
+        "boundingBox": [
+          0.27777777725308644,
+          0.53909465,
+          0.0314814814814815,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "20. 27%"
+      },
+      {
+        "boundingBox": [
+          0.04629629672222222,
+          0.5061728397119342,
+          0.04259259259259259,
+          0.03703703703703709
+        ],
+        "confidence": 0.3,
+        "text": "此0.20-"
+      },
+      {
+        "boundingBox": [
+          0.20000000037037036,
+          0.5061728396604939,
+          0.029629629629629617,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "18. 75%"
+      },
+      {
+        "boundingBox": [
+          0.044444444277777787,
+          0.4814814813580247,
+          0.016666666666666656,
+          0.028806584362139898
+        ],
+        "confidence": 1,
+        "text": "占"
+      },
+      {
+        "boundingBox": [
+          0.7148148147222222,
+          0.4938271605581276,
+          0.02962962962962956,
+          0.020576131687242705
+        ],
+        "confidence": 0.5,
+        "text": "18.25%"
+      },
+      {
+        "boundingBox": [
+          0.05740740731481482,
+          0.39917695440329215,
+          0.031481481481481485,
+          0.03292181069958844
+        ],
+        "confidence": 0.3,
+        "text": "0.15-"
+      },
+      {
+        "boundingBox": [
+          0.6148148144212963,
+          0.3580246912037037,
+          0.031481481481481444,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "12.15%"
+      },
+      {
+        "boundingBox": [
+          0.6740740744675926,
+          0.36213991784979427,
+          0.031481481481481555,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "12.17%"
+      },
+      {
+        "boundingBox": [
+          0.43703703689814816,
+          0.32098765401234564,
+          0.029629629629629617,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "10.51%"
+      },
+      {
+        "boundingBox": [
+          0.8537037050188343,
+          0.3251028802469136,
+          0.029629627863566044,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "10. 74%"
+      },
+      {
+        "boundingBox": [
+          0.0555555551388889,
+          0.2880658434156379,
+          0.03333333333333333,
+          0.03292181069958855
+        ],
+        "confidence": 0.3,
+        "text": "0.10-"
+      },
+      {
+        "boundingBox": [
+          0.746296295925926,
+          0.3004115221536351,
+          0.03703703703703709,
+          0.028806584362139898
+        ],
+        "confidence": 0.3,
+        "text": "9.78%"
+      },
+      {
+        "boundingBox": [
+          0.5388888885185186,
+          0.28395061769547325,
+          0.025925925925925908,
+          0.024691358024691357
+        ],
+        "confidence": 0.5,
+        "text": "8. 71%"
+      },
+      {
+        "boundingBox": [
+          0.4592592595833333,
+          0.27572016476337446,
+          0.025925925925925908,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "B. 35%"
+      },
+      {
+        "boundingBox": [
+          0.12222222254629629,
+          0.2304526750514403,
+          0.02592592592592592,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "6. 25%"
+      },
+      {
+        "boundingBox": [
+          0.35921735050810777,
+          0.23434900395502678,
+          0.02600974330195671,
+          0.025129153404706783
+        ],
+        "confidence": 0.5,
+        "text": "6. 51%"
+      },
+      {
+        "boundingBox": [
+          0.5981481478472223,
+          0.21810699573045267,
+          0.024074074074074026,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "5. 76%"
+      },
+      {
+        "boundingBox": [
+          0.05925926060525398,
+          0.18518518545953366,
+          0.02777777601171423,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "0.05-"
+      },
+      {
+        "boundingBox": [
+          0.6370370370781894,
+          0.19753086408321896,
+          0.025925925925925908,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "4.85"
+      },
+      {
+        "boundingBox": [
+          0.2999999999259259,
+          0.1810699586419754,
+          0.025925925925925963,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "4. 10%"
+      },
+      {
+        "boundingBox": [
+          0.5574074072222223,
+          0.18106995843621398,
+          0.025925925925925908,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "4. 15%"
+      },
+      {
+        "boundingBox": [
+          0.8351851850997151,
+          0.1893004116017727,
+          0.02592592592592602,
+          0.020576131687242705
+        ],
+        "confidence": 0.5,
+        "text": "4.38%"
+      },
+      {
+        "boundingBox": [
+          0.22037037027777776,
+          0.1440329215020576,
+          0.025925925925925936,
+          0.024691358024691357
+        ],
+        "confidence": 0.5,
+        "text": "2.44%"
+      },
+      {
+        "boundingBox": [
+          0.3796296294444444,
+          0.1522633740740741,
+          0.025925925925925908,
+          0.024691358024691357
+        ],
+        "confidence": 0.5,
+        "text": "2. 83%"
+      },
+      {
+        "boundingBox": [
+          0.47777777912377245,
+          0.14403292194787376,
+          0.030555554672523744,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "2.45%."
+      },
+      {
+        "boundingBox": [
+          0.3203703706944444,
+          0.11111111131687235,
+          0.025925925925925908,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "0.90%"
+      },
+      {
+        "boundingBox": [
+          0.14011855370113355,
+          0.08959297461699844,
+          0.04754066820497868,
+          0.03480582767062712
+        ],
+        "confidence": 0.3,
+        "text": "9.50.00%"
+      },
+      {
+        "boundingBox": [
+          0.40000000032407407,
+          0.1069958849794238,
+          0.025925925925925908,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "0. 75%"
+      },
+      {
+        "boundingBox": [
+          0.24074074064814818,
+          0.09465020583480299,
+          0.025925925925925936,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "0. 10%"
+      },
+      {
+        "boundingBox": [
+          0.05925925969135801,
+          0.0740740743484225,
+          0.02592592592592592,
+          0.024691358024691357
+        ],
+        "confidence": 0.3,
+        "text": "0.00-"
+      },
+      {
+        "boundingBox": [
+          0.1481481483641975,
+          0.05349794259259255,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "B1"
+      },
+      {
+        "boundingBox": [
+          0.22592592583333332,
+          0.04938271633744851,
+          0.012962962962962954,
+          0.02880658436214001
+        ],
+        "confidence": 1,
+        "text": "B2"
+      },
+      {
+        "boundingBox": [
+          0.3055555553703704,
+          0.053497942232510254,
+          0.014814814814814836,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "B3"
+      },
+      {
+        "boundingBox": [
+          0.3851851850231482,
+          0.053497942232510254,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 1,
+        "text": "B4"
+      },
+      {
+        "boundingBox": [
+          0.46481481503086425,
+          0.05349794259259255,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 0.3,
+        "text": "B5"
+      },
+      {
+        "boundingBox": [
+          0.5444444442824075,
+          0.053497942232510254,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "B6"
+      },
+      {
+        "boundingBox": [
+          0.6240740739814814,
+          0.05349794253380358,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 1,
+        "text": "B7"
+      },
+      {
+        "boundingBox": [
+          0.703703703611111,
+          0.053497942558299094,
+          0.011111111111111183,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "B8"
+      },
+      {
+        "boundingBox": [
+          0.7814814813888888,
+          0.05349794253380358,
+          0.012962962962962954,
+          0.020576131687242816
+        ],
+        "confidence": 0.5,
+        "text": "B9"
+      },
+      {
+        "boundingBox": [
+          0.8574074073888889,
+          0.04938271633744851,
+          0.020370370370370372,
+          0.02880658436214001
+        ],
+        "confidence": 1,
+        "text": "B10"
+      },
+      {
+        "boundingBox": [
+          0.49814814837037036,
+          0.012345678683127526,
+          0.025925925925925908,
+          0.03292181069958855
+        ],
+        "confidence": 0.5,
+        "text": "分桶"
+      }
+    ],
+    "ocr_text": "不同分桶下曝光占比、点击占比、下单占比分布\n曝光占比=桶内样本量/总样本量\n37.25%\n点击占比=桶内点击样本量/总点击样本量\n0.35-\n下单占比=桶内下单样本量/总下单样本量\n31.30%\n0.30-\n27.47%\n0.25-\n22. 71%\n20. 27%\n此0.20-\n18. 75%\n占\n18.25%\n0.15-\n12.15%\n12.17%\n10.51%\n10. 74%\n0.10-\n9.78%\n8. 71%\nB. 35%\n6. 25%\n6. 51%\n5. 76%\n0.05-\n4.85\n4. 10%\n4. 15%\n4.38%\n2.44%\n2. 83%\n2.45%.\n0.90%\n9.50.00%\n0. 75%\n0. 10%\n0.00-\nB1\nB2\nB3\nB4\nB5\nB6\nB7\nB8\nB9\nB10\n分桶",
+    "description": "| 2.2 技术方案中的配图，包含文字：不同分桶下曝光占比、点击占比、下单占比分布；曝光占比=桶内样本量/总样本量；37.25%；点击占比=桶内点击样本量/总点击样本量；0.35-；下单占比=桶内下单样本量/总下单样本量；31.30%；0.30-；27.47%；0.25-；22. 71%；20. 27%；此0.20-；18. 75%；占；18.25%；0.15-；12.15%；12.17%；10.51%；10. 74%；0.10-；9.78%；8. 71%；B. 35%；6. 25%；6. 51%；5. 76%；0.05-；4.85",
+    "entities": [
+      "不同分桶下曝光占比、点击占比、下单占比分布",
+      "曝光占比=桶内样本量/总样本量",
+      "37.25%",
+      "点击占比=桶内点击样本量/总点击样本量",
+      "0.35-",
+      "下单占比=桶内下单样本量/总下单样本量",
+      "31.30%",
+      "0.30-",
+      "27.47%",
+      "0.25-",
+      "22. 71%",
+      "20. 27%",
+      "此0.20-",
+      "18. 75%",
+      "占",
+      "18.25%",
+      "0.15-",
+      "12.15%",
+      "12.17%",
+      "10.51%",
+      "10. 74%",
+      "0.10-",
+      "9.78%",
+      "8. 71%",
+      "B. 35%",
+      "6. 25%",
+      "6. 51%",
+      "5. 76%",
+      "0.05-",
+      "4.85",
+      "4. 10%",
+      "4. 15%",
+      "4.38%",
+      "2.44%",
+      "2. 83%",
+      "2.45%.",
+      "0.90%",
+      "9.50.00%",
+      "0. 75%",
+      "0. 10%",
+      "0.00-",
+      "B1",
+      "B2",
+      "B3",
+      "B4",
+      "B5",
+      "B6",
+      "B7",
+      "B8",
+      "B9",
+      "B10",
+      "分桶"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "39f6142b7ab7e7e1c427c63bed134a9198599b8e14d153ecad887a8068b82805"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-009",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 9,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=6d8ae118&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DwjxIcDcl1qsZlys0Lnza97nss5pfjiaKSicFZyyna1AUdEhwVxiaw6EyXDcfLibiajf9GmbWcxcvvaicicgZ08T6fdSGRXTf023OsbqI%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-009.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.45364808624452396,
+          0.905234983207035,
+          0.10566678930211953,
+          0.030500382425971417
+        ],
+        "confidence": 1,
+        "text": "训练数据构建"
+      },
+      {
+        "boundingBox": [
+          0.46664547447262417,
+          0.7491778917473353,
+          0.07967201515480327,
+          0.024555267992045327
+        ],
+        "confidence": 1,
+        "text": "五元组样本"
+      },
+      {
+        "boundingBox": [
+          0.12961194134579138,
+          0.7195576170622047,
+          0.08522056297019676,
+          0.027192043808271338
+        ],
+        "confidence": 1,
+        "text": "Prompt设计"
+      },
+      {
+        "boundingBox": [
+          0.4018518539444444,
+          0.7196765499730458,
+          0.2092592592592593,
+          0.02695417789757415
+        ],
+        "confidence": 0.3,
+        "text": "Query + POl-Pos + Deal-Pos"
+      },
+      {
+        "boundingBox": [
+          0.762962964047619,
+          0.719676550019253,
+          0.1518518518518518,
+          0.02695417789757415
+        ],
+        "confidence": 0.5,
+        "text": "Embedding基座模型"
+      },
+      {
+        "boundingBox": [
+          0.08333333444444443,
+          0.6900269543126685,
+          0.17777777777777778,
+          0.02695417789757415
+        ],
+        "confidence": 0.5,
+        "text": "精简信息陈述＋总结引导"
+      },
+      {
+        "boundingBox": [
+          0.42037036828703706,
+          0.6900269539757412,
+          0.16666666666666669,
+          0.02695417789757415
+        ],
+        "confidence": 0.5,
+        "text": "+ POI-Neg + Deal-Neg"
+      },
+      {
+        "boundingBox": [
+          0.7481481490185184,
+          0.6873315360916442,
+          0.1796296296296297,
+          0.029649595687331498
+        ],
+        "confidence": 0.3,
+        "text": "+ LORA微调（r=8, a=32）"
+      },
+      {
+        "boundingBox": [
+          0.4703703698809523,
+          0.6630727761262996,
+          0.06851851851851848,
+          0.02695417789757415
+        ],
+        "confidence": 1,
+        "text": "2766万条"
+      },
+      {
+        "boundingBox": [
+          0.47407407488425923,
+          0.5121293802223719,
+          0.06481481481481477,
+          0.0242587601078168
+        ],
+        "confidence": 1,
+        "text": "表征提取"
+      },
+      {
+        "boundingBox": [
+          0.39444444222222225,
+          0.48247978425876015,
+          0.22222222222222227,
+          0.02695417789757404
+        ],
+        "confidence": 1,
+        "text": "Last Special Token Embedding"
+      },
+      {
+        "boundingBox": [
+          0.3941663906282322,
+          0.45129301876488115,
+          0.2246089228877315,
+          0.03638255821084069
+        ],
+        "confidence": 1,
+        "text": "3个可学习token: query/poi/deal"
+      },
+      {
+        "boundingBox": [
+          0.7832487929368799,
+          0.31209058979271087,
+          0.08535426810935687,
+          0.028109925776479083
+        ],
+        "confidence": 1,
+        "text": "Triplet Loss"
+      },
+      {
+        "boundingBox": [
+          0.1351851862222222,
+          0.301886792560647,
+          0.10370370370370371,
+          0.02156334231805923
+        ],
+        "confidence": 0.5,
+        "text": "InfoNCE Loss"
+      },
+      {
+        "boundingBox": [
+          0.46481481472222225,
+          0.29919137439353105,
+          0.08333333333333331,
+          0.02695417789757404
+        ],
+        "confidence": 1,
+        "text": "MRL-E降维"
+      },
+      {
+        "boundingBox": [
+          0.7685185198842591,
+          0.28301886755390826,
+          0.11296296296296293,
+          0.02964959568733161
+        ],
+        "confidence": 0.5,
+        "text": "Q-POl-Pos/Neg"
+      },
+      {
+        "boundingBox": [
+          0.09259259145833339,
+          0.27493261485849063,
+          0.19074074074074077,
+          0.02425876010781669
+        ],
+        "confidence": 0.5,
+        "text": "Q-POI / Q-Deal / POl-Deal"
+      },
+      {
+        "boundingBox": [
+          0.40000000185185186,
+          0.2695417786051212,
+          0.21481481481481485,
+          0.02964959568733161
+        ],
+        "confidence": 1,
+        "text": "嵌套维度：［1024,512,256,128］"
+      },
+      {
+        "boundingBox": [
+          0.7648148138271605,
+          0.25606468993710696,
+          0.11851851851851847,
+          0.02695417789757415
+        ],
+        "confidence": 0.5,
+        "text": "Q-Deal-Pos/Neg"
+      },
+      {
+        "boundingBox": [
+          0.13148148057098769,
+          0.2452830187331535,
+          0.10925925925925928,
+          0.02695417789757415
+        ],
+        "confidence": 0.5,
+        "text": "in-batch负采样"
+      },
+      {
+        "boundingBox": [
+          0.44259259101851856,
+          0.24528301873315372,
+          0.12592592592592589,
+          0.02695417789757404
+        ],
+        "confidence": 1,
+        "text": "推理截取前128维"
+      },
+      {
+        "boundingBox": [
+          0.7830897122761681,
+          0.22889727015270533,
+          0.0839714050292969,
+          0.025465821320155957
+        ],
+        "confidence": 1,
+        "text": "margin=0.5"
+      },
+      {
+        "boundingBox": [
+          0.19814815330246904,
+          0.04851752032794254,
+          0.6185185185185186,
+          0.029649595687331498
+        ],
+        "confidence": 0.5,
+        "text": "总损失 = InfoNCE（Q-P） + InfoNCE（Q-D） + InfoNCE（P-D） + Triplet（Q,P） + Triplet（Q,D）"
+      }
+    ],
+    "ocr_text": "训练数据构建\n五元组样本\nPrompt设计\nQuery + POl-Pos + Deal-Pos\nEmbedding基座模型\n精简信息陈述＋总结引导\n+ POI-Neg + Deal-Neg\n+ LORA微调（r=8, a=32）\n2766万条\n表征提取\nLast Special Token Embedding\n3个可学习token: query/poi/deal\nTriplet Loss\nInfoNCE Loss\nMRL-E降维\nQ-POl-Pos/Neg\nQ-POI / Q-Deal / POl-Deal\n嵌套维度：［1024,512,256,128］\nQ-Deal-Pos/Neg\nin-batch负采样\n推理截取前128维\nmargin=0.5\n总损失 = InfoNCE（Q-P） + InfoNCE（Q-D） + InfoNCE（P-D） + Triplet（Q,P） + Triplet（Q,D）",
+    "description": "| 3.2 技术方案中的配图，包含文字：训练数据构建；五元组样本；Prompt设计；Query + POl-Pos + Deal-Pos；Embedding基座模型；精简信息陈述＋总结引导；+ POI-Neg + Deal-Neg；+ LORA微调（r=8, a=32）；2766万条；表征提取；Last Special Token Embedding；3个可学习token: query/poi/deal；Triplet Loss；InfoNCE Loss；MRL-E降维；Q-POl-Pos/Neg；Q-POI / Q-Deal / POl-Deal；嵌套维度：［1024,512,256,128］；Q-Deal-Pos/Neg；in-batch负采样；推理截取前128维；margin=0.5；总损失 = InfoNCE（Q-P） + InfoNCE（Q-D） + InfoNCE（P-D） + Triplet（Q,P） + Triplet（Q,D）",
+    "entities": [
+      "训练数据构建",
+      "五元组样本",
+      "Prompt设计",
+      "Query + POl-Pos + Deal-Pos",
+      "Embedding基座模型",
+      "精简信息陈述＋总结引导",
+      "+ POI-Neg + Deal-Neg",
+      "+ LORA微调（r=8, a=32）",
+      "2766万条",
+      "表征提取",
+      "Last Special Token Embedding",
+      "3个可学习token: query/poi/deal",
+      "Triplet Loss",
+      "InfoNCE Loss",
+      "MRL-E降维",
+      "Q-POl-Pos/Neg",
+      "Q-POI / Q-Deal / POl-Deal",
+      "嵌套维度：［1024,512,256,128］",
+      "Q-Deal-Pos/Neg",
+      "in-batch负采样",
+      "推理截取前128维",
+      "margin=0.5",
+      "总损失 = InfoNCE（Q-P） + InfoNCE（Q-D） + InfoNCE（P-D） + Triplet（Q,P） + Triplet（Q,D）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "aa0472b0d6b7df0301b5afc97b231ccc703a7e1986a4c4fd025453621d7ad032"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-010",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 10,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=5fd66a65&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DzankZuYhibicgRWFQqljhHQlMd7ryicIZVyUq4hVkMic3hSofxOyOYHibMGN8WXV61Z6jLwc7pObUdhfnGICztcakYDlamGBGVyLEY%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-010.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.012962963194444444,
+          0.8467741925403226,
+          0.05925925925925926,
+          0.08064516129032262
+        ],
+        "confidence": 0.3,
+        "text": "Prompt 2］"
+      },
+      {
+        "boundingBox": [
+          0.3332297532754641,
+          0.8532226273634146,
+          0.052059011106137865,
+          0.0677482927999189
+        ],
+        "confidence": 0.5,
+        "text": "I2I-AUC"
+      },
+      {
+        "boundingBox": [
+          0.43703703810185185,
+          0.8467741941532259,
+          0.0851851851851852,
+          0.08064516129032251
+        ],
+        "confidence": 0.3,
+        "text": "Q2I-Corr-AUC"
+      },
+      {
+        "boundingBox": [
+          0.5369824902579957,
+          0.8456180431719781,
+          0.08899798216643162,
+          0.08295745618881711
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Click-AUC"
+      },
+      {
+        "boundingBox": [
+          0.6425925935740741,
+          0.8548387101612903,
+          0.0981481481481481,
+          0.08064516129032262
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Order-AUC"
+      },
+      {
+        "boundingBox": [
+          0.7481481471111111,
+          0.8548387092741936,
+          0.10370370370370374,
+          0.07258064516129026
+        ],
+        "confidence": 1,
+        "text": "Q2I-Click-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.8796296287808643,
+          0.8548387092069892,
+          0.10185185185185197,
+          0.07258064516129037
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Order-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.335185185787037,
+          0.7096774197580644,
+          0.04814814814814816,
+          0.06451612903225823
+        ],
+        "confidence": 1,
+        "text": "0.9597"
+      },
+      {
+        "boundingBox": [
+          0.43513414989689503,
+          0.7010089047780979,
+          0.050102071408872295,
+          0.08185315901233303
+        ],
+        "confidence": 0.5,
+        "text": "0.8952"
+      },
+      {
+        "boundingBox": [
+          0.5388561174826241,
+          0.7012145784463577,
+          0.046361838446723036,
+          0.07337729392513148
+        ],
+        "confidence": 1,
+        "text": "0.6659"
+      },
+      {
+        "boundingBox": [
+          0.6462551949998322,
+          0.7011452186737449,
+          0.0482303513420953,
+          0.08158053121259135
+        ],
+        "confidence": 1,
+        "text": "0.7630"
+      },
+      {
+        "boundingBox": [
+          0.7536268707792003,
+          0.7006728529608974,
+          0.04644996148568614,
+          0.07446074485778809
+        ],
+        "confidence": 1,
+        "text": "0.7520"
+      },
+      {
+        "boundingBox": [
+          0.8796059958776303,
+          0.7013549146959158,
+          0.04634356322111899,
+          0.0811611375501079
+        ],
+        "confidence": 0.5,
+        "text": "0.7713"
+      },
+      {
+        "boundingBox": [
+          0.025925927666666626,
+          0.6774193552419354,
+          0.17407407407407408,
+          0.07258064516129037
+        ],
+        "confidence": 0.5,
+        "text": "～ 精简信息+总结词（最终方案）"
+      },
+      {
+        "boundingBox": [
+          0.22407407430555554,
+          0.6854838716733871,
+          0.037037037037037035,
+          0.056451612903225756
+        ],
+        "confidence": 0.3,
+        "text": "SQL ~"
+      },
+      {
+        "boundingBox": [
+          0.26666666589506177,
+          0.6854838705645161,
+          0.04629629629629628,
+          0.05645161290322587
+        ],
+        "confidence": 0.3,
+        "text": "U 口"
+      },
+      {
+        "boundingBox": [
+          0.3350975158687598,
+          0.49896926589391943,
+          0.044619782765706384,
+          0.07464211217818717
+        ],
+        "confidence": 0.5,
+        "text": "0.9602"
+      },
+      {
+        "boundingBox": [
+          0.4351677205453629,
+          0.5078612150248216,
+          0.044479373649314646,
+          0.07298724882064334
+        ],
+        "confidence": 0.5,
+        "text": "0.8655"
+      },
+      {
+        "boundingBox": [
+          0.5388888892195768,
+          0.5000000004608295,
+          0.04629629629629628,
+          0.08064516129032262
+        ],
+        "confidence": 0.5,
+        "text": "0.6341"
+      },
+      {
+        "boundingBox": [
+          0.6460681618385137,
+          0.4974476910801403,
+          0.046752565878408925,
+          0.08574977613264523
+        ],
+        "confidence": 0.3,
+        "text": "0.7120"
+      },
+      {
+        "boundingBox": [
+          0.7537037038518518,
+          0.4999999992741936,
+          0.04444444444444451,
+          0.07258064516129026
+        ],
+        "confidence": 0.5,
+        "text": "0.7438"
+      },
+      {
+        "boundingBox": [
+          0.8796296293121693,
+          0.5080645157834102,
+          0.0444444444444444,
+          0.06451612903225812
+        ],
+        "confidence": 1,
+        "text": "0.7606"
+      },
+      {
+        "boundingBox": [
+          0.025925926600529094,
+          0.47580645201612903,
+          0.09444444444444444,
+          0.07258064516129037
+        ],
+        "confidence": 0.3,
+        "text": "～ 简单任务指令"
+      },
+      {
+        "boundingBox": [
+          0.2240443944889459,
+          0.4751105933016756,
+          0.0889482498168945,
+          0.07397235593488138
+        ],
+        "confidence": 0.3,
+        "text": "SQL、 t9"
+      },
+      {
+        "boundingBox": [
+          0.4351851848544973,
+          0.30645161244239627,
+          0.046296296296296335,
+          0.08064516129032262
+        ],
+        "confidence": 0.3,
+        "text": "0.8711"
+      },
+      {
+        "boundingBox": [
+          0.538888888558201,
+          0.30645161244239627,
+          0.04629629629629628,
+          0.08064516129032262
+        ],
+        "confidence": 1,
+        "text": "0.6381"
+      },
+      {
+        "boundingBox": [
+          0.644444444845679,
+          0.30645161330645154,
+          0.04814814814814816,
+          0.08064516129032262
+        ],
+        "confidence": 0.5,
+        "text": "0.7125"
+      },
+      {
+        "boundingBox": [
+          0.7536464318263311,
+          0.30582397680570705,
+          0.04641083964595094,
+          0.08190043510929224
+        ],
+        "confidence": 0.5,
+        "text": "0.7436"
+      },
+      {
+        "boundingBox": [
+          0.3351851855709877,
+          0.30645161330645165,
+          0.04629629629629628,
+          0.06451612903225812
+        ],
+        "confidence": 1,
+        "text": "0.9592"
+      },
+      {
+        "boundingBox": [
+          0.8796296293121693,
+          0.30645161255760367,
+          0.0444444444444444,
+          0.06451612903225812
+        ],
+        "confidence": 1,
+        "text": "0.7557"
+      },
+      {
+        "boundingBox": [
+          0.025925926444444435,
+          0.27419354766129034,
+          0.1074074074074074,
+          0.07258064516129026
+        ],
+        "confidence": 0.3,
+        "text": "～ 丰富版任务指令"
+      },
+      {
+        "boundingBox": [
+          0.22407407456018522,
+          0.2903225809475807,
+          0.03888888888888889,
+          0.056451612903225756
+        ],
+        "confidence": 0.3,
+        "text": "SQL ~"
+      },
+      {
+        "boundingBox": [
+          0.26666666714814813,
+          0.27419354879032254,
+          0.04814814814814811,
+          0.07258064516129037
+        ],
+        "confidence": 0.3,
+        "text": "tl 口"
+      },
+      {
+        "boundingBox": [
+          0.33518518564814814,
+          0.10483871008064516,
+          0.04629629629629628,
+          0.07258064516129026
+        ],
+        "confidence": 1,
+        "text": "0.9595"
+      },
+      {
+        "boundingBox": [
+          0.4351851855864197,
+          0.10483871008064516,
+          0.04814814814814816,
+          0.08064516129032251
+        ],
+        "confidence": 1,
+        "text": "0.8942"
+      },
+      {
+        "boundingBox": [
+          0.5387408253622513,
+          0.10319850867988767,
+          0.04659242276792175,
+          0.08392555867471996
+        ],
+        "confidence": 0.5,
+        "text": "0.6649"
+      },
+      {
+        "boundingBox": [
+          0.6462962966820986,
+          0.10483871008064516,
+          0.04629629629629628,
+          0.08064516129032251
+        ],
+        "confidence": 0.5,
+        "text": "0.7628"
+      },
+      {
+        "boundingBox": [
+          0.7536556240998166,
+          0.10431236565826996,
+          0.0463924549244068,
+          0.08169784853535311
+        ],
+        "confidence": 0.5,
+        "text": "0.7514"
+      },
+      {
+        "boundingBox": [
+          0.8796296299603175,
+          0.10483871008064516,
+          0.04629629629629628,
+          0.07258064516129026
+        ],
+        "confidence": 1,
+        "text": "0.7721"
+      },
+      {
+        "boundingBox": [
+          0.040740741882716036,
+          0.08064516169354852,
+          0.1222222222222222,
+          0.06451612903225801
+        ],
+        "confidence": 0.3,
+        "text": "仅信息陈述（无引导）"
+      },
+      {
+        "boundingBox": [
+          0.2240740747530864,
+          0.08870967782258077,
+          0.040740740740740716,
+          0.056451612903225756
+        ],
+        "confidence": 0.3,
+        "text": "SQL~"
+      },
+      {
+        "boundingBox": [
+          0.2703703696604939,
+          0.08870967701612897,
+          0.04259259259259257,
+          0.056451612903225756
+        ],
+        "confidence": 0.3,
+        "text": "1 口"
+      }
+    ],
+    "ocr_text": "Prompt 2］\nI2I-AUC\nQ2I-Corr-AUC\nQ2I-Click-AUC\nQ2I-Order-AUC\nQ2I-Click-NDCG\nQ2I-Order-NDCG\n0.9597\n0.8952\n0.6659\n0.7630\n0.7520\n0.7713\n～ 精简信息+总结词（最终方案）\nSQL ~\nU 口\n0.9602\n0.8655\n0.6341\n0.7120\n0.7438\n0.7606\n～ 简单任务指令\nSQL、 t9\n0.8711\n0.6381\n0.7125\n0.7436\n0.9592\n0.7557\n～ 丰富版任务指令\nSQL ~\ntl 口\n0.9595\n0.8942\n0.6649\n0.7628\n0.7514\n0.7721\n仅信息陈述（无引导）\nSQL~\n1 口",
+    "description": "| 3.2 技术方案中的配图，包含文字：Prompt 2］；I2I-AUC；Q2I-Corr-AUC；Q2I-Click-AUC；Q2I-Order-AUC；Q2I-Click-NDCG；Q2I-Order-NDCG；0.9597；0.8952；0.6659；0.7630；0.7520；0.7713；～ 精简信息+总结词（最终方案）；SQL ~；U 口；0.9602；0.8655；0.6341；0.7120；0.7438；0.7606；～ 简单任务指令；SQL、 t9；0.8711；0.6381；0.7125；0.7436；0.9592；0.7557",
+    "entities": [
+      "Prompt 2］",
+      "I2I-AUC",
+      "Q2I-Corr-AUC",
+      "Q2I-Click-AUC",
+      "Q2I-Order-AUC",
+      "Q2I-Click-NDCG",
+      "Q2I-Order-NDCG",
+      "0.9597",
+      "0.8952",
+      "0.6659",
+      "0.7630",
+      "0.7520",
+      "0.7713",
+      "～ 精简信息+总结词（最终方案）",
+      "SQL ~",
+      "U 口",
+      "0.9602",
+      "0.8655",
+      "0.6341",
+      "0.7120",
+      "0.7438",
+      "0.7606",
+      "～ 简单任务指令",
+      "SQL、 t9",
+      "0.8711",
+      "0.6381",
+      "0.7125",
+      "0.7436",
+      "0.9592",
+      "0.7557",
+      "～ 丰富版任务指令",
+      "tl 口",
+      "0.9595",
+      "0.8942",
+      "0.6649",
+      "0.7628",
+      "0.7514",
+      "0.7721",
+      "仅信息陈述（无引导）",
+      "SQL~",
+      "1 口"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0661ccae38846e0e7d1501497bc62fc90f9b5459aa8a14c877c62ed57d6f8dfe"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-011",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 11,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=4e958d9b&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DxUgerGxPl58ibSrPqG5MY3lwa6fb2R6APvMZQaDoyicbJkb7fO2GzHbXnZmuT0Igt2OP8nR5QTPTt93IlwsqVD8E4ZUwLlXu2ia0%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-011.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01851851876157407,
+          0.8080000004,
+          0.03888888888888889,
+          0.09599999999999997
+        ],
+        "confidence": 1,
+        "text": "配置"
+      },
+      {
+        "boundingBox": [
+          0.1574074082222222,
+          0.8080000009599999,
+          0.13333333333333336,
+          0.09600000000000009
+        ],
+        "confidence": 1,
+        "text": "Q2D-Corr-AUC"
+      },
+      {
+        "boundingBox": [
+          0.2958333358333332,
+          0.8035714319417318,
+          0.15000000000000002,
+          0.10842856979370119
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Click-AUC"
+      },
+      {
+        "boundingBox": [
+          0.4722222233148147,
+          0.8080000009599999,
+          0.13518518518518524,
+          0.09600000000000009
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Order-AUC"
+      },
+      {
+        "boundingBox": [
+          0.6351851843930041,
+          0.8079999996,
+          0.1425925925925926,
+          0.08799999999999997
+        ],
+        "confidence": 1,
+        "text": "Q2I-Click-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.822222220949074,
+          0.8080000010999999,
+          0.15000000000000002,
+          0.08800000000000008
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Order-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.018468271219641938,
+          0.5829765858306943,
+          0.10380419978389033,
+          0.09804682922363273
+        ],
+        "confidence": 0.3,
+        "text": "引入 CPV 信"
+      },
+      {
+        "boundingBox": [
+          0.15549507829121928,
+          0.5752720709676756,
+          0.06678762082700376,
+          0.10545585250854494
+        ],
+        "confidence": 1,
+        "text": "0.9430"
+      },
+      {
+        "boundingBox": [
+          0.31278296259255856,
+          0.5738685650294162,
+          0.06517481627287686,
+          0.10826286315917966
+        ],
+        "confidence": 1,
+        "text": "0.6943"
+      },
+      {
+        "boundingBox": [
+          0.4703245061162839,
+          0.5834022793076197,
+          0.06675839600739658,
+          0.0971954421997071
+        ],
+        "confidence": 1,
+        "text": "0.7712"
+      },
+      {
+        "boundingBox": [
+          0.6332841064950469,
+          0.5833581890211178,
+          0.06676512117739075,
+          0.09728362274169922
+        ],
+        "confidence": 1,
+        "text": "0.7548"
+      },
+      {
+        "boundingBox": [
+          0.8184360433491208,
+          0.5750255710357484,
+          0.07053532070583768,
+          0.1139488525390625
+        ],
+        "confidence": 1,
+        "text": "0.7786"
+      },
+      {
+        "boundingBox": [
+          0.018518518425925924,
+          0.4560000006857142,
+          0.020370370370370372,
+          0.09599999999999997
+        ],
+        "confidence": 1,
+        "text": "息"
+      },
+      {
+        "boundingBox": [
+          0.018389045905916022,
+          0.2293180775136604,
+          0.10396265100549767,
+          0.10136383819580086
+        ],
+        "confidence": 0.3,
+        "text": "不加 CPV 信"
+      },
+      {
+        "boundingBox": [
+          0.15370370351851853,
+          0.20799999893333332,
+          0.07037037037037036,
+          0.128
+        ],
+        "confidence": 1,
+        "text": "0.9432"
+      },
+      {
+        "boundingBox": [
+          0.31099575514269334,
+          0.21476003366216578,
+          0.06874922999629268,
+          0.12247993469238283
+        ],
+        "confidence": 1,
+        "text": "0.6943"
+      },
+      {
+        "boundingBox": [
+          0.46848589277660585,
+          0.21563257638351707,
+          0.072287474738227,
+          0.12073484039306637
+        ],
+        "confidence": 0.5,
+        "text": "0.7748"
+      },
+      {
+        "boundingBox": [
+          0.6332740252690403,
+          0.22331931606165467,
+          0.06863713441071684,
+          0.11336136245727546
+        ],
+        "confidence": 1,
+        "text": "0.7552"
+      },
+      {
+        "boundingBox": [
+          0.8184863331746607,
+          0.2156375463332636,
+          0.07228659170645257,
+          0.12072490692138671
+        ],
+        "confidence": 1,
+        "text": "0.7814"
+      },
+      {
+        "boundingBox": [
+          0.01851851861111111,
+          0.09599999904,
+          0.020370370370370372,
+          0.09599999999999997
+        ],
+        "confidence": 1,
+        "text": "息"
+      }
+    ],
+    "ocr_text": "配置\nQ2D-Corr-AUC\nQ2I-Click-AUC\nQ2I-Order-AUC\nQ2I-Click-NDCG\nQ2I-Order-NDCG\n引入 CPV 信\n0.9430\n0.6943\n0.7712\n0.7548\n0.7786\n息\n不加 CPV 信\n0.9432\n0.6943\n0.7748\n0.7552\n0.7814\n息",
+    "description": "| 3.2 技术方案中的配图，包含文字：配置；Q2D-Corr-AUC；Q2I-Click-AUC；Q2I-Order-AUC；Q2I-Click-NDCG；Q2I-Order-NDCG；引入 CPV 信；0.9430；0.6943；0.7712；0.7548；0.7786；息；不加 CPV 信；0.9432；0.6943；0.7748；0.7552；0.7814；息",
+    "entities": [
+      "配置",
+      "Q2D-Corr-AUC",
+      "Q2I-Click-AUC",
+      "Q2I-Order-AUC",
+      "Q2I-Click-NDCG",
+      "Q2I-Order-NDCG",
+      "引入 CPV 信",
+      "0.9430",
+      "0.6943",
+      "0.7712",
+      "0.7548",
+      "0.7786",
+      "息",
+      "不加 CPV 信",
+      "0.9432",
+      "0.7748",
+      "0.7552",
+      "0.7814"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e866527cdf60f4e8caf36e28ebd4e0a230e80a5d478f6317b6c4b951869d47b2"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-012",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 12,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=04f751ce&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0Dz7YzGp9mJcbKicUkBf5dz2EnZIl1e5PAXNrhs9zvuEJ75elk8dWdp3sbxaGY2FjrETpCazURmRbTn0FYtgh2weRaCfZD0k4Z9I%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-012.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.32390745470437016,
+          0.885542168373494,
+          0.03084832904884316,
+          0.0662650602409639
+        ],
+        "confidence": 0.3,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.4755784071612192,
+          0.8072289164802066,
+          0.32904884318766064,
+          0.11445783132530118
+        ],
+        "confidence": 0.3,
+        "text": "exp（sim（ai,Pi）/r）"
+      },
+      {
+        "boundingBox": [
+          0.2699228793059126,
+          0.8313253004819278,
+          0.023136246786632342,
+          0.07228915662650603
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.3110539840902599,
+          0.7349397598058902,
+          0.11825192802056556,
+          0.13855421686746983
+        ],
+        "confidence": 0.3,
+        "text": "〉l0g"
+      },
+      {
+        "boundingBox": [
+          0.06414141452211775,
+          0.7455552898223945,
+          0.15963491130917115,
+          0.08117857324071664
+        ],
+        "confidence": 0.3,
+        "text": "InfoNCE ="
+      },
+      {
+        "boundingBox": [
+          0.43958869305912585,
+          0.6566265062650603,
+          0.4113110539845759,
+          0.14457831325301207
+        ],
+        "confidence": 0.3,
+        "text": "2j1 exp（simn（ai,Pj）/r）"
+      },
+      {
+        "boundingBox": [
+          0.26221079705976863,
+          0.7048192765813253,
+          0.03856041131105398,
+          0.08433734939759041
+        ],
+        "confidence": 0.5,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.313624679012119,
+          0.6626506027108434,
+          0.048843187660668363,
+          0.054216867469879526
+        ],
+        "confidence": 1,
+        "text": "2=1"
+      },
+      {
+        "boundingBox": [
+          0.3239074548843188,
+          0.5963855425828313,
+          0.03084832904884316,
+          0.0662650602409639
+        ],
+        "confidence": 0.5,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.47814910299914304,
+          0.5240963859437751,
+          0.3290488431876607,
+          0.10843373493975905
+        ],
+        "confidence": 0.3,
+        "text": "exp（sim（qi, dj）/r）"
+      },
+      {
+        "boundingBox": [
+          0.2699228790167095,
+          0.5481927719879518,
+          0.023136246786632397,
+          0.07228915662650603
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.3470437010025707,
+          0.4759036143373494,
+          0.07969151670951158,
+          0.07228915662650603
+        ],
+        "confidence": 0.3,
+        "text": "，Log"
+      },
+      {
+        "boundingBox": [
+          0.059125962050128586,
+          0.46385542138554214,
+          0.15681233933161953,
+          0.07228915662650603
+        ],
+        "confidence": 0.3,
+        "text": "•InfoNCE="
+      },
+      {
+        "boundingBox": [
+          0.26221079704370176,
+          0.41566265,
+          0.03856041131105398,
+          0.08433734939759041
+        ],
+        "confidence": 0.5,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.43958869305912585,
+          0.36746988,
+          0.4113110539845759,
+          0.12048192771084343
+        ],
+        "confidence": 0.3,
+        "text": "Lj=i exp（sim（ai, dj）/r）"
+      },
+      {
+        "boundingBox": [
+          0.313624679012119,
+          0.3734939762048193,
+          0.048843187660668363,
+          0.054216867469879526
+        ],
+        "confidence": 1,
+        "text": "2=1"
+      },
+      {
+        "boundingBox": [
+          0.31876606696658094,
+          0.3072289151893288,
+          0.02827763496143959,
+          0.06626506024096379
+        ],
+        "confidence": 0.5,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.47043701457583553,
+          0.23493975867469885,
+          0.3419023136246787,
+          0.10843373493975905
+        ],
+        "confidence": 0.3,
+        "text": "exp（sim（Pi,d）/T）"
+      },
+      {
+        "boundingBox": [
+          0.2647814908483291,
+          0.2590361453012048,
+          0.020565552699228773,
+          0.07228915662650603
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.3084832902599257,
+          0.1566265053212852,
+          0.11311053984575836,
+          0.12650602409638556
+        ],
+        "confidence": 0.3,
+        "text": "210g"
+      },
+      {
+        "boundingBox": [
+          0.046272495983290425,
+          0.18072289216867465,
+          0.19280205655526994,
+          0.06024096385542166
+        ],
+        "confidence": 0.3,
+        "text": "-InfoNCE 一-"
+      },
+      {
+        "boundingBox": [
+          0.4286798910451723,
+          0.07908093497472446,
+          0.4276361931259039,
+          0.1628077116357275
+        ],
+        "confidence": 0.3,
+        "text": "2g」 exp（sim（Pf, d，）/ ）"
+      },
+      {
+        "boundingBox": [
+          0.2544987143775248,
+          0.12650602375215136,
+          0.03856041131105398,
+          0.08433734939759041
+        ],
+        "confidence": 0.5,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.3059125961118252,
+          0.08433734871987952,
+          0.048843187660668363,
+          0.054216867469879526
+        ],
+        "confidence": 1,
+        "text": "2=1"
+      }
+    ],
+    "ocr_text": "N\nexp（sim（ai,Pi）/r）\n1\n〉l0g\nInfoNCE =\n2j1 exp（simn（ai,Pj）/r）\nN\n2=1\nN\nexp（sim（qi, dj）/r）\n1\n，Log\n•InfoNCE=\nN\nLj=i exp（sim（ai, dj）/r）\n2=1\nN\nexp（sim（Pi,d）/T）\n1\n210g\n-InfoNCE 一-\n2g」 exp（sim（Pf, d，）/ ）\nN\n2=1",
+    "description": "| 3.2 技术方案中的配图，包含文字：N；exp（sim（ai,Pi）/r）；1；〉l0g；InfoNCE =；2j1 exp（simn（ai,Pj）/r）；N；2=1；N；exp（sim（qi, dj）/r）；1；，Log；•InfoNCE=；N；Lj=i exp（sim（ai, dj）/r）；2=1；N；exp（sim（Pi,d）/T）；1；210g；-InfoNCE 一-；2g」 exp（sim（Pf, d，）/ ）；N；2=1",
+    "entities": [
+      "N",
+      "exp（sim（ai,Pi）/r）",
+      "1",
+      "〉l0g",
+      "InfoNCE =",
+      "2j1 exp（simn（ai,Pj）/r）",
+      "2=1",
+      "exp（sim（qi, dj）/r）",
+      "，Log",
+      "•InfoNCE=",
+      "Lj=i exp（sim（ai, dj）/r）",
+      "exp（sim（Pi,d）/T）",
+      "210g",
+      "-InfoNCE 一-",
+      "2g」 exp（sim（Pf, d，）/ ）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "977621425157adffa920e7fb2a7cfba04af73957cfa33537d40020c5c1819fdf"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-013",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 13,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=9161fe7f&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0DyIEmV5ibQ6eRIiaUaCQP5Lyj4WwcOIhIZmibSVpibZHAsUwDZ2NLNA34giaoW3rjmjIKkDJE9eicKXeS6MM8kGjmGySc1ibia1LicVMgC8%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-013.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02222222550264545,
+          0.6794871803113554,
+          0.4592592592592592,
+          0.1923076923076923
+        ],
+        "confidence": 0.3,
+        "text": "其中，qi为 query 嵌入，P才为对应的POI 正样本嵌入"
+      },
+      {
+        "boundingBox": [
+          0.022222224664351815,
+          0.07692307764423079,
+          0.3907407407407407,
+          0.1923076923076923
+        ],
+        "confidence": 0.3,
+        "text": "P；为batch 内负采样 POI样本，sim（a, b）="
+      }
+    ],
+    "ocr_text": "其中，qi为 query 嵌入，P才为对应的POI 正样本嵌入\nP；为batch 内负采样 POI样本，sim（a, b）=",
+    "description": "| 3.2 技术方案中的配图，包含文字：其中，qi为 query 嵌入，P才为对应的POI 正样本嵌入；P；为batch 内负采样 POI样本，sim（a, b）=",
+    "entities": [
+      "其中，qi为 query 嵌入，P才为对应的POI 正样本嵌入",
+      "P；为batch 内负采样 POI样本，sim（a, b）="
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b5ac94480464ee5eb57b32e0eaec7110c8b79b1bf3e597c4b16655108c1e8720"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-014",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 14,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=24d6fb21&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DxSTjHGqwAeTdfMSqTct8QzPa9TOiaOJlLRgoGQPNl00peHjvnib9CsI9v03jT1BcYatNYgReYJqzJ24Etz10nf91yrBAev4xo3I%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-014.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.14259259249999998,
+          0.8880000005333333,
+          0.014814814814814808,
+          0.06400000000000006
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.11481481472222223,
+          0.84800000064,
+          0.009259259259259259,
+          0.06399999999999995
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.13333333951388868,
+          0.7678571469694592,
+          0.37083333333333335,
+          0.12499999237060544
+        ],
+        "confidence": 0.3,
+        "text": "厂max（0,a-p-a-pil≥+m）"
+      },
+      {
+        "boundingBox": [
+          0.020370370379629632,
+          0.80799999968,
+          0.03518518518518518,
+          0.06399999999999995
+        ],
+        "confidence": 0.3,
+        "text": "~2,5"
+      },
+      {
+        "boundingBox": [
+          0.02037036967592594,
+          0.752,
+          0.05555555555555555,
+          0.06400000000000006
+        ],
+        "confidence": 0.3,
+        "text": "~Triplet"
+      },
+      {
+        "boundingBox": [
+          0.10925925935185185,
+          0.7119999993714285,
+          0.020370370370370372,
+          0.08800000000000008
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.1388888891111111,
+          0.6640000004,
+          0.022222222222222227,
+          0.05600000000000005
+        ],
+        "confidence": 0.3,
+        "text": "2=1"
+      },
+      {
+        "boundingBox": [
+          0.14074074064814815,
+          0.6000000007199999,
+          0.016666666666666663,
+          0.07200000000000006
+        ],
+        "confidence": 0.3,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.11481481472222223,
+          0.56000000064,
+          0.009259259259259259,
+          0.06399999999999995
+        ],
+        "confidence": 0.5,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.13662041198439673,
+          0.44646033629211046,
+          0.36744161535192416,
+          0.17068817138671877
+        ],
+        "confidence": 0.3,
+        "text": "〉max（0,la：-dl2-la：-dl2+m）"
+      },
+      {
+        "boundingBox": [
+          0.02222222219907407,
+          0.5199999996,
+          0.03333333333333333,
+          0.06400000000000006
+        ],
+        "confidence": 0.3,
+        "text": "26,L"
+      },
+      {
+        "boundingBox": [
+          0.022222221574074087,
+          0.46399999999999997,
+          0.05185185185185185,
+          0.06400000000000006
+        ],
+        "confidence": 0.3,
+        "text": "~Triplet"
+      },
+      {
+        "boundingBox": [
+          0.10925925918209876,
+          0.4240000007333333,
+          0.020370370370370358,
+          0.08799999999999997
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.13518518546296296,
+          0.3760000003999999,
+          0.02777777777777779,
+          0.05600000000000005
+        ],
+        "confidence": 1,
+        "text": "2=1"
+      },
+      {
+        "boundingBox": [
+          0.01296295076388916,
+          0.05599999980000003,
+          0.9759259259259258,
+          0.11199999999999999
+        ],
+        "confidence": 0.3,
+        "text": "其中，Pi和d，分别为 PO！和 Deal 的难负样本嵌入，m 为 margin 超参数（实验设置为0.5（6］），1•为欧氏距离。"
+      }
+    ],
+    "ocr_text": "N\n1\n厂max（0,a-p-a-pil≥+m）\n~2,5\n~Triplet\nN\n2=1\nN\n1\n〉max（0,la：-dl2-la：-dl2+m）\n26,L\n~Triplet\nN\n2=1\n其中，Pi和d，分别为 PO！和 Deal 的难负样本嵌入，m 为 margin 超参数（实验设置为0.5（6］），1•为欧氏距离。",
+    "description": "| 3.2 技术方案中的配图，包含文字：N；1；厂max（0,a-p-a-pil≥+m）；~2,5；~Triplet；N；2=1；N；1；〉max（0,la：-dl2-la：-dl2+m）；26,L；~Triplet；N；2=1；其中，Pi和d，分别为 PO！和 Deal 的难负样本嵌入，m 为 margin 超参数（实验设置为0.5（6］），1•为欧氏距离。",
+    "entities": [
+      "N",
+      "1",
+      "厂max（0,a-p-a-pil≥+m）",
+      "~2,5",
+      "~Triplet",
+      "2=1",
+      "〉max（0,la：-dl2-la：-dl2+m）",
+      "26,L",
+      "其中，Pi和d，分别为 PO！和 Deal 的难负样本嵌入，m 为 margin 超参数（实验设置为0.5（6］），1•为欧氏距离。"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8e2c3da6ed8512b5a4634db8bdd8bea2e1d1c0fcffb283cca3938c37e03aedc0"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-015",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 15,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=f6f1848f&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0Dz67IXU9hKwGLaXWx1QWQKouCQxqKicm5Mdiav0iaeoJFowTLKghiaW03RbyNEHQLgcNwIb6K1pkOgfcdRCw55b5xAjMwkz8gpppvo%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-015.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.39166666343750006,
+          0.7289156648704834,
+          0.25833333333333336,
+          0.16297622473843132
+        ],
+        "confidence": 0.5,
+        "text": "Q2l-Click-AUC Q21-Order-AUC"
+      },
+      {
+        "boundingBox": [
+          0.018384146423430465,
+          0.7199217733904892,
+          0.07434281949643735,
+          0.15051790030605827
+        ],
+        "confidence": 0.3,
+        "text": "Loss 配置"
+      },
+      {
+        "boundingBox": [
+          0.172222222,
+          0.7349397604819277,
+          0.06666666666666668,
+          0.14457831325301207
+        ],
+        "confidence": 0.3,
+        "text": "12I-AUC"
+      },
+      {
+        "boundingBox": [
+          0.27033775039650215,
+          0.7337917068911595,
+          0.10932449764675561,
+          0.13482621778924775
+        ],
+        "confidence": 1,
+        "text": "Q2I-Corr-AUC"
+      },
+      {
+        "boundingBox": [
+          0.67037036968107,
+          0.7349397584337349,
+          0.12407407407407411,
+          0.1325301204819278
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Click-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.8148148138756613,
+          0.7349397584337349,
+          0.13148148148148142,
+          0.1325301204819277
+        ],
+        "confidence": 0.5,
+        "text": "Q2I-Order-NDCG"
+      },
+      {
+        "boundingBox": [
+          0.018441040861618952,
+          0.4442082996323863,
+          0.0631179173787435,
+          0.1356797850275614
+        ],
+        "confidence": 0.5,
+        "text": "infoNCE"
+      },
+      {
+        "boundingBox": [
+          0.17585789221916615,
+          0.4445252308731086,
+          0.05754347553959599,
+          0.1350459190736334
+        ],
+        "confidence": 1,
+        "text": "0.9553"
+      },
+      {
+        "boundingBox": [
+          0.27018179392214553,
+          0.4422422897415791,
+          0.05778456087465639,
+          0.13961181295923442
+        ],
+        "confidence": 1,
+        "text": "0.8626"
+      },
+      {
+        "boundingBox": [
+          0.8148148147222222,
+          0.4216867457831326,
+          0.05740740740740735,
+          0.1686746987951807
+        ],
+        "confidence": 0.5,
+        "text": "0.7640"
+      },
+      {
+        "boundingBox": [
+          0.3981481480925926,
+          0.43373493831325294,
+          0.05740740740740741,
+          0.14457831325301207
+        ],
+        "confidence": 1,
+        "text": "0.6058"
+      },
+      {
+        "boundingBox": [
+          0.529602872359809,
+          0.44529093943836406,
+          0.057460922665066194,
+          0.13351450770734308
+        ],
+        "confidence": 1,
+        "text": "0.6204"
+      },
+      {
+        "boundingBox": [
+          0.6685185190123457,
+          0.4337349403614458,
+          0.059259259259259234,
+          0.14457831325301196
+        ],
+        "confidence": 0.5,
+        "text": "0.7409"
+      },
+      {
+        "boundingBox": [
+          0.6665276310989411,
+          0.11841240785202434,
+          0.0632410332008645,
+          0.18486193001988427
+        ],
+        "confidence": 1,
+        "text": "0.7464"
+      },
+      {
+        "boundingBox": [
+          0.018488021145249525,
+          0.14351245522921752,
+          0.11857951128924335,
+          0.14671002813132417
+        ],
+        "confidence": 0.5,
+        "text": "infoNCE+Triplet"
+      },
+      {
+        "boundingBox": [
+          0.17396140584633515,
+          0.14253738061636978,
+          0.06133644669144242,
+          0.14866016571780283
+        ],
+        "confidence": 1,
+        "text": "0.9565"
+      },
+      {
+        "boundingBox": [
+          0.27024688397013674,
+          0.14240776836807223,
+          0.059506232650191726,
+          0.14891940427113726
+        ],
+        "confidence": 0.5,
+        "text": "0.8779"
+      },
+      {
+        "boundingBox": [
+          0.8129629632407408,
+          0.120481928313253,
+          0.061111111111111116,
+          0.1807228915662651
+        ],
+        "confidence": 1,
+        "text": "0.7671"
+      },
+      {
+        "boundingBox": [
+          0.3980654367105291,
+          0.14308503220800106,
+          0.06127653475160949,
+          0.14756487076541025
+        ],
+        "confidence": 1,
+        "text": "0.6543"
+      },
+      {
+        "boundingBox": [
+          0.529629629925926,
+          0.14457831385542164,
+          0.059259259259259234,
+          0.14457831325301207
+        ],
+        "confidence": 1,
+        "text": "0.7306"
+      }
+    ],
+    "ocr_text": "Q2l-Click-AUC Q21-Order-AUC\nLoss 配置\n12I-AUC\nQ2I-Corr-AUC\nQ2I-Click-NDCG\nQ2I-Order-NDCG\ninfoNCE\n0.9553\n0.8626\n0.7640\n0.6058\n0.6204\n0.7409\n0.7464\ninfoNCE+Triplet\n0.9565\n0.8779\n0.7671\n0.6543\n0.7306",
+    "description": "| 3.2 技术方案中的配图，包含文字：Q2l-Click-AUC Q21-Order-AUC；Loss 配置；12I-AUC；Q2I-Corr-AUC；Q2I-Click-NDCG；Q2I-Order-NDCG；infoNCE；0.9553；0.8626；0.7640；0.6058；0.6204；0.7409；0.7464；infoNCE+Triplet；0.9565；0.8779；0.7671；0.6543；0.7306",
+    "entities": [
+      "Q2l-Click-AUC Q21-Order-AUC",
+      "Loss 配置",
+      "12I-AUC",
+      "Q2I-Corr-AUC",
+      "Q2I-Click-NDCG",
+      "Q2I-Order-NDCG",
+      "infoNCE",
+      "0.9553",
+      "0.8626",
+      "0.7640",
+      "0.6058",
+      "0.6204",
+      "0.7409",
+      "0.7464",
+      "infoNCE+Triplet",
+      "0.9565",
+      "0.8779",
+      "0.7671",
+      "0.6543",
+      "0.7306"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "499215d718c8b60a2eaefe8a136e889603ef3ce50a368716bffc8dfb6f552d15"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-016",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 16,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=625bb548&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0Dzlvrj9qgpNx007jrwO2UAcRmJ8T2CNVboPBGv3KZ51EgK7Au54vtjaGfScsI81DOml55BhHNxr99S8yn5MQubaqG9BGWIf9Ls%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-016.png",
+    "section": "| 3.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22560975717189316,
+          0.9068100359190988,
+          0.15040650406504066,
+          0.017921146953404965
+        ],
+        "confidence": 0.5,
+        "text": "Query<->POl-Pos"
+      },
+      {
+        "boundingBox": [
+          0.22357723379065045,
+          0.8835125447580645,
+          0.15853658536585366,
+          0.017921146953404965
+        ],
+        "confidence": 0.5,
+        "text": "Query<->Deal-Pos"
+      },
+      {
+        "boundingBox": [
+          0.20731707183507553,
+          0.8637992830645161,
+          0.1869918699186992,
+          0.016129032258064502
+        ],
+        "confidence": 0.5,
+        "text": "POI-Pos <-> Deal-Pos"
+      },
+      {
+        "boundingBox": [
+          0.2337398382984901,
+          0.8440860215693804,
+          0.12601626016260165,
+          0.016129032258064502
+        ],
+        "confidence": 0.5,
+        "text": "InfoNCE Loss"
+      },
+      {
+        "boundingBox": [
+          0.5569105700203253,
+          0.810035842047491,
+          0.25609756097560965,
+          0.01971326164874554
+        ],
+        "confidence": 0.5,
+        "text": "Query<->Deal-Pos、Deal-Neg"
+      },
+      {
+        "boundingBox": [
+          0.6278724718134352,
+          0.7912504400589349,
+          0.10807619637590116,
+          0.019649657724578717
+        ],
+        "confidence": 0.5,
+        "text": "Triplet Loss"
+      },
+      {
+        "boundingBox": [
+          0.09545585896479442,
+          0.531971735693574,
+          0.10786876833535791,
+          0.02207803384377538
+        ],
+        "confidence": 1,
+        "text": "Query Emb"
+      },
+      {
+        "boundingBox": [
+          0.23780487911585363,
+          0.5340501793010753,
+          0.12804878048780488,
+          0.017921146953404965
+        ],
+        "confidence": 0.5,
+        "text": "POl-Pos Emb"
+      },
+      {
+        "boundingBox": [
+          0.3983444805224383,
+          0.533892882674792,
+          0.13420534521583616,
+          0.020027854536596612
+        ],
+        "confidence": 1,
+        "text": "Deal-Pos Emb"
+      },
+      {
+        "boundingBox": [
+          0.5730607267053636,
+          0.5317629632241732,
+          0.13233383302766133,
+          0.02428769381670115
+        ],
+        "confidence": 0.5,
+        "text": "POl-Neg Emb"
+      },
+      {
+        "boundingBox": [
+          0.7336611091929901,
+          0.5318948323366232,
+          0.13633631884567132,
+          0.024023955868136437
+        ],
+        "confidence": 0.5,
+        "text": "Deal-Neg Emb"
+      },
+      {
+        "boundingBox": [
+          0.35365853831300814,
+          0.3763440860855095,
+          0.241869918699187,
+          0.01971326164874554
+        ],
+        "confidence": 0.5,
+        "text": "Query<~>POl-Pos、POl-Neg"
+      },
+      {
+        "boundingBox": [
+          0.41869918806910567,
+          0.3584229391577062,
+          0.1077235772357723,
+          0.016129032258064502
+        ],
+        "confidence": 0.5,
+        "text": "Triplet Loss"
+      },
+      {
+        "boundingBox": [
+          0.3130081316903794,
+          0.2956989249551971,
+          0.3394308943089431,
+          0.026881720430107503
+        ],
+        "confidence": 0.5,
+        "text": "Pretrained Language Model"
+      },
+      {
+        "boundingBox": [
+          0.35772357626016266,
+          0.17562723987455198,
+          0.2560975609756097,
+          0.026881720430107503
+        ],
+        "confidence": 1,
+        "text": "Prompt Construction"
+      },
+      {
+        "boundingBox": [
+          0.1300813012485482,
+          0.0752688172811059,
+          0.06097560975609756,
+          0.021505376344086002
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.27032520265679444,
+          0.07706093182283658,
+          0.08333333333333337,
+          0.021505376344086113
+        ],
+        "confidence": 0.5,
+        "text": "POI-Pos"
+      },
+      {
+        "boundingBox": [
+          0.4327703909940596,
+          0.07655568382722244,
+          0.08771124894056853,
+          0.022515872900631173
+        ],
+        "confidence": 1,
+        "text": "Deal-Pos"
+      },
+      {
+        "boundingBox": [
+          0.605691056961382,
+          0.07526881739844682,
+          0.08333333333333337,
+          0.023297491039426577
+        ],
+        "confidence": 0.5,
+        "text": "POl-Neg"
+      },
+      {
+        "boundingBox": [
+          0.7559711534438518,
+          0.07482369721942184,
+          0.0876511907189842,
+          0.020603500386720097
+        ],
+        "confidence": 1,
+        "text": "Deal-Neg"
+      }
+    ],
+    "ocr_text": "Query<->POl-Pos\nQuery<->Deal-Pos\nPOI-Pos <-> Deal-Pos\nInfoNCE Loss\nQuery<->Deal-Pos、Deal-Neg\nTriplet Loss\nQuery Emb\nPOl-Pos Emb\nDeal-Pos Emb\nPOl-Neg Emb\nDeal-Neg Emb\nQuery<~>POl-Pos、POl-Neg\nTriplet Loss\nPretrained Language Model\nPrompt Construction\nQuery\nPOI-Pos\nDeal-Pos\nPOl-Neg\nDeal-Neg",
+    "description": "| 3.2 技术方案中的配图，包含文字：Query<->POl-Pos；Query<->Deal-Pos；POI-Pos <-> Deal-Pos；InfoNCE Loss；Query<->Deal-Pos、Deal-Neg；Triplet Loss；Query Emb；POl-Pos Emb；Deal-Pos Emb；POl-Neg Emb；Deal-Neg Emb；Query<~>POl-Pos、POl-Neg；Triplet Loss；Pretrained Language Model；Prompt Construction；Query；POI-Pos；Deal-Pos；POl-Neg；Deal-Neg",
+    "entities": [
+      "Query<->POl-Pos",
+      "Query<->Deal-Pos",
+      "POI-Pos <-> Deal-Pos",
+      "InfoNCE Loss",
+      "Query<->Deal-Pos、Deal-Neg",
+      "Triplet Loss",
+      "Query Emb",
+      "POl-Pos Emb",
+      "Deal-Pos Emb",
+      "POl-Neg Emb",
+      "Deal-Neg Emb",
+      "Query<~>POl-Pos、POl-Neg",
+      "Pretrained Language Model",
+      "Prompt Construction",
+      "Query",
+      "POI-Pos",
+      "Deal-Pos",
+      "POl-Neg",
+      "Deal-Neg"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ac6d6e23144cc1b78cf97e96c540e0e41adf8648ddaa107a691ca7d593826595"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-017",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 17,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=ec9c0820&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0DzQ8K9C1UdOOiaGCGDMlZMTT3rhds1ImOW2vwN5XxR4G5EicTVu2tVElYaCVhLplbacHY80EBNmNDJQqYvzkEJgOGqcR3x73I85k%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-017.png",
+    "section": "| 4.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.13700619531283734,
+          0.8726461274035874,
+          0.06487649988245081,
+          0.050482390632092145
+        ],
+        "confidence": 1,
+        "text": "cosine等距"
+      },
+      {
+        "boundingBox": [
+          0.4666666672222222,
+          0.8661971834507043,
+          0.06666666666666671,
+          0.05633802816901401
+        ],
+        "confidence": 0.5,
+        "text": "样本量等距"
+      },
+      {
+        "boundingBox": [
+          0.8018518528703703,
+          0.8661971834507043,
+          0.08148148148148149,
+          0.05633802816901401
+        ],
+        "confidence": 0.5,
+        "text": "label均值等差"
+      }
+    ],
+    "ocr_text": "cosine等距\n样本量等距\nlabel均值等差",
+    "description": "| 4.2 技术方案中的配图，包含文字：cosine等距；样本量等距；label均值等差",
+    "entities": [
+      "cosine等距",
+      "样本量等距",
+      "label均值等差"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e55f9cf41a9bcf5db2d07e674fcadba8096496b3f3f5bc7d64b8e138725b7e6d"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-018",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 18,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=24465f80&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0Dz2HTvBia1KjOnJI2tT8NlQR4U3duHWYJAFO7PWlUE1ibMcXuCwrxl48zHYm9Ds9bwYdicGZricq7IBK5GMFPW7Bg88PE3eSq2LRgk%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-018.png",
+    "section": "| 4.2 技术方案",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06476843928277068,
+          0.8462174084600771,
+          0.10379645736129195,
+          0.056199058157498705
+        ],
+        "confidence": 1,
+        "text": "一期应用方式"
+      },
+      {
+        "boundingBox": [
+          0.44625027721269966,
+          0.8462514853299746,
+          0.10009204016791445,
+          0.05613090952888855
+        ],
+        "confidence": 1,
+        "text": "二期应用方式"
+      },
+      {
+        "boundingBox": [
+          0.8239396016469269,
+          0.8448067932992449,
+          0.09841709136962895,
+          0.059020292563516485
+        ],
+        "confidence": 1,
+        "text": "三期应用方式"
+      },
+      {
+        "boundingBox": [
+          0.07219315011682126,
+          0.606085912276964,
+          0.09079888661702473,
+          0.05012325641236015
+        ],
+        "confidence": 1,
+        "text": "cosine相似度"
+      },
+      {
+        "boundingBox": [
+          0.42037037194444443,
+          0.6065573777322404,
+          0.15185185185185185,
+          0.05464480874316946
+        ],
+        "confidence": 0.3,
+        "text": "Q-POI + Q-Deal相似度"
+      },
+      {
+        "boundingBox": [
+          0.8055555566975308,
+          0.6065573773679417,
+          0.13703703703703707,
+          0.0491803278688524
+        ],
+        "confidence": 1,
+        "text": "Q-Deal多类型相似度"
+      },
+      {
+        "boundingBox": [
+          0.07583352113563725,
+          0.5560073379419757,
+          0.0816662894354926,
+          0.051919746920059406
+        ],
+        "confidence": 0.3,
+        "text": "～ 10个分桶"
+      },
+      {
+        "boundingBox": [
+          0.47048056847814884,
+          0.5562919999633105,
+          0.06667588022020127,
+          0.052092549579391134
+        ],
+        "confidence": 0.3,
+        "text": "12个分桶"
+      },
+      {
+        "boundingBox": [
+          0.8092592608333333,
+          0.5519125676229508,
+          0.12962962962962965,
+          0.05464480874316946
+        ],
+        "confidence": 0.3,
+        "text": "•> 多策略分桶（5种）"
+      },
+      {
+        "boundingBox": [
+          0.040740742662036984,
+          0.4972677598360655,
+          0.1537037037037037,
+          0.05464480874316946
+        ],
+        "confidence": 0.3,
+        "text": "•>桶embedding（12维）"
+      },
+      {
+        "boundingBox": [
+          0.41111111279629625,
+          0.4972677597814207,
+          0.16851851851851857,
+          0.05464480874316935
+        ],
+        "confidence": 0.3,
+        "text": "->底层拼接＋顶层LHUC"
+      },
+      {
+        "boundingBox": [
+          0.8055555542222222,
+          0.5027322400546448,
+          0.1333333333333333,
+          0.049180327868852514
+        ],
+        "confidence": 0.3,
+        "text": "~> PEPNet门控注入"
+      },
+      {
+        "boundingBox": [
+          0.06296296205246915,
+          0.4480874313296903,
+          0.10925925925925925,
+          0.05464480874316946
+        ],
+        "confidence": 0.3,
+        "text": "->底层特征拼接"
+      },
+      {
+        "boundingBox": [
+          0.4554863937902075,
+          0.4471749688155635,
+          0.0816198066428856,
+          0.056469734900636115
+        ],
+        "confidence": 1,
+        "text": "KV线上读取"
+      },
+      {
+        "boundingBox": [
+          0.803703704845679,
+          0.4480874319672131,
+          0.13703703703703696,
+          0.05464480874316935
+        ],
+        "confidence": 0.5,
+        "text": "+全域交叉统计特征"
+      },
+      {
+        "boundingBox": [
+          0.27215585100284123,
+          0.09183837831218034,
+          0.09828089254873767,
+          0.05676040232507262
+        ],
+        "confidence": 1,
+        "text": "商家精排模型"
+      },
+      {
+        "boundingBox": [
+          0.8240502171058891,
+          0.0925205858080893,
+          0.09819586012098513,
+          0.055395986213058745
+        ],
+        "confidence": 1,
+        "text": "下挂精排模型"
+      }
+    ],
+    "ocr_text": "一期应用方式\n二期应用方式\n三期应用方式\ncosine相似度\nQ-POI + Q-Deal相似度\nQ-Deal多类型相似度\n～ 10个分桶\n12个分桶\n•> 多策略分桶（5种）\n•>桶embedding（12维）\n->底层拼接＋顶层LHUC\n~> PEPNet门控注入\n->底层特征拼接\nKV线上读取\n+全域交叉统计特征\n商家精排模型\n下挂精排模型",
+    "description": "| 4.2 技术方案中的配图，包含文字：一期应用方式；二期应用方式；三期应用方式；cosine相似度；Q-POI + Q-Deal相似度；Q-Deal多类型相似度；～ 10个分桶；12个分桶；•> 多策略分桶（5种）；•>桶embedding（12维）；->底层拼接＋顶层LHUC；~> PEPNet门控注入；->底层特征拼接；KV线上读取；+全域交叉统计特征；商家精排模型；下挂精排模型",
+    "entities": [
+      "一期应用方式",
+      "二期应用方式",
+      "三期应用方式",
+      "cosine相似度",
+      "Q-POI + Q-Deal相似度",
+      "Q-Deal多类型相似度",
+      "～ 10个分桶",
+      "12个分桶",
+      "•> 多策略分桶（5种）",
+      "•>桶embedding（12维）",
+      "->底层拼接＋顶层LHUC",
+      "~> PEPNet门控注入",
+      "->底层特征拼接",
+      "KV线上读取",
+      "+全域交叉统计特征",
+      "商家精排模型",
+      "下挂精排模型"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4c2561a22fa9bf4b5a4d3fa7bddac2888e558fa576901bbfc21a9a8a2e5d3b29"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-019",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 19,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=1efb78c7&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fmmecoa_png%2FV95GN2mm0DxQNyZx9Jemlj2Vzhcdh8GO30t6veaa2QJX0l2tuv2YFX21YS4wib0o4YVdemC7icPGSbV1wEia8M4sJIJickcoZXqcZBRTt6fumQg%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-019.png",
+    "section": "八、总结",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.345867534163686,
+          0.20273291275440142,
+          0.30424078897211393,
+          0.5796088033647679
+        ],
+        "confidence": 1,
+        "text": "互动环节"
+      }
+    ],
+    "ocr_text": "互动环节",
+    "description": "八、总结中的配图，包含文字：互动环节",
+    "entities": [
+      "互动环节"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "eac3e36d6456cade3a5ff59c341adfcc1190b3383d4ae5a9323839ce4cd5bfd5"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-020",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 20,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=1b8b710e&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_gif%2FV95GN2mm0DyAv1GPbCKwzRn0FJLRg6hMwq7qEUtdWnOMxdHjoRVxgQB2EqUGHykTxwxq8JRtdPbQmWvkUSNsLxxDNbqqibcq6Tyibp3cTrDmU%2F640%3Fwx_fmt%3Dgif%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-020.gif",
+    "section": "八、总结",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.8899698325237735,
+          0.05997769173041234,
+          0.10206033325195307,
+          0.06094913386819356
+        ],
+        "confidence": 1,
+        "text": "code better"
+      }
+    ],
+    "ocr_text": "code better",
+    "description": "八、总结中的配图，包含文字：code better",
+    "entities": [
+      "code better"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9cea1906d7eeab92d5500822bf76298501a325f20d17451031eb217325597b41"
+  },
+  {
+    "figure_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a-fig-021",
+    "doc_id": "2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a",
+    "seq": 21,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=e30fb858&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DwViajPwVeb1YTd0gEctbhDToJficJotF8KF03eqrlZgcoDNpLic0OGQIAd5ibZsxzL4Yf2FJ7iaMZFg5gMt0bN4uVOQ7c9wpuItPIA%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2371-美团搜索3-0-LLM-语义表征在排序模型的探索与应用-adbe4f1a/figure-021.png",
+    "section": "八、总结",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2555555560016835,
+          0.4745762720338983,
+          0.09814814814814815,
+          0.35593220338983045
+        ],
+        "confidence": 1,
+        "text": "小红书"
+      },
+      {
+        "boundingBox": [
+          0.6907407406216931,
+          0.4745762737288135,
+          0.03888888888888897,
+          0.35593220338983056
+        ],
+        "confidence": 1,
+        "text": "知"
+      },
+      {
+        "boundingBox": [
+          0.8925925926851852,
+          0.45762711657250477,
+          0.03888888888888897,
+          0.3728813559322034
+        ],
+        "confidence": 0.5,
+        "text": "X"
+      },
+      {
+        "boundingBox": [
+          0.06481481526455025,
+          0.47457626876513315,
+          0.07407407407407408,
+          0.3389830508474576
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "boundingBox": [
+          0.4681933373264167,
+          0.484445556360114,
+          0.07842814127604164,
+          0.31924448174945375
+        ],
+        "confidence": 0.3,
+        "text": "bililbili"
+      },
+      {
+        "boundingBox": [
+          0.44071637718308415,
+          0.1514063390300081,
+          0.13153021070692278,
+          0.23956020807815814
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.8387662667296923,
+          0.14612127703583333,
+          0.14468968709309882,
+          0.25013033010191843
+        ],
+        "confidence": 1,
+        "text": "@Meituan_Tech"
+      },
+      {
+        "boundingBox": [
+          0.23888888816358023,
+          0.15254237471751408,
+          0.13148148148148148,
+          0.22033898305084743
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.6444444453835979,
+          0.1525423738498789,
+          0.13148148148148153,
+          0.2033898305084746
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.016666665462962995,
+          0.13559322266949148,
+          0.16666666666666669,
+          0.18644067796610164
+        ],
+        "confidence": 1,
+        "text": "tech.meituan.com"
+      }
+    ],
+    "ocr_text": "小红书\n知\nX\nBlog\nbililbili\n@美团技术团队\n@Meituan_Tech\n@美团技术团队\n@美团技术团队\ntech.meituan.com",
+    "description": "八、总结中的配图，包含文字：小红书；知；X；Blog；bililbili；@美团技术团队；@Meituan_Tech；@美团技术团队；@美团技术团队；tech.meituan.com",
+    "entities": [
+      "小红书",
+      "知",
+      "X",
+      "Blog",
+      "bililbili",
+      "@美团技术团队",
+      "@Meituan_Tech",
+      "tech.meituan.com"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "713898f6ed0b38773e8d10c5cabcad44f0bda56a4c7bdf0f209fb818c2df5c1f"
+  }
+]

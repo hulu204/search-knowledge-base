@@ -1,0 +1,1254 @@
+[
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-001",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f22162283922045816ac2d_preview-image.png",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-001.png",
+    "section": "How LanceDB Accelerates Vector Search at 10 Billion Scale",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06960316476249379,
+          0.8954901594428468,
+          0.12387506585372121,
+          0.04922586590874223
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "How LanceDB Accelerates Vector Search at 10 Billion Scale中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "80c82d2a5d36c9891c641a8c84ec33fd086d3e95fac8ea4e22ca7d17396081b0"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-002",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2214fbf3611fc4a36da3b_open-source-limits-v2.svg",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-002.svg",
+    "section": "Where Open Source Indexing Starts to Strain",
+    "alt": "Open source IVF search path",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04796512027132329,
+          0.8662790695157581,
+          0.3633720833914621,
+          0.06104651314871645
+        ],
+        "confidence": 0.5,
+        "text": "The classic IVF query path"
+      },
+      {
+        "boundingBox": [
+          0.05000001231817326,
+          0.80833333375,
+          0.4041666521344866,
+          0.05023809432983395
+        ],
+        "confidence": 0.5,
+        "text": "At 10B scale, routing and local scan costs both grow."
+      },
+      {
+        "boundingBox": [
+          0.10159903583081728,
+          0.5337702601269171,
+          0.08749960218157088,
+          0.04873855045863562
+        ],
+        "confidence": 0.5,
+        "text": "1. Route"
+      },
+      {
+        "boundingBox": [
+          0.32081142836879745,
+          0.5331868873879662,
+          0.08337714603969026,
+          0.050292892456054616
+        ],
+        "confidence": 0.5,
+        "text": "2.Scan"
+      },
+      {
+        "boundingBox": [
+          0.5435152758927102,
+          0.5340461231377858,
+          0.10046944754464282,
+          0.04527984619140624
+        ],
+        "confidence": 0.5,
+        "text": "3. Rerank"
+      },
+      {
+        "boundingBox": [
+          0.6831395355019645,
+          0.4854651165772904,
+          0.05377906799316412,
+          0.058139533996582005
+        ],
+        "confidence": 0.3,
+        "text": "—"
+      },
+      {
+        "boundingBox": [
+          0.7891700239770321,
+          0.4850865779916892,
+          0.05538088117327,
+          0.04436172757829937
+        ],
+        "confidence": 0.5,
+        "text": "top-k"
+      },
+      {
+        "boundingBox": [
+          0.10029069965639166,
+          0.48546511678039617,
+          0.0857558114188058,
+          0.03197674342564172
+        ],
+        "confidence": 1,
+        "text": "find nprobes"
+      },
+      {
+        "boundingBox": [
+          0.32259189367716345,
+          0.48458657049854437,
+          0.08301388876778742,
+          0.03373383658272866
+        ],
+        "confidence": 1,
+        "text": "compressed"
+      },
+      {
+        "boundingBox": [
+          0.5421181252365773,
+          0.48802447745766553,
+          0.07564746856689453,
+          0.02976499829973489
+        ],
+        "confidence": 1,
+        "text": "full vectors"
+      },
+      {
+        "boundingBox": [
+          0.10029070209914703,
+          0.4418604655124825,
+          0.10029069083077569,
+          0.029069766998291002
+        ],
+        "confidence": 1,
+        "text": "many centroids"
+      },
+      {
+        "boundingBox": [
+          0.3223351642473008,
+          0.4442653077246663,
+          0.08188637869698662,
+          0.030914329801286944
+        ],
+        "confidence": 0.5,
+        "text": "partition size"
+      },
+      {
+        "boundingBox": [
+          0.5421511652096122,
+          0.44767441846452993,
+          0.10029069083077569,
+          0.026162790570940286
+        ],
+        "confidence": 0.5,
+        "text": "random access"
+      },
+      {
+        "boundingBox": [
+          0.13749999347222244,
+          0.2583333341666665,
+          0.4,
+          0.05023809432983406
+        ],
+        "confidence": 0.5,
+        "text": "Partition count and partition size move together"
+      },
+      {
+        "boundingBox": [
+          0.14098837162458688,
+          0.22071428585778596,
+          0.49127907889229916,
+          0.03509966714041568
+        ],
+        "confidence": 0.5,
+        "text": "More partitions shrink local scans, but make the routing step more expensive."
+      }
+    ],
+    "ocr_text": "The classic IVF query path\nAt 10B scale, routing and local scan costs both grow.\n1. Route\n2.Scan\n3. Rerank\n—\ntop-k\nfind nprobes\ncompressed\nfull vectors\nmany centroids\npartition size\nrandom access\nPartition count and partition size move together\nMore partitions shrink local scans, but make the routing step more expensive.",
+    "description": "Where Open Source Indexing Starts to Strain中的配图，包含文字：The classic IVF query path；At 10B scale, routing and local scan costs both grow.；1. Route；2.Scan；3. Rerank；—；top-k；find nprobes；compressed；full vectors；many centroids；partition size；random access；Partition count and partition size move together；More partitions shrink local scans, but make the routing step more expensive.",
+    "entities": [
+      "The classic IVF query path",
+      "At 10B scale, routing and local scan costs both grow.",
+      "1. Route",
+      "2.Scan",
+      "3. Rerank",
+      "—",
+      "top-k",
+      "find nprobes",
+      "compressed",
+      "full vectors",
+      "many centroids",
+      "partition size",
+      "random access",
+      "Partition count and partition size move together",
+      "More partitions shrink local scans, but make the routing step more expensive."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "87bcfb7549c622212ec5eecabdac6fef76051a7bcf26d236b25754910ccdbc13"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-003",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2214fbf3611fc4a36da4b_distributed-indexing-v2.svg",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-003.svg",
+    "section": "Splitting the Index into Segments",
+    "alt": "Distributed index build",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0508720967315978,
+          0.8691860478139681,
+          0.2747092982700893,
+          0.055232554844447446
+        ],
+        "confidence": 1,
+        "text": "Distributed indexing"
+      },
+      {
+        "boundingBox": [
+          0.04941862101031493,
+          0.8139534890933555,
+          0.5639534650530135,
+          0.03779069628034315
+        ],
+        "confidence": 0.5,
+        "text": "Build bounded segment indexes in parallel, then publish one logical index."
+      },
+      {
+        "boundingBox": [
+          0.4010409742673005,
+          0.6208561722700177,
+          0.10053433009556362,
+          0.04317137581961494
+        ],
+        "confidence": 1,
+        "text": "Segment A"
+      },
+      {
+        "boundingBox": [
+          0.11333685926008757,
+          0.5577843917461416,
+          0.10908209664481025,
+          0.044314937591552694
+        ],
+        "confidence": 0.5,
+        "text": "10B table"
+      },
+      {
+        "boundingBox": [
+          0.4011627925510343,
+          0.5842857138733824,
+          0.10901162283761162,
+          0.026428571428571357
+        ],
+        "confidence": 0.5,
+        "text": "build index shard"
+      },
+      {
+        "boundingBox": [
+          0.7528639565399853,
+          0.5081985290700639,
+          0.13089999607631142,
+          0.0446494552067348
+        ],
+        "confidence": 1,
+        "text": "Logical index"
+      },
+      {
+        "boundingBox": [
+          0.4010591906143968,
+          0.4494826839054893,
+          0.09759092058454244,
+          0.03998812130519325
+        ],
+        "confidence": 0.5,
+        "text": "Segment B"
+      },
+      {
+        "boundingBox": [
+          0.7514534907910076,
+          0.4621428569710523,
+          0.10029069083077569,
+          0.026428571428571468
+        ],
+        "confidence": 0.5,
+        "text": "same table API"
+      },
+      {
+        "boundingBox": [
+          0.4011627943474632,
+          0.4098837213264359,
+          0.0988372039794922,
+          0.02940199307032998
+        ],
+        "confidence": 0.5,
+        "text": "build in paralle"
+      },
+      {
+        "boundingBox": [
+          0.7513508288536552,
+          0.40571504831188077,
+          0.09468206133161272,
+          0.03450013569423138
+        ],
+        "confidence": 0.5,
+        "text": "many Physical"
+      },
+      {
+        "boundingBox": [
+          0.751414863722453,
+          0.36883437007927833,
+          0.06548422677176335,
+          0.029773120880126958
+        ],
+        "confidence": 1,
+        "text": "segments"
+      },
+      {
+        "boundingBox": [
+          0.4009482182360146,
+          0.27683667055991223,
+          0.10071984427315844,
+          0.045163869857788086
+        ],
+        "confidence": 1,
+        "text": "Segment C"
+      },
+      {
+        "boundingBox": [
+          0.3997093038154069,
+          0.2354651162595628,
+          0.125,
+          0.03197674342564172
+        ],
+        "confidence": 0.5,
+        "text": "retry independently"
+      }
+    ],
+    "ocr_text": "Distributed indexing\nBuild bounded segment indexes in parallel, then publish one logical index.\nSegment A\n10B table\nbuild index shard\nLogical index\nSegment B\nsame table API\nbuild in paralle\nmany Physical\nsegments\nSegment C\nretry independently",
+    "description": "Splitting the Index into Segments中的配图，包含文字：Distributed indexing；Build bounded segment indexes in parallel, then publish one logical index.；Segment A；10B table；build index shard；Logical index；Segment B；same table API；build in paralle；many Physical；segments；Segment C；retry independently",
+    "entities": [
+      "Distributed indexing",
+      "Build bounded segment indexes in parallel, then publish one logical index.",
+      "Segment A",
+      "10B table",
+      "build index shard",
+      "Logical index",
+      "Segment B",
+      "same table API",
+      "build in paralle",
+      "many Physical",
+      "segments",
+      "Segment C",
+      "retry independently"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b3bd8b77fa196743387b99154a8bb0638bafa34bf20fb3a4b19956152fb0a27d"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-004",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2214fbf3611fc4a36da3e_distributed-query-v2.svg",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-004.svg",
+    "section": "Querying Across Plan Executors",
+    "alt": "Distributed query execution",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.045833346511346754,
+          0.8629032268846191,
+          0.3833333042689732,
+          0.07258064481947157
+        ],
+        "confidence": 1,
+        "text": "Distributed query execution"
+      },
+      {
+        "boundingBox": [
+          0.04941861963306987,
+          0.8192090397960627,
+          0.5203488159179688,
+          0.03704096078872676
+        ],
+        "confidence": 0.5,
+        "text": "Fan out segment search to Plan Executors, then merge global top-k."
+      },
+      {
+        "boundingBox": [
+          0.7281976756436146,
+          0.6805555556518986,
+          0.13517441885811943,
+          0.031308850977155855
+        ],
+        "confidence": 0.5,
+        "text": "Plan Executor 1"
+      },
+      {
+        "boundingBox": [
+          0.7281976756935946,
+          0.6298611104840013,
+          0.11482558114188057,
+          0.03402777777777777
+        ],
+        "confidence": 0.5,
+        "text": "segments A, D, G"
+      },
+      {
+        "boundingBox": [
+          0.36765181112559436,
+          0.5019757195297215,
+          0.12370800563267303,
+          0.046896017922295474
+        ],
+        "confidence": 1,
+        "text": "Query Node"
+      },
+      {
+        "boundingBox": [
+          0.7281976729401264,
+          0.4715277772773354,
+          0.13517441885811932,
+          0.0312970810466342
+        ],
+        "confidence": 0.5,
+        "text": "Plan Executor 2"
+      },
+      {
+        "boundingBox": [
+          0.12063953547646492,
+          0.434722220939754,
+          0.06976743970598492,
+          0.05138888888888893
+        ],
+        "confidence": 0.5,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.36773255874814254,
+          0.4548022603200981,
+          0.03197674342564172,
+          0.031308850977155855
+        ],
+        "confidence": 1,
+        "text": "plan"
+      },
+      {
+        "boundingBox": [
+          0.7281976747297014,
+          0.4236111113892349,
+          0.11337209429059703,
+          0.03402777777777777
+        ],
+        "confidence": 0.5,
+        "text": "segments B, E, H"
+      },
+      {
+        "boundingBox": [
+          0.36627907326601755,
+          0.4067796609980642,
+          0.11046510968889511,
+          0.031414783000946134
+        ],
+        "confidence": 1,
+        "text": "route segments"
+      },
+      {
+        "boundingBox": [
+          0.367709312096492,
+          0.35853351547016454,
+          0.0858023071289063,
+          0.0343453990088568
+        ],
+        "confidence": 0.5,
+        "text": "merge top-k"
+      },
+      {
+        "boundingBox": [
+          0.728197673165417,
+          0.2625000005333463,
+          0.13517441885811943,
+          0.031285309791564964
+        ],
+        "confidence": 0.5,
+        "text": "Plan Executor 3"
+      },
+      {
+        "boundingBox": [
+          0.7277561437351407,
+          0.20636918990504372,
+          0.10874012538364963,
+          0.04565091662936738
+        ],
+        "confidence": 0.3,
+        "text": "segments C, F, 1"
+      }
+    ],
+    "ocr_text": "Distributed query execution\nFan out segment search to Plan Executors, then merge global top-k.\nPlan Executor 1\nsegments A, D, G\nQuery Node\nPlan Executor 2\nQuery\nplan\nsegments B, E, H\nroute segments\nmerge top-k\nPlan Executor 3\nsegments C, F, 1",
+    "description": "Querying Across Plan Executors中的配图，包含文字：Distributed query execution；Fan out segment search to Plan Executors, then merge global top-k.；Plan Executor 1；segments A, D, G；Query Node；Plan Executor 2；Query；plan；segments B, E, H；route segments；merge top-k；Plan Executor 3；segments C, F, 1",
+    "entities": [
+      "Distributed query execution",
+      "Fan out segment search to Plan Executors, then merge global top-k.",
+      "Plan Executor 1",
+      "segments A, D, G",
+      "Query Node",
+      "Plan Executor 2",
+      "Query",
+      "plan",
+      "segments B, E, H",
+      "route segments",
+      "merge top-k",
+      "Plan Executor 3",
+      "segments C, F, 1"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a62e4b9e727e9b31ec28f82ef0e4a82aacd34554505753fde6f7c77e5f2dc6b0"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-005",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2214fbf3611fc4a36da48_centroid-hnsw-v2.svg",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-005.svg",
+    "section": "HNSW over Centroids",
+    "alt": "HNSW centroid routing",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.050872095102668796,
+          0.8778571430928885,
+          0.29215116228376115,
+          0.046561461857387076
+        ],
+        "confidence": 0.5,
+        "text": "HNSW over centroids"
+      },
+      {
+        "boundingBox": [
+          0.049418621797621055,
+          0.8139534890327935,
+          0.43895346505301336,
+          0.03779069628034315
+        ],
+        "confidence": 0.5,
+        "text": "Optimize the first ANN step: finding the nearest partitions."
+      },
+      {
+        "boundingBox": [
+          0.08430232593365539,
+          0.6511627916777145,
+          0.22674418858119422,
+          0.04098006520952502
+        ],
+        "confidence": 1,
+        "text": "Linear centroid scan"
+      },
+      {
+        "boundingBox": [
+          0.559593025755814,
+          0.6449999993611018,
+          0.25,
+          0.04714285714285715
+        ],
+        "confidence": 1,
+        "text": "Graph centroid routing"
+      },
+      {
+        "boundingBox": [
+          0.0828488330495192,
+          0.5842857143595366,
+          0.28924418858119416,
+          0.03499999999999992
+        ],
+        "confidence": 0.5,
+        "text": "Compare the query with every centroid."
+      },
+      {
+        "boundingBox": [
+          0.5581395442082382,
+          0.5842857144758156,
+          0.3241278948102678,
+          0.03499999999999992
+        ],
+        "confidence": 0.5,
+        "text": "Search a small HNSW graph over centroids."
+      },
+      {
+        "boundingBox": [
+          0.08333333791666653,
+          0.5083333338888889,
+          0.275,
+          0.05023809432983395
+        ],
+        "confidence": 1,
+        "text": "Cost grows with partitions"
+      },
+      {
+        "boundingBox": [
+          0.5581395312798322,
+          0.5199999993931037,
+          0.24563953944614958,
+          0.04104651178632468
+        ],
+        "confidence": 0.5,
+        "text": "10x+ faster at 10B scale"
+      }
+    ],
+    "ocr_text": "HNSW over centroids\nOptimize the first ANN step: finding the nearest partitions.\nLinear centroid scan\nGraph centroid routing\nCompare the query with every centroid.\nSearch a small HNSW graph over centroids.\nCost grows with partitions\n10x+ faster at 10B scale",
+    "description": "HNSW over Centroids中的配图，包含文字：HNSW over centroids；Optimize the first ANN step: finding the nearest partitions.；Linear centroid scan；Graph centroid routing；Compare the query with every centroid.；Search a small HNSW graph over centroids.；Cost grows with partitions；10x+ faster at 10B scale",
+    "entities": [
+      "HNSW over centroids",
+      "Optimize the first ANN step: finding the nearest partitions.",
+      "Linear centroid scan",
+      "Graph centroid routing",
+      "Compare the query with every centroid.",
+      "Search a small HNSW graph over centroids.",
+      "Cost grows with partitions",
+      "10x+ faster at 10B scale"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "155d516d9ed3abcff0524a7c993327069deb827b6d5211985c6e9de421d0735e"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-006",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2214fbf3611fc4a36da45_fast-rotation-v2.svg",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-006.svg",
+    "section": "Fast Rotation for RaBitQ",
+    "alt": "RaBitQ fast rotation",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05087208932042935,
+          0.877857141634554,
+          0.26889535086495536,
+          0.04946843828473768
+        ],
+        "confidence": 1,
+        "text": "RaBitQ fast rotation"
+      },
+      {
+        "boundingBox": [
+          0.04941861012597993,
+          0.8139534886912237,
+          0.4767441667829242,
+          0.03779069628034326
+        ],
+        "confidence": 1,
+        "text": "Replace dense query rotation with a matrix-free fast transform."
+      },
+      {
+        "boundingBox": [
+          0.08430232766256576,
+          0.651162791407781,
+          0.23691859654017858,
+          0.04098006520952502
+        ],
+        "confidence": 1,
+        "text": "Dense matrix rotation"
+      },
+      {
+        "boundingBox": [
+          0.5583333439327567,
+          0.6499999994042387,
+          0.2666666521344866,
+          0.04166666712079736
+        ],
+        "confidence": 1,
+        "text": "Fast matrix-free rotation"
+      },
+      {
+        "boundingBox": [
+          0.08284883384989493,
+          0.584285714403141,
+          0.22819767543247765,
+          0.03500000000000014
+        ],
+        "confidence": 0.5,
+        "text": "Materialize R and compute qR."
+      },
+      {
+        "boundingBox": [
+          0.5581395381765102,
+          0.584285714524265,
+          0.3343023245675224,
+          0.03500000000000003
+        ],
+        "confidence": 0.5,
+        "text": "No dense matrix: compose cheap transforms."
+      },
+      {
+        "boundingBox": [
+          0.08284883690916887,
+          0.5114285723866003,
+          0.06104651314871652,
+          0.052857142857142936
+        ],
+        "confidence": 0.3,
+        "text": "O（dz）"
+      },
+      {
+        "boundingBox": [
+          0.5595331934209704,
+          0.5110840542219985,
+          0.11785221644810273,
+          0.05341329029628217
+        ],
+        "confidence": 0.5,
+        "text": "O（d log d）"
+      },
+      {
+        "boundingBox": [
+          0.09883720950965501,
+          0.4534883717072751,
+          0.008720929963248122,
+          0.02325581414358957
+        ],
+        "confidence": 0.3,
+        "text": "q"
+      },
+      {
+        "boundingBox": [
+          0.1975942528287312,
+          0.4556821082964043,
+          0.056846378871372755,
+          0.02758927209036688
+        ],
+        "confidence": 1,
+        "text": "dense R"
+      },
+      {
+        "boundingBox": [
+          0.3866279060043082,
+          0.45058139352604554,
+          0.015988374437604647,
+          0.03488372530256001
+        ],
+        "confidence": 0.3,
+        "text": "q"
+      },
+      {
+        "boundingBox": [
+          0.5610465119144453,
+          0.4505813953783713,
+          0.010174418176923439,
+          0.02325581414358957
+        ],
+        "confidence": 0.3,
+        "text": "q"
+      },
+      {
+        "boundingBox": [
+          0.6337209304726392,
+          0.4328571423129769,
+          0.058139533996582005,
+          0.029352159500122044
+        ],
+        "confidence": 0.5,
+        "text": "sign flips"
+      },
+      {
+        "boundingBox": [
+          0.7368866365524478,
+          0.4387439931559781,
+          0.03785463333129879,
+          0.023674804142543193
+        ],
+        "confidence": 1,
+        "text": "FWHT"
+      },
+      {
+        "boundingBox": [
+          0.8618726668494675,
+          0.43274869455801435,
+          0.06113838740757538,
+          0.02985144887651725
+        ],
+        "confidence": 0.5,
+        "text": "Kac pairs"
+      },
+      {
+        "boundingBox": [
+          0.6453488375093074,
+          0.36046511667527303,
+          0.036337209429059714,
+          0.029069766998291113
+        ],
+        "confidence": 0.3,
+        "text": "+-"
+      },
+      {
+        "boundingBox": [
+          0.15843023253576335,
+          0.3110465112052476,
+          0.02325581414358957,
+          0.04651162828717914
+        ],
+        "confidence": 0.5,
+        "text": "×"
+      },
+      {
+        "boundingBox": [
+          0.3415697674233319,
+          0.3197674423860164,
+          0.021802325929914212,
+          0.03197674342564172
+        ],
+        "confidence": 0.3,
+        "text": "="
+      },
+      {
+        "boundingBox": [
+          0.700581396048807,
+          0.3168604655124825,
+          0.03197674342564172,
+          0.029069766998291002
+        ],
+        "confidence": 0.3,
+        "text": "一"
+      },
+      {
+        "boundingBox": [
+          0.6409883724397577,
+          0.3021428575454357,
+          0.04069767270769398,
+          0.02928571428571436
+        ],
+        "confidence": 0.3,
+        "text": "- +"
+      }
+    ],
+    "ocr_text": "RaBitQ fast rotation\nReplace dense query rotation with a matrix-free fast transform.\nDense matrix rotation\nFast matrix-free rotation\nMaterialize R and compute qR.\nNo dense matrix: compose cheap transforms.\nO（dz）\nO（d log d）\nq\ndense R\nq\nq\nsign flips\nFWHT\nKac pairs\n+-\n×\n=\n一\n- +",
+    "description": "Fast Rotation for RaBitQ中的配图，包含文字：RaBitQ fast rotation；Replace dense query rotation with a matrix-free fast transform.；Dense matrix rotation；Fast matrix-free rotation；Materialize R and compute qR.；No dense matrix: compose cheap transforms.；O（dz）；O（d log d）；q；dense R；q；q；sign flips；FWHT；Kac pairs；+-；×；=；一；- +",
+    "entities": [
+      "RaBitQ fast rotation",
+      "Replace dense query rotation with a matrix-free fast transform.",
+      "Dense matrix rotation",
+      "Fast matrix-free rotation",
+      "Materialize R and compute qR.",
+      "No dense matrix: compose cheap transforms.",
+      "O（dz）",
+      "O（d log d）",
+      "q",
+      "dense R",
+      "sign flips",
+      "FWHT",
+      "Kac pairs",
+      "+-",
+      "×",
+      "=",
+      "一",
+      "- +"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0ed0d91d39063bc13883cbd1086f2adc7fb18e2b95047e26cdd25bd67265734e"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-007",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f22032db0ea99667d6a882_yang-cen.png",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-007.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1eaee9d3439c4328cfa4b8fc0a9cb2e139bf11fd195b99ae587ceaeec82ca309"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-008",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-008.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-009",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-009.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184-fig-010",
+    "doc_id": "1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1429-https-www-lancedb-com-blog-how-lancedb-accelerat-092f1184/figure-010.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

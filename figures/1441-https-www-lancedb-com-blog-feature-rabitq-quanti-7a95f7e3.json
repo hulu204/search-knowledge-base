@@ -1,0 +1,1413 @@
+[
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-001",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0297c26436fca726a9d30_preview-image.avif",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-001.avif",
+    "section": "LanceDB's RaBitQ Quantization for Blazing Fast Vector Search",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0956204643599623,
+          0.8783800646313081,
+          0.14596837361653645,
+          0.059777337533456265
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "LanceDB's RaBitQ Quantization for Blazing Fast Vector Search中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "648468f6cd86670fe375d359ac34ba816192b979e063f53c3b9d1e114e56262d"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-002",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990274_69c0297d26436fca726a9d4a_plot_rq.svg",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-002.svg",
+    "section": "What happens under the hood",
+    "alt": "RabitQ 2D mapping",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What happens under the hood中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "bade5115cf7d1ba448849e1d2a36ad768a4bbb9461c8d6e6cb89fdd6666a0db0"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-003",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c399024d_69c0297c26436fca726a9d46_figure1.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-003.png",
+    "section": "What happens under the hood",
+    "alt": "figure1b",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6642441868832208,
+          0.898039216335798,
+          0.029069766349837156,
+          0.03921568544605114
+        ],
+        "confidence": 0.3,
+        "text": "1.2-"
+      },
+      {
+        "boundingBox": [
+          0.46802325623230817,
+          0.8666666670166017,
+          0.014534883174918578,
+          0.043137254594247665
+        ],
+        "confidence": 0.3,
+        "text": "O"
+      },
+      {
+        "boundingBox": [
+          0.6642441858851811,
+          0.7642405067897222,
+          0.023255814421498266,
+          0.03968106191369547
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.6642441865925232,
+          0.6313291139822647,
+          0.029069766349837267,
+          0.039556962025316555
+        ],
+        "confidence": 0.3,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.4375000004176312,
+          0.5996835436677068,
+          0.026162790385667767,
+          0.039556962025316444
+        ],
+        "confidence": 0.3,
+        "text": "e1！"
+      },
+      {
+        "boundingBox": [
+          0.6642441869558954,
+          0.4936708860564363,
+          0.029069766349837267,
+          0.03966244715678535
+        ],
+        "confidence": 0.3,
+        "text": "0.0、"
+      },
+      {
+        "boundingBox": [
+          0.5159883722933546,
+          0.4705882357175821,
+          0.014534883174918689,
+          0.04313725459424744
+        ],
+        "confidence": 1,
+        "text": "q"
+      },
+      {
+        "boundingBox": [
+          0.6482558144127128,
+          0.3607594932489787,
+          0.04505813974288819,
+          0.039556962025316444
+        ],
+        "confidence": 1,
+        "text": "-0.4"
+      },
+      {
+        "boundingBox": [
+          0.6482558155235404,
+          0.2274509804142294,
+          0.03924418334245405,
+          0.0399540828753121
+        ],
+        "confidence": 1,
+        "text": "-0.8"
+      },
+      {
+        "boundingBox": [
+          0.6482558137054086,
+          0.07058823794838098,
+          0.10465116154267118,
+          0.0627450942993164
+        ],
+        "confidence": 0.5,
+        "text": "-1.2i.2 -0.8"
+      },
+      {
+        "boundingBox": [
+          0.7630813958566427,
+          0.07058823572362172,
+          0.03633720737828461,
+          0.035424422614182105
+        ],
+        "confidence": 1,
+        "text": "-0.4"
+      },
+      {
+        "boundingBox": [
+          0.8154069763163826,
+          0.07058823580532114,
+          0.023255814421498378,
+          0.035424422614182105
+        ],
+        "confidence": 1,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.861918604644901,
+          0.07058823579715112,
+          0.021802325321389815,
+          0.035424422614182105
+        ],
+        "confidence": 1,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.9069767440392509,
+          0.06645569642580129,
+          0.023255814421498378,
+          0.039556962025316444
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.9534883723787568,
+          0.07058823616479826,
+          0.021802325321389815,
+          0.035424422614181994
+        ],
+        "confidence": 1,
+        "text": "1.2"
+      }
+    ],
+    "ocr_text": "1.2-\nO\n0.8\n0.4\ne1！\n0.0、\nq\n-0.4\n-0.8\n-1.2i.2 -0.8\n-0.4\n0.0\n0.4\n0.8\n1.2",
+    "description": "What happens under the hood中的配图，包含文字：1.2-；O；0.8；0.4；e1！；0.0、；q；-0.4；-0.8；-1.2i.2 -0.8；-0.4；0.0；0.4；0.8；1.2",
+    "entities": [
+      "1.2-",
+      "O",
+      "0.8",
+      "0.4",
+      "e1！",
+      "0.0、",
+      "q",
+      "-0.4",
+      "-0.8",
+      "-1.2i.2 -0.8",
+      "0.0",
+      "1.2"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "327f140afaca9cf36d6792383b150fc72b6100b2bfd520ba198e883b54ca09b0"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-004",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990250_69c0297c26436fca726a9d3f_benchmarks.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-004.png",
+    "section": "Benchmarks",
+    "alt": "benchmarks",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Benchmarks中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "693eb3d4b19f24b80f858a1e1a7f480ea11dd0af87b4f08d927e60dabf193fed"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-005",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cc84a131b8c3990210_69c0297c26436fca726a9d3b_dbpedia-bench.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-005.png",
+    "section": "DBpedia (text embeddings, 768d)",
+    "alt": "DBpedia Benchmark",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.39246119833702886,
+          0.9426523293608124,
+          0.2217294900221729,
+          0.04659498207885304
+        ],
+        "confidence": 0.5,
+        "text": "Dataset: dbpedia,k:10"
+      },
+      {
+        "boundingBox": [
+          0.031042128972653363,
+          0.8566308245818399,
+          0.044345898004434586,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "600-"
+      },
+      {
+        "boundingBox": [
+          0.9312638583425721,
+          0.8315412188172043,
+          0.039911308203991136,
+          0.03584229390681004
+        ],
+        "confidence": 1,
+        "text": "-3.5"
+      },
+      {
+        "boundingBox": [
+          0.10864745019401331,
+          0.7670250891577061,
+          0.01108647450110864,
+          0.03584229390681004
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.2439024389135255,
+          0.7526881724462365,
+          0.01773835920177383,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "*"
+      },
+      {
+        "boundingBox": [
+          0.028824833237250564,
+          0.7204301073476702,
+          0.046563192904656325,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "550-"
+      },
+      {
+        "boundingBox": [
+          0.9312638579545454,
+          0.7275985667114695,
+          0.037694013303769425,
+          0.032258064516129115
+        ],
+        "confidence": 0.5,
+        "text": "-4.0"
+      },
+      {
+        "boundingBox": [
+          0.931263858625277,
+          0.6200716840501792,
+          0.05764966740576505,
+          0.053763440860215006
+        ],
+        "confidence": 0.3,
+        "text": "-4.5m3"
+      },
+      {
+        "boundingBox": [
+          0.0066518851662971164,
+          0.5663082443369175,
+          0.07317073170731707,
+          0.06093189964157708
+        ],
+        "confidence": 0.3,
+        "text": "95500-"
+      },
+      {
+        "boundingBox": [
+          0.10421286019955654,
+          0.57706093218638,
+          0.015521064301552118,
+          0.028673835125447966
+        ],
+        "confidence": 0.3,
+        "text": "。"
+      },
+      {
+        "boundingBox": [
+          0.030860749092015468,
+          0.450916387966386,
+          0.04692595285216879,
+          0.03365109385555354
+        ],
+        "confidence": 0.3,
+        "text": "4501"
+      },
+      {
+        "boundingBox": [
+          0.9312638584072431,
+          0.4157706094982079,
+          0.037694013303769425,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "-5.5"
+      },
+      {
+        "boundingBox": [
+          0.0288248330931264,
+          0.31899641563620074,
+          0.04878048780487805,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "400-"
+      },
+      {
+        "boundingBox": [
+          0.9462305987991542,
+          0.30824372749103945,
+          0.02494456709885018,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "6.0"
+      },
+      {
+        "boundingBox": [
+          0.23503325898004437,
+          0.20071684566308245,
+          0.044345898004434586,
+          0.05017921146953408
+        ],
+        "confidence": 0.5,
+        "text": "0.80"
+      },
+      {
+        "boundingBox": [
+          0.6008869178677013,
+          0.2043010756869773,
+          0.04212860310421296,
+          0.05017921146953408
+        ],
+        "confidence": 0.3,
+        "text": "0.g0"
+      },
+      {
+        "boundingBox": [
+          0.05764966759977826,
+          0.20788530501792113,
+          0.037694013303769404,
+          0.028673835125448077
+        ],
+        "confidence": 1,
+        "text": "0.75"
+      },
+      {
+        "boundingBox": [
+          0.41906873607538797,
+          0.20430107566308242,
+          0.04212860310421285,
+          0.03942652329749108
+        ],
+        "confidence": 0.5,
+        "text": "0.85"
+      },
+      {
+        "boundingBox": [
+          0.7827050993569844,
+          0.20430107508960582,
+          0.04212860310421285,
+          0.03942652329749097
+        ],
+        "confidence": 1,
+        "text": "0.95"
+      },
+      {
+        "boundingBox": [
+          0.4411976807473961,
+          0.16454010411143394,
+          0.12425652311540764,
+          0.04367964754822429
+        ],
+        "confidence": 1,
+        "text": "Average Recall"
+      },
+      {
+        "boundingBox": [
+          0.21507760614579138,
+          0.1362007168458781,
+          0.01773835814448524,
+          0.021505376344086113
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.23725055376940132,
+          0.129032257750896,
+          0.044345898004434586,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "p50"
+      },
+      {
+        "boundingBox": [
+          0.32150776044345897,
+          0.13620071706093184,
+          0.013303769401330379,
+          0.021505376344086002
+        ],
+        "confidence": 0.3,
+        "text": "。"
+      },
+      {
+        "boundingBox": [
+          0.3481152998059867,
+          0.1290322582885305,
+          0.03769401330376937,
+          0.032258064516129115
+        ],
+        "confidence": 0.5,
+        "text": "p60"
+      },
+      {
+        "boundingBox": [
+          0.4545454544124169,
+          0.12903225842293908,
+          0.03547671840354766,
+          0.03584229390681004
+        ],
+        "confidence": 0.3,
+        "text": "P70"
+      },
+      {
+        "boundingBox": [
+          0.5521064300997783,
+          0.12903225766129034,
+          0.039911308203991136,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "p80"
+      },
+      {
+        "boundingBox": [
+          0.6297117518181818,
+          0.1326164876344087,
+          0.01552106430155209,
+          0.02508960573476693
+        ],
+        "confidence": 0.5,
+        "text": "。"
+      },
+      {
+        "boundingBox": [
+          0.6607538801274944,
+          0.12903225766129034,
+          0.033259423503326,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "p90"
+      },
+      {
+        "boundingBox": [
+          0.733924612232077,
+          0.1362007168458781,
+          0.01552106430155209,
+          0.021505376344086113
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.7649667405272234,
+          0.13261648761449618,
+          0.03104212860310429,
+          0.028673835125448077
+        ],
+        "confidence": 1,
+        "text": "p99"
+      },
+      {
+        "boundingBox": [
+          0.10421286326681435,
+          0.05734767084826764,
+          0.8381374722838137,
+          0.03584229390681004
+        ],
+        "confidence": 0.5,
+        "text": "lance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator：'none'｝， build_time=131.09s"
+      },
+      {
+        "boundingBox": [
+          0.10416668785621058,
+          0.0268456375753503,
+          0.6124999729334117,
+          0.04026845706406457
+        ],
+        "confidence": 0.3,
+        "text": "lance_ivfrq， ｛'target partition_size'： 16384， 'num_bits: 1｝，build_time=75.06s"
+      }
+    ],
+    "ocr_text": "Dataset: dbpedia,k:10\n600-\n-3.5\n•\n*\n550-\n-4.0\n-4.5m3\n95500-\n。\n4501\n-5.5\n400-\n6.0\n0.80\n0.g0\n0.75\n0.85\n0.95\nAverage Recall\n•\np50\n。\np60\nP70\np80\n。\np90\n•\np99\nlance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator：'none'｝， build_time=131.09s\nlance_ivfrq， ｛'target partition_size'： 16384， 'num_bits: 1｝，build_time=75.06s",
+    "description": "DBpedia (text embeddings, 768d)中的配图，包含文字：Dataset: dbpedia,k:10；600-；-3.5；•；*；550-；-4.0；-4.5m3；95500-；。；4501；-5.5；400-；6.0；0.80；0.g0；0.75；0.85；0.95；Average Recall；•；p50；。；p60；P70；p80；。；p90；•；p99",
+    "entities": [
+      "Dataset: dbpedia,k:10",
+      "600-",
+      "-3.5",
+      "•",
+      "*",
+      "550-",
+      "-4.0",
+      "-4.5m3",
+      "95500-",
+      "。",
+      "4501",
+      "-5.5",
+      "400-",
+      "6.0",
+      "0.80",
+      "0.g0",
+      "0.75",
+      "0.85",
+      "0.95",
+      "Average Recall",
+      "p50",
+      "p60",
+      "P70",
+      "p80",
+      "p90",
+      "p99",
+      "lance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator：'none'｝， build_time=131.09s",
+      "lance_ivfrq， ｛'target partition_size'： 16384， 'num_bits: 1｝，build_time=75.06s"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "515d27763bcca49c4de61a4a484aa9f9d21c616f1c72d485d160b0fbbbdf50ca"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-006",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cc84a131b8c3990217_69c0297c26436fca726a9d38_gist-bench.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-006.png",
+    "section": "GIST1M (image embeddings, 960d)",
+    "alt": "GIST1M Benchmark",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.41463414523281594,
+          0.9426523296370968,
+          0.17738359201773835,
+          0.03942652329749108
+        ],
+        "confidence": 0.5,
+        "text": "Dataset: gist, k:10"
+      },
+      {
+        "boundingBox": [
+          0.9312638578991131,
+          0.9068100362007169,
+          0.037694013303769425,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "-2.5"
+      },
+      {
+        "boundingBox": [
+          0.031042129018847,
+          0.8602150539426523,
+          0.03325942350332595,
+          0.028673835125448077
+        ],
+        "confidence": 1,
+        "text": "750"
+      },
+      {
+        "boundingBox": [
+          0.9312638578238834,
+          0.7992831539938556,
+          0.037694013303769425,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "-3.0"
+      },
+      {
+        "boundingBox": [
+          0.028824833120842584,
+          0.7598566306899641,
+          0.046563192904656325,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "700-"
+      },
+      {
+        "boundingBox": [
+          0.10864745029563933,
+          0.749103943130227,
+          0.01108647450110864,
+          0.043010752688172005
+        ],
+        "confidence": 0.3,
+        "text": "："
+      },
+      {
+        "boundingBox": [
+          0.9312638579379158,
+          0.6989247314695342,
+          0.037694013303769425,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "-3.5"
+      },
+      {
+        "boundingBox": [
+          0.03104212891986062,
+          0.6594982080645162,
+          0.044345898004434586,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "650-"
+      },
+      {
+        "boundingBox": [
+          0.9711751664301552,
+          0.6164874546236558,
+          0.0177383592017738,
+          0.057347670250896154
+        ],
+        "confidence": 0.3,
+        "text": "ms"
+      },
+      {
+        "boundingBox": [
+          0.00665188419385493,
+          0.55913978484383,
+          0.07095343680709536,
+          0.05734767025089604
+        ],
+        "confidence": 0.3,
+        "text": "0600-"
+      },
+      {
+        "boundingBox": [
+          0.9334811521064302,
+          0.5878136201314217,
+          0.053215077605321515,
+          0.032258064516129004
+        ],
+        "confidence": 0.3,
+        "text": "-4.0 c"
+      },
+      {
+        "boundingBox": [
+          0.9756097561807096,
+          0.544802866890681,
+          0.011086474501108667,
+          0.03942652329749108
+        ],
+        "confidence": 0.3,
+        "text": "En"
+      },
+      {
+        "boundingBox": [
+          0.9334811526385809,
+          0.4946236557706093,
+          0.03547671840354771,
+          0.021505376344086113
+        ],
+        "confidence": 0.3,
+        "text": "- 4.5"
+      },
+      {
+        "boundingBox": [
+          0.028824833120842584,
+          0.4587813617831541,
+          0.046563192904656325,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "550-"
+      },
+      {
+        "boundingBox": [
+          0.9312638577790097,
+          0.38709677407407417,
+          0.037694013303769425,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "-5.0"
+      },
+      {
+        "boundingBox": [
+          0.031042128666455494,
+          0.35842293896569377,
+          0.0443458980044346,
+          0.028673835125448077
+        ],
+        "confidence": 0.3,
+        "text": "500 -"
+      },
+      {
+        "boundingBox": [
+          0.9312638579453067,
+          0.27956989280167266,
+          0.039911308203991136,
+          0.03942652329749097
+        ],
+        "confidence": 0.5,
+        "text": "-5.5"
+      },
+      {
+        "boundingBox": [
+          0.031042128861788615,
+          0.2580645163082437,
+          0.031042128603104215,
+          0.028673835125447966
+        ],
+        "confidence": 1,
+        "text": "450"
+      },
+      {
+        "boundingBox": [
+          0.25942350231616723,
+          0.19713261439433682,
+          0.03325942561790313,
+          0.05376344427840263
+        ],
+        "confidence": 0.3,
+        "text": "go'"
+      },
+      {
+        "boundingBox": [
+          0.08203991133037694,
+          0.20430107559139787,
+          0.028824833702882482,
+          0.032258064516129115
+        ],
+        "confidence": 1,
+        "text": "0.5"
+      },
+      {
+        "boundingBox": [
+          0.4434589798503326,
+          0.20430107508960582,
+          0.031042128603104235,
+          0.03584229390681004
+        ],
+        "confidence": 1,
+        "text": "0.7"
+      },
+      {
+        "boundingBox": [
+          0.6230598671840354,
+          0.20430107542242693,
+          0.03104212860310418,
+          0.03584229390681004
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.8048780487250554,
+          0.20430107559737154,
+          0.02882483370288247,
+          0.03942652329749108
+        ],
+        "confidence": 1,
+        "text": "0.9"
+      },
+      {
+        "boundingBox": [
+          0.4434170817443774,
+          0.1645619770934379,
+          0.12203501597740701,
+          0.043635903293513856
+        ],
+        "confidence": 0.5,
+        "text": "Average Recall"
+      },
+      {
+        "boundingBox": [
+          0.21286031033259423,
+          0.13261648770609313,
+          0.01773835920177383,
+          0.02508960573476704
+        ],
+        "confidence": 0.5,
+        "text": "。"
+      },
+      {
+        "boundingBox": [
+          0.2461197338802661,
+          0.12903225774193539,
+          0.03547671840354766,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "P50"
+      },
+      {
+        "boundingBox": [
+          0.3215077637184205,
+          0.1326164876941457,
+          0.06430154787727577,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "• p60"
+      },
+      {
+        "boundingBox": [
+          0.4545454549889135,
+          0.1290322582885305,
+          0.03547671840354766,
+          0.032258064516129115
+        ],
+        "confidence": 0.5,
+        "text": "P70"
+      },
+      {
+        "boundingBox": [
+          0.5521064300997783,
+          0.12903225766129034,
+          0.039911308203991136,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "p80"
+      },
+      {
+        "boundingBox": [
+          0.6607538801995565,
+          0.12903225774193539,
+          0.03325942350332589,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "p90"
+      },
+      {
+        "boundingBox": [
+          0.7339246118847006,
+          0.13620071706093184,
+          0.013303769401330379,
+          0.021505376344086002
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.7649667409922395,
+          0.1290322582885305,
+          0.03325942350332589,
+          0.032258064516129115
+        ],
+        "confidence": 0.3,
+        "text": "p99"
+      },
+      {
+        "boundingBox": [
+          0.09090907682926878,
+          0.05734767031063315,
+          0.8447893569844789,
+          0.032258064516129115
+        ],
+        "confidence": 0.5,
+        "text": "- lance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator'： 'one'｝， build_time=84.92s"
+      },
+      {
+        "boundingBox": [
+          0.09583332291666698,
+          0.026845638725159993,
+          0.625,
+          0.040268453645877056
+        ],
+        "confidence": 0.5,
+        "text": "- lance_jvfrq， ｛target_partition_size'： 16384，'num_bits：：1｝.build_time=21.37s"
+      }
+    ],
+    "ocr_text": "Dataset: gist, k:10\n-2.5\n750\n-3.0\n700-\n：\n-3.5\n650-\nms\n0600-\n-4.0 c\nEn\n- 4.5\n550-\n-5.0\n500 -\n-5.5\n450\ngo'\n0.5\n0.7\n0.8\n0.9\nAverage Recall\n。\nP50\n• p60\nP70\np80\np90\n•\np99\n- lance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator'： 'one'｝， build_time=84.92s\n- lance_jvfrq， ｛target_partition_size'： 16384，'num_bits：：1｝.build_time=21.37s",
+    "description": "GIST1M (image embeddings, 960d)中的配图，包含文字：Dataset: gist, k:10；-2.5；750；-3.0；700-；：；-3.5；650-；ms；0600-；-4.0 c；En；- 4.5；550-；-5.0；500 -；-5.5；450；go'；0.5；0.7；0.8；0.9；Average Recall；。；P50；• p60；P70；p80；p90",
+    "entities": [
+      "Dataset: gist, k:10",
+      "-2.5",
+      "750",
+      "-3.0",
+      "700-",
+      "：",
+      "-3.5",
+      "650-",
+      "ms",
+      "0600-",
+      "-4.0 c",
+      "En",
+      "- 4.5",
+      "550-",
+      "-5.0",
+      "500 -",
+      "-5.5",
+      "450",
+      "go'",
+      "0.5",
+      "0.7",
+      "0.8",
+      "0.9",
+      "Average Recall",
+      "。",
+      "P50",
+      "• p60",
+      "P70",
+      "p80",
+      "p90",
+      "•",
+      "p99",
+      "- lance_ivfpq， ｛'target_partition_size'： 16384， 'sub_vector_dim'： 8， 'accelerator'： 'one'｝， build_time=84.92s",
+      "- lance_jvfrq， ｛target_partition_size'： 16384，'num_bits：：1｝.build_time=21.37s"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ad46710f1d6321437ce090c654e173c3cc11d0ea3543e71acbb5c90dfbb98537"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-007",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990255_69c0297c26436fca726a9d43_outro.jpeg",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-007.jpg",
+    "section": "Proven and ready",
+    "alt": "outro",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Proven and ready中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "160a6b12ad0c76b7a3ebb116de344b5e0761d92ce097f931ab6a4fb9940e50dd"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-008",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f5_david-myriel.avif",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-008.avif",
+    "section": "Proven and ready",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Proven and ready中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "34d93604ef4a4d0fa801d74bc0c7b29a04deda7f6bbff72ae142cd4071f216bf"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-009",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f22032db0ea99667d6a882_yang-cen.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-009.png",
+    "section": "Proven and ready",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Proven and ready中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1eaee9d3439c4328cfa4b8fc0a9cb2e139bf11fd195b99ae587ceaeec82ca309"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-010",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-010.png",
+    "section": "Proven and ready",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Proven and ready中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-011",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-011.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3-fig-012",
+    "doc_id": "1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1441-https-www-lancedb-com-blog-feature-rabitq-quanti-7a95f7e3/figure-012.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

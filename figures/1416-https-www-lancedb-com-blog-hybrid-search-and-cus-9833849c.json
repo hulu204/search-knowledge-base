@@ -1,0 +1,2322 @@
+[
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-001",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca1afdd462a081654bbe0a_preview-image.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-001.avif",
+    "section": "Hybrid Search and Custom Reranking with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7296511643531977,
+          0.924999999340865,
+          0.1875,
+          0.04166666666666674
+        ],
+        "confidence": 0.3,
+        "text": "Custom Parameters.."
+      },
+      {
+        "boundingBox": [
+          0.09732388164879552,
+          0.8806309765209628,
+          0.14401502609252928,
+          0.055275516156797044
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.43604651370980907,
+          0.8449612409528734,
+          0.1133720874786378,
+          0.028423772034821604
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.7790508614278887,
+          0.6665161767888986,
+          0.07125874360402429,
+          0.028724752532111375
+        ],
+        "confidence": 0.5,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.1308139533227234,
+          0.6356589150447804,
+          0.04796511729558309,
+          0.036563306384616356
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.42296511367405143,
+          0.4518518511628249,
+          0.1395348866780599,
+          0.03425925925925921
+        ],
+        "confidence": 0.5,
+        "text": "Full Text Seanch"
+      },
+      {
+        "boundingBox": [
+          0.7456395357207543,
+          0.18333333345155933,
+          0.16569766998291025,
+          0.028703703703703676
+        ],
+        "confidence": 0.5,
+        "text": "Combined & Reranked"
+      },
+      {
+        "boundingBox": [
+          0.8022870426328351,
+          0.1470452930719912,
+          0.06112358967463172,
+          0.03149080982914676
+        ],
+        "confidence": 1,
+        "text": "Results"
+      }
+    ],
+    "ocr_text": "Custom Parameters..\nLanceDB\nVector Search\nReranker\nQuery\nFull Text Seanch\nCombined & Reranked\nResults",
+    "description": "Hybrid Search and Custom Reranking with LanceDB中的配图，包含文字：Custom Parameters..；LanceDB；Vector Search；Reranker；Query；Full Text Seanch；Combined & Reranked；Results",
+    "entities": [
+      "Custom Parameters..",
+      "LanceDB",
+      "Vector Search",
+      "Reranker",
+      "Query",
+      "Full Text Seanch",
+      "Combined & Reranked",
+      "Results"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6fbe4b7a769edc57d337ae13097dcd592d9d3caca44667b68342c2fea5c079b8"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-002",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a37d_1_qR4yGWg8LoO0g9vzLnrIkg.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-002.avif",
+    "section": "Semantic Search",
+    "alt": "Embedding space illustration",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6458333356845237,
+          0.6370370371428571,
+          0.3291666666666667,
+          0.04444444444444451
+        ],
+        "confidence": 0.5,
+        "text": "Similar entities formn clusters"
+      }
+    ],
+    "ocr_text": "Similar entities formn clusters",
+    "description": "Semantic Search中的配图，包含文字：Similar entities formn clusters",
+    "entities": [
+      "Similar entities formn clusters"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1e967763de3f317cf92b5cc6f245571dafad6e0ad05472b91b7ea5b357322767"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-003",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a383_1_Zh4Jju6uiCYFO9HHvO5sIA.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-003.avif",
+    "section": "Hybrid Search",
+    "alt": "Hybrid search diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5750000062372116,
+          0.8132387697144803,
+          0.20833332606724342,
+          0.048830194676176
+        ],
+        "confidence": 0.5,
+        "text": "Custom Parameters."
+      },
+      {
+        "boundingBox": [
+          0.3749999983797417,
+          0.7548076926347904,
+          0.09156976972307479,
+          0.024152117699877795
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.6424418622150408,
+          0.6177884624150363,
+          0.0799418585641044,
+          0.028846152285312066
+        ],
+        "confidence": 0.5,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.12063953658430367,
+          0.5981087469716506,
+          0.05959302084786551,
+          0.03664302600472813
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.36482557981691077,
+          0.4609929076116668,
+          0.11337209429059708,
+          0.027186761229314405
+        ],
+        "confidence": 0.5,
+        "text": "Full Text Seanch"
+      },
+      {
+        "boundingBox": [
+          0.6423850266760888,
+          0.2567960330300837,
+          0.10185785566057481,
+          0.03929254969242901
+        ],
+        "confidence": 1,
+        "text": "Combined"
+      },
+      {
+        "boundingBox": [
+          0.6423888045309772,
+          0.20881224595426007,
+          0.09022239140101851,
+          0.04151012429672496
+        ],
+        "confidence": 1,
+        "text": "Results"
+      }
+    ],
+    "ocr_text": "Custom Parameters.\nVector Search\nReranker\nQuery\nFull Text Seanch\nCombined\nResults",
+    "description": "Hybrid Search中的配图，包含文字：Custom Parameters.；Vector Search；Reranker；Query；Full Text Seanch；Combined；Results",
+    "entities": [
+      "Custom Parameters.",
+      "Vector Search",
+      "Reranker",
+      "Query",
+      "Full Text Seanch",
+      "Combined",
+      "Results"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "610ca1ee9c981b88eb53574c03c885a78e6bec752a1107d556d2b15a1b5e4111"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-004",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a380_1*sIDZfRsg8CctGotZfZwq7w.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-004.avif",
+    "section": "**With OpenAI ada2 embeddings**",
+    "alt": "OpenAI ada2 evaluation - baseline",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03186500398068369,
+          0.9194052931426534,
+          0.08016533987862723,
+          0.03208143221038051
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.23401162810638532,
+          0.9154929572669265,
+          0.05232558114188057,
+          0.0352112679778841
+        ],
+        "confidence": 1,
+        "text": "Top-3"
+      },
+      {
+        "boundingBox": [
+          0.37500000142492956,
+          0.915492957724673,
+          0.053779067993164065,
+          0.0352112679778841
+        ],
+        "confidence": 1,
+        "text": "Top-5"
+      },
+      {
+        "boundingBox": [
+          0.5145348846966817,
+          0.9154929575016683,
+          0.06540697370256698,
+          0.0352112679778841
+        ],
+        "confidence": 1,
+        "text": "Top-10"
+      },
+      {
+        "boundingBox": [
+          0.031976746886477045,
+          0.8140877592732116,
+          0.1598837171282087,
+          0.033487297921477976
+        ],
+        "confidence": 1,
+        "text": "Linear Combination"
+      },
+      {
+        "boundingBox": [
+          0.2369186051226543,
+          0.809468822585055,
+          0.04215116228376117,
+          0.035796766743648956
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.3777434549980714,
+          0.8070418994215662,
+          0.04393169403076169,
+          0.04084577846747339
+        ],
+        "confidence": 0.5,
+        "text": "0.74"
+      },
+      {
+        "boundingBox": [
+          0.5188953494877102,
+          0.8071593532372242,
+          0.04360464913504469,
+          0.038106235565819824
+        ],
+        "confidence": 1,
+        "text": "0.85"
+      },
+      {
+        "boundingBox": [
+          0.03188250186424917,
+          0.7103397923892033,
+          0.12082801818847655,
+          0.034719475973010394
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.23546511682592244,
+          0.7018779346400663,
+          0.04505813871111189,
+          0.03990610312094045
+        ],
+        "confidence": 0.5,
+        "text": "0.71"
+      },
+      {
+        "boundingBox": [
+          0.3779069766965746,
+          0.704225351960371,
+          0.042151162283761145,
+          0.03755868554941233
+        ],
+        "confidence": 0.5,
+        "text": "0.70"
+      },
+      {
+        "boundingBox": [
+          0.5173272124995194,
+          0.7038640371667544,
+          0.04528743471418106,
+          0.03828131519344047
+        ],
+        "confidence": 1,
+        "text": "0.77"
+      },
+      {
+        "boundingBox": [
+          0.03181781551217743,
+          0.607130391521559,
+          0.06136437007359096,
+          0.03221809065644787
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.2352878740465278,
+          0.6026423936262839,
+          0.045412624904087595,
+          0.03415183272152511
+        ],
+        "confidence": 1,
+        "text": "0.81"
+      },
+      {
+        "boundingBox": [
+          0.3779069765761427,
+          0.6027713630359905,
+          0.042151162283761145,
+          0.033487297921477976
+        ],
+        "confidence": 1,
+        "text": "0.81"
+      },
+      {
+        "boundingBox": [
+          0.5188953498510823,
+          0.6027713627543003,
+          0.04360464913504469,
+          0.0334872979214782
+        ],
+        "confidence": 1,
+        "text": "0.85"
+      },
+      {
+        "boundingBox": [
+          0.03197674534920219,
+          0.5046189378109004,
+          0.07412790570940289,
+          0.030592329232301707
+        ],
+        "confidence": 1,
+        "text": "ColBERT"
+      },
+      {
+        "boundingBox": [
+          0.23517425307416606,
+          0.4966931503289337,
+          0.044186376844133624,
+          0.03713013338436977
+        ],
+        "confidence": 1,
+        "text": "0.68"
+      },
+      {
+        "boundingBox": [
+          0.3760989006496454,
+          0.4942080137041627,
+          0.04431382587977817,
+          0.039752986634851384
+        ],
+        "confidence": 1,
+        "text": "0.68"
+      },
+      {
+        "boundingBox": [
+          0.5173834796712706,
+          0.4951327053942197,
+          0.045174901144845236,
+          0.040251020471163246
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.1395348826028919,
+          0.3333333333074827,
+          0.07848837171282089,
+          0.018860661680648816
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @ top 3"
+      },
+      {
+        "boundingBox": [
+          0.476620346285303,
+          0.33677826195142346,
+          0.07728256225585944,
+          0.02362657419253167
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @ top 5"
+      },
+      {
+        "boundingBox": [
+          0.8023255841237015,
+          0.3356807512652291,
+          0.08139534541538784,
+          0.018822712931291674
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @ top10"
+      },
+      {
+        "boundingBox": [
+          0.04941860442383218,
+          0.2979214779465744,
+          0.026162790570940286,
+          0.014285094743512805
+        ],
+        "confidence": 0.5,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.3851744182319718,
+          0.3025404158743076,
+          0.026162790570940286,
+          0.0143609922422272
+        ],
+        "confidence": 1,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.7122093027159835,
+          0.2979214778878889,
+          0.026162790570940286,
+          0.014285094743512694
+        ],
+        "confidence": 0.5,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.050872093803167484,
+          0.2511737092347953,
+          0.03197674342564173,
+          0.014415205213269222
+        ],
+        "confidence": 0.5,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.38517441858514434,
+          0.25586854473949017,
+          0.03197674342564172,
+          0.014339307714554828
+        ],
+        "confidence": 1,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.713662791477586,
+          0.2511737092934808,
+          0.03197674342564172,
+          0.014415205213269222
+        ],
+        "confidence": 1,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.049418604861919985,
+          0.20422535229035088,
+          0.05959302084786551,
+          0.014084506530409269
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.38662790800170904,
+          0.2089201881432461,
+          0.058139533996582005,
+          0.014084506530409269
+        ],
+        "confidence": 0.5,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.7136627918679881,
+          0.20422535248596907,
+          0.058139533996582005,
+          0.014084506530409269
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.050872094386986005,
+          0.1570438800645395,
+          0.030523253849574494,
+          0.014317622085641801
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.3851744191265693,
+          0.16166281732139198,
+          0.030523253849574494,
+          0.014393520685596739
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.7136627920614046,
+          0.1570438801232248,
+          0.03052325384957455,
+          0.014317622085641801
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.04941860606372445,
+          0.11032863883182198,
+          0.05813953399658201,
+          0.01438267732052001
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.3851744197749648,
+          0.11502347455169659,
+          0.058139533996582005,
+          0.014306779271185288
+        ],
+        "confidence": 1,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.7122093034958952,
+          0.11032863887094546,
+          0.058139533996582005,
+          0.01438267732052001
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.0421511627587911,
+          0.030023094672846917,
+          0.013081395285470143,
+          0.01501154734411092
+        ],
+        "confidence": 0.5,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.10319767444882214,
+          0.02771362606147365,
+          0.01598837171282086,
+          0.017321016166281678
+        ],
+        "confidence": 1,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.16715116282891562,
+          0.027713625710383827,
+          0.014534883499145501,
+          0.01732101616628179
+        ],
+        "confidence": 0.3,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.22965116288995585,
+          0.0277136259973898,
+          0.015988371712820887,
+          0.019630484988452657
+        ],
+        "confidence": 0.3,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.29505813946409004,
+          0.030023094467447886,
+          0.014534883499145501,
+          0.01501154734411092
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.43895348848951976,
+          0.03233256333433132,
+          0.01598837171282086,
+          0.01732101616628179
+        ],
+        "confidence": 1,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.5014534887867519,
+          0.030023094971037168,
+          0.01744185992649616,
+          0.019630484988452657
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.565406976948822,
+          0.03002309466587294,
+          0.01598837171282086,
+          0.019630484988452657
+        ],
+        "confidence": 1,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.6293604652882117,
+          0.03002309415093407,
+          0.01598837171282086,
+          0.021939953810623525
+        ],
+        "confidence": 0.5,
+        "text": "0.8"
+      },
+      {
+        "boundingBox": [
+          0.7049418607576946,
+          0.030023094702189668,
+          0.014534883499145557,
+          0.01501154734411092
+        ],
+        "confidence": 1,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.7645348836501366,
+          0.030023094467447886,
+          0.014534883499145557,
+          0.01501154734411092
+        ],
+        "confidence": 1,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.824127907152236,
+          0.02771362608755612,
+          0.014534883499145446,
+          0.017321016166281678
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.8851744185338576,
+          0.030023094467447886,
+          0.014534883499145557,
+          0.01501154734411092
+        ],
+        "confidence": 1,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.9447674417896714,
+          0.030023094467447886,
+          0.014534883499145446,
+          0.01501154734411092
+        ],
+        "confidence": 1,
+        "text": "0.8"
+      }
+    ],
+    "ocr_text": "Reranker\nTop-3\nTop-5\nTop-10\nLinear Combination\n0.73\n0.74\n0.85\nCross Encoder\n0.71\n0.70\n0.77\nCohere\n0.81\n0.81\n0.85\nColBERT\n0.68\n0.68\n0.73\nhit_rate @ top 3\nhit_rate @ top 5\nhit_rate @ top10\nlinear\nlinear\nlinear\nColbert\nColbert\nColbert\nCross Encoder\nCross Encoder\nCross Encoder\nCohere\nCohere\nCohere\nVector Search\nVector Search\nVector Search\n0.0\n0.2\n0.4\n0.6\n0.8\n0.2\n0.4\n0.6\n0.8\n0.0\n0.2\n0.4\n0.6\n0.8",
+    "description": "**With OpenAI ada2 embeddings**中的配图，包含文字：Reranker；Top-3；Top-5；Top-10；Linear Combination；0.73；0.74；0.85；Cross Encoder；0.71；0.70；0.77；Cohere；0.81；0.81；0.85；ColBERT；0.68；0.68；0.73；hit_rate @ top 3；hit_rate @ top 5；hit_rate @ top10；linear；linear；linear；Colbert；Colbert；Colbert；Cross Encoder",
+    "entities": [
+      "Reranker",
+      "Top-3",
+      "Top-5",
+      "Top-10",
+      "Linear Combination",
+      "0.73",
+      "0.74",
+      "0.85",
+      "Cross Encoder",
+      "0.71",
+      "0.70",
+      "0.77",
+      "Cohere",
+      "0.81",
+      "ColBERT",
+      "0.68",
+      "hit_rate @ top 3",
+      "hit_rate @ top 5",
+      "hit_rate @ top10",
+      "linear",
+      "Colbert",
+      "Vector Search",
+      "0.0",
+      "0.2",
+      "0.4",
+      "0.6",
+      "0.8"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3e7e127ffcb863970cab7c32d8dd342e4bd367da850f0f468897b684d2c9d8ec"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-005",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a389_1*ItP95MwqIe43veGsCqe24Q.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-005.avif",
+    "section": "**With OpenAI ada2 embeddings**",
+    "alt": "OpenAI ada2 evaluation - reranked",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.027616279492426777,
+          0.9156908677029607,
+          0.07848837171282087,
+          0.03278688351679515
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.22529069714249217,
+          0.9133489463969352,
+          0.05087209429059708,
+          0.03512880439582511
+        ],
+        "confidence": 1,
+        "text": "Top-3"
+      },
+      {
+        "boundingBox": [
+          0.3633720932371992,
+          0.9133489466725159,
+          0.05232558114188057,
+          0.03278688351679504
+        ],
+        "confidence": 1,
+        "text": "Top-5"
+      },
+      {
+        "boundingBox": [
+          0.502717187370233,
+          0.9124520618475243,
+          0.0628795787266323,
+          0.03692257349392236
+        ],
+        "confidence": 1,
+        "text": "Top-10"
+      },
+      {
+        "boundingBox": [
+          0.026162792114444357,
+          0.8168202766040187,
+          0.1584302302769252,
+          0.031105990783410142
+        ],
+        "confidence": 1,
+        "text": "Linear Combination"
+      },
+      {
+        "boundingBox": [
+          0.2266961423097502,
+          0.8101379032715148,
+          0.04370073863438198,
+          0.03311997734456562
+        ],
+        "confidence": 1,
+        "text": "0.68"
+      },
+      {
+        "boundingBox": [
+          0.3691860466157628,
+          0.8122119810883548,
+          0.03924418585641043,
+          0.031105990783410142
+        ],
+        "confidence": 1,
+        "text": "0.70"
+      },
+      {
+        "boundingBox": [
+          0.5071134593959042,
+          0.8121043500341655,
+          0.041005638667515276,
+          0.03152900467270536
+        ],
+        "confidence": 0.5,
+        "text": "0.84"
+      },
+      {
+        "boundingBox": [
+          0.02761628130597389,
+          0.7142857144091121,
+          0.11773255484444754,
+          0.03044496483517145
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.22672324809615682,
+          0.7048547016633493,
+          0.043646526336669905,
+          0.03759738816643643
+        ],
+        "confidence": 1,
+        "text": "0.72"
+      },
+      {
+        "boundingBox": [
+          0.3662790697198303,
+          0.7049180331136597,
+          0.0421511622837612,
+          0.03747072527485518
+        ],
+        "confidence": 1,
+        "text": "0.72"
+      },
+      {
+        "boundingBox": [
+          0.5058139537314583,
+          0.7049180334147638,
+          0.042151162283761145,
+          0.03747072527485518
+        ],
+        "confidence": 1,
+        "text": "0.79"
+      },
+      {
+        "boundingBox": [
+          0.027541392913344356,
+          0.6108562872845698,
+          0.059742796761648995,
+          0.031214826118012295
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.22814962190631727,
+          0.6087383099857044,
+          0.042247268131801075,
+          0.033108860666301476
+        ],
+        "confidence": 1,
+        "text": "0.79"
+      },
+      {
+        "boundingBox": [
+          0.3677325589949903,
+          0.6059907837973229,
+          0.04069767270769392,
+          0.0357142857142857
+        ],
+        "confidence": 1,
+        "text": "0.79"
+      },
+      {
+        "boundingBox": [
+          0.5072674416752001,
+          0.6088992973582592,
+          0.03924418585641043,
+          0.030501623856856508
+        ],
+        "confidence": 1,
+        "text": "0.84"
+      },
+      {
+        "boundingBox": [
+          0.026162789844196115,
+          0.5103686634233395,
+          0.07267441885811943,
+          0.031105990783410142
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT"
+      },
+      {
+        "boundingBox": [
+          0.22669944885928556,
+          0.5056997591345113,
+          0.043694125584193666,
+          0.03309696830362763
+        ],
+        "confidence": 1,
+        "text": "0.70"
+      },
+      {
+        "boundingBox": [
+          0.3677325589949903,
+          0.5057603690381751,
+          0.04069767270769392,
+          0.033410138248847976
+        ],
+        "confidence": 1,
+        "text": "0.70"
+      },
+      {
+        "boundingBox": [
+          0.5043124904988996,
+          0.5033675400018702,
+          0.04370059967041018,
+          0.03776140696442076
+        ],
+        "confidence": 1,
+        "text": "0.76"
+      },
+      {
+        "boundingBox": [
+          0.1279069775568661,
+          0.3512880557827548,
+          0.07558139256068638,
+          0.021077283516457546
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @ top3"
+      },
+      {
+        "boundingBox": [
+          0.45930232714166475,
+          0.35362997687800757,
+          0.07412790570940297,
+          0.01873536263742759
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @top5"
+      },
+      {
+        "boundingBox": [
+          0.78488372108132,
+          0.35597189731752243,
+          0.0799418585641043,
+          0.01639344175839752
+        ],
+        "confidence": 0.5,
+        "text": "hit_rate @ top10"
+      },
+      {
+        "boundingBox": [
+          0.03779069735018877,
+          0.31797235013139347,
+          0.026162790570940293,
+          0.01497695852534564
+        ],
+        "confidence": 1,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.3677325585299368,
+          0.31797235023718484,
+          0.026162790570940286,
+          0.012672811059907918
+        ],
+        "confidence": 0.5,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.6976744191040647,
+          0.31797235005332947,
+          0.026162790570940286,
+          0.01497695852534553
+        ],
+        "confidence": 0.5,
+        "text": "linear"
+      },
+      {
+        "boundingBox": [
+          0.03912881454141755,
+          0.2709815402732224,
+          0.030753999437604637,
+          0.015413969343159084
+        ],
+        "confidence": 1,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.3690865763337888,
+          0.27091152569512167,
+          0.032175685337611615,
+          0.013212077628632302
+        ],
+        "confidence": 0.5,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.6976744193845628,
+          0.27400468431581937,
+          0.03197674342564183,
+          0.011709601648392187
+        ],
+        "confidence": 1,
+        "text": "Colbert"
+      },
+      {
+        "boundingBox": [
+          0.03924418721682524,
+          0.22465437806032063,
+          0.05813953399658203,
+          0.014221500141829324
+        ],
+        "confidence": 0.5,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.3691860476819415,
+          0.22465437806032063,
+          0.058139533996582005,
+          0.014221500141829324
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.6976744183214765,
+          0.22695852561803076,
+          0.058139533996582005,
+          0.011917352127040037
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.03919289121407413,
+          0.1777053256745389,
+          0.029172357831682483,
+          0.014612768652252361
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.36918604702411034,
+          0.1774193546442021,
+          0.029069766998291002,
+          0.01497695852534564
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.6976288458696985,
+          0.18006638605270853,
+          0.030614400591169044,
+          0.01457448818716589
+        ],
+        "confidence": 1,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.03779069664900772,
+          0.13348946165773978,
+          0.056686047145298554,
+          0.011709601099040623
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.36773255711412395,
+          0.13114754106014492,
+          0.05668604714529857,
+          0.014051521978070691
+        ],
+        "confidence": 1,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.6976744189963914,
+          0.13348946161049635,
+          0.05668604714529857,
+          0.01405152197807058
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.029069767791845374,
+          0.051522248792932324,
+          0.01598837171282087,
+          0.016450101329434363
+        ],
+        "confidence": 1,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.09302325574315981,
+          0.053864168636257426,
+          0.014534883499145501,
+          0.014108181549107424
+        ],
+        "confidence": 1,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.1555232559895198,
+          0.0491803280075791,
+          0.01598837171282086,
+          0.02109617022325372
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.2194767442242645,
+          0.05152224820845197,
+          0.014534883499145501,
+          0.016450101878785817
+        ],
+        "confidence": 0.5,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.3590116281632179,
+          0.04918032781477577,
+          0.014534883499145501,
+          0.018792022757815885
+        ],
+        "confidence": 0.3,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.4215116279371942,
+          0.049180327955290926,
+          0.01598837171282086,
+          0.018792022757815885
+        ],
+        "confidence": 0.5,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.4869186047329854,
+          0.0491803280075791,
+          0.014534883499145557,
+          0.02109617022325372
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.5494186049745003,
+          0.04918032816606366,
+          0.01598837171282086,
+          0.018792021659112756
+        ],
+        "confidence": 0.5,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.6889534885314349,
+          0.05620608936225269,
+          0.014534883499145557,
+          0.014070408135515189
+        ],
+        "confidence": 0.3,
+        "text": "0.0"
+      },
+      {
+        "boundingBox": [
+          0.7500000000559083,
+          0.05620608936225269,
+          0.013081395285470143,
+          0.014070408135515189
+        ],
+        "confidence": 0.5,
+        "text": "0.2"
+      },
+      {
+        "boundingBox": [
+          0.808139535043063,
+          0.05620608936225269,
+          0.014534883499145557,
+          0.014070408135515189
+        ],
+        "confidence": 0.5,
+        "text": "0.4"
+      },
+      {
+        "boundingBox": [
+          0.867732558298877,
+          0.05620608936225269,
+          0.014534883499145557,
+          0.014070408135515189
+        ],
+        "confidence": 0.3,
+        "text": "0.6"
+      },
+      {
+        "boundingBox": [
+          0.9273255814416416,
+          0.056206088895923934,
+          0.014534883499145557,
+          0.01176626121942903
+        ],
+        "confidence": 0.5,
+        "text": "0.8"
+      }
+    ],
+    "ocr_text": "Reranker\nTop-3\nTop-5\nTop-10\nLinear Combination\n0.68\n0.70\n0.84\nCross Encoder\n0.72\n0.72\n0.79\nCohere\n0.79\n0.79\n0.84\nColBERT\n0.70\n0.70\n0.76\nhit_rate @ top3\nhit_rate @top5\nhit_rate @ top10\nlinear\nlinear\nlinear\nColbert\nColbert\nColbert\nCross Encoder\nCross Encoder\nCross Encoder\nCohere\nCohere\nCohere\nVector Search\nVector Search\nVector Search\n0.0\n0.2\n0.4\n0.6\n0.0\n0.2\n0.4\n0.6\n0.0\n0.2\n0.4\n0.6\n0.8",
+    "description": "**With OpenAI ada2 embeddings**中的配图，包含文字：Reranker；Top-3；Top-5；Top-10；Linear Combination；0.68；0.70；0.84；Cross Encoder；0.72；0.72；0.79；Cohere；0.79；0.79；0.84；ColBERT；0.70；0.70；0.76；hit_rate @ top3；hit_rate @top5；hit_rate @ top10；linear；linear；linear；Colbert；Colbert；Colbert；Cross Encoder",
+    "entities": [
+      "Reranker",
+      "Top-3",
+      "Top-5",
+      "Top-10",
+      "Linear Combination",
+      "0.68",
+      "0.70",
+      "0.84",
+      "Cross Encoder",
+      "0.72",
+      "0.79",
+      "Cohere",
+      "ColBERT",
+      "0.76",
+      "hit_rate @ top3",
+      "hit_rate @top5",
+      "hit_rate @ top10",
+      "linear",
+      "Colbert",
+      "Vector Search",
+      "0.0",
+      "0.2",
+      "0.4",
+      "0.6",
+      "0.8"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "051ba8f9386d2e97d72f2b1d04c8b0aa1ede9e5578ecbc3e5eb4f1f7db379147"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-006",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a38f_1*Z8UCr_bNo3nCmKCafDHGlQ.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-006.avif",
+    "section": "Ingestion",
+    "alt": "LanceDB table preview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3066860471621288,
+          0.847014926827506,
+          0.04360464913504464,
+          0.06343283582089554
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.649709303105493,
+          0.8470149240265955,
+          0.03197674342564183,
+          0.06343283582089554
+        ],
+        "confidence": 1,
+        "text": "text"
+      },
+      {
+        "boundingBox": [
+          0.941860465123351,
+          0.8470149251021794,
+          0.014534883499145446,
+          0.07089552238805974
+        ],
+        "confidence": 1,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.013081398575711164,
+          0.6818181831488394,
+          0.3372092982700893,
+          0.08333332858868503
+        ],
+        "confidence": 0.3,
+        "text": "0【-0.0070581236,0.0034781466， -0.00699448，-0."
+      },
+      {
+        "boundingBox": [
+          0.6089535488482238,
+          0.6952810057615485,
+          0.0713370895385742,
+          0.07155920142558081
+        ],
+        "confidence": 1,
+        "text": "Hello World"
+      },
+      {
+        "boundingBox": [
+          0.9505813954769577,
+          0.712121211614789,
+          0.007267441749572723,
+          0.05303030227547256
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.01598837207579502,
+          0.5681818194430718,
+          0.007267441749572754,
+          0.053030302275472674
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.039244201595787405,
+          0.5373134324160961,
+          0.6424418422154018,
+          0.08389868665097366
+        ],
+        "confidence": 0.5,
+        "text": "【-0.0031103694， -0.03338528, 0.010777414， -0.0. Table of ContentsInUNITED STATESInSECURITIES A.."
+      },
+      {
+        "boundingBox": [
+          0.6962209323032115,
+          0.5522388049574998,
+          0.2601744079589844,
+          0.06897331351664526
+        ],
+        "confidence": 1,
+        "text": "cd7daa47-bfe1-4df7-be7b-448ba5bc78ba"
+      },
+      {
+        "boundingBox": [
+          0.014534884384371557,
+          0.4242424249986274,
+          0.018895348140171592,
+          0.053369514977753996
+        ],
+        "confidence": 0.3,
+        "text": "2|"
+      },
+      {
+        "boundingBox": [
+          0.031976743248741286,
+          0.39393939621702123,
+          0.30659468514578686,
+          0.08367254484945275
+        ],
+        "confidence": 0.5,
+        "text": "［-0.019352783， -0.022709219, 0.00970303， -0.02"
+      },
+      {
+        "boundingBox": [
+          0.37936046974067567,
+          0.4015151512967403,
+          0.5770348685128348,
+          0.07609678738152803
+        ],
+        "confidence": 0.5,
+        "text": "Class A common stock, par value $0.0001 per sh... 0eb638c9-716d-40f7-bd36-8592c810b825"
+      },
+      {
+        "boundingBox": [
+          0.3874999965241365,
+          0.28260869611238537,
+          0.28749997820172984,
+          0.065217388210012
+        ],
+        "confidence": 0.5,
+        "text": "this chapter） durina the precedina 12 months（."
+      },
+      {
+        "boundingBox": [
+          0.01308140018666074,
+          0.24999999912949444,
+          0.3297757393973214,
+          0.08333333214717131
+        ],
+        "confidence": 0.3,
+        "text": "3 ［-0.020943372， -0.016267335，-0.008805436，-0."
+      },
+      {
+        "boundingBox": [
+          0.3924418674250437,
+          0.2649253717403426,
+          0.5639534650530134,
+          0.06840795901284291
+        ],
+        "confidence": 0.5,
+        "text": "this chapter） during the preceding 12 months（.. 91692edb-e33d-4ba7-a6e9-bf99c15e02c5"
+      },
+      {
+        "boundingBox": [
+          0.04069767618631248,
+          0.10447761167483427,
+          0.309593026297433,
+          0.09328358208955223
+        ],
+        "confidence": 0.5,
+        "text": "［-0.019279178， -0.003457095， -0.011378206，-0⋯"
+      },
+      {
+        "boundingBox": [
+          0.38953487958027294,
+          0.11194029691624086,
+          0.29069767543247765,
+          0.07835820895522383
+        ],
+        "confidence": 0.5,
+        "text": "Indicate by check mark whether the registrant .."
+      },
+      {
+        "boundingBox": [
+          0.7034883709975538,
+          0.11940298465368582,
+          0.252906973702567,
+          0.07089552238805974
+        ],
+        "confidence": 1,
+        "text": "21cd16d3-bd65-42cf-b473-2dff7a2d55f8"
+      }
+    ],
+    "ocr_text": "vector\ntext\nid\n0【-0.0070581236,0.0034781466， -0.00699448，-0.\nHello World\n1\n1\n【-0.0031103694， -0.03338528, 0.010777414， -0.0. Table of ContentsInUNITED STATESInSECURITIES A..\ncd7daa47-bfe1-4df7-be7b-448ba5bc78ba\n2|\n［-0.019352783， -0.022709219, 0.00970303， -0.02\nClass A common stock, par value $0.0001 per sh... 0eb638c9-716d-40f7-bd36-8592c810b825\nthis chapter） durina the precedina 12 months（.\n3 ［-0.020943372， -0.016267335，-0.008805436，-0.\nthis chapter） during the preceding 12 months（.. 91692edb-e33d-4ba7-a6e9-bf99c15e02c5\n［-0.019279178， -0.003457095， -0.011378206，-0⋯\nIndicate by check mark whether the registrant ..\n21cd16d3-bd65-42cf-b473-2dff7a2d55f8",
+    "description": "Ingestion中的配图，包含文字：vector；text；id；0【-0.0070581236,0.0034781466， -0.00699448，-0.；Hello World；1；1；【-0.0031103694， -0.03338528, 0.010777414， -0.0. Table of ContentsInUNITED STATESInSECURITIES A..；cd7daa47-bfe1-4df7-be7b-448ba5bc78ba；2|；［-0.019352783， -0.022709219, 0.00970303， -0.02；Class A common stock, par value $0.0001 per sh... 0eb638c9-716d-40f7-bd36-8592c810b825；this chapter） durina the precedina 12 months（.；3 ［-0.020943372， -0.016267335，-0.008805436，-0.；this chapter） during the preceding 12 months（.. 91692edb-e33d-4ba7-a6e9-bf99c15e02c5；［-0.019279178， -0.003457095， -0.011378206，-0⋯；Indicate by check mark whether the registrant ..；21cd16d3-bd65-42cf-b473-2dff7a2d55f8",
+    "entities": [
+      "vector",
+      "text",
+      "id",
+      "0【-0.0070581236,0.0034781466， -0.00699448，-0.",
+      "Hello World",
+      "1",
+      "【-0.0031103694， -0.03338528, 0.010777414， -0.0. Table of ContentsInUNITED STATESInSECURITIES A..",
+      "cd7daa47-bfe1-4df7-be7b-448ba5bc78ba",
+      "2|",
+      "［-0.019352783， -0.022709219, 0.00970303， -0.02",
+      "Class A common stock, par value $0.0001 per sh... 0eb638c9-716d-40f7-bd36-8592c810b825",
+      "this chapter） durina the precedina 12 months（.",
+      "3 ［-0.020943372， -0.016267335，-0.008805436，-0.",
+      "this chapter） during the preceding 12 months（.. 91692edb-e33d-4ba7-a6e9-bf99c15e02c5",
+      "［-0.019279178， -0.003457095， -0.011378206，-0⋯",
+      "Indicate by check mark whether the registrant ..",
+      "21cd16d3-bd65-42cf-b473-2dff7a2d55f8"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d4b14a0719efe542f90750da7f0fe247468d80da3f1b5b70b053f6dd03b1f10a"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-007",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a38c_1*0U6v0riXpGC2icbD4L0kIA.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-007.avif",
+    "section": "**CohereReranker**",
+    "alt": "Cohere Reranker relevance scores",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2848837215158355,
+          0.8849557534988268,
+          0.03924418585641043,
+          0.0541746802951979
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.5872093029182611,
+          0.8849557532125176,
+          0.024709300994873118,
+          0.05417468236840284
+        ],
+        "confidence": 0.5,
+        "text": "text"
+      },
+      {
+        "boundingBox": [
+          0.8488372105055361,
+          0.8565217385052044,
+          0.12936046055385042,
+          0.09130434782608698
+        ],
+        "confidence": 0.5,
+        "text": "id _relevance_score"
+      },
+      {
+        "boundingBox": [
+          0.011627907014499976,
+          0.7256637181401588,
+          0.008720929963248117,
+          0.061946902067764875
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.0377906877219166,
+          0.7079646005201681,
+          0.8255814034598213,
+          0.07964601931364634
+        ],
+        "confidence": 0.5,
+        "text": "［0.003513212， -0.024703855, 0.012594916，-0.02. Increased operating expenses, decreased revenu... ccf2bc4e-elae-43e0-95a0-c8256790e585"
+      },
+      {
+        "boundingBox": [
+          0.9229651151311195,
+          0.716814159130849,
+          0.05523256029401502,
+          0.07079646069070566
+        ],
+        "confidence": 1,
+        "text": "0.985328"
+      },
+      {
+        "boundingBox": [
+          0.013081386235335474,
+          0.5478260881663447,
+          0.8502907017299107,
+          0.08260869565217388
+        ],
+        "confidence": 0.5,
+        "text": "1［-0.0042046686，-0.0053379848, 0.007175431，-0.• Made Possible by Hosts, Strangers, AirCover, C...bd9873bf-e927-4b1d-9336-c8d7a90c4ac6"
+      },
+      {
+        "boundingBox": [
+          0.9229651172362063,
+          0.5565217395686104,
+          0.05523255484444756,
+          0.07391304347826089
+        ],
+        "confidence": 1,
+        "text": "0.979036"
+      },
+      {
+        "boundingBox": [
+          0.011627907950964632,
+          0.4070796468643476,
+          0.02470930099487305,
+          0.061946902067764986
+        ],
+        "confidence": 0.5,
+        "text": "2"
+      },
+      {
+        "boundingBox": [
+          0.03633721264102314,
+          0.3893805341651031,
+          0.28633719308035716,
+          0.08018468359242314
+        ],
+        "confidence": 0.5,
+        "text": "［-0.008449444， -0.019329548, 0.014198151， -0.0⋯"
+      },
+      {
+        "boundingBox": [
+          0.3473837318409662,
+          0.3982300877989291,
+          0.26453486851283486,
+          0.08003078128980545
+        ],
+        "confidence": 0.5,
+        "text": "Table of Contents|nAirbnb, Inc./nConsolidated .."
+      },
+      {
+        "boundingBox": [
+          0.6279069778381956,
+          0.39823008735645116,
+          0.23691859654017855,
+          0.08003078128980545
+        ],
+        "confidence": 1,
+        "text": "4c9cdf95-af61-4384-8da3-2ec41b2712bf"
+      },
+      {
+        "boundingBox": [
+          0.9229361883447769,
+          0.3974805158337804,
+          0.05529041290283199,
+          0.08114516216775647
+        ],
+        "confidence": 1,
+        "text": "0.696578"
+      },
+      {
+        "boundingBox": [
+          0.011627910104420717,
+          0.23893805240069899,
+          0.3051578085763114,
+          0.07964601931364634
+        ],
+        "confidence": 0.5,
+        "text": "3 ［0.002638461， -0.02825835,0.022948321，-0.023"
+      },
+      {
+        "boundingBox": [
+          0.34883721943448587,
+          0.24778761036261177,
+          0.2630813816615514,
+          0.07079646069070566
+        ],
+        "confidence": 0.5,
+        "text": "Our success depends significantly on existing.."
+      },
+      {
+        "boundingBox": [
+          0.6293604703735758,
+          0.2477876108050897,
+          0.235465109688895,
+          0.07079646069070566
+        ],
+        "confidence": 1,
+        "text": "cfe4ac48-bb9d-4b28-afd7-13bf68741d41"
+      },
+      {
+        "boundingBox": [
+          0.9229224228948874,
+          0.24653291875293915,
+          0.055317944117954876,
+          0.07330584318741507
+        ],
+        "confidence": 1,
+        "text": "0.539923"
+      },
+      {
+        "boundingBox": [
+          0.011627910882994124,
+          0.0782608714004499,
+          0.3125,
+          0.08260869565217388
+        ],
+        "confidence": 0.5,
+        "text": "4 ［0.0068226666， -0.014803278,0.042449225， -0.0"
+      },
+      {
+        "boundingBox": [
+          0.3575581429156501,
+          0.07826086806793808,
+          0.2558139474051339,
+          0.09130434782608698
+        ],
+        "confidence": 0.5,
+        "text": "In addition, the number of listings on Airbnb ."
+      },
+      {
+        "boundingBox": [
+          0.6264534902083387,
+          0.08695652180982927,
+          0.238372083391462,
+          0.08260869565217399
+        ],
+        "confidence": 1,
+        "text": "87fe4b1f-66a3-4222-94f0-efda95326c3c"
+      },
+      {
+        "boundingBox": [
+          0.9258119595241073,
+          0.08700637418745649,
+          0.052445847647530686,
+          0.08262442298557449
+        ],
+        "confidence": 1,
+        "text": "0.460713"
+      }
+    ],
+    "ocr_text": "vector\ntext\nid _relevance_score\n0\n［0.003513212， -0.024703855, 0.012594916，-0.02. Increased operating expenses, decreased revenu... ccf2bc4e-elae-43e0-95a0-c8256790e585\n0.985328\n1［-0.0042046686，-0.0053379848, 0.007175431，-0.• Made Possible by Hosts, Strangers, AirCover, C...bd9873bf-e927-4b1d-9336-c8d7a90c4ac6\n0.979036\n2\n［-0.008449444， -0.019329548, 0.014198151， -0.0⋯\nTable of Contents|nAirbnb, Inc./nConsolidated ..\n4c9cdf95-af61-4384-8da3-2ec41b2712bf\n0.696578\n3 ［0.002638461， -0.02825835,0.022948321，-0.023\nOur success depends significantly on existing..\ncfe4ac48-bb9d-4b28-afd7-13bf68741d41\n0.539923\n4 ［0.0068226666， -0.014803278,0.042449225， -0.0\nIn addition, the number of listings on Airbnb .\n87fe4b1f-66a3-4222-94f0-efda95326c3c\n0.460713",
+    "description": "**CohereReranker**中的配图，包含文字：vector；text；id _relevance_score；0；［0.003513212， -0.024703855, 0.012594916，-0.02. Increased operating expenses, decreased revenu... ccf2bc4e-elae-43e0-95a0-c8256790e585；0.985328；1［-0.0042046686，-0.0053379848, 0.007175431，-0.• Made Possible by Hosts, Strangers, AirCover, C...bd9873bf-e927-4b1d-9336-c8d7a90c4ac6；0.979036；2；［-0.008449444， -0.019329548, 0.014198151， -0.0⋯；Table of Contents|nAirbnb, Inc./nConsolidated ..；4c9cdf95-af61-4384-8da3-2ec41b2712bf；0.696578；3 ［0.002638461， -0.02825835,0.022948321，-0.023；Our success depends significantly on existing..；cfe4ac48-bb9d-4b28-afd7-13bf68741d41；0.539923；4 ［0.0068226666， -0.014803278,0.042449225， -0.0；In addition, the number of listings on Airbnb .；87fe4b1f-66a3-4222-94f0-efda95326c3c；0.460713",
+    "entities": [
+      "vector",
+      "text",
+      "id _relevance_score",
+      "0",
+      "［0.003513212， -0.024703855, 0.012594916，-0.02. Increased operating expenses, decreased revenu... ccf2bc4e-elae-43e0-95a0-c8256790e585",
+      "0.985328",
+      "1［-0.0042046686，-0.0053379848, 0.007175431，-0.• Made Possible by Hosts, Strangers, AirCover, C...bd9873bf-e927-4b1d-9336-c8d7a90c4ac6",
+      "0.979036",
+      "2",
+      "［-0.008449444， -0.019329548, 0.014198151， -0.0⋯",
+      "Table of Contents|nAirbnb, Inc./nConsolidated ..",
+      "4c9cdf95-af61-4384-8da3-2ec41b2712bf",
+      "0.696578",
+      "3 ［0.002638461， -0.02825835,0.022948321，-0.023",
+      "Our success depends significantly on existing..",
+      "cfe4ac48-bb9d-4b28-afd7-13bf68741d41",
+      "0.539923",
+      "4 ［0.0068226666， -0.014803278,0.042449225， -0.0",
+      "In addition, the number of listings on Airbnb .",
+      "87fe4b1f-66a3-4222-94f0-efda95326c3c",
+      "0.460713"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c64d2110aa9037155f2a49d75ebd6a5b6f0a6ec793712a87fa03171e1a505628"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-008",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02997ca586e4855a6a386_1*yWDh0Klw8Upsw1V54kkkdQ.avif",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-008.avif",
+    "section": "ColBERT Reranker",
+    "alt": "Rerankers speed (ms) comparison",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06831395275219213,
+          0.8155650312011884,
+          0.06104651314871651,
+          0.039445628997867854
+        ],
+        "confidence": 0.3,
+        "text": "800-"
+      },
+      {
+        "boundingBox": [
+          0.06811662694989573,
+          0.6391731599704005,
+          0.06144116537911551,
+          0.03835650039380045
+        ],
+        "confidence": 0.5,
+        "text": "600-"
+      },
+      {
+        "boundingBox": [
+          0.0683139538008721,
+          0.4637526651507614,
+          0.0625,
+          0.03950113121634613
+        ],
+        "confidence": 0.3,
+        "text": "400 -"
+      },
+      {
+        "boundingBox": [
+          0.06976744204618864,
+          0.2863340561228984,
+          0.06250000000000001,
+          0.04555314639483943
+        ],
+        "confidence": 0.3,
+        "text": "200-"
+      },
+      {
+        "boundingBox": [
+          0.0988372095651012,
+          0.11930585673961325,
+          0.015988371712820873,
+          0.028199565944386995
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.16715116431791494,
+          0.07995735661632342,
+          0.12936046055385042,
+          0.039445628997867854
+        ],
+        "confidence": 1,
+        "text": "LinearComb"
+      },
+      {
+        "boundingBox": [
+          0.37334459824935085,
+          0.08352115471415522,
+          0.075985221862793,
+          0.034693048961127015
+        ],
+        "confidence": 0.5,
+        "text": "Cohere"
+      },
+      {
+        "boundingBox": [
+          0.5188953500372293,
+          0.08422174830052054,
+          0.14534883771623885,
+          0.03304904051172708
+        ],
+        "confidence": 1,
+        "text": "CrossEncoder"
+      },
+      {
+        "boundingBox": [
+          0.7252906990614172,
+          0.0820895526427955,
+          0.09011627742222383,
+          0.03518123667377404
+        ],
+        "confidence": 0.3,
+        "text": "ColBERT"
+      },
+      {
+        "boundingBox": [
+          0.4548150234537125,
+          0.03812651993802463,
+          0.09618390764508933,
+          0.03220683120206991
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      }
+    ],
+    "ocr_text": "800-\n600-\n400 -\n200-\n0\nLinearComb\nCohere\nCrossEncoder\nColBERT\nReranker",
+    "description": "ColBERT Reranker中的配图，包含文字：800-；600-；400 -；200-；0；LinearComb；Cohere；CrossEncoder；ColBERT；Reranker",
+    "entities": [
+      "800-",
+      "600-",
+      "400 -",
+      "200-",
+      "0",
+      "LinearComb",
+      "Cohere",
+      "CrossEncoder",
+      "ColBERT",
+      "Reranker"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "91747307ced2968e2457c107717b96b4eabbafd2d2319f8c7586f4091d2b8bf6"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-009",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-009.jpg",
+    "section": "Custom Reranking logic here",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Custom Reranking logic here中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-010",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-010.png",
+    "section": "Custom Reranking logic here",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Custom Reranking logic here中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-011",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-011.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c-fig-012",
+    "doc_id": "1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1416-https-www-lancedb-com-blog-hybrid-search-and-cus-9833849c/figure-012.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "figure_id": "2531-Understanding-Embeddings-in-the-Italian-Language-d0a21fb8-fig-001",
+    "doc_id": "2531-Understanding-Embeddings-in-the-Italian-Language-d0a21fb8",
+    "seq": 1,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2025/09/dbpedia_ita_exact_hist.png?fit=800%2C480&ssl=1",
+    "image_path": "images/2531-Understanding-Embeddings-in-the-Italian-Language-d0a21fb8/figure-001.webp",
+    "section": "Results",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3274999998655822,
+          0.9500000000085617,
+          0.39250000000000007,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "Model Performance with Variance as Error Bars"
+      },
+      {
+        "boundingBox": [
+          0.42749999987500004,
+          0.7500000002083334,
+          0.015000000000000013,
+          0.02499999999999991
+        ],
+        "confidence": 1,
+        "text": "*"
+      },
+      {
+        "boundingBox": [
+          0.014999995702674868,
+          0.558333334375,
+          0.01500000774860382,
+          0.125
+        ],
+        "confidence": 1,
+        "text": "NDCG@10"
+      },
+      {
+        "boundingBox": [
+          0.10999999749081421,
+          0.3166666672916667,
+          0.02250000476837158,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "17.93"
+      },
+      {
+        "boundingBox": [
+          0.15499999747295706,
+          0.3166666672916667,
+          0.020000004768371576,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "33.96"
+      },
+      {
+        "boundingBox": [
+          0.19749999749081418,
+          0.31666666739583327,
+          0.020000004768371576,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "51.45"
+      },
+      {
+        "boundingBox": [
+          0.2424999974908142,
+          0.31666666739583327,
+          0.02000000476837155,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "50.57"
+      },
+      {
+        "boundingBox": [
+          0.28999999746998084,
+          0.31666666739583327,
+          0.017500004768371602,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "32.78"
+      },
+      {
+        "boundingBox": [
+          0.33249999747295705,
+          0.3166666672916667,
+          0.02000000476837155,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "38.37"
+      },
+      {
+        "boundingBox": [
+          0.37749999749081425,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "34.79"
+      },
+      {
+        "boundingBox": [
+          0.41999999749081424,
+          0.3166666672916667,
+          0.022500004768371606,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "40.65"
+      },
+      {
+        "boundingBox": [
+          0.467499997472957,
+          0.3208333339285715,
+          0.020000004768371604,
+          0.08333333333333326
+        ],
+        "confidence": 1,
+        "text": "45.23"
+      },
+      {
+        "boundingBox": [
+          0.512499997472957,
+          0.3166666672916667,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "53.89"
+      },
+      {
+        "boundingBox": [
+          0.5549999974908142,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "45.59"
+      },
+      {
+        "boundingBox": [
+          0.5999999974908142,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.3,
+        "text": "52.88"
+      },
+      {
+        "boundingBox": [
+          0.6474999974699809,
+          0.31666666739583327,
+          0.017500004768371547,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "52.29"
+      },
+      {
+        "boundingBox": [
+          0.6899999974908141,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 1,
+        "text": "51.83"
+      },
+      {
+        "boundingBox": [
+          0.7349999974908141,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "51.73"
+      },
+      {
+        "boundingBox": [
+          0.7799999974908141,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.5,
+        "text": "51.55"
+      },
+      {
+        "boundingBox": [
+          0.8274999975158142,
+          0.3208333341666666,
+          0.0150000047683716,
+          0.08333333333333337
+        ],
+        "confidence": 1,
+        "text": "51.02"
+      },
+      {
+        "boundingBox": [
+          0.8674999975086713,
+          0.3166666672916667,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.3,
+        "text": "50.84"
+      },
+      {
+        "boundingBox": [
+          0.9124999974908141,
+          0.31666666739583327,
+          0.020000004768371604,
+          0.08750000000000002
+        ],
+        "confidence": 0.3,
+        "text": "52.21"
+      },
+      {
+        "boundingBox": [
+          0.06875000451308395,
+          0.21250000481142883,
+          0.05624999523162842,
+          0.09374999205271406
+        ],
+        "confidence": 0.3,
+        "text": "TF-IDF"
+      },
+      {
+        "boundingBox": [
+          0.07374999834394977,
+          0.06666666508870256,
+          0.14375,
+          0.23958333333333337
+        ],
+        "confidence": 0.3,
+        "text": "text-embedding:3-small"
+      },
+      {
+        "boundingBox": [
+          0.09643365189342688,
+          0.03753618447056939,
+          0.16753075599670408,
+          0.2658856074015299
+        ],
+        "confidence": 0.5,
+        "text": "textembedding-3-smallLhy"
+      },
+      {
+        "boundingBox": [
+          0.3546841081449435,
+          0.08875041294720099,
+          0.1353060150146484,
+          0.21890012423197425
+        ],
+        "confidence": 0.3,
+        "text": "multlingual-e5-large"
+      },
+      {
+        "boundingBox": [
+          0.4244999977541008,
+          0.062385848481152695,
+          0.15573287963867183,
+          0.24654108683268228
+        ],
+        "confidence": 0.3,
+        "text": "multlinguaresdlarge.hy"
+      },
+      {
+        "boundingBox": [
+          0.4412500027568524,
+          0.006249990842727926,
+          0.18124998092651362,
+          0.30208333333333337
+        ],
+        "confidence": 0.5,
+        "text": "multilingual-eS-large.hy adapt"
+      },
+      {
+        "boundingBox": [
+          0.6125000003248638,
+          0.1458333347131604,
+          0.09624999999999995,
+          0.16041666666666665
+        ],
+        "confidence": 0.3,
+        "text": "bge-m3 adapt"
+      },
+      {
+        "boundingBox": [
+          0.6850000003109831,
+          0.11250000059196208,
+          0.11499999999999999,
+          0.1916666746139526
+        ],
+        "confidence": 0.3,
+        "text": "bge-m3.hy adapt"
+      },
+      {
+        "boundingBox": [
+          0.7025024002749813,
+          0.07078659759940464,
+          0.13871275901794433,
+          0.2356149355570475
+        ],
+        "confidence": 0.5,
+        "text": "bge-m3 adapt （non-.lin）"
+      },
+      {
+        "boundingBox": [
+          0.6212499999719592,
+          0.15833333500961755,
+          0.059999995231628356,
+          0.09999999205271404
+        ],
+        "confidence": 0.5,
+        "text": "bge-m3 a"
+      }
+    ],
+    "ocr_text": "Model Performance with Variance as Error Bars\n*\nNDCG@10\n17.93\n33.96\n51.45\n50.57\n32.78\n38.37\n34.79\n40.65\n45.23\n53.89\n45.59\n52.88\n52.29\n51.83\n51.73\n51.55\n51.02\n50.84\n52.21\nTF-IDF\ntext-embedding:3-small\ntextembedding-3-smallLhy\nmultlingual-e5-large\nmultlinguaresdlarge.hy\nmultilingual-eS-large.hy adapt\nbge-m3 adapt\nbge-m3.hy adapt\nbge-m3 adapt （non-.lin）\nbge-m3 a",
+    "description": "Results中的配图，包含文字：Model Performance with Variance as Error Bars；*；NDCG@10；17.93；33.96；51.45；50.57；32.78；38.37；34.79；40.65；45.23；53.89；45.59；52.88；52.29；51.83；51.73；51.55；51.02；50.84；52.21；TF-IDF；text-embedding:3-small；textembedding-3-smallLhy；multlingual-e5-large；multlinguaresdlarge.hy；multilingual-eS-large.hy adapt；bge-m3 adapt；bge-m3.hy adapt",
+    "entities": [
+      "Model Performance with Variance as Error Bars",
+      "*",
+      "NDCG@10",
+      "17.93",
+      "33.96",
+      "51.45",
+      "50.57",
+      "32.78",
+      "38.37",
+      "34.79",
+      "40.65",
+      "45.23",
+      "53.89",
+      "45.59",
+      "52.88",
+      "52.29",
+      "51.83",
+      "51.73",
+      "51.55",
+      "51.02",
+      "50.84",
+      "52.21",
+      "TF-IDF",
+      "text-embedding:3-small",
+      "textembedding-3-smallLhy",
+      "multlingual-e5-large",
+      "multlinguaresdlarge.hy",
+      "multilingual-eS-large.hy adapt",
+      "bge-m3 adapt",
+      "bge-m3.hy adapt",
+      "bge-m3 adapt （non-.lin）",
+      "bge-m3 a"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "739827acd207b9772e7c76379886efcde6b802706e87200eae50128e078114d9"
+  }
+]

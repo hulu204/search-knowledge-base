@@ -1,0 +1,2838 @@
+[
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-001",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6abd16b19757616117af7138_6abd15abfbf8354a3a591588_6ab6e826f1de06999f9d869a_rerank_hero-p-1080.png",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-001.png",
+    "section": "How Jev Compares to Other Rerankers",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09812294176249628,
+          0.8780706586256534,
+          0.13523559570312502,
+          0.04977973354490173
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "How Jev Compares to Other Rerankers中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a76f0516f86d5e9df4a7ec0e6efd2588788c771d44379fbb2abfdff15ab656c"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-002",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aba9871193fa4b470d277c2_6aba9818e755de989c470dcb_jev-chart-1-prompt-impact.webp",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-002.webp",
+    "section": "**How Jev evaluates search results**",
+    "alt": "Jev default and relevance prompts compared across five datasets using hybrid Hit@10.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04796511233208236,
+          0.8539823007603162,
+          0.5755813980102539,
+          0.053097345261346685
+        ],
+        "confidence": 0.5,
+        "text": "The prompt changes retrieval quality"
+      },
+      {
+        "boundingBox": [
+          0.04796512899182087,
+          0.8119469033361641,
+          0.5377906799316408,
+          0.029005477541969027
+        ],
+        "confidence": 0.5,
+        "text": "Jev default vs. relevance prompt . Hybrid Hit@10 （%）•Higher is better"
+      },
+      {
+        "boundingBox": [
+          0.0494186028088744,
+          0.7500000001626627,
+          0.13372093200683594,
+          0.024336282639276452
+        ],
+        "confidence": 0.5,
+        "text": "• Default prompt"
+      },
+      {
+        "boundingBox": [
+          0.2281976762881257,
+          0.7476190478450089,
+          0.1569767379760742,
+          0.03142857142857136
+        ],
+        "confidence": 0.5,
+        "text": "• Relevance prompt"
+      },
+      {
+        "boundingBox": [
+          0.6816608490294417,
+          0.7188806627090859,
+          0.049468998908996586,
+          0.020203276134672543
+        ],
+        "confidence": 1,
+        "text": "Default"
+      },
+      {
+        "boundingBox": [
+          0.7703488389062039,
+          0.7168141595942019,
+          0.0712209272384644,
+          0.02223345983596059
+        ],
+        "confidence": 1,
+        "text": "Relevance"
+      },
+      {
+        "boundingBox": [
+          0.8690010541617103,
+          0.7129580581063444,
+          0.08757928848266605,
+          0.027623706999279074
+        ],
+        "confidence": 0.5,
+        "text": "Change （pp）"
+      },
+      {
+        "boundingBox": [
+          0.04941860613715086,
+          0.6548672573184651,
+          0.06831395149230957,
+          0.028942266191754995
+        ],
+        "confidence": 0.3,
+        "text": "GOOAQ"
+      },
+      {
+        "boundingBox": [
+          0.6845930228962288,
+          0.6548672573184651,
+          0.045058140754699716,
+          0.028942266191754995
+        ],
+        "confidence": 1,
+        "text": "92.17"
+      },
+      {
+        "boundingBox": [
+          0.7804572653909103,
+          0.6545867133651926,
+          0.05245756149291991,
+          0.02932214827764601
+        ],
+        "confidence": 1,
+        "text": "92.59"
+      },
+      {
+        "boundingBox": [
+          0.8879938437283778,
+          0.6523186244071477,
+          0.05104719638824462,
+          0.03164593832833429
+        ],
+        "confidence": 1,
+        "text": "+0.42"
+      },
+      {
+        "boundingBox": [
+          0.04941860519512975,
+          0.5638095242096623,
+          0.030523254871368408,
+          0.029523809523809508
+        ],
+        "confidence": 1,
+        "text": "NQ"
+      },
+      {
+        "boundingBox": [
+          0.6802325579048406,
+          0.5638095242096623,
+          0.05232558250427244,
+          0.029523809523809508
+        ],
+        "confidence": 1,
+        "text": "86.88"
+      },
+      {
+        "boundingBox": [
+          0.7789570974593713,
+          0.5571327962000636,
+          0.05255092144012452,
+          0.03617688678559805
+        ],
+        "confidence": 1,
+        "text": "87.40"
+      },
+      {
+        "boundingBox": [
+          0.8878851895898311,
+          0.5633346605215129,
+          0.05126450538635252,
+          0.030410325186593146
+        ],
+        "confidence": 0.5,
+        "text": "+0.52"
+      },
+      {
+        "boundingBox": [
+          0.04792530383327215,
+          0.4687619442476487,
+          0.09455636978149415,
+          0.03371505192347923
+        ],
+        "confidence": 1,
+        "text": "HotpotQA"
+      },
+      {
+        "boundingBox": [
+          0.6800035422936506,
+          0.4659591391255271,
+          0.05278361320495606,
+          0.03489588056291848
+        ],
+        "confidence": 1,
+        "text": "92.67"
+      },
+      {
+        "boundingBox": [
+          0.7804385604574894,
+          0.46653034249141756,
+          0.051041483879089355,
+          0.035965863182431224
+        ],
+        "confidence": 0.5,
+        "text": "97.70"
+      },
+      {
+        "boundingBox": [
+          0.8866279068583289,
+          0.4712389387159577,
+          0.05232558250427244,
+          0.0287610617138091
+        ],
+        "confidence": 1,
+        "text": "+5.03"
+      },
+      {
+        "boundingBox": [
+          0.5159622348994802,
+          0.44449931666095077,
+          0.05528483390808103,
+          0.018081013815743563
+        ],
+        "confidence": 0.3,
+        "text": "RRF 96.19"
+      },
+      {
+        "boundingBox": [
+          0.046511629546551365,
+          0.37809523814380397,
+          0.04941860198974609,
+          0.03340918586367647
+        ],
+        "confidence": 1,
+        "text": "FiQA"
+      },
+      {
+        "boundingBox": [
+          0.3851744189044893,
+          0.38053097392741186,
+          0.01598837137222292,
+          0.024336282639276452
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.6800803631463411,
+          0.3777127565144974,
+          0.05262997150421145,
+          0.032185105823335225
+        ],
+        "confidence": 1,
+        "text": "78.40"
+      },
+      {
+        "boundingBox": [
+          0.7803770508516084,
+          0.37775350665265905,
+          0.051164503097534175,
+          0.032103605724516315
+        ],
+        "confidence": 1,
+        "text": "78.70"
+      },
+      {
+        "boundingBox": [
+          0.884927558575601,
+          0.37729629153445976,
+          0.05427278995513918,
+          0.033018035888671915
+        ],
+        "confidence": 0.5,
+        "text": "+0.30"
+      },
+      {
+        "boundingBox": [
+          0.04934674920180532,
+          0.2893790668234384,
+          0.07572510719299316,
+          0.02964894612630209
+        ],
+        "confidence": 1,
+        "text": "SciDocs"
+      },
+      {
+        "boundingBox": [
+          0.6800892271598932,
+          0.28920731083467155,
+          0.052612242698669376,
+          0.029992457798549088
+        ],
+        "confidence": 0.5,
+        "text": "64.70"
+      },
+      {
+        "boundingBox": [
+          0.7805232555501894,
+          0.28952380920039267,
+          0.05232558250427244,
+          0.029523809523809508
+        ],
+        "confidence": 1,
+        "text": "65.90"
+      },
+      {
+        "boundingBox": [
+          0.8880813947582936,
+          0.28952380984316706,
+          0.047965116500854554,
+          0.02952380952380962
+        ],
+        "confidence": 1,
+        "text": "+1.20"
+      },
+      {
+        "boundingBox": [
+          0.1889534886587404,
+          0.24095238054058177,
+          0.02325581312179567,
+          0.02674673443748843
+        ],
+        "confidence": 1,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.29360465174475,
+          0.24095238076533254,
+          0.023255813121795643,
+          0.026746734437488318
+        ],
+        "confidence": 1,
+        "text": "70"
+      },
+      {
+        "boundingBox": [
+          0.39970930247085484,
+          0.24336283173750184,
+          0.018895348310470572,
+          0.019911504473004937
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.502906976966234,
+          0.2433628320026331,
+          0.023255813121795588,
+          0.024336282639276452
+        ],
+        "confidence": 1,
+        "text": "90"
+      },
+      {
+        "boundingBox": [
+          0.6031976745846646,
+          0.24095238055041457,
+          0.03052325487136842,
+          0.02674673443748843
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.3473837232274492,
+          0.1969026550483559,
+          0.12354650497436526,
+          0.024336282639276452
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid Hit@10（%）"
+      },
+      {
+        "boundingBox": [
+          0.045833346514078596,
+          0.13904761959401424,
+          0.5458333206176759,
+          0.038167570204961865
+        ],
+        "confidence": 0.5,
+        "text": "HotpotQA: from 3.52 points below RRF to 1.51 points above it."
+      },
+      {
+        "boundingBox": [
+          0.04796513265096962,
+          0.061904761727932356,
+          0.5290697479248048,
+          0.02216603415352958
+        ],
+        "confidence": 0.5,
+        "text": "pp = percentage points. Changes use the published scores rounded to two decimals."
+      },
+      {
+        "boundingBox": [
+          0.04796511180647041,
+          0.026548673089777042,
+          0.4287790679931641,
+          0.022123892647879506
+        ],
+        "confidence": 0.5,
+        "text": "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+      }
+    ],
+    "ocr_text": "The prompt changes retrieval quality\nJev default vs. relevance prompt . Hybrid Hit@10 （%）•Higher is better\n• Default prompt\n• Relevance prompt\nDefault\nRelevance\nChange （pp）\nGOOAQ\n92.17\n92.59\n+0.42\nNQ\n86.88\n87.40\n+0.52\nHotpotQA\n92.67\n97.70\n+5.03\nRRF 96.19\nFiQA\n◎\n78.40\n78.70\n+0.30\nSciDocs\n64.70\n65.90\n+1.20\n60\n70\n80\n90\n100\nHybrid Hit@10（%）\nHotpotQA: from 3.52 points below RRF to 1.51 points above it.\npp = percentage points. Changes use the published scores rounded to two decimals.\nSource: lancedb/research • benchmark snapshot 4616259 •September 2026",
+    "description": "**How Jev evaluates search results**中的配图，包含文字：The prompt changes retrieval quality；Jev default vs. relevance prompt . Hybrid Hit@10 （%）•Higher is better；• Default prompt；• Relevance prompt；Default；Relevance；Change （pp）；GOOAQ；92.17；92.59；+0.42；NQ；86.88；87.40；+0.52；HotpotQA；92.67；97.70；+5.03；RRF 96.19；FiQA；◎；78.40；78.70；+0.30；SciDocs；64.70；65.90；+1.20；60",
+    "entities": [
+      "The prompt changes retrieval quality",
+      "Jev default vs. relevance prompt . Hybrid Hit@10 （%）•Higher is better",
+      "• Default prompt",
+      "• Relevance prompt",
+      "Default",
+      "Relevance",
+      "Change （pp）",
+      "GOOAQ",
+      "92.17",
+      "92.59",
+      "+0.42",
+      "NQ",
+      "86.88",
+      "87.40",
+      "+0.52",
+      "HotpotQA",
+      "92.67",
+      "97.70",
+      "+5.03",
+      "RRF 96.19",
+      "FiQA",
+      "◎",
+      "78.40",
+      "78.70",
+      "+0.30",
+      "SciDocs",
+      "64.70",
+      "65.90",
+      "+1.20",
+      "60",
+      "70",
+      "80",
+      "90",
+      "100",
+      "Hybrid Hit@10（%）",
+      "HotpotQA: from 3.52 points below RRF to 1.51 points above it.",
+      "pp = percentage points. Changes use the published scores rounded to two decimals.",
+      "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c0b2c0390eda020512c188d7f5a63bf955c4fece8e2c61e0d9751dc7328814f9"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-003",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab6bb15599f8e93c9e71038_6ab69757261deb4c494cbbd8_jev-reranker-inline-2.webp",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-003.webp",
+    "section": "**Use Jev with LanceDB**",
+    "alt": "Vector search results reranked by Jev for a password reset query.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.446960668049992,
+          0.8498293515940074,
+          0.10727056115865707,
+          0.04266211604095571
+        ],
+        "confidence": 0.5,
+        "text": "Vector search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.03814065088098037,
+          0.675000000442639,
+          0.369487464427948,
+          0.050255972370759516
+        ],
+        "confidence": 0.5,
+        "text": "jev-1.13.0• How do I reset a forgotten password？"
+      },
+      {
+        "boundingBox": [
+          0.0381406467316745,
+          0.5541666665017593,
+          0.21811680495738983,
+          0.04651592697299789
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in results："
+      },
+      {
+        "boundingBox": [
+          0.10607866980579347,
+          0.45833333277787036,
+          0.12038139998912811,
+          0.05873151525295639
+        ],
+        "confidence": 0.5,
+        "text": "print （result［\""
+      },
+      {
+        "boundingBox": [
+          0.22050059157912272,
+          0.45000000038185184,
+          0.3110846281051636,
+          0.06706484511443778
+        ],
+        "confidence": 0.5,
+        "text": "_relevance_score\"］， result［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.04052443426754315,
+          0.4658703074390508,
+          0.02264600619673729,
+          0.022184300341296925
+        ],
+        "confidence": 0.3,
+        "text": "•••"
+      },
+      {
+        "boundingBox": [
+          0.038140643805513186,
+          0.3327645059352874,
+          0.711561381816864,
+          0.059726962457337884
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.03814065650762194,
+          0.245733788230997,
+          0.6698450446128845,
+          0.05460750853242324
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enable two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.0381406333124481,
+          0.15833333305122688,
+          0.6448152661323547,
+          0.054977246111977185
+        ],
+        "confidence": 0.5,
+        "text": "0.009999999776482582 You can change your billing address in account settings."
+      }
+    ],
+    "ocr_text": "Vector search + Jev\njev-1.13.0• How do I reset a forgotten password？\n>>> for result in results：\nprint （result［\"\n_relevance_score\"］， result［\"answer\"］）\n•••\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enable two-factor authentication.\n0.009999999776482582 You can change your billing address in account settings.",
+    "description": "**Use Jev with LanceDB**中的配图，包含文字：Vector search + Jev；jev-1.13.0• How do I reset a forgotten password？；>>> for result in results：；print （result［\"；_relevance_score\"］， result［\"answer\"］）；•••；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enable two-factor authentication.；0.009999999776482582 You can change your billing address in account settings.",
+    "entities": [
+      "Vector search + Jev",
+      "jev-1.13.0• How do I reset a forgotten password？",
+      ">>> for result in results：",
+      "print （result［\"",
+      "_relevance_score\"］， result［\"answer\"］）",
+      "•••",
+      "0.949999988079071 To reset your password, choose Forgot password on the sign-in page.",
+      "0.029999999329447746 Use a unique password and enable two-factor authentication.",
+      "0.009999999776482582 You can change your billing address in account settings."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "30fbec970f63ab62f85a4f96e9626412e71e22429b34a881fdd7a953a2c5f02b"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-004",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab6bb15599f8e93c9e71035_6ab69755227e1840d9d9e4ac_jev-reranker-inline-1.webp",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-004.webp",
+    "section": "**Use Jev with LanceDB**",
+    "alt": "Full-text and hybrid search results reranked by Jev for a password reset query.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.41424418938471774,
+          0.9159663861489413,
+          0.17296510934829712,
+          0.025653199736456855
+        ],
+        "confidence": 0.5,
+        "text": "Full-text and hybrid search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.03924418921318937,
+          0.820728291464436,
+          0.36918604373931885,
+          0.028011203485693636
+        ],
+        "confidence": 0.5,
+        "text": "jev-1.13.0•How do I reset a forgotten password？"
+      },
+      {
+        "boundingBox": [
+          0.037790700086397594,
+          0.7476459505940003,
+          0.29360464215278625,
+          0.03389830508474567
+        ],
+        "confidence": 0.5,
+        "text": ">>> print （\"Full-text search + Jev\"）"
+      },
+      {
+        "boundingBox": [
+          0.03756431160919102,
+          0.694448173424675,
+          0.2519453465938568,
+          0.04329162712600043
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in fts_results："
+      },
+      {
+        "boundingBox": [
+          0.1061046565968003,
+          0.6468926549361906,
+          0.42587208747863764,
+          0.03672316384180796
+        ],
+        "confidence": 0.5,
+        "text": "print（result ［\"_relevance_score\"］，result［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.040697674655720426,
+          0.6553672314530303,
+          0.023255813866853714,
+          0.01412429378531077
+        ],
+        "confidence": 0.3,
+        "text": "⋯。"
+      },
+      {
+        "boundingBox": [
+          0.039244187893295285,
+          0.5882352941496416,
+          0.18459302186965942,
+          0.025210084214722372
+        ],
+        "confidence": 0.5,
+        "text": "FulL-text search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.037790706422795084,
+          0.5291902070487342,
+          0.7122092843055725,
+          0.03672316384180796
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.03779070741669999,
+          0.4845938386916955,
+          0.6700581312179565,
+          0.03081232275666479
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enable two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.03779069509009744,
+          0.4001883246608898,
+          0.26889535784721375,
+          0.03118422341212046
+        ],
+        "confidence": 0.5,
+        "text": ">>> print （\"Hybrid search + Jev\"）"
+      },
+      {
+        "boundingBox": [
+          0.037790708304814735,
+          0.34733893559354645,
+          0.2776162624359131,
+          0.034016997127209736
+        ],
+        "confidence": 0.5,
+        "text": ">>> for result in hybrid_results："
+      },
+      {
+        "boundingBox": [
+          0.1061046512733993,
+          0.29661016943719465,
+          0.4258720874786377,
+          0.039548022598870136
+        ],
+        "confidence": 0.5,
+        "text": "print （result ［\"_relevance_score\"］，result［\"answer\"］）"
+      },
+      {
+        "boundingBox": [
+          0.037790698074905454,
+          0.2352941188737684,
+          0.161337211728096,
+          0.03118422341212035
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid search + Jev"
+      },
+      {
+        "boundingBox": [
+          0.037790706422795084,
+          0.18173258066744458,
+          0.7122092843055725,
+          0.03395369362696421
+        ],
+        "confidence": 0.5,
+        "text": "0.949999988079071 To reset your password, choose Forgot password on the sign-in page."
+      },
+      {
+        "boundingBox": [
+          0.03779070566645765,
+          0.13445378181203382,
+          0.6700581312179565,
+          0.03361344561962987
+        ],
+        "confidence": 0.5,
+        "text": "0.029999999329447746 Use a unique password and enab le two-factor authentication."
+      },
+      {
+        "boundingBox": [
+          0.03779069927636597,
+          0.08662900177541866,
+          0.645348846912384,
+          0.031073446327683607
+        ],
+        "confidence": 0.5,
+        "text": "0.009999999776482582 You can change your billing address in account settings."
+      }
+    ],
+    "ocr_text": "Full-text and hybrid search + Jev\njev-1.13.0•How do I reset a forgotten password？\n>>> print （\"Full-text search + Jev\"）\n>>> for result in fts_results：\nprint（result ［\"_relevance_score\"］，result［\"answer\"］）\n⋯。\nFulL-text search + Jev\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enable two-factor authentication.\n>>> print （\"Hybrid search + Jev\"）\n>>> for result in hybrid_results：\nprint （result ［\"_relevance_score\"］，result［\"answer\"］）\nHybrid search + Jev\n0.949999988079071 To reset your password, choose Forgot password on the sign-in page.\n0.029999999329447746 Use a unique password and enab le two-factor authentication.\n0.009999999776482582 You can change your billing address in account settings.",
+    "description": "**Use Jev with LanceDB**中的配图，包含文字：Full-text and hybrid search + Jev；jev-1.13.0•How do I reset a forgotten password？；>>> print （\"Full-text search + Jev\"）；>>> for result in fts_results：；print（result ［\"_relevance_score\"］，result［\"answer\"］）；⋯。；FulL-text search + Jev；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enable two-factor authentication.；>>> print （\"Hybrid search + Jev\"）；>>> for result in hybrid_results：；print （result ［\"_relevance_score\"］，result［\"answer\"］）；Hybrid search + Jev；0.949999988079071 To reset your password, choose Forgot password on the sign-in page.；0.029999999329447746 Use a unique password and enab le two-factor authentication.；0.009999999776482582 You can change your billing address in account settings.",
+    "entities": [
+      "Full-text and hybrid search + Jev",
+      "jev-1.13.0•How do I reset a forgotten password？",
+      ">>> print （\"Full-text search + Jev\"）",
+      ">>> for result in fts_results：",
+      "print（result ［\"_relevance_score\"］，result［\"answer\"］）",
+      "⋯。",
+      "FulL-text search + Jev",
+      "0.949999988079071 To reset your password, choose Forgot password on the sign-in page.",
+      "0.029999999329447746 Use a unique password and enable two-factor authentication.",
+      ">>> print （\"Hybrid search + Jev\"）",
+      ">>> for result in hybrid_results：",
+      "print （result ［\"_relevance_score\"］，result［\"answer\"］）",
+      "Hybrid search + Jev",
+      "0.029999999329447746 Use a unique password and enab le two-factor authentication.",
+      "0.009999999776482582 You can change your billing address in account settings."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a7d2090aaa413b44bea09c86ce146d7575b7cb8a7ea486af3cab5c29da14cf53"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-005",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aba98adf8fd7c1103a36e89_6aba9819a86ba8bcf22a9808_jev-chart-2-benchmark-gains.webp",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-005.webp",
+    "section": "**What five datasets tell us**",
+    "alt": "Hybrid Hit@10 gains and losses versus the unreranked RRF baseline for 20 reranker configurations across five datasets.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04941860123546519,
+          0.8964968160960368,
+          0.625,
+          0.03843469097189711
+        ],
+        "confidence": 1,
+        "text": "Reranking gains depend on the dataset"
+      },
+      {
+        "boundingBox": [
+          0.049418614190645443,
+          0.864383561850842,
+          0.48401161193847664,
+          0.021232876712328763
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid Hit@10 change vs. unreranked RRF • Percentage points"
+      },
+      {
+        "boundingBox": [
+          0.049418606154153506,
+          0.8264331210967808,
+          0.10174418449401856,
+          0.014662769396011077
+        ],
+        "confidence": 1,
+        "text": "Below baseline"
+      },
+      {
+        "boundingBox": [
+          0.4927325580771228,
+          0.8264331210876816,
+          0.10465116500854499,
+          0.014662769396011077
+        ],
+        "confidence": 1,
+        "text": "Above baseline"
+      },
+      {
+        "boundingBox": [
+          0.7238372113591748,
+          0.8246575340421419,
+          0.1380813884735108,
+          0.014514440379730598
+        ],
+        "confidence": 0.5,
+        "text": "Best score in dataset"
+      },
+      {
+        "boundingBox": [
+          0.16715116297398588,
+          0.8054794519807742,
+          0.023255813121795643,
+          0.01458424215447418
+        ],
+        "confidence": 1,
+        "text": "-20"
+      },
+      {
+        "boundingBox": [
+          0.45348837196114117,
+          0.8054794522379,
+          0.02616279125213622,
+          0.016438356164383605
+        ],
+        "confidence": 1,
+        "text": "+20"
+      },
+      {
+        "boundingBox": [
+          0.04941860697132672,
+          0.777070063931197,
+          0.14534883499145507,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "Model /configuration"
+      },
+      {
+        "boundingBox": [
+          0.35169575548695503,
+          0.7784724029871409,
+          0.05678290843963624,
+          0.017895958521594757
+        ],
+        "confidence": 0.5,
+        "text": "GOOAQ"
+      },
+      {
+        "boundingBox": [
+          0.49418604639791447,
+          0.7786624207072541,
+          0.02616279125213622,
+          0.01928278452729526
+        ],
+        "confidence": 0.3,
+        "text": "NQ"
+      },
+      {
+        "boundingBox": [
+          0.5929980138538434,
+          0.7769378351445249,
+          0.08289932250976562,
+          0.01937273822418628
+        ],
+        "confidence": 1,
+        "text": "HotpotQA"
+      },
+      {
+        "boundingBox": [
+          0.7398255823896187,
+          0.7786624206984076,
+          0.039244184494018564,
+          0.01928278452729537
+        ],
+        "confidence": 1,
+        "text": "FiQA"
+      },
+      {
+        "boundingBox": [
+          0.8530827619616395,
+          0.7781565973637588,
+          0.06272982597351073,
+          0.018527569182931636
+        ],
+        "confidence": 1,
+        "text": "SciDocs"
+      },
+      {
+        "boundingBox": [
+          0.34580131873563047,
+          0.7524062709254756,
+          0.06857178211212156,
+          0.01588809522863943
+        ],
+        "confidence": 0.5,
+        "text": "RRF 81.91%"
+      },
+      {
+        "boundingBox": [
+          0.4694767445392023,
+          0.7531847134443695,
+          0.07412790775299072,
+          0.014623505448641771
+        ],
+        "confidence": 0.5,
+        "text": "RRF 72.25%"
+      },
+      {
+        "boundingBox": [
+          0.5958209868151721,
+          0.7524868079302172,
+          0.07289290904998769,
+          0.01572702094300149
+        ],
+        "confidence": 0.3,
+        "text": "RRF 96.19%"
+      },
+      {
+        "boundingBox": [
+          0.7222352442781534,
+          0.7522384509080731,
+          0.07151788234710699,
+          0.016223735025484354
+        ],
+        "confidence": 0.5,
+        "text": "RRF 66.51%"
+      },
+      {
+        "boundingBox": [
+          0.8459302317060958,
+          0.7531847132970765,
+          0.07703488349914556,
+          0.014623506101843486
+        ],
+        "confidence": 0.5,
+        "text": "RRF 58.80%"
+      },
+      {
+        "boundingBox": [
+          0.04784996791795471,
+          0.7174546474824313,
+          0.07726518154144288,
+          0.017320004554643997
+        ],
+        "confidence": 0.5,
+        "text": "Jev default"
+      },
+      {
+        "boundingBox": [
+          0.3545334422993422,
+          0.717781095008142,
+          0.04965404510498045,
+          0.019851823049048756
+        ],
+        "confidence": 1,
+        "text": "+10.26"
+      },
+      {
+        "boundingBox": [
+          0.4809359379666915,
+          0.7175636934300438,
+          0.04975603103637699,
+          0.018694268840632966
+        ],
+        "confidence": 1,
+        "text": "+14.63"
+      },
+      {
+        "boundingBox": [
+          0.6089183322306567,
+          0.7178701443187843,
+          0.04379124164581305,
+          0.018081367179139107
+        ],
+        "confidence": 1,
+        "text": "-3.52"
+      },
+      {
+        "boundingBox": [
+          0.7340116280722472,
+          0.7181528666785917,
+          0.047965116500854554,
+          0.019108279763835778
+        ],
+        "confidence": 1,
+        "text": "+11.89"
+      },
+      {
+        "boundingBox": [
+          0.8619186043228682,
+          0.7181528665021896,
+          0.045058140754699716,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "+5.90"
+      },
+      {
+        "boundingBox": [
+          0.04796511701658734,
+          0.6876712330145774,
+          0.09593023300170897,
+          0.014558066407295178
+        ],
+        "confidence": 1,
+        "text": "Jev relevance"
+      },
+      {
+        "boundingBox": [
+          0.35465116266163677,
+          0.6876712328108043,
+          0.0479651165008545,
+          0.016438356164383716
+        ],
+        "confidence": 1,
+        "text": "+10.68"
+      },
+      {
+        "boundingBox": [
+          0.4838826180813395,
+          0.6890707631640383,
+          0.04240918159484863,
+          0.016762932685956633
+        ],
+        "confidence": 1,
+        "text": "+15.15"
+      },
+      {
+        "boundingBox": [
+          0.6148255814521416,
+          0.687671232606696,
+          0.03488372087478642,
+          0.017808219178082174
+        ],
+        "confidence": 0.3,
+        "text": "+1.51"
+      },
+      {
+        "boundingBox": [
+          0.7368807080785558,
+          0.6877842179253769,
+          0.043680443763732923,
+          0.017743665878086845
+        ],
+        "confidence": 1,
+        "text": "+12.19"
+      },
+      {
+        "boundingBox": [
+          0.8661895098609733,
+          0.6876635861505636,
+          0.037969818115234366,
+          0.01798493045650118
+        ],
+        "confidence": 0.5,
+        "text": "+710"
+      },
+      {
+        "boundingBox": [
+          0.04796511638777979,
+          0.6589041094645558,
+          0.07558139324188232,
+          0.014662769396011077
+        ],
+        "confidence": 0.5,
+        "text": "MiniLM-L6"
+      },
+      {
+        "boundingBox": [
+          0.36046511738961867,
+          0.657534246434186,
+          0.039244184494018564,
+          0.019217345485948445
+        ],
+        "confidence": 1,
+        "text": "+1.79"
+      },
+      {
+        "boundingBox": [
+          0.4840116278762817,
+          0.6575342465456508,
+          0.04360465049743656,
+          0.019217345485948556
+        ],
+        "confidence": 0.5,
+        "text": "+8.57"
+      },
+      {
+        "boundingBox": [
+          0.611918604775522,
+          0.6575342466935126,
+          0.04069767475128172,
+          0.019217345485948556
+        ],
+        "confidence": 1,
+        "text": "+1.20"
+      },
+      {
+        "boundingBox": [
+          0.736918604145677,
+          0.6575342464574918,
+          0.04069767475128172,
+          0.017808219178082285
+        ],
+        "confidence": 0.5,
+        "text": "-0.31"
+      },
+      {
+        "boundingBox": [
+          0.8589488326304479,
+          0.6574524637353074,
+          0.04809070587158204,
+          0.019489976804550335
+        ],
+        "confidence": 1,
+        "text": "-6.00"
+      },
+      {
+        "boundingBox": [
+          0.047649500106411544,
+          0.6254498115617673,
+          0.11836650848388673,
+          0.019692031651327158
+        ],
+        "confidence": 1,
+        "text": "gte-modernbert"
+      },
+      {
+        "boundingBox": [
+          0.36046511730059244,
+          0.6273885353569356,
+          0.039244184494018564,
+          0.019186807005372786
+        ],
+        "confidence": 0.3,
+        "text": "+5:14"
+      },
+      {
+        "boundingBox": [
+          0.4838878162056576,
+          0.6285909983793361,
+          0.04530576229095462,
+          0.01829571070736402
+        ],
+        "confidence": 1,
+        "text": "+11.27"
+      },
+      {
+        "boundingBox": [
+          0.6133720931720875,
+          0.6273885351817764,
+          0.037790696620941255,
+          0.019186807005372786
+        ],
+        "confidence": 1,
+        "text": "+1.51"
+      },
+      {
+        "boundingBox": [
+          0.7412790697524153,
+          0.6287671232310152,
+          0.03488372087478642,
+          0.017808219178082174
+        ],
+        "confidence": 0.5,
+        "text": "+911"
+      },
+      {
+        "boundingBox": [
+          0.863274204096305,
+          0.6271263688141027,
+          0.042346940040588366,
+          0.019632613169003887
+        ],
+        "confidence": 1,
+        "text": "+1.30"
+      },
+      {
+        "boundingBox": [
+          0.04927265702465945,
+          0.5947032953532019,
+          0.08023375511169432,
+          0.019192135170714497
+        ],
+        "confidence": 0.5,
+        "text": "bge-v2-m3"
+      },
+      {
+        "boundingBox": [
+          0.3604651170420003,
+          0.5986301373030689,
+          0.037790696620941144,
+          0.016019544209519454
+        ],
+        "confidence": 0.5,
+        "text": "+5.61"
+      },
+      {
+        "boundingBox": [
+          0.48401162796712477,
+          0.5986301372087703,
+          0.0436046504974365,
+          0.017808219178082174
+        ],
+        "confidence": 0.5,
+        "text": "+16.19"
+      },
+      {
+        "boundingBox": [
+          0.6104370887152915,
+          0.5986366247139601,
+          0.04220721721649168,
+          0.016102546535126216
+        ],
+        "confidence": 0.5,
+        "text": "+2.34"
+      },
+      {
+        "boundingBox": [
+          0.7368092405902786,
+          0.5983716619775656,
+          0.04236989021301263,
+          0.016632471999077025
+        ],
+        "confidence": 1,
+        "text": "+3.24"
+      },
+      {
+        "boundingBox": [
+          0.8633720946497777,
+          0.5986301373030689,
+          0.0421511602401734,
+          0.016019544209519454
+        ],
+        "confidence": 0.5,
+        "text": "-2.60"
+      },
+      {
+        "boundingBox": [
+          0.049418606764587876,
+          0.5650684934374129,
+          0.10755813598632813,
+          0.017808219178082174
+        ],
+        "confidence": 1,
+        "text": "mxbai-large-v2"
+      },
+      {
+        "boundingBox": [
+          0.357558141044319,
+          0.5684713377460813,
+          0.042151160240173347,
+          0.01592356668759698
+        ],
+        "confidence": 1,
+        "text": "+8.08"
+      },
+      {
+        "boundingBox": [
+          0.4824931209458549,
+          0.5682619094717246,
+          0.0466416645050049,
+          0.017934779598288375
+        ],
+        "confidence": 0.5,
+        "text": "+17.26"
+      },
+      {
+        "boundingBox": [
+          0.6103552164258681,
+          0.5681151136329504,
+          0.0423709630966187,
+          0.016636014964482526
+        ],
+        "confidence": 1,
+        "text": "+2.45"
+      },
+      {
+        "boundingBox": [
+          0.7339401089761916,
+          0.5682088374027824,
+          0.04810815334320062,
+          0.01644856766478664
+        ],
+        "confidence": 1,
+        "text": "+10.34"
+      },
+      {
+        "boundingBox": [
+          0.8603962170917734,
+          0.568234171834658,
+          0.045195937156677246,
+          0.016397898817715584
+        ],
+        "confidence": 1,
+        "text": "-0.90"
+      },
+      {
+        "boundingBox": [
+          0.049418607496974264,
+          0.5382165606232443,
+          0.08866278648376463,
+          0.01452316519332253
+        ],
+        "confidence": 1,
+        "text": "Qwen3-0.6B"
+      },
+      {
+        "boundingBox": [
+          0.35748232721722856,
+          0.537987438360374,
+          0.04375627517700198,
+          0.017974167653959094
+        ],
+        "confidence": 1,
+        "text": "+4.78"
+      },
+      {
+        "boundingBox": [
+          0.48255813982370066,
+          0.5382165607730229,
+          0.04796511650085444,
+          0.017515923225716268
+        ],
+        "confidence": 0.5,
+        "text": "+12.57"
+      },
+      {
+        "boundingBox": [
+          0.6104651157057545,
+          0.5382165605097047,
+          0.04069767475128172,
+          0.01592356668759698
+        ],
+        "confidence": 1,
+        "text": "+2.07"
+      },
+      {
+        "boundingBox": [
+          0.7382979467731947,
+          0.5380076823842346,
+          0.040845966339111306,
+          0.017933679606816577
+        ],
+        "confidence": 1,
+        "text": "+7.87"
+      },
+      {
+        "boundingBox": [
+          0.861718837558038,
+          0.5375793304323633,
+          0.04545767307281501,
+          0.0187903835348886
+        ],
+        "confidence": 0.5,
+        "text": "+3.00"
+      },
+      {
+        "boundingBox": [
+          0.049418605312304326,
+          0.5079617836034263,
+          0.0770348834991455,
+          0.016010819395927522
+        ],
+        "confidence": 1,
+        "text": "Qwen3-4B"
+      },
+      {
+        "boundingBox": [
+          0.35755814038863426,
+          0.5079617834396409,
+          0.042151160240173347,
+          0.016010819395927522
+        ],
+        "confidence": 1,
+        "text": "+8.70"
+      },
+      {
+        "boundingBox": [
+          0.4854651178554117,
+          0.5079617836896896,
+          0.0421511602401734,
+          0.01751592322571638
+        ],
+        "confidence": 0.3,
+        "text": "+17:12"
+      },
+      {
+        "boundingBox": [
+          0.6104516544082942,
+          0.5079189087697751,
+          0.04217808723449712,
+          0.016009316379076766
+        ],
+        "confidence": 0.5,
+        "text": "+2.23"
+      },
+      {
+        "boundingBox": [
+          0.7339731750584,
+          0.5078306933146053,
+          0.049495511054992614,
+          0.01777810397213453
+        ],
+        "confidence": 0.5,
+        "text": "+13.58"
+      },
+      {
+        "boundingBox": [
+          0.8589764515089012,
+          0.5078383735039707,
+          0.05094244480133059,
+          0.017762743283624483
+        ],
+        "confidence": 1,
+        "text": "+12.80"
+      },
+      {
+        "boundingBox": [
+          0.04939401491151207,
+          0.4775629651460713,
+          0.07708406448364258,
+          0.01621164948972942
+        ],
+        "confidence": 1,
+        "text": "Qwen3-8B"
+      },
+      {
+        "boundingBox": [
+          0.36046511653587493,
+          0.4773972601413756,
+          0.0377906966209412,
+          0.016438356164383494
+        ],
+        "confidence": 1,
+        "text": "+9.31"
+      },
+      {
+        "boundingBox": [
+          0.48101196215039466,
+          0.47738791225517185,
+          0.04960398197174076,
+          0.01815411228023156
+        ],
+        "confidence": 1,
+        "text": "+16.48"
+      },
+      {
+        "boundingBox": [
+          0.6132701049971808,
+          0.4774395400001412,
+          0.037994673252105704,
+          0.018050856133029924
+        ],
+        "confidence": 0.5,
+        "text": "+2.19"
+      },
+      {
+        "boundingBox": [
+          0.7340116288258633,
+          0.47739726021436923,
+          0.049418601989746125,
+          0.01782566945846764
+        ],
+        "confidence": 0.5,
+        "text": "+13.43"
+      },
+      {
+        "boundingBox": [
+          0.8588604031304423,
+          0.47712409793072896,
+          0.0497210550308228,
+          0.017089383896083055
+        ],
+        "confidence": 0.5,
+        "text": "+10.40"
+      },
+      {
+        "boundingBox": [
+          0.047917826405435966,
+          0.44722642494776577,
+          0.06259458065032958,
+          0.0163751765473249
+        ],
+        "confidence": 1,
+        "text": "zerank-2"
+      },
+      {
+        "boundingBox": [
+          0.3545977279646404,
+          0.4472568684699424,
+          0.048071985244750925,
+          0.016314288361431784
+        ],
+        "confidence": 1,
+        "text": "+10.09"
+      },
+      {
+        "boundingBox": [
+          0.48401162719532465,
+          0.4472602740388698,
+          0.045058140754699716,
+          0.01930023546088233
+        ],
+        "confidence": 1,
+        "text": "+15.61"
+      },
+      {
+        "boundingBox": [
+          0.6118243293243281,
+          0.44717969857942885,
+          0.03797924757003779,
+          0.01646862813871197
+        ],
+        "confidence": 0.5,
+        "text": "-0.13"
+      },
+      {
+        "boundingBox": [
+          0.7412790700131882,
+          0.44904458607772935,
+          0.03488372087478642,
+          0.014654043929217542
+        ],
+        "confidence": 0.3,
+        "text": "+11.11"
+      },
+      {
+        "boundingBox": [
+          0.8618089399522165,
+          0.44708419807049116,
+          0.04382398128509524,
+          0.016659629508240625
+        ],
+        "confidence": 1,
+        "text": "+4.50"
+      },
+      {
+        "boundingBox": [
+          0.046511627931727924,
+          0.41560509553682334,
+          0.050872092247009275,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "jina-v3"
+      },
+      {
+        "boundingBox": [
+          0.3574499032438254,
+          0.416846732620314,
+          0.04236763477325439,
+          0.016625005904942314
+        ],
+        "confidence": 1,
+        "text": "+8.68"
+      },
+      {
+        "boundingBox": [
+          0.48399134349932793,
+          0.4171417580855513,
+          0.043645219802856405,
+          0.01921966892399196
+        ],
+        "confidence": 0.5,
+        "text": "+18:13"
+      },
+      {
+        "boundingBox": [
+          0.6104450709687415,
+          0.4171335410436038,
+          0.042191252708435156,
+          0.01605138909326842
+        ],
+        "confidence": 0.5,
+        "text": "+2.38"
+      },
+      {
+        "boundingBox": [
+          0.7383720928569173,
+          0.417123287504511,
+          0.04069767475128172,
+          0.01918244492517751
+        ],
+        "confidence": 0.5,
+        "text": "+7.56"
+      },
+      {
+        "boundingBox": [
+          0.8633452003318243,
+          0.41711947963230334,
+          0.042204947471618626,
+          0.017671868572496363
+        ],
+        "confidence": 0.5,
+        "text": "+7.90"
+      },
+      {
+        "boundingBox": [
+          0.047965118197418874,
+          0.38535031842296985,
+          0.191860466003418,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "answerai-colbert-small（1x）"
+      },
+      {
+        "boundingBox": [
+          0.35741751079494,
+          0.38651332026203167,
+          0.043885908126831075,
+          0.018374633789062456
+        ],
+        "confidence": 1,
+        "text": "+5.64"
+      },
+      {
+        "boundingBox": [
+          0.4811046521846328,
+          0.38694267524024684,
+          0.04941860198974607,
+          0.017851845205646644
+        ],
+        "confidence": 0.5,
+        "text": "+10.80"
+      },
+      {
+        "boundingBox": [
+          0.6119186042813358,
+          0.3869426755957891,
+          0.04069767475128183,
+          0.019221708219345324
+        ],
+        "confidence": 1,
+        "text": "+1.64"
+      },
+      {
+        "boundingBox": [
+          0.7369186056253452,
+          0.3869426751639359,
+          0.04215116024017329,
+          0.01592356668759698
+        ],
+        "confidence": 1,
+        "text": "+3.40"
+      },
+      {
+        "boundingBox": [
+          0.8648255821764479,
+          0.38694267554876594,
+          0.037790696620941255,
+          0.017851845205646755
+        ],
+        "confidence": 0.3,
+        "text": "-2.10"
+      },
+      {
+        "boundingBox": [
+          0.047965116771027355,
+          0.35668789808932244,
+          0.19476743698120116,
+          0.01592356668759698
+        ],
+        "confidence": 0.5,
+        "text": "answerai-colbert-small （2x）"
+      },
+      {
+        "boundingBox": [
+          0.36042007822224603,
+          0.35658051672476443,
+          0.03788077354431152,
+          0.01932304330068091
+        ],
+        "confidence": 0.3,
+        "text": "+5:18"
+      },
+      {
+        "boundingBox": [
+          0.6220930234919304,
+          0.36146496833531494,
+          0.018895348310470683,
+          0.00976790826614593
+        ],
+        "confidence": 0.3,
+        "text": "15"
+      },
+      {
+        "boundingBox": [
+          0.7368092778339745,
+          0.35635576345825504,
+          0.04382330417633051,
+          0.018180193313180548
+        ],
+        "confidence": 0.5,
+        "text": "+3.09"
+      },
+      {
+        "boundingBox": [
+          0.8618882824732732,
+          0.3565876819402999,
+          0.0436652946472168,
+          0.016123998981632526
+        ],
+        "confidence": 1,
+        "text": "-3.30"
+      },
+      {
+        "boundingBox": [
+          0.047965116771027355,
+          0.3264331210192588,
+          0.19476743698120116,
+          0.016032632409709757
+        ],
+        "confidence": 0.5,
+        "text": "answerai-colbert-small （4x）"
+      },
+      {
+        "boundingBox": [
+          0.3561046501773983,
+          0.32643312118496115,
+          0.045058140754699716,
+          0.019108279763835778
+        ],
+        "confidence": 1,
+        "text": "+4.07"
+      },
+      {
+        "boundingBox": [
+          0.48382341289501807,
+          0.3274262908929042,
+          0.04543457031249998,
+          0.01871429796088242
+        ],
+        "confidence": 1,
+        "text": "+8.46"
+      },
+      {
+        "boundingBox": [
+          0.610465116853995,
+          0.32643312135304325,
+          0.04360465049743656,
+          0.019108279763835778
+        ],
+        "confidence": 0.5,
+        "text": "+0.37"
+      },
+      {
+        "boundingBox": [
+          0.7383720941919443,
+          0.3280254778663926,
+          0.039244184494018564,
+          0.01592356668759698
+        ],
+        "confidence": 0.5,
+        "text": "+1.85"
+      },
+      {
+        "boundingBox": [
+          0.8604249773386098,
+          0.3263084157593479,
+          0.045138416290283256,
+          0.0177653345343185
+        ],
+        "confidence": 1,
+        "text": "-3.20"
+      },
+      {
+        "boundingBox": [
+          0.04796512018124604,
+          0.29452054762571467,
+          0.16424417495727536,
+          0.017808219178082174
+        ],
+        "confidence": 1,
+        "text": "gte-moderncolbert （1x）"
+      },
+      {
+        "boundingBox": [
+          0.3573836173248992,
+          0.29568976849032924,
+          0.04395369529724119,
+          0.02008543210486835
+        ],
+        "confidence": 0.5,
+        "text": "+7.48"
+      },
+      {
+        "boundingBox": [
+          0.4838826182023571,
+          0.29735101797509333,
+          0.04240918159484863,
+          0.016762932685956633
+        ],
+        "confidence": 0.3,
+        "text": "+12.16"
+      },
+      {
+        "boundingBox": [
+          0.6119186043602396,
+          0.29589041083905854,
+          0.04069767475128172,
+          0.019396212982804806
+        ],
+        "confidence": 1,
+        "text": "+1.88"
+      },
+      {
+        "boundingBox": [
+          0.7368950895563674,
+          0.29611375320051325,
+          0.04365168094635008,
+          0.019237462788411985
+        ],
+        "confidence": 1,
+        "text": "+6.79"
+      },
+      {
+        "boundingBox": [
+          0.8662790698847891,
+          0.2958904107844633,
+          0.036337208747863836,
+          0.019396212982804917
+        ],
+        "confidence": 0.5,
+        "text": "0.00"
+      },
+      {
+        "boundingBox": [
+          0.04796511969407195,
+          0.2643312102501991,
+          0.16860464096069333,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "gte-moderncolbert （2x）"
+      },
+      {
+        "boundingBox": [
+          0.3575581394315144,
+          0.2675159236259953,
+          0.0436046504974365,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "+7.36"
+      },
+      {
+        "boundingBox": [
+          0.48086930200580036,
+          0.2666831654359899,
+          0.04988930225372312,
+          0.01918143964793584
+        ],
+        "confidence": 1,
+        "text": "+12.25"
+      },
+      {
+        "boundingBox": [
+          0.6119186051470937,
+          0.26575342435019544,
+          0.039244184494018564,
+          0.019278422447100096
+        ],
+        "confidence": 0.3,
+        "text": "+1.77"
+      },
+      {
+        "boundingBox": [
+          0.7368092412023001,
+          0.26716147109088173,
+          0.04236989021301263,
+          0.016632471999076914
+        ],
+        "confidence": 1,
+        "text": "+6.64"
+      },
+      {
+        "boundingBox": [
+          0.8604651175177392,
+          0.2657534249033059,
+          0.046511626243591286,
+          0.019278421793898493
+        ],
+        "confidence": 0.5,
+        "text": "-0.30"
+      },
+      {
+        "boundingBox": [
+          0.04796511997507972,
+          0.23407643319871285,
+          0.16860464096069336,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "gte-moderncolbert （4x）"
+      },
+      {
+        "boundingBox": [
+          0.35755813963500266,
+          0.23561643836894697,
+          0.0436046504974365,
+          0.019178082191780854
+        ],
+        "confidence": 1,
+        "text": "+6.56"
+      },
+      {
+        "boundingBox": [
+          0.48098418466169846,
+          0.23684429112616534,
+          0.04965953826904301,
+          0.018349635111142515
+        ],
+        "confidence": 1,
+        "text": "+10.69"
+      },
+      {
+        "boundingBox": [
+          0.6090116269752248,
+          0.236986301546252,
+          0.04505814075469983,
+          0.017808219178082174
+        ],
+        "confidence": 0.3,
+        "text": "+0.96"
+      },
+      {
+        "boundingBox": [
+          0.73545188394472,
+          0.2372175505158024,
+          0.04363111495971683,
+          0.016010758648180023
+        ],
+        "confidence": 1,
+        "text": "+5.56"
+      },
+      {
+        "boundingBox": [
+          0.8633344365051113,
+          0.2371517981908028,
+          0.04222647666931145,
+          0.01773462099571743
+        ],
+        "confidence": 0.5,
+        "text": "-1.20"
+      },
+      {
+        "boundingBox": [
+          0.0465116302983839,
+          0.20382165600258773,
+          0.13372092247009276,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "jina-colbert-v2（1x）"
+      },
+      {
+        "boundingBox": [
+          0.36046511676543375,
+          0.20684931516291427,
+          0.037790696620941144,
+          0.017808219178082174
+        ],
+        "confidence": 0.5,
+        "text": "+6.17"
+      },
+      {
+        "boundingBox": [
+          0.4810601846918506,
+          0.20685461312779363,
+          0.04950753688812254,
+          0.017819436608928485
+        ],
+        "confidence": 0.5,
+        "text": "+13.09"
+      },
+      {
+        "boundingBox": [
+          0.611918605269948,
+          0.20541401282508853,
+          0.039244184494018564,
+          0.019243521233127447
+        ],
+        "confidence": 1,
+        "text": "+1.73"
+      },
+      {
+        "boundingBox": [
+          0.7353758354603771,
+          0.20514362785834706,
+          0.04378321170806887,
+          0.018056693142407543
+        ],
+        "confidence": 1,
+        "text": "+5.40"
+      },
+      {
+        "boundingBox": [
+          0.8647541060375016,
+          0.20680050119339288,
+          0.03793364763259888,
+          0.01633530381607684
+        ],
+        "confidence": 0.5,
+        "text": "-1.70"
+      },
+      {
+        "boundingBox": [
+          0.04651162980030861,
+          0.17328767118034838,
+          0.13808138847351076,
+          0.017808219178082174
+        ],
+        "confidence": 0.5,
+        "text": "jina-colbert-v2（2x）"
+      },
+      {
+        "boundingBox": [
+          0.3604651165151108,
+          0.17515923562042213,
+          0.037790696620941144,
+          0.01751592322571638
+        ],
+        "confidence": 1,
+        "text": "+5.61"
+      },
+      {
+        "boundingBox": [
+          0.48110465070929037,
+          0.17671232906722023,
+          0.0479651165008545,
+          0.01596282998176468
+        ],
+        "confidence": 1,
+        "text": "+13.24"
+      },
+      {
+        "boundingBox": [
+          0.6119186047391848,
+          0.17671232864956554,
+          0.04069767475128172,
+          0.017808219178082174
+        ],
+        "confidence": 1,
+        "text": "+1.54"
+      },
+      {
+        "boundingBox": [
+          0.7368878263886746,
+          0.17665327196601532,
+          0.04221271991729736,
+          0.016120207799624087
+        ],
+        "confidence": 0.5,
+        "text": "+5.09"
+      },
+      {
+        "boundingBox": [
+          0.8619186045477935,
+          0.17671232906267076,
+          0.04360465049743656,
+          0.01596282998176468
+        ],
+        "confidence": 1,
+        "text": "-2.50"
+      },
+      {
+        "boundingBox": [
+          0.04651162980030861,
+          0.14315068464598935,
+          0.13808138847351076,
+          0.017808219178082174
+        ],
+        "confidence": 0.5,
+        "text": "jina-colbert-v2（4x）"
+      },
+      {
+        "boundingBox": [
+          0.3560791856279282,
+          0.14640990110985064,
+          0.04510907173156742,
+          0.016097395387414393
+        ],
+        "confidence": 0.5,
+        "text": "-2.30"
+      },
+      {
+        "boundingBox": [
+          0.48546511596738234,
+          0.14649681572317763,
+          0.040697674751281776,
+          0.019256608780116258
+        ],
+        "confidence": 1,
+        "text": "+5.21"
+      },
+      {
+        "boundingBox": [
+          0.60895262624974,
+          0.1463007496165557,
+          0.04372265338897696,
+          0.016315698623657227
+        ],
+        "confidence": 1,
+        "text": "-2.66"
+      },
+      {
+        "boundingBox": [
+          0.7354651161757004,
+          0.14649681528677472,
+          0.04360465049743656,
+          0.01592356668759698
+        ],
+        "confidence": 0.5,
+        "text": "-2.93"
+      },
+      {
+        "boundingBox": [
+          0.8633720924499406,
+          0.14649681528677472,
+          0.04069767475128172,
+          0.01592356668759698
+        ],
+        "confidence": 0.5,
+        "text": "-7.20"
+      },
+      {
+        "boundingBox": [
+          0.04941861484885987,
+          0.10191082850980182,
+          0.47529067993164065,
+          0.019322048474664566
+        ],
+        "confidence": 0.5,
+        "text": "Outlined rows: Jev prompts. 1x / 2x / 4x: ColBERT token pooling factors."
+      },
+      {
+        "boundingBox": [
+          0.04941861067396047,
+          0.0429936307836386,
+          0.616279067993164,
+          0.01751592322571638
+        ],
+        "confidence": 0.5,
+        "text": "Each cell = model score - that dataset's RRF score, using published values rounded to two decimals."
+      },
+      {
+        "boundingBox": [
+          0.04796511187914483,
+          0.019108280549513634,
+          0.42877906799316406,
+          0.01592356668759698
+        ],
+        "confidence": 0.5,
+        "text": "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+      }
+    ],
+    "ocr_text": "Reranking gains depend on the dataset\nHybrid Hit@10 change vs. unreranked RRF • Percentage points\nBelow baseline\nAbove baseline\nBest score in dataset\n-20\n+20\nModel /configuration\nGOOAQ\nNQ\nHotpotQA\nFiQA\nSciDocs\nRRF 81.91%\nRRF 72.25%\nRRF 96.19%\nRRF 66.51%\nRRF 58.80%\nJev default\n+10.26\n+14.63\n-3.52\n+11.89\n+5.90\nJev relevance\n+10.68\n+15.15\n+1.51\n+12.19\n+710\nMiniLM-L6\n+1.79\n+8.57\n+1.20\n-0.31\n-6.00\ngte-modernbert\n+5:14\n+11.27\n+1.51\n+911\n+1.30\nbge-v2-m3\n+5.61\n+16.19\n+2.34\n+3.24\n-2.60\nmxbai-large-v2\n+8.08\n+17.26\n+2.45\n+10.34\n-0.90\nQwen3-0.6B\n+4.78\n+12.57\n+2.07\n+7.87\n+3.00\nQwen3-4B\n+8.70\n+17:12\n+2.23\n+13.58\n+12.80\nQwen3-8B\n+9.31\n+16.48\n+2.19\n+13.43\n+10.40\nzerank-2\n+10.09\n+15.61\n-0.13\n+11.11\n+4.50\njina-v3\n+8.68\n+18:13\n+2.38\n+7.56\n+7.90\nanswerai-colbert-small（1x）\n+5.64\n+10.80\n+1.64\n+3.40\n-2.10\nanswerai-colbert-small （2x）\n+5:18\n15\n+3.09\n-3.30\nanswerai-colbert-small （4x）\n+4.07\n+8.46\n+0.37\n+1.85\n-3.20\ngte-moderncolbert （1x）\n+7.48\n+12.16\n+1.88\n+6.79\n0.00\ngte-moderncolbert （2x）\n+7.36\n+12.25\n+1.77\n+6.64\n-0.30\ngte-moderncolbert （4x）\n+6.56\n+10.69\n+0.96\n+5.56\n-1.20\njina-colbert-v2（1x）\n+6.17\n+13.09\n+1.73\n+5.40\n-1.70\njina-colbert-v2（2x）\n+5.61\n+13.24\n+1.54\n+5.09\n-2.50\njina-colbert-v2（4x）\n-2.30\n+5.21\n-2.66\n-2.93\n-7.20\nOutlined rows: Jev prompts. 1x / 2x / 4x: ColBERT token pooling factors.\nEach cell = model score - that dataset's RRF score, using published values rounded to two decimals.\nSource: lancedb/research • benchmark snapshot 4616259 •September 2026",
+    "description": "**What five datasets tell us**中的配图，包含文字：Reranking gains depend on the dataset；Hybrid Hit@10 change vs. unreranked RRF • Percentage points；Below baseline；Above baseline；Best score in dataset；-20；+20；Model /configuration；GOOAQ；NQ；HotpotQA；FiQA；SciDocs；RRF 81.91%；RRF 72.25%；RRF 96.19%；RRF 66.51%；RRF 58.80%；Jev default；+10.26；+14.63；-3.52；+11.89；+5.90；Jev relevance；+10.68；+15.15；+1.51；+12.19；+710",
+    "entities": [
+      "Reranking gains depend on the dataset",
+      "Hybrid Hit@10 change vs. unreranked RRF • Percentage points",
+      "Below baseline",
+      "Above baseline",
+      "Best score in dataset",
+      "-20",
+      "+20",
+      "Model /configuration",
+      "GOOAQ",
+      "NQ",
+      "HotpotQA",
+      "FiQA",
+      "SciDocs",
+      "RRF 81.91%",
+      "RRF 72.25%",
+      "RRF 96.19%",
+      "RRF 66.51%",
+      "RRF 58.80%",
+      "Jev default",
+      "+10.26",
+      "+14.63",
+      "-3.52",
+      "+11.89",
+      "+5.90",
+      "Jev relevance",
+      "+10.68",
+      "+15.15",
+      "+1.51",
+      "+12.19",
+      "+710",
+      "MiniLM-L6",
+      "+1.79",
+      "+8.57",
+      "+1.20",
+      "-0.31",
+      "-6.00",
+      "gte-modernbert",
+      "+5:14",
+      "+11.27",
+      "+911",
+      "+1.30",
+      "bge-v2-m3",
+      "+5.61",
+      "+16.19",
+      "+2.34",
+      "+3.24",
+      "-2.60",
+      "mxbai-large-v2",
+      "+8.08",
+      "+17.26",
+      "+2.45",
+      "+10.34",
+      "-0.90",
+      "Qwen3-0.6B",
+      "+4.78",
+      "+12.57",
+      "+2.07",
+      "+7.87",
+      "+3.00",
+      "Qwen3-4B",
+      "+8.70",
+      "+17:12",
+      "+2.23",
+      "+13.58",
+      "+12.80",
+      "Qwen3-8B",
+      "+9.31",
+      "+16.48",
+      "+2.19",
+      "+13.43",
+      "+10.40",
+      "zerank-2",
+      "+10.09",
+      "+15.61",
+      "-0.13",
+      "+11.11",
+      "+4.50",
+      "jina-v3",
+      "+8.68",
+      "+18:13",
+      "+2.38",
+      "+7.56",
+      "+7.90",
+      "answerai-colbert-small（1x）",
+      "+5.64",
+      "+10.80",
+      "+1.64",
+      "+3.40",
+      "-2.10",
+      "answerai-colbert-small （2x）",
+      "+5:18",
+      "15",
+      "+3.09",
+      "-3.30",
+      "answerai-colbert-small （4x）",
+      "+4.07",
+      "+8.46",
+      "+0.37",
+      "+1.85",
+      "-3.20",
+      "gte-moderncolbert （1x）",
+      "+7.48",
+      "+12.16",
+      "+1.88",
+      "+6.79",
+      "0.00",
+      "gte-moderncolbert （2x）",
+      "+7.36",
+      "+12.25",
+      "+1.77",
+      "+6.64",
+      "-0.30",
+      "gte-moderncolbert （4x）",
+      "+6.56",
+      "+10.69",
+      "+0.96",
+      "+5.56",
+      "-1.20",
+      "jina-colbert-v2（1x）",
+      "+6.17",
+      "+13.09",
+      "+1.73",
+      "+5.40",
+      "-1.70",
+      "jina-colbert-v2（2x）",
+      "+13.24",
+      "+1.54",
+      "+5.09",
+      "-2.50",
+      "jina-colbert-v2（4x）",
+      "-2.30",
+      "+5.21",
+      "-2.66",
+      "-2.93",
+      "-7.20",
+      "Outlined rows: Jev prompts. 1x / 2x / 4x: ColBERT token pooling factors.",
+      "Each cell = model score - that dataset's RRF score, using published values rounded to two decimals.",
+      "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "00422e7255ae910800323dd83cb44379fdb99baccce55bcd88e8787fd8f0b82c"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-006",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aba98d234fc25fe3fa59043_6aba98196fdf532163c74d84_jev-chart-4-retrieval-cutoff.webp",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-006.webp",
+    "section": "**What five datasets tell us**",
+    "alt": "HotpotQA hybrid Hit@1 and Hit@10 for Jev relevance, Qwen3-4B and mxbai-large-v2.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.047965121643208306,
+          0.8539823003781761,
+          0.6119186019897461,
+          0.053097345261346796
+        ],
+        "confidence": 0.5,
+        "text": "Top-10 coverage hides first-result gaps"
+      },
+      {
+        "boundingBox": [
+          0.04941859587629459,
+          0.8119469025397519,
+          0.5523255920410156,
+          0.026548672630673287
+        ],
+        "confidence": 0.5,
+        "text": "HotpotQA• Hybrid search • Queries with at least one relevant result（%）"
+      },
+      {
+        "boundingBox": [
+          0.38372093127444956,
+          0.7276190469136375,
+          0.06395348548889157,
+          0.03565528869628909
+        ],
+        "confidence": 1,
+        "text": "Hit@1"
+      },
+      {
+        "boundingBox": [
+          0.7529069773777668,
+          0.7300884963572565,
+          0.0755813932418824,
+          0.03318583897181926
+        ],
+        "confidence": 1,
+        "text": "Hit@10"
+      },
+      {
+        "boundingBox": [
+          0.37639966356564103,
+          0.6898141630828855,
+          0.07859601974487301,
+          0.02302654084705169
+        ],
+        "confidence": 0.5,
+        "text": "First result"
+      },
+      {
+        "boundingBox": [
+          0.7383720927864252,
+          0.6902654873781251,
+          0.10465116500854488,
+          0.022123892647879506
+        ],
+        "confidence": 1,
+        "text": "First 10 results"
+      },
+      {
+        "boundingBox": [
+          0.3125000004287483,
+          0.6323809531223301,
+          0.06831395149230957,
+          0.03142857142857147
+        ],
+        "confidence": 1,
+        "text": "85.24%"
+      },
+      {
+        "boundingBox": [
+          0.8720170546023198,
+          0.6345252807347741,
+          0.06410542488098137,
+          0.02740961528959729
+        ],
+        "confidence": 0.5,
+        "text": "97.70%"
+      },
+      {
+        "boundingBox": [
+          0.0479651155162439,
+          0.6017699117113353,
+          0.12063953399658205,
+          0.02433628263927634
+        ],
+        "confidence": 0.5,
+        "text": "Jev relevance"
+      },
+      {
+        "boundingBox": [
+          0.41133720867732554,
+          0.5243362830651943,
+          0.0625,
+          0.026548672630673398
+        ],
+        "confidence": 1,
+        "text": "91.82%"
+      },
+      {
+        "boundingBox": [
+          0.8807511783869671,
+          0.521800023448473,
+          0.06843950271606447,
+          0.03162119184221546
+        ],
+        "confidence": 0.5,
+        "text": "98.42%"
+      },
+      {
+        "boundingBox": [
+          0.049418606763483905,
+          0.49333333319434736,
+          0.09883720397949218,
+          0.026666666666666727
+        ],
+        "confidence": 1,
+        "text": "Qwen3-4B"
+      },
+      {
+        "boundingBox": [
+          0.4287790703212269,
+          0.40929203605568654,
+          0.06976744174957278,
+          0.03546986897786464
+        ],
+        "confidence": 0.3,
+        "text": "93.25%"
+      },
+      {
+        "boundingBox": [
+          0.8822674414798648,
+          0.4114285712031759,
+          0.06976744174957272,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "98.64%"
+      },
+      {
+        "boundingBox": [
+          0.04941860370459064,
+          0.3780952378099701,
+          0.1380813980102539,
+          0.03340918586367647
+        ],
+        "confidence": 1,
+        "text": "mxbai-large-v2"
+      },
+      {
+        "boundingBox": [
+          0.2572674415229354,
+          0.3228571425732355,
+          0.02034883737564086,
+          0.02006321135021394
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.33139534878310983,
+          0.32285714257200604,
+          0.02034883737564086,
+          0.02227560043334964
+        ],
+        "confidence": 1,
+        "text": "85"
+      },
+      {
+        "boundingBox": [
+          0.40552325551276097,
+          0.3228571426273157,
+          0.02034883737564086,
+          0.02227560043334964
+        ],
+        "confidence": 1,
+        "text": "90"
+      },
+      {
+        "boundingBox": [
+          0.47819767436450517,
+          0.32285714257200604,
+          0.020348837375640916,
+          0.02227560043334964
+        ],
+        "confidence": 1,
+        "text": "95"
+      },
+      {
+        "boundingBox": [
+          0.5479651167431026,
+          0.3228571430457783,
+          0.029069766998291002,
+          0.024761904761904763
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.6337209299313656,
+          0.3228571426273157,
+          0.02034883737564086,
+          0.02227560043334964
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.7078488372391821,
+          0.32285714306421476,
+          0.02034883737564086,
+          0.024761904761904763
+        ],
+        "confidence": 1,
+        "text": "85"
+      },
+      {
+        "boundingBox": [
+          0.7805232561014159,
+          0.32285714306421476,
+          0.02180232524871828,
+          0.024761904761904763
+        ],
+        "confidence": 1,
+        "text": "90"
+      },
+      {
+        "boundingBox": [
+          0.8531976744292123,
+          0.32285714284297595,
+          0.02180232524871828,
+          0.024761904761904763
+        ],
+        "confidence": 1,
+        "text": "95"
+      },
+      {
+        "boundingBox": [
+          0.9215116282765251,
+          0.3228571429136491,
+          0.03052325487136842,
+          0.026700379507882288
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.32122093458206535,
+          0.28095238109125364,
+          0.1889534759521484,
+          0.024761904761904763
+        ],
+        "confidence": 0.3,
+        "text": "Hit rate （%）•Higher is better"
+      },
+      {
+        "boundingBox": [
+          0.6962209282554551,
+          0.28095238095851005,
+          0.18895349502563474,
+          0.024761904761904763
+        ],
+        "confidence": 0.5,
+        "text": "Hit rate （%）•Higher is better"
+      },
+      {
+        "boundingBox": [
+          0.3473837248184772,
+          0.20095238105918356,
+          0.13808138847351076,
+          0.03356089274088547
+        ],
+        "confidence": 0.5,
+        "text": "Spread: 8.01 pp"
+      },
+      {
+        "boundingBox": [
+          0.7194767450524973,
+          0.20095238078263478,
+          0.14389534950256344,
+          0.03356089274088547
+        ],
+        "confidence": 0.3,
+        "text": "Spread: 0.94 pp"
+      },
+      {
+        "boundingBox": [
+          0.04941862180118989,
+          0.13047619073339722,
+          0.5203488159179688,
+          0.026666666666666616
+        ],
+        "confidence": 0.5,
+        "text": "A hit does not require both supporting passages or a complete answer."
+      },
+      {
+        "boundingBox": [
+          0.04796514744787864,
+          0.061904761727932356,
+          0.6482557678222656,
+          0.02216603415352958
+        ],
+        "confidence": 0.5,
+        "text": "Spread = highest - lowest score among these three rerankers. Both panels use the same 80-100% scale."
+      },
+      {
+        "boundingBox": [
+          0.04796511359304983,
+          0.026548673071340456,
+          0.42877906799316406,
+          0.022123892647879395
+        ],
+        "confidence": 0.5,
+        "text": "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+      }
+    ],
+    "ocr_text": "Top-10 coverage hides first-result gaps\nHotpotQA• Hybrid search • Queries with at least one relevant result（%）\nHit@1\nHit@10\nFirst result\nFirst 10 results\n85.24%\n97.70%\nJev relevance\n91.82%\n98.42%\nQwen3-4B\n93.25%\n98.64%\nmxbai-large-v2\n80\n85\n90\n95\n100\n80\n85\n90\n95\n100\nHit rate （%）•Higher is better\nHit rate （%）•Higher is better\nSpread: 8.01 pp\nSpread: 0.94 pp\nA hit does not require both supporting passages or a complete answer.\nSpread = highest - lowest score among these three rerankers. Both panels use the same 80-100% scale.\nSource: lancedb/research • benchmark snapshot 4616259 •September 2026",
+    "description": "**What five datasets tell us**中的配图，包含文字：Top-10 coverage hides first-result gaps；HotpotQA• Hybrid search • Queries with at least one relevant result（%）；Hit@1；Hit@10；First result；First 10 results；85.24%；97.70%；Jev relevance；91.82%；98.42%；Qwen3-4B；93.25%；98.64%；mxbai-large-v2；80；85；90；95；100；80；85；90；95；100；Hit rate （%）•Higher is better；Hit rate （%）•Higher is better；Spread: 8.01 pp；Spread: 0.94 pp；A hit does not require both supporting passages or a complete answer.",
+    "entities": [
+      "Top-10 coverage hides first-result gaps",
+      "HotpotQA• Hybrid search • Queries with at least one relevant result（%）",
+      "Hit@1",
+      "Hit@10",
+      "First result",
+      "First 10 results",
+      "85.24%",
+      "97.70%",
+      "Jev relevance",
+      "91.82%",
+      "98.42%",
+      "Qwen3-4B",
+      "93.25%",
+      "98.64%",
+      "mxbai-large-v2",
+      "80",
+      "85",
+      "90",
+      "95",
+      "100",
+      "Hit rate （%）•Higher is better",
+      "Spread: 8.01 pp",
+      "Spread: 0.94 pp",
+      "A hit does not require both supporting passages or a complete answer.",
+      "Spread = highest - lowest score among these three rerankers. Both panels use the same 80-100% scale.",
+      "Source: lancedb/research • benchmark snapshot 4616259 •September 2026"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47364a1fb47cf0867b5f9a157fdc783f5007bda13a9780f0a60abd12cf32260e"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-007",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab18c0501c69f065c732902_headshot.avif",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-007.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try Jev on your search results**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a0dc9b7f783bedc616b44872b273d4e4f3516b91b8adba82856dab3f65da9b29"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-008",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-008.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try Jev on your search results**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-009",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19ba7029b7b371ee6cd31_10m%20to%2010b%20hero%20compressed.avif",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-009.avif",
+    "section": "**Try Jev on your search results**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10290883365232312,
+          0.8736139123673776,
+          0.13720558933093788,
+          0.05431856774980093
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "**Try Jev on your search results**中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bb5e3ba49a1c6734f519f0f7c5b66fbc350ebeb777db61e4d100a483a869d93"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-010",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19b007eb4bab4e23c5b8f_Pretraining%20hero%20compressed.avif",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-010.avif",
+    "section": "From 10 Million to 10 Billion: Vector Search Built to Grow",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08284883620343861,
+          0.8917197447737097,
+          0.10465116363963442,
+          0.038692626224202
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "From 10 Million to 10 Billion: Vector Search Built to Grow中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1421c30ab4b30eafff08b18ddb714875c0da5004b7cfc56d45368ccf9b4f445e"
+  },
+  {
+    "figure_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c-fig-011",
+    "doc_id": "2527-How-Jev-Compares-to-Other-Rerankers-d139c54c",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a97ce425af87a267ae9457f_Data%20Mining.avif",
+    "image_path": "images/2527-How-Jev-Compares-to-Other-Rerankers-d139c54c/figure-011.avif",
+    "section": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0770044296223736,
+          0.9043811230006883,
+          0.11052602558044726,
+          0.04175321817904265
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical LLM Pretraining Pipeline with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "861e26369015e22ab8d2e39fd0a8d6a39158c58e2b8b5232dfae1c5a5f463fbf"
+  }
+]

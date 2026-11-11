@@ -1,0 +1,1505 @@
+[
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-001",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccc8cb37f958a800acd615_preview-image.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-001.avif",
+    "section": "Advanced RAG: Precise Zero-Shot Dense Retrieval with HyDE",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09707262193512359,
+          0.8806536884050821,
+          0.14451754887898763,
+          0.055230091236255774
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.07994186345730565,
+          0.7027777775696352,
+          0.18023255666097004,
+          0.01851851851851849
+        ],
+        "confidence": 0.5,
+        "text": "wnte a passage to answar the question"
+      },
+      {
+        "boundingBox": [
+          0.8022400782971424,
+          0.6872371790534673,
+          0.15425500869750974,
+          0.020874232716030616
+        ],
+        "confidence": 0.5,
+        "text": "How wisdom teeth are removed..."
+      },
+      {
+        "boundingBox": [
+          0.07848837703053078,
+          0.6666666662824751,
+          0.15843022664388023,
+          0.020671834769072306
+        ],
+        "confidence": 0.5,
+        "text": "how long does it take to remove"
+      },
+      {
+        "boundingBox": [
+          0.3502906982849535,
+          0.6434108531940628,
+          0.0639534870783488,
+          0.041774331198798365
+        ],
+        "confidence": 0.5,
+        "text": "HyDE"
+      },
+      {
+        "boundingBox": [
+          0.8023255876111406,
+          0.6666666668985438,
+          0.15116278330485033,
+          0.01851851851851849
+        ],
+        "confidence": 0.3,
+        "text": "Some.- a few minutes, whereas"
+      },
+      {
+        "boundingBox": [
+          0.07848837019095019,
+          0.6459948317909261,
+          0.06976744333902994,
+          0.015503876297562114
+        ],
+        "confidence": 0.5,
+        "text": "wisdom tooth"
+      },
+      {
+        "boundingBox": [
+          0.4825581414462906,
+          0.6459948322732207,
+          0.1264534870783488,
+          0.01808785509180144
+        ],
+        "confidence": 0.5,
+        "text": "It usually takes between 30"
+      },
+      {
+        "boundingBox": [
+          0.8023255855449115,
+          0.6459948319631913,
+          0.13808139165242506,
+          0.015503876297562225
+        ],
+        "confidence": 0.5,
+        "text": "others can take 20 minutes or"
+      },
+      {
+        "boundingBox": [
+          0.4825581383119568,
+          0.6250000002609779,
+          0.11773255666097004,
+          0.01851851851851849
+        ],
+        "confidence": 0.5,
+        "text": "minutes and two hours to"
+      },
+      {
+        "boundingBox": [
+          0.8008720952747699,
+          0.6201550389054342,
+          0.04360464811325071,
+          0.01808785509180144
+        ],
+        "confidence": 0.3,
+        "text": "longer...."
+      },
+      {
+        "boundingBox": [
+          0.4811046499398639,
+          0.6018518517226529,
+          0.11773255666097004,
+          0.01851851851851849
+        ],
+        "confidence": 0.5,
+        "text": "remove a wisdom tooth..."
+      },
+      {
+        "boundingBox": [
+          0.07848837605490289,
+          0.5813953491207179,
+          0.19476742744445802,
+          0.020671833886040547
+        ],
+        "confidence": 0.5,
+        "text": "wrte a scientific paper passage to answer"
+      },
+      {
+        "boundingBox": [
+          0.0784533955390019,
+          0.5603518701701563,
+          0.05966297785441081,
+          0.01883114443884948
+        ],
+        "confidence": 0.5,
+        "text": "the question"
+      },
+      {
+        "boundingBox": [
+          0.484011627032175,
+          0.54999999984029,
+          0.1351744174957275,
+          0.021296296296296258
+        ],
+        "confidence": 0.5,
+        "text": "- depression and anxiety had"
+      },
+      {
+        "boundingBox": [
+          0.8008720949135655,
+          0.547803617458406,
+          0.12499999205271406,
+          0.01808785509180133
+        ],
+        "confidence": 0.3,
+        "text": ". two studies investigating"
+      },
+      {
+        "boundingBox": [
+          0.07994186638038095,
+          0.5322997421439737,
+          0.21075580914815265,
+          0.020671833886040547
+        ],
+        "confidence": 0.3,
+        "text": "How has the CovlD-19 pandemic impacted"
+      },
+      {
+        "boundingBox": [
+          0.4840116301345174,
+          0.5296296292043667,
+          0.1264534870783488,
+          0.020757967454415827
+        ],
+        "confidence": 0.5,
+        "text": "increased by 20% since the"
+      },
+      {
+        "boundingBox": [
+          0.6466763932001579,
+          0.5233379676766703,
+          0.08310070037841799,
+          0.030843445106788936
+        ],
+        "confidence": 0.3,
+        "text": "Contriever"
+      },
+      {
+        "boundingBox": [
+          0.7921511662822636,
+          0.5268518515172966,
+          0.1642441749572754,
+          0.02129629629629637
+        ],
+        "confidence": 0.3,
+        "text": "* COVID-19 patients.. significantly"
+      },
+      {
+        "boundingBox": [
+          0.07848837495867111,
+          0.5138888886974982,
+          0.07558139165242511,
+          0.01851851851851849
+        ],
+        "confidence": 0.5,
+        "text": "mental health？"
+      },
+      {
+        "boundingBox": [
+          0.3749999994133637,
+          0.4857881142765744,
+          0.043604652086893736,
+          0.033656330461855344
+        ],
+        "confidence": 1,
+        "text": "GPT"
+      },
+      {
+        "boundingBox": [
+          0.48255814151233994,
+          0.5090439277081906,
+          0.10755813916524254,
+          0.01808785509180144
+        ],
+        "confidence": 0.5,
+        "text": "start of the pandemic..."
+      },
+      {
+        "boundingBox": [
+          0.8008720977909768,
+          0.5037037039912023,
+          0.1308139483133952,
+          0.021296296296296258
+        ],
+        "confidence": 0.5,
+        "text": "higher level of depressive..."
+      },
+      {
+        "boundingBox": [
+          0.07994186101730225,
+          0.4416666663646176,
+          0.18459302584330242,
+          0.01851851851851849
+        ],
+        "confidence": 0.5,
+        "text": "wnte a passage in Korean to answer the"
+      },
+      {
+        "boundingBox": [
+          0.07827461643844251,
+          0.41569212010129086,
+          0.08185442288716634,
+          0.023859134426823414
+        ],
+        "confidence": 0.3,
+        "text": "queslion in detail"
+      },
+      {
+        "boundingBox": [
+          0.33284883916231733,
+          0.3359173126005729,
+          0.05668604373931885,
+          0.015934538841247625
+        ],
+        "confidence": 1,
+        "text": "instruction"
+      },
+      {
+        "boundingBox": [
+          0.45639534988872466,
+          0.3333333332982472,
+          0.030523254474004113,
+          0.015740740740740833
+        ],
+        "confidence": 0.5,
+        "text": "query"
+      },
+      {
+        "boundingBox": [
+          0.553779073087092,
+          0.3305555555635359,
+          0.11046511332194009,
+          0.021296296296296258
+        ],
+        "confidence": 1,
+        "text": "generated document"
+      },
+      {
+        "boundingBox": [
+          0.723837210444506,
+          0.3359173126867897,
+          0.07412790457407636,
+          0.01315676150498557
+        ],
+        "confidence": 1,
+        "text": "real document"
+      },
+      {
+        "boundingBox": [
+          0.07558141864212391,
+          0.24537037021207075,
+          0.8880813598632813,
+          0.03628337648179791
+        ],
+        "confidence": 0.5,
+        "text": "Figure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries"
+      },
+      {
+        "boundingBox": [
+          0.07412791322674402,
+          0.20370370370370372,
+          0.625,
+          0.03703703703703698
+        ],
+        "confidence": 0.5,
+        "text": "without changing the underlying GPT-3 and Contriever/mContriever models."
+      }
+    ],
+    "ocr_text": "LanceDB\nwnte a passage to answar the question\nHow wisdom teeth are removed...\nhow long does it take to remove\nHyDE\nSome.- a few minutes, whereas\nwisdom tooth\nIt usually takes between 30\nothers can take 20 minutes or\nminutes and two hours to\nlonger....\nremove a wisdom tooth...\nwrte a scientific paper passage to answer\nthe question\n- depression and anxiety had\n. two studies investigating\nHow has the CovlD-19 pandemic impacted\nincreased by 20% since the\nContriever\n* COVID-19 patients.. significantly\nmental health？\nGPT\nstart of the pandemic...\nhigher level of depressive...\nwnte a passage in Korean to answer the\nqueslion in detail\ninstruction\nquery\ngenerated document\nreal document\nFigure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries\nwithout changing the underlying GPT-3 and Contriever/mContriever models.",
+    "description": "Advanced RAG: Precise Zero-Shot Dense Retrieval with HyDE中的配图，包含文字：LanceDB；wnte a passage to answar the question；How wisdom teeth are removed...；how long does it take to remove；HyDE；Some.- a few minutes, whereas；wisdom tooth；It usually takes between 30；others can take 20 minutes or；minutes and two hours to；longer....；remove a wisdom tooth...；wrte a scientific paper passage to answer；the question；- depression and anxiety had；. two studies investigating；How has the CovlD-19 pandemic impacted；increased by 20% since the；Contriever；* COVID-19 patients.. significantly；mental health？；GPT；start of the pandemic...；higher level of depressive...；wnte a passage in Korean to answer the；queslion in detail；instruction；query；generated document；real document",
+    "entities": [
+      "LanceDB",
+      "wnte a passage to answar the question",
+      "How wisdom teeth are removed...",
+      "how long does it take to remove",
+      "HyDE",
+      "Some.- a few minutes, whereas",
+      "wisdom tooth",
+      "It usually takes between 30",
+      "others can take 20 minutes or",
+      "minutes and two hours to",
+      "longer....",
+      "remove a wisdom tooth...",
+      "wrte a scientific paper passage to answer",
+      "the question",
+      "- depression and anxiety had",
+      ". two studies investigating",
+      "How has the CovlD-19 pandemic impacted",
+      "increased by 20% since the",
+      "Contriever",
+      "* COVID-19 patients.. significantly",
+      "mental health？",
+      "GPT",
+      "start of the pandemic...",
+      "higher level of depressive...",
+      "wnte a passage in Korean to answer the",
+      "queslion in detail",
+      "instruction",
+      "query",
+      "generated document",
+      "real document",
+      "Figure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries",
+      "without changing the underlying GPT-3 and Contriever/mContriever models."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c1ab991aac50e75c732396adea49e07cfc014b5a8a95c7e725cee30272edcce9"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-002",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a1565679087_1*mCjvp4YeeGn-T6XTfDcwgw.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-002.avif",
+    "section": "The Challenge of Dense Retrieval",
+    "alt": "HyDE overview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07792207731601734,
+          0.794520547260274,
+          0.18181818181818182,
+          0.04109589041095896
+        ],
+        "confidence": 0.3,
+        "text": "wte a pessage to answer the question"
+      },
+      {
+        "boundingBox": [
+          0.8000000075515549,
+          0.7739726030821917,
+          0.15584414593585127,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "How.wisdom teoth are remeved.."
+      },
+      {
+        "boundingBox": [
+          0.07792208556021281,
+          0.7465753428082191,
+          0.16103895113065642,
+          0.03424657534246578
+        ],
+        "confidence": 0.5,
+        "text": "how long does it take to remove"
+      },
+      {
+        "boundingBox": [
+          0.347723307495476,
+          0.7031585390530495,
+          0.06818974977963932,
+          0.07313497752359466
+        ],
+        "confidence": 1,
+        "text": "HyDE"
+      },
+      {
+        "boundingBox": [
+          0.07790020190951694,
+          0.7052085406405999,
+          0.07277102284617237,
+          0.041637714595010866
+        ],
+        "confidence": 1,
+        "text": "wisdom tooth"
+      },
+      {
+        "boundingBox": [
+          0.4805194788961039,
+          0.7123287668664384,
+          0.1298701298701299,
+          0.03424657534246567
+        ],
+        "confidence": 0.3,
+        "text": "It usually takes between 30"
+      },
+      {
+        "boundingBox": [
+          0.7999999976623378,
+          0.712328766780822,
+          0.1402597402597402,
+          0.03424657534246567
+        ],
+        "confidence": 0.3,
+        "text": "cthors can take 20 minu:os or"
+      },
+      {
+        "boundingBox": [
+          0.47532467691558444,
+          0.6780821921232877,
+          0.1272727272727272,
+          0.04109589041095896
+        ],
+        "confidence": 0.3,
+        "text": "x minutes and swo hours to"
+      },
+      {
+        "boundingBox": [
+          0.07532467203463217,
+          0.6164383560502283,
+          0.1974025974025974,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "wnte a scientic paper passage to answer"
+      },
+      {
+        "boundingBox": [
+          0.07792207870129869,
+          0.5890410961472603,
+          0.06233766233766233,
+          0.03424657534246567
+        ],
+        "confidence": 0.3,
+        "text": "the auestion"
+      },
+      {
+        "boundingBox": [
+          0.4857142833766234,
+          0.5753424655251141,
+          0.14025974025974025,
+          0.0273972602739726
+        ],
+        "confidence": 0.3,
+        "text": "deorossion and anxioty nad"
+      },
+      {
+        "boundingBox": [
+          0.8103896118506493,
+          0.5684931509417808,
+          0.11688311688311681,
+          0.03424657534246589
+        ],
+        "confidence": 0.5,
+        "text": "two studies investigating"
+      },
+      {
+        "boundingBox": [
+          0.07792207525974029,
+          0.5479452052226027,
+          0.21298701298701297,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "How has the COVID-19 pandemic Impactod"
+      },
+      {
+        "boundingBox": [
+          0.472727275064935,
+          0.5479452057077625,
+          0.14025974025974025,
+          0.027397260273972712
+        ],
+        "confidence": 0.3,
+        "text": "• increased by 20% sinco the"
+      },
+      {
+        "boundingBox": [
+          0.6569387122944117,
+          0.5315665827234886,
+          0.07313556423434953,
+          0.04645587483497515
+        ],
+        "confidence": 1,
+        "text": "Contriever"
+      },
+      {
+        "boundingBox": [
+          0.7896103867965368,
+          0.5342465750000001,
+          0.1688311688311689,
+          0.03424657534246567
+        ],
+        "confidence": 0.3,
+        "text": "¥COVID-19 patents.. signilicanty"
+      },
+      {
+        "boundingBox": [
+          0.07792207786739577,
+          0.5136986302271088,
+          0.07792207792207792,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "montal hoalth？"
+      },
+      {
+        "boundingBox": [
+          0.4805194823376623,
+          0.5068493154109589,
+          0.10909090909090913,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "start of the pandomic."
+      },
+      {
+        "boundingBox": [
+          0.8000000021212121,
+          0.5000000002283105,
+          0.12727272727272732,
+          0.04109589041095896
+        ],
+        "confidence": 0.3,
+        "text": "Ngher level of deprestie."
+      },
+      {
+        "boundingBox": [
+          0.37142857181818184,
+          0.47260274006849323,
+          0.04675324675324677,
+          0.0547945205479452
+        ],
+        "confidence": 1,
+        "text": "GPT"
+      },
+      {
+        "boundingBox": [
+          0.47272727551692284,
+          0.43150684851598176,
+          0.15064934074104608,
+          0.047945205479452024
+        ],
+        "confidence": 0.3,
+        "text": "22201 ¥8 A82 21882"
+      },
+      {
+        "boundingBox": [
+          0.07792208029220772,
+          0.41095890436643834,
+          0.18961038961038962,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "wte a passage in Korean to answer the"
+      },
+      {
+        "boundingBox": [
+          0.07792208174114536,
+          0.3767123291095891,
+          0.08051947556532822,
+          0.03424657534246567
+        ],
+        "confidence": 0.3,
+        "text": "question in detai"
+      },
+      {
+        "boundingBox": [
+          0.8162337650553912,
+          0.32876712340182646,
+          0.06168831168831168,
+          0.03424657534246578
+        ],
+        "confidence": 0.3,
+        "text": "2含現 ."
+      },
+      {
+        "boundingBox": [
+          0.3324675334632034,
+          0.24657534280821924,
+          0.05974025974025976,
+          0.03424657534246578
+        ],
+        "confidence": 1,
+        "text": "instruction"
+      },
+      {
+        "boundingBox": [
+          0.45454545398268403,
+          0.24657534212328758,
+          0.03376623376623378,
+          0.03424657534246578
+        ],
+        "confidence": 0.5,
+        "text": "query"
+      },
+      {
+        "boundingBox": [
+          0.5506493520454545,
+          0.24657534272260273,
+          0.11168831168831173,
+          0.03424657534246578
+        ],
+        "confidence": 1,
+        "text": "generated document"
+      },
+      {
+        "boundingBox": [
+          0.722077923265841,
+          0.253424657191781,
+          0.07532466541637073,
+          0.020547945205479423
+        ],
+        "confidence": 0.5,
+        "text": "real document"
+      },
+      {
+        "boundingBox": [
+          0.07532466418831193,
+          0.12328767089041104,
+          0.8909090909090909,
+          0.05479452054794509
+        ],
+        "confidence": 0.5,
+        "text": "Figure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries"
+      },
+      {
+        "boundingBox": [
+          0.07532468311688295,
+          0.061643835787671186,
+          0.6233766233766234,
+          0.0547945205479452
+        ],
+        "confidence": 0.5,
+        "text": "without changing the underlying GPT-3 and Contriever/mContriever models."
+      }
+    ],
+    "ocr_text": "wte a pessage to answer the question\nHow.wisdom teoth are remeved..\nhow long does it take to remove\nHyDE\nwisdom tooth\nIt usually takes between 30\ncthors can take 20 minu:os or\nx minutes and swo hours to\nwnte a scientic paper passage to answer\nthe auestion\ndeorossion and anxioty nad\ntwo studies investigating\nHow has the COVID-19 pandemic Impactod\n• increased by 20% sinco the\nContriever\n¥COVID-19 patents.. signilicanty\nmontal hoalth？\nstart of the pandomic.\nNgher level of deprestie.\nGPT\n22201 ¥8 A82 21882\nwte a passage in Korean to answer the\nquestion in detai\n2含現 .\ninstruction\nquery\ngenerated document\nreal document\nFigure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries\nwithout changing the underlying GPT-3 and Contriever/mContriever models.",
+    "description": "The Challenge of Dense Retrieval中的配图，包含文字：wte a pessage to answer the question；How.wisdom teoth are remeved..；how long does it take to remove；HyDE；wisdom tooth；It usually takes between 30；cthors can take 20 minu:os or；x minutes and swo hours to；wnte a scientic paper passage to answer；the auestion；deorossion and anxioty nad；two studies investigating；How has the COVID-19 pandemic Impactod；• increased by 20% sinco the；Contriever；¥COVID-19 patents.. signilicanty；montal hoalth？；start of the pandomic.；Ngher level of deprestie.；GPT；22201 ¥8 A82 21882；wte a passage in Korean to answer the；question in detai；2含現 .；instruction；query；generated document；real document；Figure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries；without changing the underlying GPT-3 and Contriever/mContriever models.",
+    "entities": [
+      "wte a pessage to answer the question",
+      "How.wisdom teoth are remeved..",
+      "how long does it take to remove",
+      "HyDE",
+      "wisdom tooth",
+      "It usually takes between 30",
+      "cthors can take 20 minu:os or",
+      "x minutes and swo hours to",
+      "wnte a scientic paper passage to answer",
+      "the auestion",
+      "deorossion and anxioty nad",
+      "two studies investigating",
+      "How has the COVID-19 pandemic Impactod",
+      "• increased by 20% sinco the",
+      "Contriever",
+      "¥COVID-19 patents.. signilicanty",
+      "montal hoalth？",
+      "start of the pandomic.",
+      "Ngher level of deprestie.",
+      "GPT",
+      "22201 ¥8 A82 21882",
+      "wte a passage in Korean to answer the",
+      "question in detai",
+      "2含現 .",
+      "instruction",
+      "query",
+      "generated document",
+      "real document",
+      "Figure 1: An illustration of the HyDE model. Documents snippets are shown. HyDE serves all types of queries",
+      "without changing the underlying GPT-3 and Contriever/mContriever models."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3651b7a513dfe040c8929b908a11b848e260a7cd3b7d59e6bb7a8bb4911bc618"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-003",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a156567908a_1*YtYoBsurIhNd24xDWmtFVg.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-003.avif",
+    "section": "Load the multiple PDFs",
+    "alt": "PDF screenshot example",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2311688349350649,
+          0.9400000002,
+          0.5272727272727273,
+          0.03600000000000003
+        ],
+        "confidence": 0.5,
+        "text": "Table 2: Nutritional Limitations of Fast Foods"
+      },
+      {
+        "boundingBox": [
+          0.02597401545454582,
+          0.8279999993333333,
+          0.9116883116883117,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "The following factors appear to be the major nutritional limitations of fast-food meals."
+      },
+      {
+        "boundingBox": [
+          0.023376630129870023,
+          0.7720000002,
+          0.9454545454545454,
+          0.04399999999999993
+        ],
+        "confidence": 0.5,
+        "text": "Calcium, riboflavin, vitamin A: These essential nutrients are low unless milk or a"
+      },
+      {
+        "boundingBox": [
+          0.023376627272727133,
+          0.7279999998666666,
+          0.23376623376623376,
+          0.03200000000000003
+        ],
+        "confidence": 0.5,
+        "text": "milkshake is ordered."
+      },
+      {
+        "boundingBox": [
+          0.023376632922077742,
+          0.6680000000999999,
+          0.7636363636363636,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Folic acid, fibre: There are few fast food sources of these key factors."
+      },
+      {
+        "boundingBox": [
+          0.025974020562770723,
+          0.6200000006666666,
+          0.8077922077922078,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Fat: The percentage of energy from fat is high in many meal combinations."
+      },
+      {
+        "boundingBox": [
+          0.02337661272727299,
+          0.56799999985,
+          0.851948051948052,
+          0.03599999999999992
+        ],
+        "confidence": 0.5,
+        "text": "Sodium: The sodium content of fast food meals is high, which is not desirable."
+      },
+      {
+        "boundingBox": [
+          0.025000022627739326,
+          0.5119999999781681,
+          0.9416666402445211,
+          0.04600000000000004
+        ],
+        "confidence": 0.5,
+        "text": "Energy: Common meal combinations contain excessive energy when compared with"
+      },
+      {
+        "boundingBox": [
+          0.023376630649350402,
+          0.4639999999333334,
+          0.4363636363636363,
+          0.03599999999999992
+        ],
+        "confidence": 0.5,
+        "text": "the amounts of other nutrients provided."
+      },
+      {
+        "boundingBox": [
+          0.06493505880519496,
+          0.40800000039999995,
+          0.9090909090909092,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "Although fast foods can contribute nutrients to the diet, they cannot completely meet"
+      },
+      {
+        "boundingBox": [
+          0.020833317500000555,
+          0.3580000002753885,
+          0.9500000000000001,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "the nutritional needs of teenagers. Both adolescents and health professionals should be"
+      },
+      {
+        "boundingBox": [
+          0.023376635227272458,
+          0.30400000024999996,
+          0.948051948051948,
+          0.03600000000000003
+        ],
+        "confidence": 0.5,
+        "text": "aware that fast foods are acceptable nutritionally when they are consumed judiciously"
+      },
+      {
+        "boundingBox": [
+          0.020779212857142994,
+          0.24799999979999998,
+          0.9506493506493507,
+          0.039999999999999925
+        ],
+        "confidence": 0.5,
+        "text": "and as a part of a well-balanced diet. But when they become the mainstay of the dlet"
+      },
+      {
+        "boundingBox": [
+          0.020779227551020307,
+          0.1960000001714286,
+          0.948051948051948,
+          0.040000000000000036
+        ],
+        "confidence": 0.5,
+        "text": "there is cause for concern. A nutrient imbalance may not appear to be a problem until a"
+      },
+      {
+        "boundingBox": [
+          0.023376632831168653,
+          0.14800000019999993,
+          0.9454545454545454,
+          0.03600000000000003
+        ],
+        "confidence": 0.5,
+        "text": "number of years have gone by, unless some specific problem such as a chronic disease"
+      },
+      {
+        "boundingBox": [
+          0.0233766139220781,
+          0.09199999976000006,
+          0.9454545454545454,
+          0.039999999999999925
+        ],
+        "confidence": 0.5,
+        "text": "exists. However, evidence is accumulating to show that food intake patterns of teenagers"
+      },
+      {
+        "boundingBox": [
+          0.018181821376623327,
+          0.040000000000000036,
+          0.3194805194805195,
+          0.039999999999999925
+        ],
+        "confidence": 0.5,
+        "text": "affect their health in later life."
+      }
+    ],
+    "ocr_text": "Table 2: Nutritional Limitations of Fast Foods\nThe following factors appear to be the major nutritional limitations of fast-food meals.\nCalcium, riboflavin, vitamin A: These essential nutrients are low unless milk or a\nmilkshake is ordered.\nFolic acid, fibre: There are few fast food sources of these key factors.\nFat: The percentage of energy from fat is high in many meal combinations.\nSodium: The sodium content of fast food meals is high, which is not desirable.\nEnergy: Common meal combinations contain excessive energy when compared with\nthe amounts of other nutrients provided.\nAlthough fast foods can contribute nutrients to the diet, they cannot completely meet\nthe nutritional needs of teenagers. Both adolescents and health professionals should be\naware that fast foods are acceptable nutritionally when they are consumed judiciously\nand as a part of a well-balanced diet. But when they become the mainstay of the dlet\nthere is cause for concern. A nutrient imbalance may not appear to be a problem until a\nnumber of years have gone by, unless some specific problem such as a chronic disease\nexists. However, evidence is accumulating to show that food intake patterns of teenagers\naffect their health in later life.",
+    "description": "Load the multiple PDFs中的配图，包含文字：Table 2: Nutritional Limitations of Fast Foods；The following factors appear to be the major nutritional limitations of fast-food meals.；Calcium, riboflavin, vitamin A: These essential nutrients are low unless milk or a；milkshake is ordered.；Folic acid, fibre: There are few fast food sources of these key factors.；Fat: The percentage of energy from fat is high in many meal combinations.；Sodium: The sodium content of fast food meals is high, which is not desirable.；Energy: Common meal combinations contain excessive energy when compared with；the amounts of other nutrients provided.；Although fast foods can contribute nutrients to the diet, they cannot completely meet；the nutritional needs of teenagers. Both adolescents and health professionals should be；aware that fast foods are acceptable nutritionally when they are consumed judiciously；and as a part of a well-balanced diet. But when they become the mainstay of the dlet；there is cause for concern. A nutrient imbalance may not appear to be a problem until a；number of years have gone by, unless some specific problem such as a chronic disease；exists. However, evidence is accumulating to show that food intake patterns of teenagers；affect their health in later life.",
+    "entities": [
+      "Table 2: Nutritional Limitations of Fast Foods",
+      "The following factors appear to be the major nutritional limitations of fast-food meals.",
+      "Calcium, riboflavin, vitamin A: These essential nutrients are low unless milk or a",
+      "milkshake is ordered.",
+      "Folic acid, fibre: There are few fast food sources of these key factors.",
+      "Fat: The percentage of energy from fat is high in many meal combinations.",
+      "Sodium: The sodium content of fast food meals is high, which is not desirable.",
+      "Energy: Common meal combinations contain excessive energy when compared with",
+      "the amounts of other nutrients provided.",
+      "Although fast foods can contribute nutrients to the diet, they cannot completely meet",
+      "the nutritional needs of teenagers. Both adolescents and health professionals should be",
+      "aware that fast foods are acceptable nutritionally when they are consumed judiciously",
+      "and as a part of a well-balanced diet. But when they become the mainstay of the dlet",
+      "there is cause for concern. A nutrient imbalance may not appear to be a problem until a",
+      "number of years have gone by, unless some specific problem such as a chronic disease",
+      "exists. However, evidence is accumulating to show that food intake patterns of teenagers",
+      "affect their health in later life."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d8267e6db1bd403f0f711a2eac82f4d8e1edc330d3787bf90d46bf08dacf54de"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-004",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a156567907f_1*VskgpwscCiFdhKeLHNCx8g.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-004.avif",
+    "section": "passing in the string query to get some reference",
+    "alt": "HyDE results 1",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "passing in the string query to get some reference中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b3f1f9243c8ca4a4c43769f0f5f89163b05ed297f0ce302feda6a4d40c7d5dd5"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-005",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a1565679084_1*ICbqfWSAFNmWLGni7MOF7A.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-005.avif",
+    "section": "passing in the string query to get some reference",
+    "alt": "HyDE results 2",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.01818181805194806,
+          0.6216216225675675,
+          0.01818181818181818,
+          0.09459459459459474
+        ],
+        "confidence": 1,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.046753240952381134,
+          0.6351351349099099,
+          0.34805194805194806,
+          0.06756756756756754
+        ],
+        "confidence": 0.3,
+        "text": "The pajor.nutrittonal Vnttations of fastetood mea s inctuce6"
+      },
+      {
+        "boundingBox": [
+          0.50129870322988,
+          0.6351351358108108,
+          0.04155843908136547,
+          0.06756756756756754
+        ],
+        "confidence": 0.3,
+        "text": "≤0diun，"
+      },
+      {
+        "boundingBox": [
+          0.4441558497835496,
+          0.5810810815315315,
+          0.33766233766233766,
+          0.08108108108108114
+        ],
+        "confidence": 0.3,
+        "text": "they may contoin unkealthy leveis of sodkum, saturated fat."
+      },
+      {
+        "boundingBox": [
+          0.041558438609604564,
+          0.594594593918919,
+          0.257142837326248,
+          0.04054054054054057
+        ],
+        "confidence": 0.3,
+        "text": "n.csscnuzal mnuurients ke wddains.cinendcs"
+      },
+      {
+        "boundingBox": [
+          0.04155848007634758,
+          0.5270270277027027,
+          0.37402593439275567,
+          0.04054054054054057
+        ],
+        "confidence": 0.3,
+        "text": "dnous hcswen ssues sucanasooesash heareozseasc.alo ozooewds."
+      },
+      {
+        "boundingBox": [
+          0.20259740603896095,
+          0.33783783851351346,
+          0.2753246753246753,
+          0.08108108108108114
+        ],
+        "confidence": 0.3,
+        "text": "Msin Nutrients provided by Pulses and LegunesZF）"
+      },
+      {
+        "boundingBox": [
+          0.04675323099567154,
+          0.1486486484234235,
+          0.9454545454545454,
+          0.06756756756756754
+        ],
+        "confidence": 0.3,
+        "text": "Putses and Regunes ore on excetlent sourceof essential nutrients, incloding protein. fiber, vitonins, ond eineralS. They are particutoruy high inzinc. 1olate. Bagnesz"
+      }
+    ],
+    "ocr_text": "E\nThe pajor.nutrittonal Vnttations of fastetood mea s inctuce6\n≤0diun，\nthey may contoin unkealthy leveis of sodkum, saturated fat.\nn.csscnuzal mnuurients ke wddains.cinendcs\ndnous hcswen ssues sucanasooesash heareozseasc.alo ozooewds.\nMsin Nutrients provided by Pulses and LegunesZF）\nPutses and Regunes ore on excetlent sourceof essential nutrients, incloding protein. fiber, vitonins, ond eineralS. They are particutoruy high inzinc. 1olate. Bagnesz",
+    "description": "passing in the string query to get some reference中的配图，包含文字：E；The pajor.nutrittonal Vnttations of fastetood mea s inctuce6；≤0diun，；they may contoin unkealthy leveis of sodkum, saturated fat.；n.csscnuzal mnuurients ke wddains.cinendcs；dnous hcswen ssues sucanasooesash heareozseasc.alo ozooewds.；Msin Nutrients provided by Pulses and LegunesZF）；Putses and Regunes ore on excetlent sourceof essential nutrients, incloding protein. fiber, vitonins, ond eineralS. They are particutoruy high inzinc. 1olate. Bagnesz",
+    "entities": [
+      "E",
+      "The pajor.nutrittonal Vnttations of fastetood mea s inctuce6",
+      "≤0diun，",
+      "they may contoin unkealthy leveis of sodkum, saturated fat.",
+      "n.csscnuzal mnuurients ke wddains.cinendcs",
+      "dnous hcswen ssues sucanasooesash heareozseasc.alo ozooewds.",
+      "Msin Nutrients provided by Pulses and LegunesZF）",
+      "Putses and Regunes ore on excetlent sourceof essential nutrients, incloding protein. fiber, vitonins, ond eineralS. They are particutoruy high inzinc. 1olate. Bagnesz"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b92d0e52c04adfe5b04d8202cc27c1dac2a66e7f20c5fb31ce0a1e239fb1411e"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-006",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a156567907c_1*EZpfcbs4ssfVJ8tuXWlqIw.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-006.avif",
+    "section": "*Normal RAG System:*",
+    "alt": "Normal RAG result 1",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0493506982581647,
+          0.8378378391891891,
+          0.5818181421849634,
+          0.05405405244311767
+        ],
+        "confidence": 0.3,
+        "text": "query w which factors appear to be the raion nutritionat timitations of tast-foodmeals.\""
+      }
+    ],
+    "ocr_text": "query w which factors appear to be the raion nutritionat timitations of tast-foodmeals.\"",
+    "description": "*Normal RAG System:*中的配图，包含文字：query w which factors appear to be the raion nutritionat timitations of tast-foodmeals.\"",
+    "entities": [
+      "query w which factors appear to be the raion nutritionat timitations of tast-foodmeals.\""
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6019298034e50766797cee4f67b3b5ecefef2d982abde0df7a125b569eb8ac2c"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-007",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293b802a1a1565679079_1*VZfhPM515sQq70WAXU0hog.avif",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-007.avif",
+    "section": "*Normal RAG System:*",
+    "alt": "Normal RAG result 2",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06233765545454561,
+          0.5964912269736842,
+          0.5506493506493506,
+          0.1228070175438597
+        ],
+        "confidence": 0.5,
+        "text": "query = \"what kind of Main Nutrients provided by Fruits and Vegetables ？\""
+      },
+      {
+        "boundingBox": [
+          0.062337663603896074,
+          0.49122807105263155,
+          0.10129870129870129,
+          0.10526315789473695
+        ],
+        "confidence": 1,
+        "text": "qa.run（query）"
+      },
+      {
+        "boundingBox": [
+          0.05714285163479349,
+          0.17543859649122806,
+          0.5064934668602882,
+          0.07017543859649122
+        ],
+        "confidence": 0.3,
+        "text": "Fruits and veaetables orovde carotenords，. Vatamin-c, and taber."
+      }
+    ],
+    "ocr_text": "query = \"what kind of Main Nutrients provided by Fruits and Vegetables ？\"\nqa.run（query）\nFruits and veaetables orovde carotenords，. Vatamin-c, and taber.",
+    "description": "*Normal RAG System:*中的配图，包含文字：query = \"what kind of Main Nutrients provided by Fruits and Vegetables ？\"；qa.run（query）；Fruits and veaetables orovde carotenords，. Vatamin-c, and taber.",
+    "entities": [
+      "query = \"what kind of Main Nutrients provided by Fruits and Vegetables ？\"",
+      "qa.run（query）",
+      "Fruits and veaetables orovde carotenords，. Vatamin-c, and taber."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2c9f353bf676a0e8b5a62c6a2d8f76675b7bf345ad8e2d6b00e0883a9c26bc4d"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-008",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-008.jpg",
+    "section": "*Normal RAG System:*",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "*Normal RAG System:*中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-009",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-009.png",
+    "section": "*Normal RAG System:*",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "*Normal RAG System:*中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-010",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-010.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0-fig-011",
+    "doc_id": "1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1452-https-www-lancedb-com-blog-advanced-rag-precise-34bcb7d0/figure-011.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

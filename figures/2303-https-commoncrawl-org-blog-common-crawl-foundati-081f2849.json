@@ -1,0 +1,605 @@
+[
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-001",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-002",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e1481c88168f56d3a58898_648de3e6dfa993c0af776fcf_Common_Crawl_Rev3_LPX_Color%20Icon.svg",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-002.svg",
+    "section": "Common Crawl Foundation at IIPC-WAC 2026",
+    "alt": "Common Crawl Foundation",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at IIPC-WAC 2026中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "bf383d8da647b4dd79e561a39f2f9143646ee2b9273634bcd1bc3c708c7b4be8"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-003",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-003.webp",
+    "section": "Common Crawl Foundation at IIPC-WAC 2026",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Common Crawl Foundation at IIPC-WAC 2026中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-004",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a29ad12a3606fd340664426_image1.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-004.webp",
+    "section": "Common Crawl Foundation at IIPC-WAC 2026",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at IIPC-WAC 2026中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "96b516d58d65447f105458a29081157cba29a9d5ffbb983e9cd77784854b5d11"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-005",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a29ae7f8c55bb90ebd00fb3_image2-crop.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-005.webp",
+    "section": "Common Crawl Contributions",
+    "alt": "A photograph of Sebastian Nagel, Laurie Burchell, and Pedro Ortiz Suarez.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06750000198381144,
+          0.09610389098207495,
+          0.10166666507720946,
+          0.3393939459994758
+        ],
+        "confidence": 0.3,
+        "text": "KBR 8 23267"
+      },
+      {
+        "boundingBox": [
+          0.8671557280519839,
+          0.01333108825579199,
+          0.06829559803009033,
+          0.22843700260310984
+        ],
+        "confidence": 0.3,
+        "text": "KBR 8937"
+      }
+    ],
+    "ocr_text": "KBR 8 23267\nKBR 8937",
+    "description": "Common Crawl Contributions中的配图，包含文字：KBR 8 23267；KBR 8937",
+    "entities": [
+      "KBR 8 23267",
+      "KBR 8937"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f5c3c45d9472e98d8e8ce9171009bb85323e9c8e75eb225ea63d9e910528c222"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-006",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a29aeb666f2117df093c6df_image3.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-006.webp",
+    "section": "Common Crawl Contributions",
+    "alt": "A photograph of Sebastian Nagel giving a presentation on CCBot",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2623532199205738,
+          0.7235121011005802,
+          0.3094986765008223,
+          0.05601838593993236
+        ],
+        "confidence": 0.5,
+        "text": "CCBot - Common Crawl's Polite Web Crawler"
+      },
+      {
+        "boundingBox": [
+          0.2699631108992505,
+          0.6786826696259561,
+          0.3190512566817434,
+          0.04050020450155667
+        ],
+        "confidence": 0.5,
+        "text": "• Respects robots.txt （RFC conformant） and nofollow directives"
+      },
+      {
+        "boundingBox": [
+          0.2669545934392167,
+          0.6634055891071435,
+          0.11307525634765625,
+          0.035002667965484235
+        ],
+        "confidence": 0.5,
+        "text": "• Polite crawl delay"
+      },
+      {
+        "boundingBox": [
+          0.2671252296206673,
+          0.6404952307904965,
+          0.1707636140522204,
+          0.030437230184069408
+        ],
+        "confidence": 0.5,
+        "text": "• Identification and verification"
+      },
+      {
+        "boundingBox": [
+          0.28609875905717,
+          0.6206271704678226,
+          0.1312655318410773,
+          0.02403632829110114
+        ],
+        "confidence": 0.5,
+        "text": "• User-agent request header："
+      },
+      {
+        "boundingBox": [
+          0.31807391844192084,
+          0.5936766431514707,
+          0.2024903468081825,
+          0.027489822289160748
+        ],
+        "confidence": 0.5,
+        "text": "cCBot/2.0 （https://comoncrawl.org/faq/）"
+      },
+      {
+        "boundingBox": [
+          0.28472980914966844,
+          0.5791785916348132,
+          0.16461316560444078,
+          0.02479250756576934
+        ],
+        "confidence": 0.5,
+        "text": "• IP addresses disclosed, reverse DNS"
+      },
+      {
+        "boundingBox": [
+          0.2628986934566658,
+          0.5536263383406879,
+          0.2256528673673931,
+          0.02979134985441645
+        ],
+        "confidence": 0.5,
+        "text": "• Slow down with exponential back-off on"
+      },
+      {
+        "boundingBox": [
+          0.28633721811079166,
+          0.5341328410576662,
+          0.2819767359683389,
+          0.023119066914069286
+        ],
+        "confidence": 0.5,
+        "text": "• HTTP 403,429, 430.406...（more 4xx）， 5xx and connection failures"
+      },
+      {
+        "boundingBox": [
+          0.26017441759080717,
+          0.5110701104597115,
+          0.19476743999280427,
+          0.02328103406842774
+        ],
+        "confidence": 0.5,
+        "text": "• Robots.txt HTTP response status"
+      },
+      {
+        "boundingBox": [
+          0.2819767455434326,
+          0.4907749078376238,
+          0.22238371196546053,
+          0.02067547354750965
+        ],
+        "confidence": 0.5,
+        "text": "• Disallow on HTTP 403, defer visits on 429 and 5xx"
+      },
+      {
+        "boundingBox": [
+          0.26017441826534055,
+          0.46309963063410164,
+          0.17151163201583058,
+          0.02583025830258301
+        ],
+        "confidence": 0.5,
+        "text": "• Stay away for two month for"
+      },
+      {
+        "boundingBox": [
+          0.28052326918568776,
+          0.4452926209650371,
+          0.32267439992804275,
+          0.017811704825651087
+        ],
+        "confidence": 0.5,
+        "text": "o Sites responding mostly （>98%） with HTTP 403,429,430,406,400,401.5xx"
+      },
+      {
+        "boundingBox": [
+          0.22819767378133884,
+          0.40203562341041776,
+          0.10029069599352383,
+          0.015267175062116167
+        ],
+        "confidence": 0.3,
+        "text": "IIPC GENERAL, ASSEMELY 2026"
+      },
+      {
+        "boundingBox": [
+          0.5784308365433983,
+          0.4015676408139266,
+          0.05970809534976351,
+          0.0238367288314989
+        ],
+        "confidence": 0.3,
+        "text": "KBR&ZUNG"
+      }
+    ],
+    "ocr_text": "CCBot - Common Crawl's Polite Web Crawler\n• Respects robots.txt （RFC conformant） and nofollow directives\n• Polite crawl delay\n• Identification and verification\n• User-agent request header：\ncCBot/2.0 （https://comoncrawl.org/faq/）\n• IP addresses disclosed, reverse DNS\n• Slow down with exponential back-off on\n• HTTP 403,429, 430.406...（more 4xx）， 5xx and connection failures\n• Robots.txt HTTP response status\n• Disallow on HTTP 403, defer visits on 429 and 5xx\n• Stay away for two month for\no Sites responding mostly （>98%） with HTTP 403,429,430,406,400,401.5xx\nIIPC GENERAL, ASSEMELY 2026\nKBR&ZUNG",
+    "description": "Common Crawl Contributions中的配图，包含文字：CCBot - Common Crawl's Polite Web Crawler；• Respects robots.txt （RFC conformant） and nofollow directives；• Polite crawl delay；• Identification and verification；• User-agent request header：；cCBot/2.0 （https://comoncrawl.org/faq/）；• IP addresses disclosed, reverse DNS；• Slow down with exponential back-off on；• HTTP 403,429, 430.406...（more 4xx）， 5xx and connection failures；• Robots.txt HTTP response status；• Disallow on HTTP 403, defer visits on 429 and 5xx；• Stay away for two month for；o Sites responding mostly （>98%） with HTTP 403,429,430,406,400,401.5xx；IIPC GENERAL, ASSEMELY 2026；KBR&ZUNG",
+    "entities": [
+      "CCBot - Common Crawl's Polite Web Crawler",
+      "• Respects robots.txt （RFC conformant） and nofollow directives",
+      "• Polite crawl delay",
+      "• Identification and verification",
+      "• User-agent request header：",
+      "cCBot/2.0 （https://comoncrawl.org/faq/）",
+      "• IP addresses disclosed, reverse DNS",
+      "• Slow down with exponential back-off on",
+      "• HTTP 403,429, 430.406...（more 4xx）， 5xx and connection failures",
+      "• Robots.txt HTTP response status",
+      "• Disallow on HTTP 403, defer visits on 429 and 5xx",
+      "• Stay away for two month for",
+      "o Sites responding mostly （>98%） with HTTP 403,429,430,406,400,401.5xx",
+      "IIPC GENERAL, ASSEMELY 2026",
+      "KBR&ZUNG"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "977d21dd86efe3a62fb658deb39d369b4d105510748c1ab938df90e0fb7578bc"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-007",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a29afcbc891a0c215fb9c70_image4.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-007.webp",
+    "section": "Common Crawl Contributions",
+    "alt": "A photograph of Laurie Burchell presenting CommonLID at Howest",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3706395437687363,
+          0.5454545462063264,
+          0.22819766235351557,
+          0.026101804163460196
+        ],
+        "confidence": 1,
+        "text": "https://www.arxiv.org/abs/2601.18026"
+      },
+      {
+        "boundingBox": [
+          0.29796511689696786,
+          0.5295169943512068,
+          0.04505813980102541,
+          0.01878354203935606
+        ],
+        "confidence": 0.3,
+        "text": "〕COMNON"
+      },
+      {
+        "boundingBox": [
+          0.3052325588458157,
+          0.5246753247807375,
+          0.029069766998291002,
+          0.010389610351944634
+        ],
+        "confidence": 0.3,
+        "text": "•CRAWL"
+      }
+    ],
+    "ocr_text": "https://www.arxiv.org/abs/2601.18026\n〕COMNON\n•CRAWL",
+    "description": "Common Crawl Contributions中的配图，包含文字：https://www.arxiv.org/abs/2601.18026；〕COMNON；•CRAWL",
+    "entities": [
+      "https://www.arxiv.org/abs/2601.18026",
+      "〕COMNON",
+      "•CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b017b5d4fd0a70c92fec2c07b0379f2301da83bd3ff826f75a5da3f48f9fe00b"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-008",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a29b05c61a8330fb8eedb75_image5.webp",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-008.webp",
+    "section": "Common Crawl Contributions",
+    "alt": "A photograph of the closing panel: Web Archiving for Accountability, Shown from left to right: Emily Tripp, Marvin Milatz, Friedhelm Weinberg, Basile Simon",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4084302324332304,
+          0.7730061347198307,
+          0.12354650878906259,
+          0.018404908321074775
+        ],
+        "confidence": 1,
+        "text": "Web Archiving for Accountability："
+      },
+      {
+        "boundingBox": [
+          0.4084302457674243,
+          0.7605485232397773,
+          0.11337207794189458,
+          0.009493670886076
+        ],
+        "confidence": 0.3,
+        "text": "New rrontiers in open Source Intelliqence"
+      },
+      {
+        "boundingBox": [
+          0.40843023916278187,
+          0.7453987735760983,
+          0.05668603897094726,
+          0.009202453154551815
+        ],
+        "confidence": 0.3,
+        "text": "and Digital cviaence"
+      },
+      {
+        "boundingBox": [
+          0.40697674607525014,
+          0.683544304294706,
+          0.09738372039794929,
+          0.01898734177215189
+        ],
+        "confidence": 0.3,
+        "text": "Emily Tripp •emilytnpp@ainwars.org"
+      },
+      {
+        "boundingBox": [
+          0.4069767533616172,
+          0.7024539883000247,
+          0.09302324676513674,
+          0.009571327941830132
+        ],
+        "confidence": 0.3,
+        "text": "Basile Simon • basile@stanlord edu"
+      },
+      {
+        "boundingBox": [
+          0.40843024352502105,
+          0.6748466263368345,
+          0.10756975555419929,
+          0.009202453154551815
+        ],
+        "confidence": 0.3,
+        "text": "Marvin Milatz• mamvn.milatz（aspieqe de|"
+      },
+      {
+        "boundingBox": [
+          0.4069767555974911,
+          0.6592827003438767,
+          0.12354650115966798,
+          0.009493670886075889
+        ],
+        "confidence": 0.3,
+        "text": "rheaneii weinoerg *henem@mnelonc.org"
+      }
+    ],
+    "ocr_text": "Web Archiving for Accountability：\nNew rrontiers in open Source Intelliqence\nand Digital cviaence\nEmily Tripp •emilytnpp@ainwars.org\nBasile Simon • basile@stanlord edu\nMarvin Milatz• mamvn.milatz（aspieqe de|\nrheaneii weinoerg *henem@mnelonc.org",
+    "description": "Common Crawl Contributions中的配图，包含文字：Web Archiving for Accountability：；New rrontiers in open Source Intelliqence；and Digital cviaence；Emily Tripp •emilytnpp@ainwars.org；Basile Simon • basile@stanlord edu；Marvin Milatz• mamvn.milatz（aspieqe de|；rheaneii weinoerg *henem@mnelonc.org",
+    "entities": [
+      "Web Archiving for Accountability：",
+      "New rrontiers in open Source Intelliqence",
+      "and Digital cviaence",
+      "Emily Tripp •emilytnpp@ainwars.org",
+      "Basile Simon • basile@stanlord edu",
+      "Marvin Milatz• mamvn.milatz（aspieqe de|",
+      "rheaneii weinoerg *henem@mnelonc.org"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c484673ab9216e34f401965e3a77df5623f1feda4bccc79195fa93e85aebfc38"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-009",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-009.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-010",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-011",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849-fig-012",
+    "doc_id": "2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2303-https-commoncrawl-org-blog-common-crawl-foundati-081f2849/figure-012.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

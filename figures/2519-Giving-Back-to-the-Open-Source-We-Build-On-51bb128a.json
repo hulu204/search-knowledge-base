@@ -1,0 +1,173 @@
+[
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-001",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab18a205900641b8224400f_AsOf%20Hero.png",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-001.png",
+    "section": "Giving Back to the Open Source We Build On",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11046511903861099,
+          0.868365179552253,
+          0.1380813908919193,
+          0.0491605928749036
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Giving Back to the Open Source We Build On中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c0d053a185c7bb804ae9391f3108a2e870a57d92323dbb2ddb93324cbe0a4f16"
+  },
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-002",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760beb_xuanwo.avif",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-002.avif",
+    "section": "**Why we contribute upstream**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Why we contribute upstream**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b7a4fab2caa87dcc4eebdd6ac49d2649d79f83d1bdb1499759fd7cdced85704d"
+  },
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-003",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab18c0501c69f065c732902_headshot.jpeg",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-003.jpg",
+    "section": "**Why we contribute upstream**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Why we contribute upstream**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "421c9dcc920ec46319152cad04eab491fa9b0e01743c437b358b891c0a61b205"
+  },
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-004",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19b007eb4bab4e23c5b8f_Pretraining%20hero%20compressed.webp",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-004.webp",
+    "section": "**Why we contribute upstream**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08280439369627401,
+          0.893920105573921,
+          0.10474005156156549,
+          0.036902059162245204
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "**Why we contribute upstream**中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0c5e9ee8387e8e8b12e34a8e4fba40449010ebbbb6ee22d6fa276464d1bf07cb"
+  },
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-005",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a97ce425af87a267ae9457f_Data%20Mining.webp",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-005.webp",
+    "section": "A Practical LLM Pretraining Pipeline with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07700556581809759,
+          0.9043907873052884,
+          0.11052375318901389,
+          0.041733889569649074
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical LLM Pretraining Pipeline with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "60c5448333c006a5b8d6bce301db8cffcfe0e81c4741b7f04b5f7d0efb06bd8e"
+  },
+  {
+    "figure_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a-fig-006",
+    "doc_id": "2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aa0a327dc321837a8916888_august%20blog%20hero.webp",
+    "image_path": "images/2519-Giving-Back-to-the-Open-Source-We-Build-On-51bb128a/figure-006.webp",
+    "section": "Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1860465067185513,
+          0.5037037067047023,
+          0.6279069900512696,
+          0.17329887813991962
+        ],
+        "confidence": 0.5,
+        "text": "August 2026"
+      },
+      {
+        "boundingBox": [
+          0.32122093568761073,
+          0.28940568344860096,
+          0.3924418449401856,
+          0.07751938148781101
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "August 2026\n•LanceDB Newsletter",
+    "description": "Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI中的配图，包含文字：August 2026；•LanceDB Newsletter",
+    "entities": [
+      "August 2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "46dc0d829093c50c8ed2c76017513964bd6ffb8c6c6ed89ff8170b7967285545"
+  }
+]

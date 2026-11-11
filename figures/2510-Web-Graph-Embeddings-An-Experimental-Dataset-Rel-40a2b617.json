@@ -1,0 +1,774 @@
+[
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-001",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-002",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-002.webp",
+    "section": "Web Graph Embeddings: An Experimental Dataset Release",
+    "alt": "Malte Ostendorff",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Web Graph Embeddings: An Experimental Dataset Release中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-003",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-003.webp",
+    "section": "Web Graph Embeddings: An Experimental Dataset Release",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Web Graph Embeddings: An Experimental Dataset Release中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-004",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a9ee9b886527214d0f28a1c_image1.webp",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-004.webp",
+    "section": "What a graph embedding is",
+    "alt": "A diagram explaining the conversion from Web link graph into an embedding space.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.12209302445642017,
+          0.8991507425993427,
+          0.19767441818018278,
+          0.05445750453163367
+        ],
+        "confidence": 0.5,
+        "text": "Web link graph"
+      },
+      {
+        "boundingBox": [
+          0.6500000083425225,
+          0.8959660296362422,
+          0.23749998539828798,
+          0.059589523671792155
+        ],
+        "confidence": 1,
+        "text": "Embedding space"
+      },
+      {
+        "boundingBox": [
+          0.38953488945463804,
+          0.6210191087068408,
+          0.17296510906310741,
+          0.03397027499609939
+        ],
+        "confidence": 1,
+        "text": "representation learning"
+      },
+      {
+        "boundingBox": [
+          0.6438953489966915,
+          0.5567010324130912,
+          0.0348837204527056,
+          0.06958762652808193
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      }
+    ],
+    "ocr_text": "Web link graph\nEmbedding space\nrepresentation learning\n•",
+    "description": "What a graph embedding is中的配图，包含文字：Web link graph；Embedding space；representation learning；•",
+    "entities": [
+      "Web link graph",
+      "Embedding space",
+      "representation learning",
+      "•"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0367f8af0bfc44b6d32deeb174bba57619ec3d112cfb8fc13e80c697dc1b1cb3"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-005",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a9eea04fffe0fc982633a3d_image2.webp",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-005.webp",
+    "section": "Explore it in your browser",
+    "alt": "A screenshot of the interactive 2D viewer of the graph embeddings.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.882267445975039,
+          0.9530791797647714,
+          0.07122092437744132,
+          0.017627891386398198
+        ],
+        "confidence": 0.5,
+        "text": "38,391 selected"
+      },
+      {
+        "boundingBox": [
+          0.018895349277258562,
+          0.9413489734446703,
+          0.10610465240478517,
+          0.017595308477228344
+        ],
+        "confidence": 0.5,
+        "text": "Web graph embeddings"
+      },
+      {
+        "boundingBox": [
+          0.15406976816172044,
+          0.9413489745106169,
+          0.024709300994873062,
+          0.017595306550613588
+        ],
+        "confidence": 1,
+        "text": "52.9M"
+      },
+      {
+        "boundingBox": [
+          0.018895346719999127,
+          0.9000000003250714,
+          0.14098837280273435,
+          0.021212121212121127
+        ],
+        "confidence": 0.5,
+        "text": "The full-CC link prediction embeddings."
+      },
+      {
+        "boundingBox": [
+          0.017441863324873665,
+          0.8797653963825622,
+          0.1584302215576172,
+          0.017595306550613588
+        ],
+        "confidence": 0.5,
+        "text": "projected to 2D and streamed by tile. Based"
+      },
+      {
+        "boundingBox": [
+          0.017441863113474197,
+          0.8563049861186326,
+          0.1482558135986328,
+          0.017595306550613588
+        ],
+        "confidence": 0.5,
+        "text": "on cc-main-2025-26-nov-dec-jan. Hosts"
+      },
+      {
+        "boundingBox": [
+          0.017441865093946844,
+          0.8353535357710882,
+          0.15116278076171874,
+          0.018181818181818188
+        ],
+        "confidence": 0.5,
+        "text": "with degree >= 8.Colors by a property the"
+      },
+      {
+        "boundingBox": [
+          0.017441862018934117,
+          0.815151515060556,
+          0.06395348739624022,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "model never saw."
+      },
+      {
+        "boundingBox": [
+          0.018895349759677615,
+          0.7737373740100479,
+          0.052325580596923826,
+          0.018181818181818188
+        ],
+        "confidence": 0.3,
+        "text": "COLOR BY ？"
+      },
+      {
+        "boundingBox": [
+          0.023255813575506372,
+          0.739002932852282,
+          0.02180232620239258,
+          0.014662756101049612
+        ],
+        "confidence": 1,
+        "text": "topic"
+      },
+      {
+        "boundingBox": [
+          0.10319767358710712,
+          0.7360703818175574,
+          0.03924418640136719,
+          0.017595306550613588
+        ],
+        "confidence": 0.5,
+        "text": "language"
+      },
+      {
+        "boundingBox": [
+          0.02325581418074971,
+          0.6919191915993907,
+          0.027616277694702148,
+          0.018181818181818188
+        ],
+        "confidence": 1,
+        "text": "quality"
+      },
+      {
+        "boundingBox": [
+          0.10465116337585448,
+          0.6919191919415217,
+          0.02906976699829103,
+          0.018181818181818188
+        ],
+        "confidence": 1,
+        "text": "degree"
+      },
+      {
+        "boundingBox": [
+          0.01744186106122632,
+          0.6480938420326111,
+          0.08866278839111329,
+          0.017595306550613476
+        ],
+        "confidence": 0.5,
+        "text": "FIND A TOP-20K HOST"
+      },
+      {
+        "boundingBox": [
+          0.026162795094760584,
+          0.6070381238507929,
+          0.08284883117675781,
+          0.017595306550613588
+        ],
+        "confidence": 0.5,
+        "text": "search hostname.."
+      },
+      {
+        "boundingBox": [
+          0.015988371889700488,
+          0.3636363634277432,
+          0.04505813980102539,
+          0.015151515151515249
+        ],
+        "confidence": 1,
+        "text": "LANGUAGE"
+      },
+      {
+        "boundingBox": [
+          0.021802326128582607,
+          0.32525252536807836,
+          0.050872093200683595,
+          0.018181818181818188
+        ],
+        "confidence": 0.5,
+        "text": "• eng 15.5M"
+      },
+      {
+        "boundingBox": [
+          0.029069767284233633,
+          0.29595959579743125,
+          0.01744186019897461,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "zho"
+      },
+      {
+        "boundingBox": [
+          0.055232558490628976,
+          0.29595959605402944,
+          0.01744186019897461,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "5.5M"
+      },
+      {
+        "boundingBox": [
+          0.5159883743379245,
+          0.2959595959215259,
+          0.10029069519042977,
+          0.023688497447004297
+        ],
+        "confidence": 1,
+        "text": "duckduckgo.github.io"
+      },
+      {
+        "boundingBox": [
+          0.5174418625305887,
+          0.27272727259423046,
+          0.0552325553894043,
+          0.01759530751392091
+        ],
+        "confidence": 1,
+        "text": "degree ~94k"
+      },
+      {
+        "boundingBox": [
+          0.03343023291127995,
+          0.2666666667644183,
+          0.014534883499145508,
+          0.012121212121212088
+        ],
+        "confidence": 1,
+        "text": "deu"
+      },
+      {
+        "boundingBox": [
+          0.05523255907545459,
+          0.2666666667644183,
+          0.018895347595214843,
+          0.012121212121212088
+        ],
+        "confidence": 0.5,
+        "text": "2.4M|"
+      },
+      {
+        "boundingBox": [
+          0.5173814045963627,
+          0.24863035140604395,
+          0.036458122253417935,
+          0.015935778377032084
+        ],
+        "confidence": 0.3,
+        "text": "topic -"
+      },
+      {
+        "boundingBox": [
+          0.031976744539186926,
+          0.23434343450333495,
+          0.014534883499145508,
+          0.0121212121212122
+        ],
+        "confidence": 0.5,
+        "text": "jpn"
+      },
+      {
+        "boundingBox": [
+          0.05523255907545459,
+          0.23434343450559925,
+          0.018895347595214843,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "2.2M"
+      },
+      {
+        "boundingBox": [
+          0.5174418619925423,
+          0.22287390013088726,
+          0.0595930213928223,
+          0.017595308477228344
+        ],
+        "confidence": 0.5,
+        "text": "language eng"
+      },
+      {
+        "boundingBox": [
+          0.031976744116276004,
+          0.20202020234453155,
+          0.013081395149230957,
+          0.018181818181818188
+        ],
+        "confidence": 1,
+        "text": "fra"
+      },
+      {
+        "boundingBox": [
+          0.05523255907545459,
+          0.20202020224451567,
+          0.018895347595214843,
+          0.015151515151515138
+        ],
+        "confidence": 0.3,
+        "text": "1.6M"
+      },
+      {
+        "boundingBox": [
+          0.5174418627266816,
+          0.1964809392466873,
+          0.0886627883911133,
+          0.017660475258875374
+        ],
+        "confidence": 1,
+        "text": "quality technology"
+      },
+      {
+        "boundingBox": [
+          0.031976744224264456,
+          0.17272727287914713,
+          0.014534883499145508,
+          0.012121212121212088
+        ],
+        "confidence": 0.5,
+        "text": "ruS"
+      },
+      {
+        "boundingBox": [
+          0.05523255899672398,
+          0.17272727288385514,
+          0.018895347595214843,
+          0.015151515151515138
+        ],
+        "confidence": 0.3,
+        "text": "1.4M"
+      },
+      {
+        "boundingBox": [
+          0.0218023262170481,
+          0.14040404017777475,
+          0.026162790298461913,
+          0.015151515151515138
+        ],
+        "confidence": 0.3,
+        "text": "• spa"
+      },
+      {
+        "boundingBox": [
+          0.05377907026183844,
+          0.14040404017777475,
+          0.02084592819213868,
+          0.015151515151515138
+        ],
+        "confidence": 0.3,
+        "text": "1.2M."
+      },
+      {
+        "boundingBox": [
+          0.030523255973295457,
+          0.11111111095152282,
+          0.014534883499145508,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "nld"
+      },
+      {
+        "boundingBox": [
+          0.05523255907545459,
+          0.10808080791669139,
+          0.018895347595214843,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "699k"
+      },
+      {
+        "boundingBox": [
+          0.05377907007351662,
+          0.07878787878108606,
+          0.018895347595214843,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "692k"
+      },
+      {
+        "boundingBox": [
+          0.031976744468558846,
+          0.04646464633160419,
+          0.011627906799316412,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "ita"
+      },
+      {
+        "boundingBox": [
+          0.05377907026183844,
+          0.04646464633160419,
+          0.02034883689880372,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "649k"
+      },
+      {
+        "boundingBox": [
+          0.7848837242830498,
+          0.029292929274229884,
+          0.1191860427856446,
+          0.015151515151515138
+        ],
+        "confidence": 0.5,
+        "text": "60 fps 10 tiles zoom 2.1x"
+      },
+      {
+        "boundingBox": [
+          0.9171511624559191,
+          0.02929292913167547,
+          0.02761627960205082,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "select"
+      },
+      {
+        "boundingBox": [
+          0.9622093029612342,
+          0.029292929237573095,
+          0.026162790298461913,
+          0.015151515151515138
+        ],
+        "confidence": 1,
+        "text": "reset"
+      }
+    ],
+    "ocr_text": "38,391 selected\nWeb graph embeddings\n52.9M\nThe full-CC link prediction embeddings.\nprojected to 2D and streamed by tile. Based\non cc-main-2025-26-nov-dec-jan. Hosts\nwith degree >= 8.Colors by a property the\nmodel never saw.\nCOLOR BY ？\ntopic\nlanguage\nquality\ndegree\nFIND A TOP-20K HOST\nsearch hostname..\nLANGUAGE\n• eng 15.5M\nzho\n5.5M\nduckduckgo.github.io\ndegree ~94k\ndeu\n2.4M|\ntopic -\njpn\n2.2M\nlanguage eng\nfra\n1.6M\nquality technology\nruS\n1.4M\n• spa\n1.2M.\nnld\n699k\n692k\nita\n649k\n60 fps 10 tiles zoom 2.1x\nselect\nreset",
+    "description": "Explore it in your browser中的配图，包含文字：38,391 selected；Web graph embeddings；52.9M；The full-CC link prediction embeddings.；projected to 2D and streamed by tile. Based；on cc-main-2025-26-nov-dec-jan. Hosts；with degree >= 8.Colors by a property the；model never saw.；COLOR BY ？；topic；language；quality；degree；FIND A TOP-20K HOST；search hostname..；LANGUAGE；• eng 15.5M；zho；5.5M；duckduckgo.github.io；degree ~94k；deu；2.4M|；topic -；jpn；2.2M；language eng；fra；1.6M；quality technology",
+    "entities": [
+      "38,391 selected",
+      "Web graph embeddings",
+      "52.9M",
+      "The full-CC link prediction embeddings.",
+      "projected to 2D and streamed by tile. Based",
+      "on cc-main-2025-26-nov-dec-jan. Hosts",
+      "with degree >= 8.Colors by a property the",
+      "model never saw.",
+      "COLOR BY ？",
+      "topic",
+      "language",
+      "quality",
+      "degree",
+      "FIND A TOP-20K HOST",
+      "search hostname..",
+      "LANGUAGE",
+      "• eng 15.5M",
+      "zho",
+      "5.5M",
+      "duckduckgo.github.io",
+      "degree ~94k",
+      "deu",
+      "2.4M|",
+      "topic -",
+      "jpn",
+      "2.2M",
+      "language eng",
+      "fra",
+      "1.6M",
+      "quality technology",
+      "ruS",
+      "1.4M",
+      "• spa",
+      "1.2M.",
+      "nld",
+      "699k",
+      "692k",
+      "ita",
+      "649k",
+      "60 fps 10 tiles zoom 2.1x",
+      "select",
+      "reset"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2f8dfb0c324309d61d6bad9acf03befa4c7d4de3c21c0b9a4aad28e670e3aea1"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-006",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-006.webp",
+    "section": "Your feedback is needed",
+    "alt": "Malte is a Senior Research Engineer at Common Crawl.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Your feedback is needed中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-007",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-008",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-009",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617-fig-010",
+    "doc_id": "2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2510-Web-Graph-Embeddings-An-Experimental-Dataset-Rel-40a2b617/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

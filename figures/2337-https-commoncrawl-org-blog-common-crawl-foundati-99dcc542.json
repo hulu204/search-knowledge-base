@@ -1,0 +1,2552 @@
+[
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-001",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-002",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/683610a5f112a5d4bbaf1ec8_6815de466a4de56d01e5a887_laurie2-p-800.webp",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-002.webp",
+    "section": "Common Crawl Foundation at ACL 2025",
+    "alt": "Laurie Burchell",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at ACL 2025中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d7a6e8c7de6acd5db525799560dc317e9ac6396ffb6fb2f10138513d40af8e40"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-003",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-003.webp",
+    "section": "Common Crawl Foundation at ACL 2025",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Common Crawl Foundation at ACL 2025中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-004",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689c379053f5484a246c4377_AD_4nXdEsoyhwhuGqm81PvjkBqUg09zXVSY4Rea-hRNWipKmviaS33SwdrPveDKoQGRrnIfO2MNDLM1IwoEr7JKnOaSZfmd7uqh3fTM83WRhIQxQo6wrPg13-j0vyWc5zBLD87T8moQZ7w.png",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-004.png",
+    "section": "Common Crawl Foundation at ACL 2025",
+    "alt": "Left to right: Malte Ostendorff, Laurie Burchell, and Pedro Ortiz Suarez at ACL 2025 in Vienna",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2833849919437858,
+          0.8408781503326576,
+          0.0495090866088867,
+          0.019794087409973127
+        ],
+        "confidence": 0.5,
+        "text": "DIAMOND"
+      },
+      {
+        "boundingBox": [
+          0.7848331555695982,
+          0.8349359000952805,
+          0.049519734382629466,
+          0.014236726760864293
+        ],
+        "confidence": 1,
+        "text": "PLATINUM"
+      },
+      {
+        "boundingBox": [
+          0.6613372088216062,
+          0.8058333333634866,
+          0.026162791252136164,
+          0.025833333333333375
+        ],
+        "confidence": 0.3,
+        "text": "（-］"
+      },
+      {
+        "boundingBox": [
+          0.2979651184693447,
+          0.7887596899625793,
+          0.09302325248718263,
+          0.029069766998291113
+        ],
+        "confidence": 0.5,
+        "text": "Linked in"
+      },
+      {
+        "boundingBox": [
+          0.44912790678550363,
+          0.8000000002070642,
+          0.02761627912521364,
+          0.017829456329345628
+        ],
+        "confidence": 0.5,
+        "text": "ANT"
+      },
+      {
+        "boundingBox": [
+          0.4491141594735616,
+          0.7848203706407526,
+          0.045085635185241724,
+          0.01756856123606365
+        ],
+        "confidence": 1,
+        "text": "GROUP"
+      },
+      {
+        "boundingBox": [
+          0.5072674446855885,
+          0.7829457365079491,
+          0.11627906799316401,
+          0.011627906958262102
+        ],
+        "confidence": 0.5,
+        "text": "CITADEL| CITADEL Securities"
+      },
+      {
+        "boundingBox": [
+          0.6380697066741001,
+          0.7828604752855346,
+          0.07124430656433112,
+          0.017612382570902474
+        ],
+        "confidence": 0.5,
+        "text": "Alibaba Cloud"
+      },
+      {
+        "boundingBox": [
+          0.797887892981889,
+          0.7862274274869994,
+          0.0815497970581055,
+          0.020568401018778548
+        ],
+        "confidence": 0.3,
+        "text": "Ind Byte Dance"
+      },
+      {
+        "boundingBox": [
+          0.962209302789351,
+          0.7771317830518767,
+          0.034883720874786306,
+          0.012034883499145499
+        ],
+        "confidence": 0.5,
+        "text": "HUAWE！"
+      },
+      {
+        "boundingBox": [
+          0.29069767482102266,
+          0.7364341086102133,
+          0.11482558250427244,
+          0.023565891583760656
+        ],
+        "confidence": 1,
+        "text": "Google Research"
+      },
+      {
+        "boundingBox": [
+          0.42151162883451593,
+          0.7364341085940634,
+          0.06976744174957272,
+          0.023565891583760545
+        ],
+        "confidence": 0.5,
+        "text": "XMeta"
+      },
+      {
+        "boundingBox": [
+          0.5086348852129747,
+          0.7319528467250427,
+          0.09755580902099603,
+          0.026404383977254198
+        ],
+        "confidence": 1,
+        "text": "Bloomberg"
+      },
+      {
+        "boundingBox": [
+          0.6249261695273997,
+          0.7340257993363983,
+          0.088810453414917,
+          0.026134448051452597
+        ],
+        "confidence": 0.3,
+        "text": "8cohere"
+      },
+      {
+        "boundingBox": [
+          0.7354651160677799,
+          0.7403100775089779,
+          0.013081395626068026,
+          0.017441860834757517
+        ],
+        "confidence": 0.3,
+        "text": "m"
+      },
+      {
+        "boundingBox": [
+          0.7965116311568008,
+          0.7341666663763404,
+          0.10319766998291013,
+          0.020000000000000018
+        ],
+        "confidence": 0.5,
+        "text": "amazon | science"
+      },
+      {
+        "boundingBox": [
+          0.9330640405483333,
+          0.7359278987052973,
+          0.06410447597503655,
+          0.018454279899597248
+        ],
+        "confidence": 0.3,
+        "text": "snowflake\""
+      },
+      {
+        "boundingBox": [
+          0.4127907021289205,
+          0.5908333332032314,
+          0.22674417495727545,
+          0.0508333333333334
+        ],
+        "confidence": 0.5,
+        "text": "ACL 2025"
+      },
+      {
+        "boundingBox": [
+          0.6467645868176899,
+          0.621827864484515,
+          0.07565687179565428,
+          0.01991016228993736
+        ],
+        "confidence": 0.5,
+        "text": "The 63rd"
+      },
+      {
+        "boundingBox": [
+          0.7732558169037219,
+          0.6199999997974248,
+          0.08430232048034669,
+          0.025348837375640754
+        ],
+        "confidence": 0.3,
+        "text": "Meeting"
+      },
+      {
+        "boundingBox": [
+          0.6453488373212628,
+          0.5966666664547575,
+          0.05087209224700917,
+          0.021666666666666723
+        ],
+        "confidence": 0.5,
+        "text": "of the"
+      },
+      {
+        "boundingBox": [
+          0.7892441857929637,
+          0.6007751944921615,
+          0.04069767475128172,
+          0.021724805831909055
+        ],
+        "confidence": 0.3,
+        "text": "B for"
+      },
+      {
+        "boundingBox": [
+          0.1626403366274367,
+          0.5530272665774886,
+          0.027741580009460448,
+          0.04888398647308356
+        ],
+        "confidence": 0.3,
+        "text": "裂染"
+      },
+      {
+        "boundingBox": [
+          0.41678219102956865,
+          0.5477285772842226,
+          0.22332351684570312,
+          0.048250436782836914
+        ],
+        "confidence": 0.3,
+        "text": "YIENNG"
+      },
+      {
+        "boundingBox": [
+          0.6395348826604409,
+          0.5733333332170543,
+          0.045058140754699716,
+          0.020000000000000018
+        ],
+        "confidence": 1,
+        "text": "Com"
+      },
+      {
+        "boundingBox": [
+          0.81474947644856,
+          0.578107209357572,
+          0.04750495433807378,
+          0.019300257364908924
+        ],
+        "confidence": 0.3,
+        "text": "stics"
+      },
+      {
+        "boundingBox": [
+          0.4575025491991812,
+          0.5170920161289414,
+          0.1853683090209961,
+          0.03400001525878893
+        ],
+        "confidence": 0.3,
+        "text": "JULY 27 - AUGUST 1"
+      },
+      {
+        "boundingBox": [
+          0.6409883725318909,
+          0.36046511638520995,
+          0.02180232524871828,
+          0.012034883499145499
+        ],
+        "confidence": 0.3,
+        "text": "MM"
+      }
+    ],
+    "ocr_text": "DIAMOND\nPLATINUM\n（-］\nLinked in\nANT\nGROUP\nCITADEL| CITADEL Securities\nAlibaba Cloud\nInd Byte Dance\nHUAWE！\nGoogle Research\nXMeta\nBloomberg\n8cohere\nm\namazon | science\nsnowflake\"\nACL 2025\nThe 63rd\nMeeting\nof the\nB for\n裂染\nYIENNG\nCom\nstics\nJULY 27 - AUGUST 1\nMM",
+    "description": "Common Crawl Foundation at ACL 2025中的配图，包含文字：DIAMOND；PLATINUM；（-］；Linked in；ANT；GROUP；CITADEL| CITADEL Securities；Alibaba Cloud；Ind Byte Dance；HUAWE！；Google Research；XMeta；Bloomberg；8cohere；m；amazon | science；snowflake\"；ACL 2025；The 63rd；Meeting；of the；B for；裂染；YIENNG；Com；stics；JULY 27 - AUGUST 1；MM",
+    "entities": [
+      "DIAMOND",
+      "PLATINUM",
+      "（-］",
+      "Linked in",
+      "ANT",
+      "GROUP",
+      "CITADEL| CITADEL Securities",
+      "Alibaba Cloud",
+      "Ind Byte Dance",
+      "HUAWE！",
+      "Google Research",
+      "XMeta",
+      "Bloomberg",
+      "8cohere",
+      "m",
+      "amazon | science",
+      "snowflake\"",
+      "ACL 2025",
+      "The 63rd",
+      "Meeting",
+      "of the",
+      "B for",
+      "裂染",
+      "YIENNG",
+      "Com",
+      "stics",
+      "JULY 27 - AUGUST 1",
+      "MM"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0b5b03c4acd39d0a584cc4483bc54084b5a0b244506fe31f471f8b3c47b22198"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-005",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689c379053f5484a246c4373_AD_4nXcbp0nxqS6-zfvrRzcTdD412-0Fru-7wrymBLExvtOR1lcfaOfi-hUgXAfAP2UBut_4Aql2RKyZPvH1CSGVaXJkzBBzyHGhnE4eQUSrzjU1HAIVhm0IbbXpfK5UqVVrtkRWUCLprQ.png",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-005.png",
+    "section": "Research With and By Common Crawl",
+    "alt": "Laurie Burchell with a poster on HPLT v2",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3402697490810691,
+          0.7865125248109951,
+          0.11846499125162763,
+          0.05891136646270756
+        ],
+        "confidence": 0.3,
+        "text": "™388"
+      },
+      {
+        "boundingBox": [
+          0.26654296156586194,
+          0.7239394802366497,
+          0.3411654408772787,
+          0.0682897210121155
+        ],
+        "confidence": 0.3,
+        "text": "HRLTR isa massive open corpus of"
+      },
+      {
+        "boundingBox": [
+          0.26900171708913284,
+          0.7064870920594445,
+          0.31202290852864584,
+          0.047355887889862
+        ],
+        "confidence": 0.5,
+        "text": "high quality textual training data，"
+      },
+      {
+        "boundingBox": [
+          0.2732558185977275,
+          0.6860465115686993,
+          0.19573642730712887,
+          0.02645348787307733
+        ],
+        "confidence": 0.5,
+        "text": "covering 193 languages."
+      },
+      {
+        "boundingBox": [
+          0.2768517560173193,
+          0.6623253388564133,
+          0.258408686319987,
+          0.016124354600906332
+        ],
+        "confidence": 0.3,
+        "text": "Betiggound: Trairing sake of-the-art large language models requires vast amounts of"
+      },
+      {
+        "boundingBox": [
+          0.2771317905267443,
+          0.6555232558450432,
+          0.25968991597493496,
+          0.010174418687820541
+        ],
+        "confidence": 0.3,
+        "text": "testual dsta. Honever, there is a lack cf the open multilingual datasets we need for r"
+      },
+      {
+        "boundingBox": [
+          0.27903443342235534,
+          0.6364781091598716,
+          0.07565206527709961,
+          0.010474014282226496
+        ],
+        "confidence": 0.3,
+        "text": "The HPLT W. datasets"
+      },
+      {
+        "boundingBox": [
+          0.41666666513782596,
+          0.632267441678245,
+          0.10852713267008468,
+          0.013357558250427282
+        ],
+        "confidence": 1,
+        "text": "Construction pipeline"
+      },
+      {
+        "boundingBox": [
+          0.2805148006800882,
+          0.6217341822277955,
+          0.12303543090820312,
+          0.013146639466285803
+        ],
+        "confidence": 0.3,
+        "text": "20TB of dean dea, permissive CCO license"
+      },
+      {
+        "boundingBox": [
+          0.1763565894822961,
+          0.6162499999810227,
+          0.025193797747294105,
+          0.007500000000000062
+        ],
+        "confidence": 0.3,
+        "text": "Winit"
+      },
+      {
+        "boundingBox": [
+          0.2784733210841014,
+          0.6092380299806524,
+          0.12332148234049478,
+          0.014491108655929619
+        ],
+        "confidence": 0.3,
+        "text": "• Horclingot：& rrlin thens, 193 angwees"
+      },
+      {
+        "boundingBox": [
+          0.4202569653063346,
+          0.6202409826312671,
+          0.1071036020914713,
+          0.010718229413032576
+        ],
+        "confidence": 0.5,
+        "text": "Source: 4.5P8 web crawldata"
+      },
+      {
+        "boundingBox": [
+          0.28015275629304115,
+          0.5896802323002207,
+          0.1159712727864583,
+          0.016082422733306845
+        ],
+        "confidence": 0.3,
+        "text": "• DoteLT v:4wdss, 5 angutg6XEn"
+      },
+      {
+        "boundingBox": [
+          0.2802509035361575,
+          0.5998400284299188,
+          0.10610294342041016,
+          0.014801502227783203
+        ],
+        "confidence": 0.3,
+        "text": "•Pealet: s0l pain, 50 nganga KEn"
+      },
+      {
+        "boundingBox": [
+          0.42054263850771084,
+          0.61046511626171,
+          0.09108526865641281,
+          0.01017441868782043
+        ],
+        "confidence": 0.3,
+        "text": "（3：.7 from IA, 0.8 from CC）"
+      },
+      {
+        "boundingBox": [
+          0.42006816236652195,
+          0.5904621090056874,
+          0.11927960713704427,
+          0.0138382112979889
+        ],
+        "confidence": 0.5,
+        "text": "text collection extracted from IA."
+      },
+      {
+        "boundingBox": [
+          0.42248062152025484,
+          0.6017441859807022,
+          0.10852713267008457,
+          0.010174418687820319
+        ],
+        "confidence": 0.5,
+        "text": "+1 HPLT is the only large-scale"
+      },
+      {
+        "boundingBox": [
+          0.2802325555274126,
+          0.5794747832655052,
+          0.12567721048990887,
+          0.01767703354358674
+        ],
+        "confidence": 0.3,
+        "text": "•yUtHPU v2. 16.7B toers, 1275 lang, pirs"
+      },
+      {
+        "boundingBox": [
+          0.038759690864188394,
+          0.5493750001316189,
+          0.03875968933105469,
+          0.005857557952404058
+        ],
+        "confidence": 0.3,
+        "text": "chnolosiex"
+      },
+      {
+        "boundingBox": [
+          0.2986673467467213,
+          0.48417898844748974,
+          0.10799428304036457,
+          0.025490310192108123
+        ],
+        "confidence": 0.3,
+        "text": "stee.dbc.bpiNrordrgacewscnpn"
+      },
+      {
+        "boundingBox": [
+          0.2883085448388237,
+          0.45016679395297343,
+          0.21788029988606766,
+          0.04855127811431892
+        ],
+        "confidence": 0.3,
+        "text": "Frzlysis and evaluation: demonstrating quality （much mor"
+      },
+      {
+        "boundingBox": [
+          0.2903556774304791,
+          0.4659712712454389,
+          0.0625855000813802,
+          0.019750343561172556
+        ],
+        "confidence": 0.3,
+        "text": "Keval boa kitpettion"
+      },
+      {
+        "boundingBox": [
+          0.29058797808578923,
+          0.4545853448016578,
+          0.06797571818033854,
+          0.022323387861251875
+        ],
+        "confidence": 0.3,
+        "text": "we msestes 50 reaks"
+      },
+      {
+        "boundingBox": [
+          0.29083934698888697,
+          0.44735565182292814,
+          0.06611334482828779,
+          0.02094025850296022
+        ],
+        "confidence": 0.3,
+        "text": "weses 6ocatets in22"
+      },
+      {
+        "boundingBox": [
+          0.36639307135899624,
+          0.4420314642794032,
+          0.11240309397379561,
+          0.029411764144897545
+        ],
+        "confidence": 0.3,
+        "text": "NL uasks and large generattve LHs"
+      },
+      {
+        "boundingBox": [
+          0.2900743095558285,
+          0.42916790093869384,
+          0.07073643366495769,
+          0.023223412036895708
+        ],
+        "confidence": 0.3,
+        "text": "•att ooregahic.csnest."
+      },
+      {
+        "boundingBox": [
+          0.29031008077711346,
+          0.41598837229698693,
+          0.05717053731282551,
+          0.021656975746154772
+        ],
+        "confidence": 0.3,
+        "text": "•'thutausd.tet"
+      },
+      {
+        "boundingBox": [
+          0.3162604021840677,
+          0.33471012629099084,
+          0.17173305511474607,
+          0.05585077285766593
+        ],
+        "confidence": 0.3,
+        "text": "wase Mtsingal. Datwet （o Wien-Perlormance L"
+      },
+      {
+        "boundingBox": [
+          0.36879845237926956,
+          0.355959304732978,
+          0.10872091929117839,
+          0.03531976580619811
+        ],
+        "confidence": 0.3,
+        "text": "s HaAU vt: cxeettive and suablee"
+      }
+    ],
+    "ocr_text": "™388\nHRLTR isa massive open corpus of\nhigh quality textual training data，\ncovering 193 languages.\nBetiggound: Trairing sake of-the-art large language models requires vast amounts of\ntestual dsta. Honever, there is a lack cf the open multilingual datasets we need for r\nThe HPLT W. datasets\nConstruction pipeline\n20TB of dean dea, permissive CCO license\nWinit\n• Horclingot：& rrlin thens, 193 angwees\nSource: 4.5P8 web crawldata\n• DoteLT v:4wdss, 5 angutg6XEn\n•Pealet: s0l pain, 50 nganga KEn\n（3：.7 from IA, 0.8 from CC）\ntext collection extracted from IA.\n+1 HPLT is the only large-scale\n•yUtHPU v2. 16.7B toers, 1275 lang, pirs\nchnolosiex\nstee.dbc.bpiNrordrgacewscnpn\nFrzlysis and evaluation: demonstrating quality （much mor\nKeval boa kitpettion\nwe msestes 50 reaks\nweses 6ocatets in22\nNL uasks and large generattve LHs\n•att ooregahic.csnest.\n•'thutausd.tet\nwase Mtsingal. Datwet （o Wien-Perlormance L\ns HaAU vt: cxeettive and suablee",
+    "description": "Research With and By Common Crawl中的配图，包含文字：™388；HRLTR isa massive open corpus of；high quality textual training data，；covering 193 languages.；Betiggound: Trairing sake of-the-art large language models requires vast amounts of；testual dsta. Honever, there is a lack cf the open multilingual datasets we need for r；The HPLT W. datasets；Construction pipeline；20TB of dean dea, permissive CCO license；Winit；• Horclingot：& rrlin thens, 193 angwees；Source: 4.5P8 web crawldata；• DoteLT v:4wdss, 5 angutg6XEn；•Pealet: s0l pain, 50 nganga KEn；（3：.7 from IA, 0.8 from CC）；text collection extracted from IA.；+1 HPLT is the only large-scale；•yUtHPU v2. 16.7B toers, 1275 lang, pirs；chnolosiex；stee.dbc.bpiNrordrgacewscnpn；Frzlysis and evaluation: demonstrating quality （much mor；Keval boa kitpettion；we msestes 50 reaks；weses 6ocatets in22；NL uasks and large generattve LHs；•att ooregahic.csnest.；•'thutausd.tet；wase Mtsingal. Datwet （o Wien-Perlormance L；s HaAU vt: cxeettive and suablee",
+    "entities": [
+      "™388",
+      "HRLTR isa massive open corpus of",
+      "high quality textual training data，",
+      "covering 193 languages.",
+      "Betiggound: Trairing sake of-the-art large language models requires vast amounts of",
+      "testual dsta. Honever, there is a lack cf the open multilingual datasets we need for r",
+      "The HPLT W. datasets",
+      "Construction pipeline",
+      "20TB of dean dea, permissive CCO license",
+      "Winit",
+      "• Horclingot：& rrlin thens, 193 angwees",
+      "Source: 4.5P8 web crawldata",
+      "• DoteLT v:4wdss, 5 angutg6XEn",
+      "•Pealet: s0l pain, 50 nganga KEn",
+      "（3：.7 from IA, 0.8 from CC）",
+      "text collection extracted from IA.",
+      "+1 HPLT is the only large-scale",
+      "•yUtHPU v2. 16.7B toers, 1275 lang, pirs",
+      "chnolosiex",
+      "stee.dbc.bpiNrordrgacewscnpn",
+      "Frzlysis and evaluation: demonstrating quality （much mor",
+      "Keval boa kitpettion",
+      "we msestes 50 reaks",
+      "weses 6ocatets in22",
+      "NL uasks and large generattve LHs",
+      "•att ooregahic.csnest.",
+      "•'thutausd.tet",
+      "wase Mtsingal. Datwet （o Wien-Perlormance L",
+      "s HaAU vt: cxeettive and suablee"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "470aaed4256ecdb208fe1ec1fc6c8419122e860092788df467e137777d48be8b"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-006",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689c378f53f5484a246c435b_AD_4nXeBmmKu64OQ5OeANRnnXA8KoJKfJiWssQug5XwvbwqU_28dt5rzS4d0KFc-7aPZ6C-CMTyUMP6nHH0n_5GmzhNkD0zbfVtrG2DI19p2QCv9iLL4GFBFbWXQ2ypH29DHjkdsKBCfPg.png",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-006.png",
+    "section": "Research With and By Common Crawl",
+    "alt": "Pedro Ortiz Suarez with a poster on mOSCAR",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2751937994965352,
+          0.726744185809048,
+          0.11046511332194009,
+          0.03950581431388844
+        ],
+        "confidence": 1,
+        "text": "355"
+      },
+      {
+        "boundingBox": [
+          0.4340971576948245,
+          0.7615979659825908,
+          0.0407204119364421,
+          0.008780812025070195
+        ],
+        "confidence": 0.3,
+        "text": "白上 丁"
+      },
+      {
+        "boundingBox": [
+          0.0770597920032911,
+          0.6841094381387957,
+          0.4931509399414062,
+          0.026839778423309313
+        ],
+        "confidence": 0.5,
+        "text": "MOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus"
+      },
+      {
+        "boundingBox": [
+          0.07907716142339324,
+          0.6713332196885746,
+          0.489380137125651,
+          0.026690702438354474
+        ],
+        "confidence": 0.3,
+        "text": "Matthieu Futeral' 2, Armel Zebaze'^， Pedro Ortiz Suarezf, Julien Abadj'， Remi Lacroix6, Cordelia Schmid”2"
+      },
+      {
+        "boundingBox": [
+          0.13324288106961782,
+          0.6510532967539584,
+          0.3865663401285808,
+          0.02107236027717585
+        ],
+        "confidence": 0.5,
+        "text": "^ Inria Paris 2 Departement dinformatique de IENS, CNRS, PSL Research Universily"
+      },
+      {
+        "boundingBox": [
+          0.25930094406189785,
+          0.666553886655807,
+          0.1460048039754232,
+          0.013076215982437134
+        ],
+        "confidence": 0.5,
+        "text": "Rachel Bawden, Benoit Sagot\""
+      },
+      {
+        "boundingBox": [
+          0.1448861539550281,
+          0.6403972287617583,
+          0.3651800537109374,
+          0.019690956473350507
+        ],
+        "confidence": 0.5,
+        "text": "3Institut du developpement et des ressources en informatique scientifique, CNRS"
+      },
+      {
+        "boundingBox": [
+          0.11783965691238839,
+          0.6291580033375177,
+          0.41935498555501305,
+          0.020658926963806223
+        ],
+        "confidence": 0.5,
+        "text": "4Sorbonne Universite, Paris, France 9Common Crawl Foundation GUniversite Paris Saday"
+      },
+      {
+        "boundingBox": [
+          0.09496124219419493,
+          0.6191860468538595,
+          0.06201550165812174,
+          0.015988371372222865
+        ],
+        "confidence": 0.3,
+        "text": "Cnazia"
+      },
+      {
+        "boundingBox": [
+          0.23643410886843583,
+          0.6131250000102975,
+          0.027131783167521156,
+          0.007514534890651792
+        ],
+        "confidence": 0.3,
+        "text": "ENS"
+      },
+      {
+        "boundingBox": [
+          0.27325581417490163,
+          0.6191860463973688,
+          0.03174418608347579,
+          0.010188953876495432
+        ],
+        "confidence": 0.3,
+        "text": "PSL"
+      },
+      {
+        "boundingBox": [
+          0.3701550403272289,
+          0.6174999997930172,
+          0.06976743698120119,
+          0.010624999999999996
+        ],
+        "confidence": 0.5,
+        "text": "PR_AIRIE"
+      },
+      {
+        "boundingBox": [
+          0.4707880583869159,
+          0.6086121421023494,
+          0.0855556678771972,
+          0.018240832090377745
+        ],
+        "confidence": 0.3,
+        "text": "SAHBKNE"
+      },
+      {
+        "boundingBox": [
+          0.08720930231334285,
+          0.5987499999168965,
+          0.07170542399088543,
+          0.008808139562606843
+        ],
+        "confidence": 0.5,
+        "text": "Motivations"
+      },
+      {
+        "boundingBox": [
+          0.08896406878327383,
+          0.5867825287888466,
+          0.14567579905192057,
+          0.009518058598041557
+        ],
+        "confidence": 0.3,
+        "text": "Incuding interleaved textimage datascte"
+      },
+      {
+        "boundingBox": [
+          0.24978027739712938,
+          0.5925668179375605,
+          0.15947273254394528,
+          0.012745883464813312
+        ],
+        "confidence": 0.3,
+        "text": "• mOSCAR characteristics"
+      },
+      {
+        "boundingBox": [
+          0.41666666899726335,
+          0.5915697674972409,
+          0.12209302266438804,
+          0.008720930218696576
+        ],
+        "confidence": 0.5,
+        "text": "2Example of French doc"
+      },
+      {
+        "boundingBox": [
+          0.08914728677180093,
+          0.5755813953316089,
+          0.04069767316182456,
+          0.007543604671955251
+        ],
+        "confidence": 0.3,
+        "text": "proven to"
+      },
+      {
+        "boundingBox": [
+          0.091085276073714,
+          0.5799418605204967,
+          0.14341084798177084,
+          0.008808139562606843
+        ],
+        "confidence": 0.3,
+        "text": "in the taining data mixluce of VLM:has"
+      },
+      {
+        "boundingBox": [
+          0.2613979160723121,
+          0.5791438484124523,
+          0.13997671763102215,
+          0.011225724816322336
+        ],
+        "confidence": 0.5,
+        "text": "163 languages-303M documents"
+      },
+      {
+        "boundingBox": [
+          0.09108527352980972,
+          0.568125000019852,
+          0.14147286732991535,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "in-context Iearning crpabilities ana for"
+      },
+      {
+        "boundingBox": [
+          0.15116279196237956,
+          0.5755813955376514,
+          0.0387596893310547,
+          0.0044186045229435145
+        ],
+        "confidence": 0.3,
+        "text": "usetultor"
+      },
+      {
+        "boundingBox": [
+          0.2729838482669188,
+          0.5707540611163335,
+          0.1187670262654622,
+          0.011248670816421558
+        ],
+        "confidence": 0.3,
+        "text": "200B tokens- 1.15B images"
+      },
+      {
+        "boundingBox": [
+          0.0891472868593714,
+          0.5549999998718794,
+          0.031007750829060862,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "existing"
+      },
+      {
+        "boundingBox": [
+          0.09108527268304546,
+          0.5610465117560275,
+          0.10852713267008464,
+          0.007267441749572834
+        ],
+        "confidence": 0.3,
+        "text": "handling muli-image inputs"
+      },
+      {
+        "boundingBox": [
+          0.12790697619975483,
+          0.5537499999870787,
+          0.04651162783304849,
+          0.007500000000000062
+        ],
+        "confidence": 0.5,
+        "text": "open-saurce"
+      },
+      {
+        "boundingBox": [
+          0.18217054357771764,
+          0.5537500000294064,
+          0.03100775082906085,
+          0.008750000000000036
+        ],
+        "confidence": 0.5,
+        "text": "datasels"
+      },
+      {
+        "boundingBox": [
+          0.19961240490198653,
+          0.5593749999514188,
+          0.03488371849060057,
+          0.008938953578472186
+        ],
+        "confidence": 0.5,
+        "text": "However"
+      },
+      {
+        "boundingBox": [
+          0.0910852731687442,
+          0.5479651163223378,
+          0.04457364082336428,
+          0.008909883797168616
+        ],
+        "confidence": 0.5,
+        "text": "English-only."
+      },
+      {
+        "boundingBox": [
+          0.13953489278481607,
+          0.5493750000553475,
+          0.09108526229858399,
+          0.004404069632291785
+        ],
+        "confidence": 0.3,
+        "text": "mO3cAR suppons 163"
+      },
+      {
+        "boundingBox": [
+          0.08914728879770666,
+          0.5362500000345551,
+          0.023255812327067055,
+          0.0044476743042469735
+        ],
+        "confidence": 0.3,
+        "text": "VUwwS"
+      },
+      {
+        "boundingBox": [
+          0.15116279127440538,
+          0.5406250000934667,
+          0.036821705500284824,
+          0.007500000000000062
+        ],
+        "confidence": 0.5,
+        "text": "develop"
+      },
+      {
+        "boundingBox": [
+          0.19186046536675191,
+          0.5406249999481179,
+          0.04263565699259442,
+          0.007500000000000062
+        ],
+        "confidence": 0.5,
+        "text": "multilingual"
+      },
+      {
+        "boundingBox": [
+          0.3372093019752995,
+          0.5493749999619795,
+          0.03875968933105467,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "Ave:8ge:3.80"
+      },
+      {
+        "boundingBox": [
+          0.0794573655155625,
+          0.5218023256913473,
+          0.15310077667236333,
+          0.007572674453258488
+        ],
+        "confidence": 0.3,
+        "text": "B. Current interleaves text-image datesets"
+      },
+      {
+        "boundingBox": [
+          0.0910852697536498,
+          0.5072674418310587,
+          0.06007752100626629,
+          0.008982558250427264
+        ],
+        "confidence": 0.5,
+        "text": "Westem culturc"
+      },
+      {
+        "boundingBox": [
+          0.091085276073714,
+          0.5143750000518821,
+          0.14341084798177084,
+          0.007500000000000062
+        ],
+        "confidence": 0.3,
+        "text": "arc English-only. primarily covering the"
+      },
+      {
+        "boundingBox": [
+          0.09108527104558498,
+          0.5029069768239885,
+          0.1414728546142578,
+          0.004593023210763936
+        ],
+        "confidence": 0.3,
+        "text": "mult inoua sources a.gws us te cove："
+      },
+      {
+        "boundingBox": [
+          0.1569767451277543,
+          0.5072674419158456,
+          0.0387596893310547,
+          0.008982557952403991
+        ],
+        "confidence": 0.3,
+        "text": "Collectirg"
+      },
+      {
+        "boundingBox": [
+          0.29263565839853256,
+          0.5203488372891049,
+          0.0872092946370443,
+          0.004651162773370743
+        ],
+        "confidence": 0.3,
+        "text": "Number of imaees pedon"
+      },
+      {
+        "boundingBox": [
+          0.07751938509537247,
+          0.47812500029445915,
+          0.13759689331054692,
+          0.010247092843055694
+        ],
+        "confidence": 0.5,
+        "text": "•Construction pipeline"
+      },
+      {
+        "boundingBox": [
+          0.07751938271743022,
+          0.46937500000686494,
+          0.06589146931966144,
+          0.008822674453258572
+        ],
+        "confidence": 0.3,
+        "text": "• Text filtering"
+      },
+      {
+        "boundingBox": [
+          0.09689922169038055,
+          0.46366279068044625,
+          0.13372093200683594,
+          0.007267441749572723
+        ],
+        "confidence": 0.5,
+        "text": "Language identification vith Open-LID"
+      },
+      {
+        "boundingBox": [
+          0.42054263887835364,
+          0.4693749999949499,
+          0.12596898396809897,
+          0.004462209045887011
+        ],
+        "confidence": 0.3,
+        "text": "runts conhits c: carame son. su oispason"
+      },
+      {
+        "boundingBox": [
+          0.42054264286376,
+          0.46220930245370195,
+          0.13953487396240238,
+          0.007267441749572834
+        ],
+        "confidence": 0.3,
+        "text": "Pour autan：， il ne faudrait pes ousllor do sa"
+      },
+      {
+        "boundingBox": [
+          0.09479677557527325,
+          0.4426390636094909,
+          0.1224376678466797,
+          0.009563952684402466
+        ],
+        "confidence": 0.3,
+        "text": "documents and d scard lowquality"
+      },
+      {
+        "boundingBox": [
+          0.09496123839576592,
+          0.450581395331609,
+          0.14147286732991537,
+          0.007543604671955029
+        ],
+        "confidence": 0.3,
+        "text": "Rule based fillering to improve Guallty of"
+      },
+      {
+        "boundingBox": [
+          0.7933720937840124,
+          0.45101744196178617,
+          0.04709302266438797,
+          0.012819766998291016
+        ],
+        "confidence": 1,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.2558139546254831,
+          0.4343750000059904,
+          0.040697673161824544,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "• Quality"
+      },
+      {
+        "boundingBox": [
+          0.29844961504014283,
+          0.4431250000380206,
+          0.05620154698689778,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "（o） Number ef tckans"
+      },
+      {
+        "boundingBox": [
+          0.7937090050307748,
+          0.4466010737072673,
+          0.03488371849060057,
+          0.010666368007659854
+        ],
+        "confidence": 0.3,
+        "text": "CRAWL"
+      },
+      {
+        "boundingBox": [
+          0.08720930436607982,
+          0.4299999998718794,
+          0.12596898396809894,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "• Near and exact deduplication with"
+      },
+      {
+        "boundingBox": [
+          0.422480627359884,
+          0.4375000001281206,
+          0.13953487396240238,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "Multilingual Open Flamingo*"
+      },
+      {
+        "boundingBox": [
+          0.09496123966244338,
+          0.4243750000486297,
+          0.052325582504272466,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "MinHash LSH."
+      },
+      {
+        "boundingBox": [
+          0.42635658991094394,
+          0.4256249998649486,
+          0.05620154698689778,
+          0.007514534890651681
+        ],
+        "confidence": 0.5,
+        "text": "Training setup："
+      },
+      {
+        "boundingBox": [
+          0.07751937983272271,
+          0.41424418602928337,
+          0.0717054239908854,
+          0.007267441749572834
+        ],
+        "confidence": 1,
+        "text": "• Image filtering"
+      },
+      {
+        "boundingBox": [
+          0.2594412415791582,
+          0.39362523209564004,
+          0.009801402091979938,
+          0.025268828868865945
+        ],
+        "confidence": 0.3,
+        "text": "Frequency"
+      },
+      {
+        "boundingBox": [
+          0.4321705451155158,
+          0.4142441862230818,
+          0.11046511332194009,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "23.0gv8ges, 50M mOSCAR docs，"
+      },
+      {
+        "boundingBox": [
+          0.43410852901519853,
+          0.4200000001003975,
+          0.0775193786621094,
+          0.007500000000000062
+        ],
+        "confidence": 0.3,
+        "text": "Trainad fom Gemma-28"
+      },
+      {
+        "boundingBox": [
+          0.08720930230110431,
+          0.4068749998615161,
+          0.14341084798177084,
+          0.008822674453258572
+        ],
+        "confidence": 0.3,
+        "text": "• Keep images with aspect ratio in （½.31，"
+      },
+      {
+        "boundingBox": [
+          0.09689922812585161,
+          0.3937500000345222,
+          0.11046511332194012,
+          0.00886627912521365
+        ],
+        "confidence": 0.3,
+        "text": "banner,eutton：. \"widget etc.）"
+      },
+      {
+        "boundingBox": [
+          0.12209302683456376,
+          0.3997093024294114,
+          0.09496123631795249,
+          0.008720930218696576
+        ],
+        "confidence": 0.3,
+        "text": "based on url （centains"
+      },
+      {
+        "boundingBox": [
+          0.21705426407872475,
+          0.40250000012112397,
+          0.02131782849629721,
+          0.007500000000000062
+        ],
+        "confidence": 0.3,
+        "text": "\"kogo'"
+      },
+      {
+        "boundingBox": [
+          0.43217054621440876,
+          0.401162790825795,
+          0.0949612363179525,
+          0.007267441749572834
+        ],
+        "confidence": 0.3,
+        "text": "LA/ON-：00M.iga texlogis"
+      },
+      {
+        "boundingBox": [
+          0.09108527066717026,
+          0.3793604650747602,
+          0.036821705500284824,
+          0.008764534890651654
+        ],
+        "confidence": 0.3,
+        "text": "•Cravling"
+      },
+      {
+        "boundingBox": [
+          0.09496124138133517,
+          0.37499999985438803,
+          0.031007750829060862,
+          0.005813953578472142
+        ],
+        "confidence": 0.3,
+        "text": "Protosol"
+      },
+      {
+        "boundingBox": [
+          0.135658915434963,
+          0.3806250000380206,
+          0.029069766998291002,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "rerpect"
+      },
+      {
+        "boundingBox": [
+          0.20542635839035864,
+          0.38226744198858575,
+          0.03488371849060057,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "Exclusion"
+      },
+      {
+        "boundingBox": [
+          0.3527131799662351,
+          0.3793604652443997,
+          0.04263565699259442,
+          0.007514534890651681
+        ],
+        "confidence": 0.3,
+        "text": "100 :20 J8o"
+      },
+      {
+        "boundingBox": [
+          0.07751938166683696,
+          0.36482558150530087,
+          0.12209302266438803,
+          0.007267441749572723
+        ],
+        "confidence": 0.5,
+        "text": "• Joint image &text filtering"
+      },
+      {
+        "boundingBox": [
+          0.09496123827339588,
+          0.34999999988194164,
+          0.14534884134928383,
+          0.009011628031730612
+        ],
+        "confidence": 0.3,
+        "text": "between all images and all paragraphs"
+      },
+      {
+        "boundingBox": [
+          0.09496124641477598,
+          0.3575000000518821,
+          0.1453488286336263,
+          0.008779069781303384
+        ],
+        "confidence": 0.3,
+        "text": "NLLE-SIGLIP to compute the simlanty"
+      },
+      {
+        "boundingBox": [
+          0.25556014315959125,
+          0.3614846549027516,
+          0.14584785461425787,
+          0.011235901117324754
+        ],
+        "confidence": 0.3,
+        "text": "Gemm：-2B perplexity dt 100K randem dosus."
+      },
+      {
+        "boundingBox": [
+          0.09302325321131671,
+          0.33720930223561285,
+          0.14728682200113932,
+          0.008720930218696576
+        ],
+        "confidence": 0.5,
+        "text": "sample nogative imges and paragraphs"
+      },
+      {
+        "boundingBox": [
+          0.25579351671035966,
+          0.34730628798076113,
+          0.04849048614501955,
+          0.007422307729721078
+        ],
+        "confidence": 0.3,
+        "text": "• Diversity"
+      },
+      {
+        "boundingBox": [
+          0.2631058378755826,
+          0.3398367955345196,
+          0.08814091364542642,
+          0.012010040879249617
+        ],
+        "confidence": 0.3,
+        "text": "o Multitingual diversity"
+      },
+      {
+        "boundingBox": [
+          0.4186046511128862,
+          0.3415697674246323,
+          0.040697673161824544,
+          0.007267441749572723
+        ],
+        "confidence": 0.5,
+        "text": "Companson"
+      },
+      {
+        "boundingBox": [
+          0.45736434198374243,
+          0.3443750000312872,
+          0.09883719762166343,
+          0.004462209045887011
+        ],
+        "confidence": 0.3,
+        "text": "aF raned on muscr"
+      },
+      {
+        "boundingBox": [
+          0.09496124107373459,
+          0.3299418604478881,
+          0.05620154698689779,
+          0.007558139562606758
+        ],
+        "confidence": 0.3,
+        "text": "from ather docs"
+      },
+      {
+        "boundingBox": [
+          0.2868217084143823,
+          0.3241279070563493,
+          0.08527131398518878,
+          0.00899709284305572
+        ],
+        "confidence": 0.3,
+        "text": "S236（止018） 54.78（ 229）"
+      },
+      {
+        "boundingBox": [
+          0.29651162803221315,
+          0.33124999991346404,
+          0.02131782849629721,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "Eiglish"
+      },
+      {
+        "boundingBox": [
+          0.4186046530009661,
+          0.3284883722453028,
+          0.08139534632364909,
+          0.00901162773370745
+        ],
+        "confidence": 0.3,
+        "text": "anoun: of vraining tokona）"
+      },
+      {
+        "boundingBox": [
+          0.43798449639551923,
+          0.33562499992898087,
+          0.12209302266438798,
+          0.00885174423456192
+        ],
+        "confidence": 0.3,
+        "text": "Vs MOF trained on capm only （same"
+      },
+      {
+        "boundingBox": [
+          0.09471603610268521,
+          0.3153134115706838,
+          0.14595324198404946,
+          0.012157034873962358
+        ],
+        "confidence": 0.3,
+        "text": "Koop R it it has at least a similarity witha"
+      },
+      {
+        "boundingBox": [
+          0.09496124506596203,
+          0.32412790708057426,
+          0.14341084798177084,
+          0.00899709284305572
+        ],
+        "confidence": 0.3,
+        "text": "For each imsge （resp. para.） in the doe，"
+      },
+      {
+        "boundingBox": [
+          0.09689922519001136,
+          0.3093750000483181,
+          0.017441859245300298,
+          0.008938953578472075
+        ],
+        "confidence": 0.3,
+        "text": "para."
+      },
+      {
+        "boundingBox": [
+          0.09689922715480544,
+          0.3037499999802443,
+          0.14341084798177084,
+          0.008750000000000036
+        ],
+        "confidence": 0.3,
+        "text": "similaritics （ranking is done with negalte"
+      },
+      {
+        "boundingBox": [
+          0.1162790704035905,
+          0.31104651166937747,
+          0.07751937866210937,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "｛resp. imnage） in thc"
+      },
+      {
+        "boundingBox": [
+          0.19379844986613662,
+          0.31249999985425636,
+          0.036821705500284824,
+          0.008749999999999925
+        ],
+        "confidence": 0.3,
+        "text": "top a of"
+      },
+      {
+        "boundingBox": [
+          0.2533630081938858,
+          0.30931008942938887,
+          0.15208980560302732,
+          0.013714546561241159
+        ],
+        "confidence": 0.3,
+        "text": "Tubls 4: Averuge Verdi score （t stindard stro） cf"
+      },
+      {
+        "boundingBox": [
+          0.25336783458188267,
+          0.3029946540189872,
+          0.15018496195475262,
+          0.014052464962005629
+        ],
+        "confidence": 0.3,
+        "text": "inages smpked from mOSCAR （Eagit vs. wy ls-"
+      },
+      {
+        "boundingBox": [
+          0.07945736369042608,
+          0.2875000001421796,
+          0.03682170550028481,
+          0.0075581392645835965
+        ],
+        "confidence": 0.5,
+        "text": "•Safety"
+      },
+      {
+        "boundingBox": [
+          0.08139534736074999,
+          0.2774999999030351,
+          0.09302325566609701,
+          0.00883720934391019
+        ],
+        "confidence": 0.5,
+        "text": "Not safc for work （NSFW）"
+      },
+      {
+        "boundingBox": [
+          0.09496124072345274,
+          0.2718023254914269,
+          0.09496123631795247,
+          0.008822674453258461
+        ],
+        "confidence": 0.3,
+        "text": "NSFW-dotoctor + NudeNet"
+      },
+      {
+        "boundingBox": [
+          0.3449612405912455,
+          0.2818750000680852,
+          0.04844961166381834,
+          0.005915697515010865
+        ],
+        "confidence": 0.3,
+        "text": "Dit n-gaam: s0"
+      },
+      {
+        "boundingBox": [
+          0.10465116514496711,
+          0.26598837219685323,
+          0.09689922332763673,
+          0.00901162773370745
+        ],
+        "confidence": 0.3,
+        "text": "NSFW-detector prota > 0.8"
+      },
+      {
+        "boundingBox": [
+          0.30038759743556065,
+          0.2718023256998918,
+          0.040697673161824544,
+          0.00581395328044898
+        ],
+        "confidence": 0.3,
+        "text": "6905 （+0.14"
+      },
+      {
+        "boundingBox": [
+          0.3507751958350878,
+          0.2731250000657437,
+          0.04457364082336429,
+          0.007499999999999951
+        ],
+        "confidence": 0.3,
+        "text": "0.472 （0023）"
+      },
+      {
+        "boundingBox": [
+          0.0949612400351276,
+          0.2529069767269577,
+          0.10077519098917642,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "CSAM detector （from Thom）"
+      },
+      {
+        "boundingBox": [
+          0.3507751958350878,
+          0.25726744184310524,
+          0.04457364082336429,
+          0.010232558250427237
+        ],
+        "confidence": 0.3,
+        "text": "0550 （+001"
+      },
+      {
+        "boundingBox": [
+          0.41860465257517926,
+          0.2659883721173959,
+          0.10077519098917648,
+          0.00901162773370745
+        ],
+        "confidence": 0.3,
+        "text": "comperison MOF taired on"
+      },
+      {
+        "boundingBox": [
+          0.4360465121015682,
+          0.25872093002139995,
+          0.1240310033162435,
+          0.01017441868782043
+        ],
+        "confidence": 0.3,
+        "text": "vs WOF tained cn VT + caps （gome"
+      },
+      {
+        "boundingBox": [
+          0.5193798459226584,
+          0.26874999986501447,
+          0.03488371849060057,
+          0.007500000000000062
+        ],
+        "confidence": 0.5,
+        "text": "mOSCAR"
+      },
+      {
+        "boundingBox": [
+          0.08139534887487526,
+          0.23687499996197947,
+          0.031007750829060862,
+          0.007499999999999951
+        ],
+        "confidence": 0.5,
+        "text": "Toxicity"
+      },
+      {
+        "boundingBox": [
+          0.10465116251253825,
+          0.2456249998909884,
+          0.0968992233276367,
+          0.008750000000000036
+        ],
+        "confidence": 0.3,
+        "text": "CSAM casstier proba:04"
+      },
+      {
+        "boundingBox": [
+          0.25176652303256086,
+          0.24221312105326742,
+          0.15157428741455076,
+          0.01016740441322328
+        ],
+        "confidence": 0.3,
+        "text": "Taole2: Avenve text drensity seoros （t suadind cn"
+      },
+      {
+        "boundingBox": [
+          0.4186046517994158,
+          0.25125000012071386,
+          0.08139534632364909,
+          0.008924418389797184
+        ],
+        "confidence": 0.3,
+        "text": "amount of training toxens）"
+      },
+      {
+        "boundingBox": [
+          0.09689923123585308,
+          0.2311046512483863,
+          0.13953487396240233,
+          0.01017441868782043
+        ],
+        "confidence": 0.3,
+        "text": "Le of toxicity words oblained from NLLB"
+      },
+      {
+        "boundingBox": [
+          0.09864939983033058,
+          0.21635805173018274,
+          0.11862494150797526,
+          0.00960581362247459
+        ],
+        "confidence": 0.3,
+        "text": "coc it censins a: least tvo ofthese"
+      },
+      {
+        "boundingBox": [
+          0.09883720876466427,
+          0.223749999868447,
+          0.12984495798746742,
+          0.008808139562606843
+        ],
+        "confidence": 0.3,
+        "text": "（costa-ussa e: al. 2022） * ramove the"
+      },
+      {
+        "boundingBox": [
+          0.26356589325925844,
+          0.2267441861246685,
+          0.06589146931966144,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "o imagediversity"
+      },
+      {
+        "boundingBox": [
+          0.27131783016364514,
+          0.21656976756998092,
+          0.029069766998291002,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "HOSCAR"
+      },
+      {
+        "boundingBox": [
+          0.3100775200823344,
+          0.2193750000383463,
+          0.040697673161824544,
+          0.005915697515010754
+        ],
+        "confidence": 0.3,
+        "text": "TA0N-40M"
+      },
+      {
+        "boundingBox": [
+          0.08333333613478383,
+          0.2018750000275915,
+          0.14147286732991537,
+          0.00888081401586538
+        ],
+        "confidence": 0.3,
+        "text": "Pll （Person:lly identifiable inforation"
+      },
+      {
+        "boundingBox": [
+          0.26497316519053915,
+          0.2072853308538991,
+          0.08622540791829425,
+          0.011296958923339817
+        ],
+        "confidence": 0.3,
+        "text": "S9：（010 6:5（0.1"
+      },
+      {
+        "boundingBox": [
+          0.35271317824466913,
+          0.2122093023083531,
+          0.040697673161824544,
+          0.007267441749572723
+        ],
+        "confidence": 0.3,
+        "text": "36.14（士008"
+      },
+      {
+        "boundingBox": [
+          0.5077519385207016,
+          0.2165697673864989,
+          0.050387595494588266,
+          0.008720930218696576
+        ],
+        "confidence": 0.3,
+        "text": "MOSCAR + CPS"
+      },
+      {
+        "boundingBox": [
+          0.5132857483177289,
+          0.21079411653509428,
+          0.043614746729532916,
+          0.009862098097801142
+        ],
+        "confidence": 0.3,
+        "text": "MGF waines"
+      },
+      {
+        "boundingBox": [
+          0.09883721185600824,
+          0.18875000011102405,
+          0.13953487396240236,
+          0.008924418389797184
+        ],
+        "confidence": 0.3,
+        "text": "aodrosses, shone numbors. API keys.055）"
+      },
+      {
+        "boundingBox": [
+          0.09883721219275024,
+          0.19750000011769142,
+          0.10077519098917642,
+          0.006250000000000089
+        ],
+        "confidence": 0.3,
+        "text": "Reoex + inmeHca femails.1F"
+      },
+      {
+        "boundingBox": [
+          0.25581395252020783,
+          0.1962209301849831,
+          0.07945736567179362,
+          0.008779069781303384
+        ],
+        "confidence": 0.3,
+        "text": "Tatse 3:AvcnseVedo"
+      },
+      {
+        "boundingBox": [
+          0.33476227629489314,
+          0.2003305115247841,
+          0.06852757136027021,
+          0.009075440168380688
+        ],
+        "confidence": 0.3,
+        "text": "ne（t santird ernce）of"
+      },
+      {
+        "boundingBox": [
+          0.09883720817210166,
+          0.18312500005478038,
+          0.11434108734130859,
+          0.007500000000000062
+        ],
+        "confidence": 0.3,
+        "text": "Face detecton > 0.99 confidence"
+      }
+    ],
+    "ocr_text": "355\n白上 丁\nMOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus\nMatthieu Futeral' 2, Armel Zebaze'^， Pedro Ortiz Suarezf, Julien Abadj'， Remi Lacroix6, Cordelia Schmid”2\n^ Inria Paris 2 Departement dinformatique de IENS, CNRS, PSL Research Universily\nRachel Bawden, Benoit Sagot\"\n3Institut du developpement et des ressources en informatique scientifique, CNRS\n4Sorbonne Universite, Paris, France 9Common Crawl Foundation GUniversite Paris Saday\nCnazia\nENS\nPSL\nPR_AIRIE\nSAHBKNE\nMotivations\nIncuding interleaved textimage datascte\n• mOSCAR characteristics\n2Example of French doc\nproven to\nin the taining data mixluce of VLM:has\n163 languages-303M documents\nin-context Iearning crpabilities ana for\nusetultor\n200B tokens- 1.15B images\nexisting\nhandling muli-image inputs\nopen-saurce\ndatasels\nHowever\nEnglish-only.\nmO3cAR suppons 163\nVUwwS\ndevelop\nmultilingual\nAve:8ge:3.80\nB. Current interleaves text-image datesets\nWestem culturc\narc English-only. primarily covering the\nmult inoua sources a.gws us te cove：\nCollectirg\nNumber of imaees pedon\n•Construction pipeline\n• Text filtering\nLanguage identification vith Open-LID\nrunts conhits c: carame son. su oispason\nPour autan：， il ne faudrait pes ousllor do sa\ndocuments and d scard lowquality\nRule based fillering to improve Guallty of\nCOMMON\n• Quality\n（o） Number ef tckans\nCRAWL\n• Near and exact deduplication with\nMultilingual Open Flamingo*\nMinHash LSH.\nTraining setup：\n• Image filtering\nFrequency\n23.0gv8ges, 50M mOSCAR docs，\nTrainad fom Gemma-28\n• Keep images with aspect ratio in （½.31，\nbanner,eutton：. \"widget etc.）\nbased on url （centains\n\"kogo'\nLA/ON-：00M.iga texlogis\n•Cravling\nProtosol\nrerpect\nExclusion\n100 :20 J8o\n• Joint image &text filtering\nbetween all images and all paragraphs\nNLLE-SIGLIP to compute the simlanty\nGemm：-2B perplexity dt 100K randem dosus.\nsample nogative imges and paragraphs\n• Diversity\no Multitingual diversity\nCompanson\naF raned on muscr\nfrom ather docs\nS236（止018） 54.78（ 229）\nEiglish\nanoun: of vraining tokona）\nVs MOF trained on capm only （same\nKoop R it it has at least a similarity witha\nFor each imsge （resp. para.） in the doe，\npara.\nsimilaritics （ranking is done with negalte\n｛resp. imnage） in thc\ntop a of\nTubls 4: Averuge Verdi score （t stindard stro） cf\ninages smpked from mOSCAR （Eagit vs. wy ls-\n•Safety\nNot safc for work （NSFW）\nNSFW-dotoctor + NudeNet\nDit n-gaam: s0\nNSFW-detector prota > 0.8\n6905 （+0.14\n0.472 （0023）\nCSAM detector （from Thom）\n0550 （+001\ncomperison MOF taired on\nvs WOF tained cn VT + caps （gome\nmOSCAR\nToxicity\nCSAM casstier proba:04\nTaole2: Avenve text drensity seoros （t suadind cn\namount of training toxens）\nLe of toxicity words oblained from NLLB\ncoc it censins a: least tvo ofthese\n（costa-ussa e: al. 2022） * ramove the\no imagediversity\nHOSCAR\nTA0N-40M\nPll （Person:lly identifiable inforation\nS9：（010 6:5（0.1\n36.14（士008\nMOSCAR + CPS\nMGF waines\naodrosses, shone numbors. API keys.055）\nReoex + inmeHca femails.1F\nTatse 3:AvcnseVedo\nne（t santird ernce）of\nFace detecton > 0.99 confidence",
+    "description": "Research With and By Common Crawl中的配图，包含文字：355；白上 丁；MOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus；Matthieu Futeral' 2, Armel Zebaze'^， Pedro Ortiz Suarezf, Julien Abadj'， Remi Lacroix6, Cordelia Schmid”2；^ Inria Paris 2 Departement dinformatique de IENS, CNRS, PSL Research Universily；Rachel Bawden, Benoit Sagot\"；3Institut du developpement et des ressources en informatique scientifique, CNRS；4Sorbonne Universite, Paris, France 9Common Crawl Foundation GUniversite Paris Saday；Cnazia；ENS；PSL；PR_AIRIE；SAHBKNE；Motivations；Incuding interleaved textimage datascte；• mOSCAR characteristics；2Example of French doc；proven to；in the taining data mixluce of VLM:has；163 languages-303M documents；in-context Iearning crpabilities ana for；usetultor；200B tokens- 1.15B images；existing；handling muli-image inputs；open-saurce；datasels；However；English-only.；mO3cAR suppons 163",
+    "entities": [
+      "355",
+      "白上 丁",
+      "MOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus",
+      "Matthieu Futeral' 2, Armel Zebaze'^， Pedro Ortiz Suarezf, Julien Abadj'， Remi Lacroix6, Cordelia Schmid”2",
+      "^ Inria Paris 2 Departement dinformatique de IENS, CNRS, PSL Research Universily",
+      "Rachel Bawden, Benoit Sagot\"",
+      "3Institut du developpement et des ressources en informatique scientifique, CNRS",
+      "4Sorbonne Universite, Paris, France 9Common Crawl Foundation GUniversite Paris Saday",
+      "Cnazia",
+      "ENS",
+      "PSL",
+      "PR_AIRIE",
+      "SAHBKNE",
+      "Motivations",
+      "Incuding interleaved textimage datascte",
+      "• mOSCAR characteristics",
+      "2Example of French doc",
+      "proven to",
+      "in the taining data mixluce of VLM:has",
+      "163 languages-303M documents",
+      "in-context Iearning crpabilities ana for",
+      "usetultor",
+      "200B tokens- 1.15B images",
+      "existing",
+      "handling muli-image inputs",
+      "open-saurce",
+      "datasels",
+      "However",
+      "English-only.",
+      "mO3cAR suppons 163",
+      "VUwwS",
+      "develop",
+      "multilingual",
+      "Ave:8ge:3.80",
+      "B. Current interleaves text-image datesets",
+      "Westem culturc",
+      "arc English-only. primarily covering the",
+      "mult inoua sources a.gws us te cove：",
+      "Collectirg",
+      "Number of imaees pedon",
+      "•Construction pipeline",
+      "• Text filtering",
+      "Language identification vith Open-LID",
+      "runts conhits c: carame son. su oispason",
+      "Pour autan：， il ne faudrait pes ousllor do sa",
+      "documents and d scard lowquality",
+      "Rule based fillering to improve Guallty of",
+      "COMMON",
+      "• Quality",
+      "（o） Number ef tckans",
+      "CRAWL",
+      "• Near and exact deduplication with",
+      "Multilingual Open Flamingo*",
+      "MinHash LSH.",
+      "Training setup：",
+      "• Image filtering",
+      "Frequency",
+      "23.0gv8ges, 50M mOSCAR docs，",
+      "Trainad fom Gemma-28",
+      "• Keep images with aspect ratio in （½.31，",
+      "banner,eutton：. \"widget etc.）",
+      "based on url （centains",
+      "\"kogo'",
+      "LA/ON-：00M.iga texlogis",
+      "•Cravling",
+      "Protosol",
+      "rerpect",
+      "Exclusion",
+      "100 :20 J8o",
+      "• Joint image &text filtering",
+      "between all images and all paragraphs",
+      "NLLE-SIGLIP to compute the simlanty",
+      "Gemm：-2B perplexity dt 100K randem dosus.",
+      "sample nogative imges and paragraphs",
+      "• Diversity",
+      "o Multitingual diversity",
+      "Companson",
+      "aF raned on muscr",
+      "from ather docs",
+      "S236（止018） 54.78（ 229）",
+      "Eiglish",
+      "anoun: of vraining tokona）",
+      "Vs MOF trained on capm only （same",
+      "Koop R it it has at least a similarity witha",
+      "For each imsge （resp. para.） in the doe，",
+      "para.",
+      "similaritics （ranking is done with negalte",
+      "｛resp. imnage） in thc",
+      "top a of",
+      "Tubls 4: Averuge Verdi score （t stindard stro） cf",
+      "inages smpked from mOSCAR （Eagit vs. wy ls-",
+      "•Safety",
+      "Not safc for work （NSFW）",
+      "NSFW-dotoctor + NudeNet",
+      "Dit n-gaam: s0",
+      "NSFW-detector prota > 0.8",
+      "6905 （+0.14",
+      "0.472 （0023）",
+      "CSAM detector （from Thom）",
+      "0550 （+001",
+      "comperison MOF taired on",
+      "vs WOF tained cn VT + caps （gome",
+      "mOSCAR",
+      "Toxicity",
+      "CSAM casstier proba:04",
+      "Taole2: Avenve text drensity seoros （t suadind cn",
+      "amount of training toxens）",
+      "Le of toxicity words oblained from NLLB",
+      "coc it censins a: least tvo ofthese",
+      "（costa-ussa e: al. 2022） * ramove the",
+      "o imagediversity",
+      "HOSCAR",
+      "TA0N-40M",
+      "Pll （Person:lly identifiable inforation",
+      "S9：（010 6:5（0.1",
+      "36.14（士008",
+      "MOSCAR + CPS",
+      "MGF waines",
+      "aodrosses, shone numbors. API keys.055）",
+      "Reoex + inmeHca femails.1F",
+      "Tatse 3:AvcnseVedo",
+      "ne（t santird ernce）of",
+      "Face detecton > 0.99 confidence"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e5ed4f6efa01daf98e7d27a7de7aa6f22979415b73f36151f36f04864301a3ff"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-007",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689c378f53f5484a246c4357_AD_4nXeLPcHMqLcQgUODBFiLcUZFsvU6Noah7hPDdVlBsWtpXcQgHSbxn0eTlsnZEEVgM_Tz55SGMvgf0ENmNWpBO18o9qK9kVp4Ip_YCvESgOdaruIIU5twH_gzb9KgIEmvQno930wQ.png",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-007.png",
+    "section": "Research With and By Common Crawl",
+    "alt": "Malte, Pedro, and their DFKI colleagues with their award for “best paper runner up” at the 4th Table Representation Learning Workshop",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5915697678235136,
+          0.7166666666848855,
+          0.03197674274444584,
+          0.012015504042307557
+        ],
+        "confidence": 0.3,
+        "text": "NIAMOND"
+      },
+      {
+        "boundingBox": [
+          0.31941426642493836,
+          0.6600364310941241,
+          0.2100086784362793,
+          0.055896129608154266
+        ],
+        "confidence": 0.3,
+        "text": "ACL 2025"
+      },
+      {
+        "boundingBox": [
+          0.7863372096092996,
+          0.6763565887880476,
+          0.018895348310470572,
+          0.0178100776672363
+        ],
+        "confidence": 0.3,
+        "text": "ml"
+      },
+      {
+        "boundingBox": [
+          0.3197674423812984,
+          0.6199999997676326,
+          0.125,
+          0.04500000000000004
+        ],
+        "confidence": 0.3,
+        "text": "VIEN"
+      },
+      {
+        "boundingBox": [
+          0.45348837250369756,
+          0.6162790695137084,
+          0.07703488349914545,
+          0.04651162783304841
+        ],
+        "confidence": 0.3,
+        "text": "1口"
+      },
+      {
+        "boundingBox": [
+          0.5973837187247224,
+          0.6624999998384136,
+          0.08575581550598144,
+          0.010000000000000009
+        ],
+        "confidence": 0.3,
+        "text": "VADEI.I CIADEL Securitics"
+      },
+      {
+        "boundingBox": [
+          0.5988372101835667,
+          0.6258333329672832,
+          0.07703488349914556,
+          0.023391473293304488
+        ],
+        "confidence": 0.3,
+        "text": "Nloomberg"
+      },
+      {
+        "boundingBox": [
+          0.7747093037725687,
+          0.6275000001573607,
+          0.049418601989746125,
+          0.020000000000000018
+        ],
+        "confidence": 0.3,
+        "text": "Google&"
+      },
+      {
+        "boundingBox": [
+          0.34735216618474773,
+          0.5889840718224018,
+          0.07855148315429689,
+          0.02745821317036956
+        ],
+        "confidence": 0.5,
+        "text": "JULY 27"
+      },
+      {
+        "boundingBox": [
+          0.4694767443749362,
+          0.5908333337259455,
+          0.0479651165008545,
+          0.023507751623789486
+        ],
+        "confidence": 1,
+        "text": "GUST"
+      },
+      {
+        "boundingBox": [
+          0.3691030885872006,
+          0.5615015015878503,
+          0.05249149799346925,
+          0.016531881491343214
+        ],
+        "confidence": 0.3,
+        "text": "The 63r"
+      },
+      {
+        "boundingBox": [
+          0.4723039841006248,
+          0.5577164664267747,
+          0.05103156566619871,
+          0.018287997245788667
+        ],
+        "confidence": 0.3,
+        "text": "Iweetin"
+      },
+      {
+        "boundingBox": [
+          0.061046511537938525,
+          0.5483333334485392,
+          0.008720930218696604,
+          0.013682170708974262
+        ],
+        "confidence": 0.3,
+        "text": "16"
+      },
+      {
+        "boundingBox": [
+          0.3895348846333775,
+          0.5425000002835154,
+          0.024709300994873062,
+          0.017577519416809073
+        ],
+        "confidence": 0.3,
+        "text": "oft"
+      },
+      {
+        "boundingBox": [
+          0.4825581390293979,
+          0.5424999997505799,
+          0.04069767475128172,
+          0.015833333333333366
+        ],
+        "confidence": 0.3,
+        "text": "aon fd"
+      },
+      {
+        "boundingBox": [
+          0.36337209390099107,
+          0.5271317833198667,
+          0.0436046504974365,
+          0.015503875414530355
+        ],
+        "confidence": 0.3,
+        "text": "Comd"
+      },
+      {
+        "boundingBox": [
+          0.48837209339981613,
+          0.5250000000942059,
+          0.03488372087478642,
+          0.01957364320754995
+        ],
+        "confidence": 0.3,
+        "text": "Wistid"
+      },
+      {
+        "boundingBox": [
+          0.40988372163677655,
+          0.4708333333448189,
+          0.023255813121795643,
+          0.011724806229273521
+        ],
+        "confidence": 0.3,
+        "text": "SENND"
+      },
+      {
+        "boundingBox": [
+          0.632267441488479,
+          0.34666666671036406,
+          0.034883720874786306,
+          0.011860465208689441
+        ],
+        "confidence": 1,
+        "text": "Reuters"
+      },
+      {
+        "boundingBox": [
+          0.6322674415805255,
+          0.35658914748986126,
+          0.036337208747863836,
+          0.011744185686111352
+        ],
+        "confidence": 0.3,
+        "text": "Thomsd"
+      },
+      {
+        "boundingBox": [
+          0.6249999993612778,
+          0.292499999928053,
+          0.04069767475128172,
+          0.019515504042307508
+        ],
+        "confidence": 0.3,
+        "text": "Appen"
+      },
+      {
+        "boundingBox": [
+          0.6322674419106639,
+          0.23833333332821738,
+          0.017441860437393153,
+          0.010000000000000009
+        ],
+        "confidence": 0.3,
+        "text": "De\""
+      },
+      {
+        "boundingBox": [
+          0.6511627906602461,
+          0.23643410840717383,
+          0.03052325487136842,
+          0.011899224917093942
+        ],
+        "confidence": 0.3,
+        "text": "JPMor"
+      },
+      {
+        "boundingBox": [
+          0.6511066387679146,
+          0.20323816991232013,
+          0.03354253530502316,
+          0.014066295623779368
+        ],
+        "confidence": 1,
+        "text": "Datao"
+      }
+    ],
+    "ocr_text": "NIAMOND\nACL 2025\nml\nVIEN\n1口\nVADEI.I CIADEL Securitics\nNloomberg\nGoogle&\nJULY 27\nGUST\nThe 63r\nIweetin\n16\noft\naon fd\nComd\nWistid\nSENND\nReuters\nThomsd\nAppen\nDe\"\nJPMor\nDatao",
+    "description": "Research With and By Common Crawl中的配图，包含文字：NIAMOND；ACL 2025；ml；VIEN；1口；VADEI.I CIADEL Securitics；Nloomberg；Google&；JULY 27；GUST；The 63r；Iweetin；16；oft；aon fd；Comd；Wistid；SENND；Reuters；Thomsd；Appen；De\"；JPMor；Datao",
+    "entities": [
+      "NIAMOND",
+      "ACL 2025",
+      "ml",
+      "VIEN",
+      "1口",
+      "VADEI.I CIADEL Securitics",
+      "Nloomberg",
+      "Google&",
+      "JULY 27",
+      "GUST",
+      "The 63r",
+      "Iweetin",
+      "16",
+      "oft",
+      "aon fd",
+      "Comd",
+      "Wistid",
+      "SENND",
+      "Reuters",
+      "Thomsd",
+      "Appen",
+      "De\"",
+      "JPMor",
+      "Datao"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ce18472ad6376e83193a62a0040e31d078e5dcbd8cf9edac70c01502f7f0ffc9"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-008",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/683610a5f112a5d4bbaf1ec8_6815de466a4de56d01e5a887_laurie2-p-800.webp",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-008.webp",
+    "section": "Next Steps",
+    "alt": "Laurie is a Principal Research Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Next Steps中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d7a6e8c7de6acd5db525799560dc317e9ac6396ffb6fb2f10138513d40af8e40"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-009",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-009.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-010",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-011",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542-fig-012",
+    "doc_id": "2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2337-https-commoncrawl-org-blog-common-crawl-foundati-99dcc542/figure-012.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

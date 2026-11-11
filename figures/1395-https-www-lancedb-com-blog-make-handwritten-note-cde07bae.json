@@ -1,0 +1,1379 @@
+[
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-001",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-001.png",
+    "section": "Make Handwritten Notes Searchable: Optimizing an OCR Pipeline with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Make Handwritten Notes Searchable: Optimizing an OCR Pipeline with LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-002",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5e66db0ce44709edd2b4ed_ocr-pipeline.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-002.png",
+    "section": "The two tiers: storage and retrieval",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.030489527183367452,
+          0.921293792919786,
+          0.07274187495674142,
+          0.027894341617549223
+        ],
+        "confidence": 1,
+        "text": "STORAGE"
+      },
+      {
+        "boundingBox": [
+          0.2750000044096825,
+          0.8620689661565015,
+          0.1208333282639682,
+          0.04310344556056023
+        ],
+        "confidence": 1,
+        "text": "LanceDB table"
+      },
+      {
+        "boundingBox": [
+          0.5944131785706279,
+          0.8699306382746561,
+          0.08442945681009051,
+          0.04327125286837241
+        ],
+        "confidence": 0.5,
+        "text": "DSPy OCR"
+      },
+      {
+        "boundingBox": [
+          0.7877906984496124,
+          0.897590361942132,
+          0.09302325581395354,
+          0.02108433705951096
+        ],
+        "confidence": 0.5,
+        "text": "write vectors back"
+      },
+      {
+        "boundingBox": [
+          0.786337208175872,
+          0.8669724775592744,
+          0.09011627906976749,
+          0.01856969091870364
+        ],
+        "confidence": 1,
+        "text": "to the same table"
+      },
+      {
+        "boundingBox": [
+          0.05087209413154067,
+          0.8222477069170516,
+          0.13517441860465115,
+          0.03325688073394495
+        ],
+        "confidence": 0.5,
+        "text": "Handwritten PNGs"
+      },
+      {
+        "boundingBox": [
+          0.5930232563226745,
+          0.8279816517337752,
+          0.13226744186046513,
+          0.03096330275229353
+        ],
+        "confidence": 0.5,
+        "text": "VLM reads image bytes"
+      },
+      {
+        "boundingBox": [
+          0.2819767433866279,
+          0.8188073396245759,
+          0.18895348837209303,
+          0.027578201862650142
+        ],
+        "confidence": 1,
+        "text": "Native image column plus metadata"
+      },
+      {
+        "boundingBox": [
+          0.5956375961963783,
+          0.7783751222395737,
+          0.1211344570020505,
+          0.034596221162638496
+        ],
+        "confidence": 0.5,
+        "text": "image -> ocr_text"
+      },
+      {
+        "boundingBox": [
+          0.2999353880953622,
+          0.7383394944094206,
+          0.036541268146975336,
+          0.030895863104304033
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.39093074344035056,
+          0.7465408146446973,
+          0.03209200042690813,
+          0.018966564344703563
+        ],
+        "confidence": 1,
+        "text": "labels"
+      },
+      {
+        "boundingBox": [
+          0.2978681652540111,
+          0.6708581690521866,
+          0.04670553112346865,
+          0.025753542917583916
+        ],
+        "confidence": 1,
+        "text": "ocr_text"
+      },
+      {
+        "boundingBox": [
+          0.39094811139080926,
+          0.6742867578151098,
+          0.04949912729189376,
+          0.021908412285901013
+        ],
+        "confidence": 1,
+        "text": "summary"
+      },
+      {
+        "boundingBox": [
+          0.5944767450685216,
+          0.6410550466331273,
+          0.12354651162790697,
+          0.03669724661275886
+        ],
+        "confidence": 1,
+        "text": "DSPy extraction"
+      },
+      {
+        "boundingBox": [
+          0.8662790690770349,
+          0.6353211010542097,
+          0.08284883720930236,
+          0.03669724770642202
+        ],
+        "confidence": 1,
+        "text": "Embedding"
+      },
+      {
+        "boundingBox": [
+          0.06104651069767444,
+          0.6169724768910316,
+          0.09302325581395349,
+          0.03096330275229353
+        ],
+        "confidence": 0.5,
+        "text": "raw image bytes"
+      },
+      {
+        "boundingBox": [
+          0.3008720941278232,
+          0.608433735436108,
+          0.03488371881799707,
+          0.021153420483300378
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.38660442383373983,
+          0.6051765338850807,
+          0.058186502551715646,
+          0.024586691768891278
+        ],
+        "confidence": 0.5,
+        "text": "review flag"
+      },
+      {
+        "boundingBox": [
+          0.5944767430232558,
+          0.6054216873116842,
+          0.09302325581395343,
+          0.024165468478421603
+        ],
+        "confidence": 1,
+        "text": "normalized fields"
+      },
+      {
+        "boundingBox": [
+          0.8633720939437984,
+          0.5963302750907209,
+          0.08720930232558133,
+          0.024151652231128917
+        ],
+        "confidence": 1,
+        "text": "summary vector"
+      },
+      {
+        "boundingBox": [
+          0.5944767471508275,
+          0.5512048197633502,
+          0.12790696829524417,
+          0.030217198056912253
+        ],
+        "confidence": 0.5,
+        "text": "ocr_text -> summary"
+      },
+      {
+        "boundingBox": [
+          0.8618950577583743,
+          0.5479721524835894,
+          0.06545407114630908,
+          0.030561718372029922
+        ],
+        "confidence": 1,
+        "text": "vector_idx"
+      },
+      {
+        "boundingBox": [
+          0.4069767451065891,
+          0.4633027522076477,
+          0.10174418604651159,
+          0.024649054632274403
+        ],
+        "confidence": 1,
+        "text": "retrieval reads from"
+      },
+      {
+        "boundingBox": [
+          0.4069767454505813,
+          0.43348623885400916,
+          0.12645348837209297,
+          0.02178899082568808
+        ],
+        "confidence": 0.5,
+        "text": "the same enriched table"
+      },
+      {
+        "boundingBox": [
+          0.030503366443932055,
+          0.3371257869797757,
+          0.07852814971146527,
+          0.030567702897098092
+        ],
+        "confidence": 1,
+        "text": "RETRIEVAL"
+      },
+      {
+        "boundingBox": [
+          0.3153370998810136,
+          0.291742255664564,
+          0.05537231208742127,
+          0.04000946359896873
+        ],
+        "confidence": 1,
+        "text": "Stage 1"
+      },
+      {
+        "boundingBox": [
+          0.603170728718415,
+          0.2919914638060829,
+          0.05528644971541263,
+          0.03649899937690937
+        ],
+        "confidence": 0.5,
+        "text": "Stage 2"
+      },
+      {
+        "boundingBox": [
+          0.872051275370107,
+          0.2978701983920615,
+          0.05386256643571985,
+          0.030765627502301385
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "boundingBox": [
+          0.055806642166322695,
+          0.23872005421193954,
+          0.07857003111643912,
+          0.042561307959600336
+        ],
+        "confidence": 1,
+        "text": "User query"
+      },
+      {
+        "boundingBox": [
+          0.3168604644379845,
+          0.2530120485817646,
+          0.10755813953488375,
+          0.024510886691032185
+        ],
+        "confidence": 1,
+        "text": "Dense vector search"
+      },
+      {
+        "boundingBox": [
+          0.6031976732267442,
+          0.253012048187112,
+          0.1191860465116279,
+          0.02108433705951096
+        ],
+        "confidence": 1,
+        "text": "Late-interaction rerank"
+      },
+      {
+        "boundingBox": [
+          0.8691502034437233,
+          0.24674910588250387,
+          0.04658331295448548,
+          0.030598174541368373
+        ],
+        "confidence": 1,
+        "text": "Romycin"
+      },
+      {
+        "boundingBox": [
+          0.05523255661337213,
+          0.20481927789903365,
+          0.12209302325581393,
+          0.024538520279280718
+        ],
+        "confidence": 0.5,
+        "text": "\"'antibiotic for infection\""
+      },
+      {
+        "boundingBox": [
+          0.316860466497093,
+          0.20481927804963607,
+          0.11046511627906974,
+          0.024538520279280607
+        ],
+        "confidence": 0.5,
+        "text": "top 50 candidates"
+      },
+      {
+        "boundingBox": [
+          0.6031976758575582,
+          0.20756880699498104,
+          0.14389534883720934,
+          0.02178899082568808
+        ],
+        "confidence": 1,
+        "text": "MaxSim over candidates"
+      },
+      {
+        "boundingBox": [
+          0.8706251179031008,
+          0.20466271970834327,
+          0.06834278972705998,
+          0.0274215488258851
+        ],
+        "confidence": 1,
+        "text": "Azithromycin"
+      },
+      {
+        "boundingBox": [
+          0.056686048110465063,
+          0.15662650631964203,
+          0.09593023255813954,
+          0.021125786895052068
+        ],
+        "confidence": 0.5,
+        "text": "query -> vector"
+      },
+      {
+        "boundingBox": [
+          0.3168604675145348,
+          0.15361445862192524,
+          0.14389534883720928,
+          0.02413783489017307
+        ],
+        "confidence": 0.5,
+        "text": "bounded select: image, labels，"
+      },
+      {
+        "boundingBox": [
+          0.603197676417151,
+          0.15662650696529867,
+          0.1598837209302325,
+          0.024566153867529028
+        ],
+        "confidence": 0.5,
+        "text": "optional, recomputed for top rows"
+      },
+      {
+        "boundingBox": [
+          0.8690847158118831,
+          0.1602381635159168,
+          0.07007521991581878,
+          0.027253738237083436
+        ],
+        "confidence": 0.5,
+        "text": "ocr: Ramycin"
+      },
+      {
+        "boundingBox": [
+          0.3165508041500617,
+          0.11672166336143397,
+          0.09365924146616311,
+          0.02957179130764187
+        ],
+        "confidence": 1,
+        "text": "OCR text, summary"
+      },
+      {
+        "boundingBox": [
+          0.8691860472383721,
+          0.12041284458259949,
+          0.07267441860465118,
+          0.02115342048330049
+        ],
+        "confidence": 0.5,
+        "text": "dense rank:9"
+      }
+    ],
+    "ocr_text": "STORAGE\nLanceDB table\nDSPy OCR\nwrite vectors back\nto the same table\nHandwritten PNGs\nVLM reads image bytes\nNative image column plus metadata\nimage -> ocr_text\nimage\nlabels\nocr_text\nsummary\nDSPy extraction\nEmbedding\nraw image bytes\nvector\nreview flag\nnormalized fields\nsummary vector\nocr_text -> summary\nvector_idx\nretrieval reads from\nthe same enriched table\nRETRIEVAL\nStage 1\nStage 2\nResults\nUser query\nDense vector search\nLate-interaction rerank\nRomycin\n\"'antibiotic for infection\"\ntop 50 candidates\nMaxSim over candidates\nAzithromycin\nquery -> vector\nbounded select: image, labels，\noptional, recomputed for top rows\nocr: Ramycin\nOCR text, summary\ndense rank:9",
+    "description": "The two tiers: storage and retrieval中的配图，包含文字：STORAGE；LanceDB table；DSPy OCR；write vectors back；to the same table；Handwritten PNGs；VLM reads image bytes；Native image column plus metadata；image -> ocr_text；image；labels；ocr_text；summary；DSPy extraction；Embedding；raw image bytes；vector；review flag；normalized fields；summary vector；ocr_text -> summary；vector_idx；retrieval reads from；the same enriched table；RETRIEVAL；Stage 1；Stage 2；Results；User query；Dense vector search",
+    "entities": [
+      "STORAGE",
+      "LanceDB table",
+      "DSPy OCR",
+      "write vectors back",
+      "to the same table",
+      "Handwritten PNGs",
+      "VLM reads image bytes",
+      "Native image column plus metadata",
+      "image -> ocr_text",
+      "image",
+      "labels",
+      "ocr_text",
+      "summary",
+      "DSPy extraction",
+      "Embedding",
+      "raw image bytes",
+      "vector",
+      "review flag",
+      "normalized fields",
+      "summary vector",
+      "ocr_text -> summary",
+      "vector_idx",
+      "retrieval reads from",
+      "the same enriched table",
+      "RETRIEVAL",
+      "Stage 1",
+      "Stage 2",
+      "Results",
+      "User query",
+      "Dense vector search",
+      "Late-interaction rerank",
+      "Romycin",
+      "\"'antibiotic for infection\"",
+      "top 50 candidates",
+      "MaxSim over candidates",
+      "Azithromycin",
+      "query -> vector",
+      "bounded select: image, labels，",
+      "optional, recomputed for top rows",
+      "ocr: Ramycin",
+      "OCR text, summary",
+      "dense rank:9"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1bd1bff74f305071755bdb4e5ade144be0f6bd53a75a8f1193c5b24b7d27dcff"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-003",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a511b3e1627643f9ddcb112_ingest-table.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-003.png",
+    "section": "Read the raw image bytes to ingest into LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.050872092839302045,
+          0.8914473689538664,
+          0.015988372431861027,
+          0.029936279140928335
+        ],
+        "confidence": 1,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.2049950372187218,
+          0.877326303901072,
+          0.049188174141777896,
+          0.048741163697632595
+        ],
+        "confidence": 1,
+        "text": "image"
+      },
+      {
+        "boundingBox": [
+          0.3793604649049892,
+          0.8750000007104185,
+          0.013081395626068082,
+          0.03947368357916303
+        ],
+        "confidence": 0.3,
+        "text": "小"
+      },
+      {
+        "boundingBox": [
+          0.43023255879884864,
+          0.8848684217184805,
+          0.11482557720608183,
+          0.0365152254044635
+        ],
+        "confidence": 0.5,
+        "text": "medicine_name"
+      },
+      {
+        "boundingBox": [
+          0.6656447898492508,
+          0.8808579567967831,
+          0.10330344306098094,
+          0.04091566613635189
+        ],
+        "confidence": 1,
+        "text": "generic_name"
+      },
+      {
+        "boundingBox": [
+          0.05377907124140143,
+          0.8421052640326522,
+          0.07848837110731335,
+          0.02631578805311674
+        ],
+        "confidence": 0.5,
+        "text": "string•lengths"
+      },
+      {
+        "boundingBox": [
+          0.2093023238204917,
+          0.8421052637585293,
+          0.09302325778537324,
+          0.02631578805311674
+        ],
+        "confidence": 0.5,
+        "text": "image•width （px）"
+      },
+      {
+        "boundingBox": [
+          0.43168604608394023,
+          0.842105264306775,
+          0.07848837110731333,
+          0.02631578805311663
+        ],
+        "confidence": 0.5,
+        "text": "string•Classes"
+      },
+      {
+        "boundingBox": [
+          0.6671511648916004,
+          0.842105263429582,
+          0.07994185553656674,
+          0.02631578805311663
+        ],
+        "confidence": 0.5,
+        "text": "string•classes"
+      },
+      {
+        "boundingBox": [
+          0.23750000109374997,
+          0.6132075483490566,
+          0.12916666666666665,
+          0.09433962264150941
+        ],
+        "confidence": 0.3,
+        "text": "Aeet"
+      },
+      {
+        "boundingBox": [
+          0.05232558112130236,
+          0.6348684212743283,
+          0.09011627833048502,
+          0.039659880992001684
+        ],
+        "confidence": 0.5,
+        "text": "train_00000"
+      },
+      {
+        "boundingBox": [
+          0.43164542312113396,
+          0.6411775705187877,
+          0.05095334053039552,
+          0.04001328180421071
+        ],
+        "confidence": 1,
+        "text": "Aceta"
+      },
+      {
+        "boundingBox": [
+          0.6656976725631044,
+          0.6414473690869016,
+          0.10901162889268667,
+          0.03622558731702874
+        ],
+        "confidence": 1,
+        "text": "Paracetamol"
+      },
+      {
+        "boundingBox": [
+          0.24418604774606786,
+          0.3647798742748535,
+          0.08720929887559678,
+          0.08647798742138368
+        ],
+        "confidence": 0.3,
+        "text": "Mhimw"
+      },
+      {
+        "boundingBox": [
+          0.052292125679082625,
+          0.3845472238229253,
+          0.0858227252960205,
+          0.04669502546202464
+        ],
+        "confidence": 0.5,
+        "text": "test_00500"
+      },
+      {
+        "boundingBox": [
+          0.4316251442762382,
+          0.3942419055421513,
+          0.056807851791381814,
+          0.03717408390165122
+        ],
+        "confidence": 1,
+        "text": "Monas"
+      },
+      {
+        "boundingBox": [
+          0.6656976751508328,
+          0.39465408777319355,
+          0.17151162889268656,
+          0.03626696418666231
+        ],
+        "confidence": 1,
+        "text": "Montelukast Sodium"
+      },
+      {
+        "boundingBox": [
+          0.2238372093875383,
+          0.12499999919252103,
+          0.11773255666097002,
+          0.08883647798742134
+        ],
+        "confidence": 0.5,
+        "text": "fozith"
+      },
+      {
+        "boundingBox": [
+          0.05070461542134153,
+          0.1364750966879913,
+          0.0875442557864719,
+          0.04941822747764346
+        ],
+        "confidence": 1,
+        "text": "test_00700"
+      },
+      {
+        "boundingBox": [
+          0.43157198211088255,
+          0.14397007412620244,
+          0.0554606861538357,
+          0.04429669350198229
+        ],
+        "confidence": 1,
+        "text": "Rozith"
+      },
+      {
+        "boundingBox": [
+          0.6671511584932707,
+          0.14144736861957152,
+          0.19331395890977643,
+          0.04276315821041843
+        ],
+        "confidence": 0.5,
+        "text": "Azithromycin Dihydrate"
+      }
+    ],
+    "ocr_text": "id\nimage\n小\nmedicine_name\ngeneric_name\nstring•lengths\nimage•width （px）\nstring•Classes\nstring•classes\nAeet\ntrain_00000\nAceta\nParacetamol\nMhimw\ntest_00500\nMonas\nMontelukast Sodium\nfozith\ntest_00700\nRozith\nAzithromycin Dihydrate",
+    "description": "Read the raw image bytes to ingest into LanceDB中的配图，包含文字：id；image；小；medicine_name；generic_name；string•lengths；image•width （px）；string•Classes；string•classes；Aeet；train_00000；Aceta；Paracetamol；Mhimw；test_00500；Monas；Montelukast Sodium；fozith；test_00700；Rozith；Azithromycin Dihydrate",
+    "entities": [
+      "id",
+      "image",
+      "小",
+      "medicine_name",
+      "generic_name",
+      "string•lengths",
+      "image•width （px）",
+      "string•Classes",
+      "string•classes",
+      "Aeet",
+      "train_00000",
+      "Aceta",
+      "Paracetamol",
+      "Mhimw",
+      "test_00500",
+      "Monas",
+      "Montelukast Sodium",
+      "fozith",
+      "test_00700",
+      "Rozith",
+      "Azithromycin Dihydrate"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a472096415d01d5f9a928e86f9edd331aa65ef50a0c92845ac8391697df34594"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-004",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a511b7b7ac9e608c6f6b10b_query-results-dense.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-004.png",
+    "section": "distance=0.2480 id=test_00177 label=Candinil generic=Fluconazole ocr='Candixil' normalized='Candixil' category=medication review=False",
+    "alt": "Dense search results for an antifungal medication query",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4447368416052632,
+          0.67499999975,
+          0.04999999999999999,
+          0.03749999999999998
+        ],
+        "confidence": 1,
+        "text": "NOTE"
+      },
+      {
+        "boundingBox": [
+          0.08421052618969296,
+          0.6312500000781249,
+          0.06578947368421054,
+          0.03750000000000009
+        ],
+        "confidence": 1,
+        "text": "QUERY"
+      },
+      {
+        "boundingBox": [
+          0.7894736850263159,
+          0.63125000025,
+          0.08157894736842097,
+          0.03749999999999998
+        ],
+        "confidence": 1,
+        "text": "ANSWER"
+      },
+      {
+        "boundingBox": [
+          0.08151391758735142,
+          0.4929830992008206,
+          0.1553932189941406,
+          0.07653380036354063
+        ],
+        "confidence": 1,
+        "text": "antifungal"
+      },
+      {
+        "boundingBox": [
+          0.7865917905163973,
+          0.4974223933112587,
+          0.12155326040167558,
+          0.07390520870685569
+        ],
+        "confidence": 1,
+        "text": "Nizoder"
+      },
+      {
+        "boundingBox": [
+          0.08157894568421055,
+          0.41249999962500006,
+          0.16842105263157892,
+          0.0625
+        ],
+        "confidence": 0.5,
+        "text": "medication"
+      },
+      {
+        "boundingBox": [
+          0.7894736826644737,
+          0.41875000054687495,
+          0.1289473684210527,
+          0.04375000000000007
+        ],
+        "confidence": 1,
+        "text": "Ketoconazole"
+      },
+      {
+        "boundingBox": [
+          0.7866664540201469,
+          0.3297776016531262,
+          0.08193025087055417,
+          0.05919479429721841
+        ],
+        "confidence": 1,
+        "text": "（Cream）"
+      },
+      {
+        "boundingBox": [
+          0.4447368443859649,
+          0.2937500003125001,
+          0.13684210526315793,
+          0.043749999999999956
+        ],
+        "confidence": 0.5,
+        "text": "OCR: Nizoder"
+      }
+    ],
+    "ocr_text": "NOTE\nQUERY\nANSWER\nantifungal\nNizoder\nmedication\nKetoconazole\n（Cream）\nOCR: Nizoder",
+    "description": "distance=0.2480 id=test_00177 label=Candinil generic=Fluconazole ocr='Candixil' normalized='Candixil' category=medication review=False中的配图，包含文字：NOTE；QUERY；ANSWER；antifungal；Nizoder；medication；Ketoconazole；（Cream）；OCR: Nizoder",
+    "entities": [
+      "NOTE",
+      "QUERY",
+      "ANSWER",
+      "antifungal",
+      "Nizoder",
+      "medication",
+      "Ketoconazole",
+      "（Cream）",
+      "OCR: Nizoder"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "855b8097dba62691a4860504490f7cfd78b86dd25189b78e6b46101cdafca381"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-005",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a511a70823f1288bc89f370_query-results-rerank.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-005.png",
+    "section": "03. late=1.5622 dense_rank=6 id=test_00097 label=Bacaid generic=Baclofen ocr='Boraid'",
+    "alt": "Late-interaction reranked results for a fever and body ache query",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4393985278019765,
+          0.6743961218295269,
+          0.05278189307764958,
+          0.03870775848627095
+        ],
+        "confidence": 0.5,
+        "text": "NOTE"
+      },
+      {
+        "boundingBox": [
+          0.08413363070667128,
+          0.6304738717946311,
+          0.06594326621607731,
+          0.03905225694179537
+        ],
+        "confidence": 0.5,
+        "text": "QUERY"
+      },
+      {
+        "boundingBox": [
+          0.7894736858223684,
+          0.6312500003125,
+          0.1289473684210526,
+          0.03749999999999998
+        ],
+        "confidence": 0.5,
+        "text": "RERANKED #1|"
+      },
+      {
+        "boundingBox": [
+          0.08149198815026215,
+          0.51132898061473,
+          0.1317528674477025,
+          0.05859203934669499
+        ],
+        "confidence": 0.5,
+        "text": "fever and"
+      },
+      {
+        "boundingBox": [
+          0.7866901834628346,
+          0.5045839783821815,
+          0.11872489326878599,
+          0.06583203673362736
+        ],
+        "confidence": 1,
+        "text": "Flexilax"
+      },
+      {
+        "boundingBox": [
+          0.4368421062134503,
+          0.4437500002083332,
+          0.17105263157894735,
+          0.10000000000000009
+        ],
+        "confidence": 0.5,
+        "text": "FUpilay"
+      },
+      {
+        "boundingBox": [
+          0.08136861848260024,
+          0.40384503027115703,
+          0.14778908177425987,
+          0.07980993986129759
+        ],
+        "confidence": 1,
+        "text": "body ache"
+      },
+      {
+        "boundingBox": [
+          0.7894736850526316,
+          0.41875000018749997,
+          0.08421052631578951,
+          0.043749999999999956
+        ],
+        "confidence": 1,
+        "text": "Baclofen"
+      },
+      {
+        "boundingBox": [
+          0.43947368605263154,
+          0.31250000015625,
+          0.14736842105263154,
+          0.03749999999999998
+        ],
+        "confidence": 0.5,
+        "text": "OCR: Fluxilax"
+      },
+      {
+        "boundingBox": [
+          0.4578947383223684,
+          0.22500000031250011,
+          0.11842105263157898,
+          0.03749999999999998
+        ],
+        "confidence": 0.5,
+        "text": "Dense rank #4"
+      }
+    ],
+    "ocr_text": "NOTE\nQUERY\nRERANKED #1|\nfever and\nFlexilax\nFUpilay\nbody ache\nBaclofen\nOCR: Fluxilax\nDense rank #4",
+    "description": "03. late=1.5622 dense_rank=6 id=test_00097 label=Bacaid generic=Baclofen ocr='Boraid'中的配图，包含文字：NOTE；QUERY；RERANKED #1|；fever and；Flexilax；FUpilay；body ache；Baclofen；OCR: Fluxilax；Dense rank #4",
+    "entities": [
+      "NOTE",
+      "QUERY",
+      "RERANKED #1|",
+      "fever and",
+      "Flexilax",
+      "FUpilay",
+      "body ache",
+      "Baclofen",
+      "OCR: Fluxilax",
+      "Dense rank #4"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c4c27dd34701a8c80070132b7942ac43c4f544262a89b62d81e3d75828e27ef4"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-006",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-006.avif",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-007",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-007.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-008",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-008.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae-fig-009",
+    "doc_id": "1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1395-https-www-lancedb-com-blog-make-handwritten-note-cde07bae/figure-009.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

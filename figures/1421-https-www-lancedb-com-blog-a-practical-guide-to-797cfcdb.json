@@ -1,0 +1,5119 @@
+[
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-001",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cce7b6cee82921ed1e2ae9_a-practical-guide-to-training-custom-rerankers.avif",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-001.avif",
+    "section": "A Practical Guide to Training Custom Rerankers",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09684900166473924,
+          0.8830934287546431,
+          0.14536449909210203,
+          0.05047980944315589
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical Guide to Training Custom Rerankers中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6735ec3c495abbe21e9ee27500a8e87d5eb075650dd463579be4b9a67b6cfcc0"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-002",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a214_Screenshot-2025-04-09-at-4.44.51-PM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-002.png",
+    "section": "A report on reranking, training, & fine-tuning rerankers for retrieval",
+    "alt": "Retrieval Process Overview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6250000029670479,
+          0.43478260563421467,
+          0.13749999177423766,
+          0.1747412000383649
+        ],
+        "confidence": 1,
+        "text": "Reranking"
+      },
+      {
+        "boundingBox": [
+          0.059593024542508866,
+          0.3999999978803138,
+          0.1104651122937198,
+          0.19285714285714284
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.4388986315860961,
+          0.46000093929021213,
+          0.12947018084393247,
+          0.13384427570161372
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "boundingBox": [
+          0.21075581549932654,
+          0.4452380962508049,
+          0.1642441796699517,
+          0.1316849799383254
+        ],
+        "confidence": 1,
+        "text": "Retriever"
+      },
+      {
+        "boundingBox": [
+          0.8125000025709431,
+          0.4690476181983987,
+          0.13372092576896621,
+          0.10787546067010789
+        ],
+        "confidence": 0.3,
+        "text": "LLM oOr User"
+      }
+    ],
+    "ocr_text": "Reranking\nQuery\nResults\nRetriever\nLLM oOr User",
+    "description": "A report on reranking, training, & fine-tuning rerankers for retrieval中的配图，包含文字：Reranking；Query；Results；Retriever；LLM oOr User",
+    "entities": [
+      "Reranking",
+      "Query",
+      "Results",
+      "Retriever",
+      "LLM oOr User"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1716796dc6a52e533ec8c83feeeb95e096cca467fcb50a0ed224e95af85e1960"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-003",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a21d_reranking-scaled.jpeg",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-003.jpg",
+    "section": "Embedding vs Ranking models",
+    "alt": "Reranking Process",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2310562530471636,
+          0.7780396870443689,
+          0.12073633193969724,
+          0.06675799687703443
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.475081718864087,
+          0.7793551809957123,
+          0.1341388893127442,
+          0.06758721953346614
+        ],
+        "confidence": 1,
+        "text": "Re-rank"
+      },
+      {
+        "boundingBox": [
+          0.7294941725348594,
+          0.7768631713125989,
+          0.11513956069946285,
+          0.06565082357043317
+        ],
+        "confidence": 1,
+        "text": "Answer"
+      },
+      {
+        "boundingBox": [
+          0.2710196775553474,
+          0.5457808484263784,
+          0.04338103771209717,
+          0.05323468503497897
+        ],
+        "confidence": 1,
+        "text": "QUERY"
+      },
+      {
+        "boundingBox": [
+          0.2688442339020775,
+          0.42871062688792927,
+          0.03789292812347411,
+          0.0318521048341478
+        ],
+        "confidence": 1,
+        "text": "QUERY"
+      },
+      {
+        "boundingBox": [
+          0.50284860931351,
+          0.3802640219328062,
+          0.07860510826110845,
+          0.07338199161347891
+        ],
+        "confidence": 0.3,
+        "text": "EMBEDDINeS"
+      },
+      {
+        "boundingBox": [
+          0.747067750722463,
+          0.4045894544462896,
+          0.08580636024475097,
+          0.048952579498291016
+        ],
+        "confidence": 1,
+        "text": "COMPLETIONS"
+      },
+      {
+        "boundingBox": [
+          0.2666723667793809,
+          0.2672495951617698,
+          0.0436046504974365,
+          0.05801047597612652
+        ],
+        "confidence": 1,
+        "text": "QUERY"
+      }
+    ],
+    "ocr_text": "Search\nRe-rank\nAnswer\nQUERY\nQUERY\nEMBEDDINeS\nCOMPLETIONS\nQUERY",
+    "description": "Embedding vs Ranking models中的配图，包含文字：Search；Re-rank；Answer；QUERY；QUERY；EMBEDDINeS；COMPLETIONS；QUERY",
+    "entities": [
+      "Search",
+      "Re-rank",
+      "Answer",
+      "QUERY",
+      "EMBEDDINeS",
+      "COMPLETIONS"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4c27eca17228e63255a791b42fa6458b36c5df00426acadf80dbbe4160c3b8b7"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-004",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293586cb8ad5eb78a1fb_Screenshot-2025-04-07-at-1.55.57-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-004.png",
+    "section": "The Baselines",
+    "alt": "Baseline Performance",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.010174418846280212,
+          0.7499999999030011,
+          0.061046510272555886,
+          0.14772727178490674
+        ],
+        "confidence": 1,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.7078488351476783,
+          0.7499999999976982,
+          0.1438953505622017,
+          0.14772727178490674
+        ],
+        "confidence": 1,
+        "text": "Vector Hitrate"
+      },
+      {
+        "boundingBox": [
+          -6.180555366262929e-09,
+          0.4184782637348463,
+          0.3708333333333333,
+          0.19565217391304346
+        ],
+        "confidence": 1,
+        "text": "marco-minilm-untrained-control-@10"
+      },
+      {
+        "boundingBox": [
+          0.7093023259206491,
+          0.418478259875247,
+          0.04505813916524248,
+          0.16304347826086962
+        ],
+        "confidence": 1,
+        "text": "60.3"
+      },
+      {
+        "boundingBox": [
+          0.7063059561404158,
+          0.10034346521542281,
+          0.05977180798848469,
+          0.17431306838989258
+        ],
+        "confidence": 1,
+        "text": "48.75"
+      },
+      {
+        "boundingBox": [
+          0.011627915604008344,
+          0.11363636595413751,
+          0.3270348654852973,
+          0.14772727178490674
+        ],
+        "confidence": 1,
+        "text": "modernbert-untrained-control-@5"
+      }
+    ],
+    "ocr_text": "Model\nVector Hitrate\nmarco-minilm-untrained-control-@10\n60.3\n48.75\nmodernbert-untrained-control-@5",
+    "description": "The Baselines中的配图，包含文字：Model；Vector Hitrate；marco-minilm-untrained-control-@10；60.3；48.75；modernbert-untrained-control-@5",
+    "entities": [
+      "Model",
+      "Vector Hitrate",
+      "marco-minilm-untrained-control-@10",
+      "60.3",
+      "48.75",
+      "modernbert-untrained-control-@5"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bb0a68f651928ce0daaaffca860b261e68a2129d3ac249eb252895934937514"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-005",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a205_cross_encoder.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-005.png",
+    "section": "Training Cross encoders",
+    "alt": "Cross Encoder Architecture",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.034883722915010684,
+          0.8966408261896209,
+          0.29941860198974607,
+          0.08010336134168838
+        ],
+        "confidence": 1,
+        "text": "Bi-encoder"
+      },
+      {
+        "boundingBox": [
+          0.606104650227064,
+          0.8940568476760442,
+          0.39244186401367187,
+          0.08527131822374134
+        ],
+        "confidence": 1,
+        "text": "Cross Encoder"
+      },
+      {
+        "boundingBox": [
+          0.6642441889491236,
+          0.6485788121178864,
+          0.12209301948547369,
+          0.02842377132839624
+        ],
+        "confidence": 1,
+        "text": "Classification"
+      },
+      {
+        "boundingBox": [
+          0.21218669000431478,
+          0.607062382670536,
+          0.06835917949676512,
+          0.028769291771782668
+        ],
+        "confidence": 1,
+        "text": "Cosine-"
+      },
+      {
+        "boundingBox": [
+          0.699091931966687,
+          0.6018415206850902,
+          0.0509440422058105,
+          0.02629111819797103
+        ],
+        "confidence": 0.5,
+        "text": "score"
+      },
+      {
+        "boundingBox": [
+          0.20203488331506772,
+          0.5529715761355063,
+          0.0901162815093994,
+          0.03925064510769316
+        ],
+        "confidence": 1,
+        "text": "Similarity"
+      },
+      {
+        "boundingBox": [
+          0.7194767444521091,
+          0.5426356579567575,
+          0.01162790656089785,
+          0.04651162889268656
+        ],
+        "confidence": 0.5,
+        "text": "个"
+      },
+      {
+        "boundingBox": [
+          0.6684055454096409,
+          0.3961034746417329,
+          0.10795635223388667,
+          0.042418376074896846
+        ],
+        "confidence": 0.5,
+        "text": "Classifier"
+      },
+      {
+        "boundingBox": [
+          0.08858855725733882,
+          0.36107944106775147,
+          0.12514846801757812,
+          0.045282978481716585
+        ],
+        "confidence": 0.3,
+        "text": "个 Embedding"
+      },
+      {
+        "boundingBox": [
+          0.1526162795149544,
+          0.32041343666522204,
+          0.01598837137222292,
+          0.03875968933105467
+        ],
+        "confidence": 1,
+        "text": "A"
+      },
+      {
+        "boundingBox": [
+          0.43023255833348373,
+          0.32299741624894307,
+          0.014534883499145501,
+          0.03359173032972551
+        ],
+        "confidence": 1,
+        "text": "B"
+      },
+      {
+        "boundingBox": [
+          0.05232557953184514,
+          0.20888888847634846,
+          0.09011628150939943,
+          0.04999999999999993
+        ],
+        "confidence": 1,
+        "text": "SBERT*"
+      },
+      {
+        "boundingBox": [
+          0.32478464381686917,
+          0.19888061848204353,
+          0.0962640476226807,
+          0.061498025258382105
+        ],
+        "confidence": 1,
+        "text": "SBERT*"
+      },
+      {
+        "boundingBox": [
+          0.6932632663015564,
+          0.21421652438712524,
+          0.06114788532257087,
+          0.03926720937093098
+        ],
+        "confidence": 1,
+        "text": "BERT"
+      },
+      {
+        "boundingBox": [
+          0.06250000131987513,
+          0.058888888672888995,
+          0.06831395149230957,
+          0.03930232577853732
+        ],
+        "confidence": 0.5,
+        "text": "Input A"
+      },
+      {
+        "boundingBox": [
+          0.2020348836700735,
+          0.05666666687648092,
+          0.05959302425384522,
+          0.031188629998101125
+        ],
+        "confidence": 0.5,
+        "text": "*BERT+"
+      },
+      {
+        "boundingBox": [
+          0.33866279187677073,
+          0.054263566889153236,
+          0.07122092723846435,
+          0.041343667772081205
+        ],
+        "confidence": 0.5,
+        "text": "Input B"
+      },
+      {
+        "boundingBox": [
+          0.572674418078702,
+          0.06201550364197983,
+          0.06976744174957272,
+          0.036175710890028134
+        ],
+        "confidence": 0.5,
+        "text": "InputA"
+      },
+      {
+        "boundingBox": [
+          0.7950581411324791,
+          0.06201550476407769,
+          0.06831395149230957,
+          0.03359173032972551
+        ],
+        "confidence": 0.5,
+        "text": "Input B"
+      },
+      {
+        "boundingBox": [
+          0.20203488358310434,
+          0.020671834964336222,
+          0.058139533996582005,
+          0.033772609498765704
+        ],
+        "confidence": 1,
+        "text": "pooling"
+      }
+    ],
+    "ocr_text": "Bi-encoder\nCross Encoder\nClassification\nCosine-\nscore\nSimilarity\n个\nClassifier\n个 Embedding\nA\nB\nSBERT*\nSBERT*\nBERT\nInput A\n*BERT+\nInput B\nInputA\nInput B\npooling",
+    "description": "Training Cross encoders中的配图，包含文字：Bi-encoder；Cross Encoder；Classification；Cosine-；score；Similarity；个；Classifier；个 Embedding；A；B；SBERT*；SBERT*；BERT；Input A；*BERT+；Input B；InputA；Input B；pooling",
+    "entities": [
+      "Bi-encoder",
+      "Cross Encoder",
+      "Classification",
+      "Cosine-",
+      "score",
+      "Similarity",
+      "个",
+      "Classifier",
+      "个 Embedding",
+      "A",
+      "B",
+      "SBERT*",
+      "BERT",
+      "Input A",
+      "*BERT+",
+      "Input B",
+      "InputA",
+      "pooling"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1b868690022eb8171606cf8b3e2dc365d4d607db1a5a28cd041ff09321c1aed5"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-006",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a230_ce.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-006.png",
+    "section": "Training Cross encoders",
+    "alt": "Cross Encoder Training Pipeline",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.28529411564890816,
+          0.9505813954602681,
+          0.316176471710205,
+          0.026162790369104405
+        ],
+        "confidence": 0.5,
+        "text": "Dataset （200_000_0 Rows）"
+      },
+      {
+        "boundingBox": [
+          0.2808823518756873,
+          0.7281976750558945,
+          0.32205883026123044,
+          0.029209732714994385
+        ],
+        "confidence": 1,
+        "text": "Mine hard negatives"
+      },
+      {
+        "boundingBox": [
+          0.06911765400139303,
+          0.6627906983402592,
+          0.21323528289794924,
+          0.029184609872323408
+        ],
+        "confidence": 0.5,
+        "text": "199_500_0 Rows"
+      },
+      {
+        "boundingBox": [
+          0.5014705894264706,
+          0.6771604936236721,
+          0.125,
+          0.020513924257254956
+        ],
+        "confidence": 0.5,
+        "text": "5000 Rows"
+      },
+      {
+        "boundingBox": [
+          0.5000000057814176,
+          0.6450617286404658,
+          0.23823528289794915,
+          0.02654320987654324
+        ],
+        "confidence": 0.5,
+        "text": "Num negatives: 30"
+      },
+      {
+        "boundingBox": [
+          0.06911764956963033,
+          0.635174418550913,
+          0.24411764144897458,
+          0.026162790369104405
+        ],
+        "confidence": 0.3,
+        "text": "Num negatives:5"
+      },
+      {
+        "boundingBox": [
+          0.06329114605397666,
+          0.5956790125540123,
+          0.3755274200439453,
+          0.03765432098765431
+        ],
+        "confidence": 0.5,
+        "text": "Format:anchor,tve，-ve"
+      },
+      {
+        "boundingBox": [
+          0.5000000048106952,
+          0.613372093622478,
+          0.4426470565795899,
+          0.029220498638388603
+        ],
+        "confidence": 0.3,
+        "text": "Format:anchor,tve，-ve_1，-ve_2•."
+      },
+      {
+        "boundingBox": [
+          0.08823530015093638,
+          0.4648148150169722,
+          0.30588233947753907,
+          0.023557277962013567
+        ],
+        "confidence": 0.5,
+        "text": "Total samples : 11970000"
+      },
+      {
+        "boundingBox": [
+          0.5735294168687171,
+          0.47093023296757275,
+          0.25441175460815424,
+          0.021802325307587078
+        ],
+        "confidence": 0.3,
+        "text": "Total samples ： 5000"
+      },
+      {
+        "boundingBox": [
+          0.5941176494580437,
+          0.3110465115268283,
+          0.18382352828979487,
+          0.023521389195948483
+        ],
+        "confidence": 1,
+        "text": "Evaluator（s）"
+      },
+      {
+        "boundingBox": [
+          0.1543459148307001,
+          0.2918231384154547,
+          0.14719052314758302,
+          0.02972581651475703
+        ],
+        "confidence": 1,
+        "text": "Trainer"
+      },
+      {
+        "boundingBox": [
+          0.5902206233436692,
+          0.26639258709322233,
+          0.3596431732177735,
+          0.04221482453522851
+        ],
+        "confidence": 0.5,
+        "text": "* CrossEncoderReranking"
+      },
+      {
+        "boundingBox": [
+          0.5909187486666223,
+          0.24746755154910016,
+          0.09610367774963391,
+          0.025413734530225218
+        ],
+        "confidence": 0.3,
+        "text": "* BEIR"
+      },
+      {
+        "boundingBox": [
+          0.16865729826175066,
+          0.22952687991512255,
+          0.14214570999145507,
+          0.024823990574589394
+        ],
+        "confidence": 0.5,
+        "text": "Forward pass"
+      },
+      {
+        "boundingBox": [
+          0.5895211200243168,
+          0.21560141313937042,
+          0.12831069946289064,
+          0.02664601125834898
+        ],
+        "confidence": 0.5,
+        "text": "* Custom"
+      },
+      {
+        "boundingBox": [
+          0.18374782852866434,
+          0.175503676045216,
+          0.09279846191406249,
+          0.019632182886571092
+        ],
+        "confidence": 1,
+        "text": "BCELOSS"
+      },
+      {
+        "boundingBox": [
+          0.13529411465863397,
+          0.0055555559745847916,
+          0.2397058868408203,
+          0.027874676975203072
+        ],
+        "confidence": 1,
+        "text": "Trained Model"
+      }
+    ],
+    "ocr_text": "Dataset （200_000_0 Rows）\nMine hard negatives\n199_500_0 Rows\n5000 Rows\nNum negatives: 30\nNum negatives:5\nFormat:anchor,tve，-ve\nFormat:anchor,tve，-ve_1，-ve_2•.\nTotal samples : 11970000\nTotal samples ： 5000\nEvaluator（s）\nTrainer\n* CrossEncoderReranking\n* BEIR\nForward pass\n* Custom\nBCELOSS\nTrained Model",
+    "description": "Training Cross encoders中的配图，包含文字：Dataset （200_000_0 Rows）；Mine hard negatives；199_500_0 Rows；5000 Rows；Num negatives: 30；Num negatives:5；Format:anchor,tve，-ve；Format:anchor,tve，-ve_1，-ve_2•.；Total samples : 11970000；Total samples ： 5000；Evaluator（s）；Trainer；* CrossEncoderReranking；* BEIR；Forward pass；* Custom；BCELOSS；Trained Model",
+    "entities": [
+      "Dataset （200_000_0 Rows）",
+      "Mine hard negatives",
+      "199_500_0 Rows",
+      "5000 Rows",
+      "Num negatives: 30",
+      "Num negatives:5",
+      "Format:anchor,tve，-ve",
+      "Format:anchor,tve，-ve_1，-ve_2•.",
+      "Total samples : 11970000",
+      "Total samples ： 5000",
+      "Evaluator（s）",
+      "Trainer",
+      "* CrossEncoderReranking",
+      "* BEIR",
+      "Forward pass",
+      "* Custom",
+      "BCELOSS",
+      "Trained Model"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "496e205e87e5a8c5299ba4961144637df2cf75f3494d203d3a83c47569f4760a"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-007",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293586cb8ad5eb78a1f8_1_0vzi15Gl7kbiYunawMKggw--1-.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-007.png",
+    "section": "Training ColBERT reranker",
+    "alt": "ColBERT Architecture",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5468665769020455,
+          0.8488979505359747,
+          0.08857247401178692,
+          0.045922691498569534
+        ],
+        "confidence": 0.5,
+        "text": "score"
+      },
+      {
+        "boundingBox": [
+          0.2225201059651475,
+          0.6532663314698492,
+          0.10187667560321714,
+          0.045226130653266305
+        ],
+        "confidence": 0.3,
+        "text": "Maxsim。"
+      },
+      {
+        "boundingBox": [
+          0.4101876666756033,
+          0.6582914570854271,
+          0.08847184986595169,
+          0.04020100502512569
+        ],
+        "confidence": 1,
+        "text": "MaxSim"
+      },
+      {
+        "boundingBox": [
+          0.6809651483378015,
+          0.6582914574874372,
+          0.0884718498659518,
+          0.04020100502512558
+        ],
+        "confidence": 0.5,
+        "text": "MaxSim"
+      },
+      {
+        "boundingBox": [
+          0.8713136638730292,
+          0.09547738916457282,
+          0.026809668093520256,
+          0.35678391959798994
+        ],
+        "confidence": 0.5,
+        "text": "Offline Indexing"
+      },
+      {
+        "boundingBox": [
+          0.11796246801991571,
+          0.27638190983488875,
+          0.21447721179624663,
+          0.05025125628140703
+        ],
+        "confidence": 1,
+        "text": "Question Encoder"
+      },
+      {
+        "boundingBox": [
+          0.5227882063337802,
+          0.27135678423366827,
+          0.20643431635388731,
+          0.055276381909547756
+        ],
+        "confidence": 1,
+        "text": "Passage Encoder"
+      },
+      {
+        "boundingBox": [
+          0.17139154684128088,
+          0.03349167162235134,
+          0.1103000180650972,
+          0.0485945466774792
+        ],
+        "confidence": 1,
+        "text": "Question"
+      },
+      {
+        "boundingBox": [
+          0.576331545781845,
+          0.029633272336763383,
+          0.0966666684393589,
+          0.05128621815437051
+        ],
+        "confidence": 1,
+        "text": "Passage"
+      }
+    ],
+    "ocr_text": "score\nMaxsim。\nMaxSim\nMaxSim\nOffline Indexing\nQuestion Encoder\nPassage Encoder\nQuestion\nPassage",
+    "description": "Training ColBERT reranker中的配图，包含文字：score；Maxsim。；MaxSim；MaxSim；Offline Indexing；Question Encoder；Passage Encoder；Question；Passage",
+    "entities": [
+      "score",
+      "Maxsim。",
+      "MaxSim",
+      "Offline Indexing",
+      "Question Encoder",
+      "Passage Encoder",
+      "Question",
+      "Passage"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "344b040b51e6ad405ed5976490054ec433f15464ed9089ef9f04f5d988df0d43"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-008",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a225_image-3.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-008.png",
+    "section": "Using fine-tuned Reranker models with LanceDB",
+    "alt": "LanceDB Integration",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3953488387522549,
+          0.9300699307786864,
+          0.2311046447753906,
+          0.0594405577732966
+        ],
+        "confidence": 1,
+        "text": "train_reranker.py"
+      },
+      {
+        "boundingBox": [
+          0.41569767623193227,
+          0.7692307688475362,
+          0.18459301757812502,
+          0.05288461538461542
+        ],
+        "confidence": 1,
+        "text": "trainer.train（）"
+      },
+      {
+        "boundingBox": [
+          0.7180232593288971,
+          0.7968749995496016,
+          0.2805232543945313,
+          0.02524038461538458
+        ],
+        "confidence": 1,
+        "text": "from Lancedb.rerankers import ColbertReranker"
+      },
+      {
+        "boundingBox": [
+          0.026162793292378098,
+          0.7797202806828074,
+          0.2834302368164062,
+          0.0279720265131731
+        ],
+        "confidence": 1,
+        "text": "from Lancedb.rerankers import ColbertReranker"
+      },
+      {
+        "boundingBox": [
+          0.7078488324213074,
+          0.7377622377958204,
+          0.26598837280273446,
+          0.024475524058708786
+        ],
+        "confidence": 0.5,
+        "text": "• reranker = ColbertReranker（\"tuned_model\"）"
+      },
+      {
+        "boundingBox": [
+          0.026162787168195877,
+          0.7163461541923484,
+          0.2819767456054688,
+          0.03245192307692302
+        ],
+        "confidence": 0.5,
+        "text": "reranker = ColbertReranker（\"some_base_model\"）"
+      },
+      {
+        "boundingBox": [
+          0.7180232571115893,
+          0.667832169040142,
+          0.19331394958496095,
+          0.035292830604773284
+        ],
+        "confidence": 1,
+        "text": "table.search（query, query_type）"
+      },
+      {
+        "boundingBox": [
+          0.02616278928228337,
+          0.6538461538454627,
+          0.19476744079589842,
+          0.03146853126012361
+        ],
+        "confidence": 0.5,
+        "text": "table.search（query, query_type）"
+      },
+      {
+        "boundingBox": [
+          0.7485465144777661,
+          0.6430288457034478,
+          0.10755813598632813,
+          0.02524038461538458
+        ],
+        "confidence": 0.5,
+        "text": ".rerank（reranker）"
+      },
+      {
+        "boundingBox": [
+          0.05668604649327011,
+          0.625874126253903,
+          0.10755813598632813,
+          0.0279720276594162
+        ],
+        "confidence": 1,
+        "text": ".rerank（reranker）"
+      },
+      {
+        "boundingBox": [
+          0.7485465102322555,
+          0.6117788464924958,
+          0.07558139801025388,
+          0.024584789688770536
+        ],
+        "confidence": 0.3,
+        "text": ".to_pandas（）"
+      },
+      {
+        "boundingBox": [
+          0.056686048050849425,
+          0.5944055948727841,
+          0.07558139038085937,
+          0.02819055891953981
+        ],
+        "confidence": 0.5,
+        "text": ".to_pandas（"
+      },
+      {
+        "boundingBox": [
+          0.42441860413655125,
+          0.5174825179800782,
+          0.04505813980102541,
+          0.03179632815030908
+        ],
+        "confidence": 1,
+        "text": "SBERT.net"
+      },
+      {
+        "boundingBox": [
+          0.09011628043511015,
+          0.3737980769045577,
+          0.09156975555419923,
+          0.01081730769230771
+        ],
+        "confidence": 0.5,
+        "text": "baseline vector hitrates a10"
+      },
+      {
+        "boundingBox": [
+          0.8037790702653279,
+          0.3701923076737885,
+          0.10319766998291025,
+          0.018028846153846145
+        ],
+        "confidence": 0.5,
+        "text": "vector_reranked_hit_rate_@10"
+      },
+      {
+        "boundingBox": [
+          0.7441860490542389,
+          0.33173076898877873,
+          0.10465116119384765,
+          0.018028846153846145
+        ],
+        "confidence": 0.5,
+        "text": "Modernbert_tuned_1epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.7441860482147932,
+          0.2968749999814807,
+          0.10610463714599605,
+          0.010817307692307598
+        ],
+        "confidence": 0.5,
+        "text": "Modernbert tuned 5 epoch 2M unseen 10"
+      },
+      {
+        "boundingBox": [
+          0.02034884805340414,
+          0.26562500003531053,
+          0.15708865356445312,
+          0.01081730769230771
+        ],
+        "confidence": 0.5,
+        "text": "marco-minilm-untrained-control-10 vector hit rate @10|"
+      },
+      {
+        "boundingBox": [
+          0.742732563755053,
+          0.25120192293913657,
+          0.11337208557128897,
+          0.018028846153846145
+        ],
+        "confidence": 0.5,
+        "text": "Modernbert_tuned_1_epoch_500k_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.4404069755081532,
+          0.20979021067927706,
+          0.14098837280273435,
+          0.04545454337046695
+        ],
+        "confidence": 1,
+        "text": "Tuned Model"
+      },
+      {
+        "boundingBox": [
+          0.7427325631016456,
+          0.20979021027764666,
+          0.10610464477539061,
+          0.01748251685729396
+        ],
+        "confidence": 0.5,
+        "text": "ce_minilm_tuned_5_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.018895351485567233,
+          0.18870192309544243,
+          0.14825581359863282,
+          0.018028846153846145
+        ],
+        "confidence": 0.5,
+        "text": "modernbert-untrained-control-5 vector._hit_rate_@5"
+      },
+      {
+        "boundingBox": [
+          0.7427325588663091,
+          0.17427884628902568,
+          0.10465116119384765,
+          0.007539335638284683
+        ],
+        "confidence": 0.3,
+        "text": "ce minim tuned| cpocn/m unseenU"
+      },
+      {
+        "boundingBox": [
+          0.7441860493367513,
+          0.12937062985806635,
+          0.11627906799316401,
+          0.01748251685729385
+        ],
+        "confidence": 1,
+        "text": "colbert_minilm_tuned_1_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.7441860561382909,
+          0.09090909150073179,
+          0.08430231475830086,
+          0.010489509655879137
+        ],
+        "confidence": 0.5,
+        "text": "marco-minilm-untrained-control-10"
+      },
+      {
+        "boundingBox": [
+          0.05377906968862844,
+          0.01748251762030406,
+          0.008720930099487309,
+          0.01748251685729396
+        ],
+        "confidence": 1,
+        "text": "10"
+      }
+    ],
+    "ocr_text": "train_reranker.py\ntrainer.train（）\nfrom Lancedb.rerankers import ColbertReranker\nfrom Lancedb.rerankers import ColbertReranker\n• reranker = ColbertReranker（\"tuned_model\"）\nreranker = ColbertReranker（\"some_base_model\"）\ntable.search（query, query_type）\ntable.search（query, query_type）\n.rerank（reranker）\n.rerank（reranker）\n.to_pandas（）\n.to_pandas（\nSBERT.net\nbaseline vector hitrates a10\nvector_reranked_hit_rate_@10\nModernbert_tuned_1epoch_2M_unseen_10\nModernbert tuned 5 epoch 2M unseen 10\nmarco-minilm-untrained-control-10 vector hit rate @10|\nModernbert_tuned_1_epoch_500k_unseen_10\nTuned Model\nce_minilm_tuned_5_epoch_2M_unseen_10\nmodernbert-untrained-control-5 vector._hit_rate_@5\nce minim tuned| cpocn/m unseenU\ncolbert_minilm_tuned_1_epoch_2M_unseen_10\nmarco-minilm-untrained-control-10\n10",
+    "description": "Using fine-tuned Reranker models with LanceDB中的配图，包含文字：train_reranker.py；trainer.train（）；from Lancedb.rerankers import ColbertReranker；from Lancedb.rerankers import ColbertReranker；• reranker = ColbertReranker（\"tuned_model\"）；reranker = ColbertReranker（\"some_base_model\"）；table.search（query, query_type）；table.search（query, query_type）；.rerank（reranker）；.rerank（reranker）；.to_pandas（）；.to_pandas（；SBERT.net；baseline vector hitrates a10；vector_reranked_hit_rate_@10；Modernbert_tuned_1epoch_2M_unseen_10；Modernbert tuned 5 epoch 2M unseen 10；marco-minilm-untrained-control-10 vector hit rate @10|；Modernbert_tuned_1_epoch_500k_unseen_10；Tuned Model；ce_minilm_tuned_5_epoch_2M_unseen_10；modernbert-untrained-control-5 vector._hit_rate_@5；ce minim tuned| cpocn/m unseenU；colbert_minilm_tuned_1_epoch_2M_unseen_10；marco-minilm-untrained-control-10；10",
+    "entities": [
+      "train_reranker.py",
+      "trainer.train（）",
+      "from Lancedb.rerankers import ColbertReranker",
+      "• reranker = ColbertReranker（\"tuned_model\"）",
+      "reranker = ColbertReranker（\"some_base_model\"）",
+      "table.search（query, query_type）",
+      ".rerank（reranker）",
+      ".to_pandas（）",
+      ".to_pandas（",
+      "SBERT.net",
+      "baseline vector hitrates a10",
+      "vector_reranked_hit_rate_@10",
+      "Modernbert_tuned_1epoch_2M_unseen_10",
+      "Modernbert tuned 5 epoch 2M unseen 10",
+      "marco-minilm-untrained-control-10 vector hit rate @10|",
+      "Modernbert_tuned_1_epoch_500k_unseen_10",
+      "Tuned Model",
+      "ce_minilm_tuned_5_epoch_2M_unseen_10",
+      "modernbert-untrained-control-5 vector._hit_rate_@5",
+      "ce minim tuned| cpocn/m unseenU",
+      "colbert_minilm_tuned_1_epoch_2M_unseen_10",
+      "marco-minilm-untrained-control-10",
+      "10"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "99ae1a856402720cabe6c87c6a2a603a7193f2709bd6bd37134053e61fb4ceaa"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-009",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a20b_Screenshot-2025-04-04-at-11.54.23-PM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-009.png",
+    "section": "Performance comparison",
+    "alt": "Control Experiments",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.010174418206452866,
+          0.7439024453031167,
+          0.11337209376151289,
+          0.19795801473218333
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.4534601055378964,
+          0.7548388966959756,
+          0.10761467329176055,
+          0.1732490339944529
+        ],
+        "confidence": 1,
+        "text": "Vector@10"
+      },
+      {
+        "boundingBox": [
+          0.6117694865950898,
+          0.7497222292656534,
+          0.10058893211671627,
+          0.18348236971123277
+        ],
+        "confidence": 1,
+        "text": "Vector@5"
+      },
+      {
+        "boundingBox": [
+          0.760117335259119,
+          0.7540974276368158,
+          0.08441649395946649,
+          0.17473197537799212
+        ],
+        "confidence": 1,
+        "text": "FTS@10"
+      },
+      {
+        "boundingBox": [
+          0.8894102982641734,
+          0.740294381364651,
+          0.07437707845447128,
+          0.19014294202937632
+        ],
+        "confidence": 1,
+        "text": "FTS@5"
+      },
+      {
+        "boundingBox": [
+          0.4549418604874223,
+          0.4390243953453675,
+          0.03779069792050427,
+          0.15981281635373146
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.7616279069367579,
+          0.43902439489240597,
+          0.03779069792050427,
+          0.15981281635373135
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.010174426177182568,
+          0.4390243953188009,
+          0.3081395206107511,
+          0.14818490937698714
+        ],
+        "confidence": 1,
+        "text": "modernbert-untrained-control-5"
+      },
+      {
+        "boundingBox": [
+          0.6119186034361019,
+          0.4127906971517704,
+          0.058139536483277854,
+          0.17441860465116277
+        ],
+        "confidence": 1,
+        "text": "48.75"
+      },
+      {
+        "boundingBox": [
+          0.8895348845112945,
+          0.41279069625165443,
+          0.039244184877604615,
+          0.17441860465116277
+        ],
+        "confidence": 1,
+        "text": "33.1"
+      },
+      {
+        "boundingBox": [
+          0.4534883739571342,
+          0.08536585825811327,
+          0.046511624953948505,
+          0.1707316997439362
+        ],
+        "confidence": 1,
+        "text": "60.3"
+      },
+      {
+        "boundingBox": [
+          0.6133720926302794,
+          0.09756097851609935,
+          0.03779069792050438,
+          0.15853657833365498
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.7616279066437531,
+          0.09756097851609946,
+          0.03779069792050427,
+          0.1585365783336551
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8894962511087715,
+          0.08450817033574554,
+          0.053856335136000855,
+          0.17244707151900895
+        ],
+        "confidence": 1,
+        "text": "39.25"
+      },
+      {
+        "boundingBox": [
+          0.010174416544943157,
+          0.09756097804237818,
+          0.3357558124769742,
+          0.14662506968476052
+        ],
+        "confidence": 0.5,
+        "text": "marco-minilm-untrained-contro|-10"
+      }
+    ],
+    "ocr_text": "Experiment\nVector@10\nVector@5\nFTS@10\nFTS@5\nN/A\nN/A\nmodernbert-untrained-control-5\n48.75\n33.1\n60.3\nN/A\nN/A\n39.25\nmarco-minilm-untrained-contro|-10",
+    "description": "Performance comparison中的配图，包含文字：Experiment；Vector@10；Vector@5；FTS@10；FTS@5；N/A；N/A；modernbert-untrained-control-5；48.75；33.1；60.3；N/A；N/A；39.25；marco-minilm-untrained-contro|-10",
+    "entities": [
+      "Experiment",
+      "Vector@10",
+      "Vector@5",
+      "FTS@10",
+      "FTS@5",
+      "N/A",
+      "modernbert-untrained-control-5",
+      "48.75",
+      "33.1",
+      "60.3",
+      "39.25",
+      "marco-minilm-untrained-contro|-10"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e16625b05571e528051861ae305e486586de66749162f8e1b599825091d5b9e9"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-010",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293586cb8ad5eb78a1f1_Screenshot-2025-04-05-at-1.06.04-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-010.png",
+    "section": "**Base model reranking performance**",
+    "alt": "Base Model Performance",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2791666658854167,
+          0.8571428584821428,
+          0.0708333333333333,
+          0.1071428571428572
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.4737392424779549,
+          0.8618132182893509,
+          0.06850988599989155,
+          0.08382697900136316
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.6598837209116835,
+          0.8690476191961738,
+          0.0421511623594496,
+          0.07505175897053307
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.8415697673564048,
+          0.863095237537869,
+          0.0421511623594496,
+          0.081004139922914
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.012982967641084158,
+          0.7741287477200033,
+          0.11502243677775066,
+          0.09770524501800537
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.2790697714448362,
+          0.6956521727345564,
+          0.1351744121975369,
+          0.09316770235697425
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.47383721000921053,
+          0.7018633556398959,
+          0.12645348442925353,
+          0.08695651803697857
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.6598837254855339,
+          0.7018633562610138,
+          0.1351744121975369,
+          0.08695651803697857
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8415697679586562,
+          0.7018633554052512,
+          0.125,
+          0.08695651803697857
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.014534888519145125,
+          0.5403726713847079,
+          0.22093022664388023,
+          0.07569875603630427
+        ],
+        "confidence": 1,
+        "text": "modernbert-untrained-"
+      },
+      {
+        "boundingBox": [
+          0.2805232563056571,
+          0.45833333368271223,
+          0.03924418555365672,
+          0.08333333333333326
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.47529069785889644,
+          0.452380951019404,
+          0.0421511623594496,
+          0.0892857142857143
+        ],
+        "confidence": 0.5,
+        "text": "9.70"
+      },
+      {
+        "boundingBox": [
+          0.6598837208963444,
+          0.45833333302277424,
+          0.03924418555365661,
+          0.08333333333333337
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8386627918492044,
+          0.44047618987524695,
+          0.0479651133219402,
+          0.1071428571428571
+        ],
+        "confidence": 1,
+        "text": "4.30"
+      },
+      {
+        "boundingBox": [
+          0.01302767066408279,
+          0.3776967416774233,
+          0.08877024120754666,
+          0.07690465450286865
+        ],
+        "confidence": 1,
+        "text": "control-5"
+      },
+      {
+        "boundingBox": [
+          0.013081391100711551,
+          0.21118012397269958,
+          0.24127907223171657,
+          0.07453416075025288
+        ],
+        "confidence": 1,
+        "text": "marco-minilm-untrained-"
+      },
+      {
+        "boundingBox": [
+          0.27761627852846293,
+          0.11180124190148788,
+          0.04651162889268662,
+          0.09950827984582811
+        ],
+        "confidence": 1,
+        "text": "9.20"
+      },
+      {
+        "boundingBox": [
+          0.4752906970377822,
+          0.1304347833699624,
+          0.03779069847530786,
+          0.0808747410774231
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.6584302320652846,
+          0.11180124210852715,
+          0.04651162889268656,
+          0.09950827984582811
+        ],
+        "confidence": 1,
+        "text": "4.75"
+      },
+      {
+        "boundingBox": [
+          0.8415697679686035,
+          0.13043478402990027,
+          0.03924418555365672,
+          0.0808747410774231
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.013081394167664998,
+          0.04968944094992522,
+          0.09738372166951496,
+          0.07531055949983145
+        ],
+        "confidence": 1,
+        "text": "control-10"
+      }
+    ],
+    "ocr_text": "Vector\nVector\nFTS\nFTS\nExperiment\nReranked@10\nReranked@5\nReranked@10\nReranked@5\nmodernbert-untrained-\nN/A\n9.70\nN/A\n4.30\ncontrol-5\nmarco-minilm-untrained-\n9.20\nN/A\n4.75\nN/A\ncontrol-10",
+    "description": "**Base model reranking performance**中的配图，包含文字：Vector；Vector；FTS；FTS；Experiment；Reranked@10；Reranked@5；Reranked@10；Reranked@5；modernbert-untrained-；N/A；9.70；N/A；4.30；control-5；marco-minilm-untrained-；9.20；N/A；4.75；N/A；control-10",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Reranked@10",
+      "Reranked@5",
+      "modernbert-untrained-",
+      "N/A",
+      "9.70",
+      "4.30",
+      "control-5",
+      "marco-minilm-untrained-",
+      "9.20",
+      "4.75",
+      "control-10"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d4386c6ab1ba8325f6805b9739ca21be20dfc451493490f67529c1e8dab7d69f"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-011",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a211_Screenshot-2025-04-05-at-1.57.18-AM-2.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-011.png",
+    "section": "**Comparison with a dedicated reranker model**",
+    "alt": "Dedicated Reranker Comparison",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.33427051241956723,
+          0.8513049005212432,
+          0.06837758078819833,
+          0.10479761015438871
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.5115561901736219,
+          0.85051321438722,
+          0.06845738785276789,
+          0.09897357183145283
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.6816860474518083,
+          0.8581560293403778,
+          0.042151161437226414,
+          0.0899921173745013
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.8502906972998934,
+          0.8510638287404989,
+          0.043604651039747866,
+          0.09708431933788542
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.014340602710888422,
+          0.7426721381283194,
+          0.11521414281921809,
+          0.12206312950621256
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.33430232643805824,
+          0.6592592599070125,
+          0.13372092703344424,
+          0.10370370174976107
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.5130813960432816,
+          0.6592592606477532,
+          0.125,
+          0.10370370174976107
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.6816860488540788,
+          0.6592592606477532,
+          0.13372092703344418,
+          0.10370370174976107
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8517441853520673,
+          0.6592592599070125,
+          0.125,
+          0.10370370174976107
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.014534889339527172,
+          0.4592592601623564,
+          0.2587209164517597,
+          0.09747832886716146
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.3343023258388139,
+          0.3687943248803698,
+          0.039244184877604615,
+          0.099290780141844
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.5130256203971502,
+          0.3622069935632163,
+          0.053890619793811156,
+          0.10521564416006102
+        ],
+        "confidence": 1,
+        "text": "59.70"
+      },
+      {
+        "boundingBox": [
+          0.6816860467036396,
+          0.3687943248186413,
+          0.039244184877604615,
+          0.099290780141844
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8515292792360463,
+          0.35256492905786607,
+          0.058569348635521434,
+          0.11709236253237898
+        ],
+        "confidence": 0.5,
+        "text": "50.45"
+      },
+      {
+        "boundingBox": [
+          0.014428600078116593,
+          0.25693831487585883,
+          0.09178233576548414,
+          0.11575300473693417
+        ],
+        "confidence": 1,
+        "text": "control_5"
+      },
+      {
+        "boundingBox": [
+          0.01453488795748978,
+          0.04444444374976109,
+          0.27470929149781115,
+          0.12592592983381123
+        ],
+        "confidence": 1,
+        "text": "answerai_colbert_control_10"
+      },
+      {
+        "boundingBox": [
+          0.3339221652075952,
+          0.054006388624198154,
+          0.057446367366965345,
+          0.12161685050802029
+        ],
+        "confidence": 1,
+        "text": "68.25"
+      },
+      {
+        "boundingBox": [
+          0.5130813949558608,
+          0.07407407340309702,
+          0.03779069792050438,
+          0.09629629689750951
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.6816860462605953,
+          0.06666666699548995,
+          0.050872093761512804,
+          0.10370370174976096
+        ],
+        "confidence": 1,
+        "text": "58.15"
+      },
+      {
+        "boundingBox": [
+          0.8517441867399766,
+          0.07407407457593662,
+          0.039244184877604615,
+          0.0962962968975094
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      }
+    ],
+    "ocr_text": "Vector\nVector\nFTS\nFTS\nExperiment\nReranked@10\nReranked@5\nReranked@10\nReranked@5\nanswerai-colbert-small-v1-\nN/A\n59.70\nN/A\n50.45\ncontrol_5\nanswerai_colbert_control_10\n68.25\nN/A\n58.15\nN/A",
+    "description": "**Comparison with a dedicated reranker model**中的配图，包含文字：Vector；Vector；FTS；FTS；Experiment；Reranked@10；Reranked@5；Reranked@10；Reranked@5；answerai-colbert-small-v1-；N/A；59.70；N/A；50.45；control_5；answerai_colbert_control_10；68.25；N/A；58.15；N/A",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Reranked@10",
+      "Reranked@5",
+      "answerai-colbert-small-v1-",
+      "N/A",
+      "59.70",
+      "50.45",
+      "control_5",
+      "answerai_colbert_control_10",
+      "68.25",
+      "58.15"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0ce85f2f07e5ef48dd85ea6bcc268de3d1190cd873d01eb11f58a66dbcb76f3d"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-012",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a228_Screenshot-2025-04-07-at-5.39.47-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-012.png",
+    "section": "Training models from scratch",
+    "alt": "Training Results 1",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5550780107925842,
+          0.9503790735396762,
+          0.06716955878757669,
+          0.03195647056529061
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.7267441865567653,
+          0.951276102006352,
+          0.042151162238536544,
+          0.03016241338868808
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.012956711154059192,
+          0.9154075351854714,
+          0.1136214597920989,
+          0.03693434944742302
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.8894493601429159,
+          0.9158534040588384,
+          0.09755476744508018,
+          0.03604261133055031
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid@5"
+      },
+      {
+        "boundingBox": [
+          0.5551586707869611,
+          0.887942038447569,
+          0.12514777599033977,
+          0.036180887790705274
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.726610207977697,
+          0.8873607034201522,
+          0.12526795742092955,
+          0.03734355783357268
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.01308139761340428,
+          0.8211920533744062,
+          0.4229651064628717,
+          0.03532008724760016
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-1-neg-5-epoch_5"
+      },
+      {
+        "boundingBox": [
+          0.5552325595369224,
+          0.8256070640351602,
+          0.05087209044650387,
+          0.03311258278145701
+        ],
+        "confidence": 1,
+        "text": "55.10"
+      },
+      {
+        "boundingBox": [
+          0.7267441876019979,
+          0.82560706407383,
+          0.058139531938861455,
+          0.0331125827814569
+        ],
+        "confidence": 1,
+        "text": "46.80"
+      },
+      {
+        "boundingBox": [
+          0.8894968390206348,
+          0.8258162481810842,
+          0.056762136034615995,
+          0.032822260530316005
+        ],
+        "confidence": 1,
+        "text": "55.30"
+      },
+      {
+        "boundingBox": [
+          0.01308140336402516,
+          0.7582781463349306,
+          0.42151161710915896,
+          0.03532008724760005
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-5-neg-1-epoch-5"
+      },
+      {
+        "boundingBox": [
+          0.5552325575252333,
+          0.7604856515979694,
+          0.056686047861355116,
+          0.03311258278145701
+        ],
+        "confidence": 1,
+        "text": "55.50"
+      },
+      {
+        "boundingBox": [
+          0.726722075981925,
+          0.7632376542610148,
+          0.055276778393926085,
+          0.030369239663972536
+        ],
+        "confidence": 0.5,
+        "text": "47.30"
+      },
+      {
+        "boundingBox": [
+          0.8894415048478893,
+          0.7629213755555045,
+          0.05687280446497078,
+          0.03332198271425091
+        ],
+        "confidence": 1,
+        "text": "55.50"
+      },
+      {
+        "boundingBox": [
+          0.012499990414451618,
+          0.6953642380794702,
+          0.429166675108597,
+          0.039735099337748325
+        ],
+        "confidence": 1,
+        "text": "collbert-ModernBERT-base-2-neg-4-epoch-5"
+      },
+      {
+        "boundingBox": [
+          0.555232559684639,
+          0.6983758703013143,
+          0.058139531938861455,
+          0.032482597738438646
+        ],
+        "confidence": 1,
+        "text": "60.85"
+      },
+      {
+        "boundingBox": [
+          0.7267228796425417,
+          0.6982784954933549,
+          0.058182147858383604,
+          0.03267734729691052
+        ],
+        "confidence": 1,
+        "text": "50.50"
+      },
+      {
+        "boundingBox": [
+          0.8895348834376097,
+          0.6983758702336422,
+          0.04796511701528461,
+          0.032482597738438646
+        ],
+        "confidence": 0.5,
+        "text": "61.10"
+      },
+      {
+        "boundingBox": [
+          0.008333341165409503,
+          0.6291390721854305,
+          0.42499999155806967,
+          0.039735099337748325
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-1-neg-1-epoch-5"
+      },
+      {
+        "boundingBox": [
+          0.5537790707553755,
+          0.6334106732112138,
+          0.058139531938861455,
+          0.032482597738438646
+        ],
+        "confidence": 1,
+        "text": "43.35"
+      },
+      {
+        "boundingBox": [
+          0.7266479057003856,
+          0.6329890427221747,
+          0.05542511893835633,
+          0.033325859516135425
+        ],
+        "confidence": 0.5,
+        "text": "37.40"
+      },
+      {
+        "boundingBox": [
+          0.8893811845771543,
+          0.6327145823464094,
+          0.05699344492552194,
+          0.033874780137017946
+        ],
+        "confidence": 1,
+        "text": "38.55"
+      },
+      {
+        "boundingBox": [
+          0.008333325347222482,
+          0.569536423620309,
+          0.47916666666666663,
+          0.039735099337748436
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-2-neg-1-epoch-gooaq-"
+      },
+      {
+        "boundingBox": [
+          0.5552325594603568,
+          0.5406032488337968,
+          0.05232557980021657,
+          0.032482597738438646
+        ],
+        "confidence": 0.5,
+        "text": "54.10"
+      },
+      {
+        "boundingBox": [
+          0.7266710733831138,
+          0.5402754532852774,
+          0.05683227264699764,
+          0.033138188831590365
+        ],
+        "confidence": 1,
+        "text": "46.95"
+      },
+      {
+        "boundingBox": [
+          0.8895348836095508,
+          0.5406032484238975,
+          0.055232558507642304,
+          0.032482597738438534
+        ],
+        "confidence": 1,
+        "text": "53.25"
+      },
+      {
+        "boundingBox": [
+          0.011529377942129495,
+          0.5165929374337354,
+          0.08740635894311084,
+          0.029459136474474623
+        ],
+        "confidence": 1,
+        "text": "1995000"
+      },
+      {
+        "boundingBox": [
+          0.013081399919013997,
+          0.44260485581182074,
+          0.49563953193886146,
+          0.0376735670413928
+        ],
+        "confidence": 1,
+        "text": "colbert-MiniLM-L6-H384-uncased-1-neg-1-epoch_5"
+      },
+      {
+        "boundingBox": [
+          0.5537790696477867,
+          0.4477958240078108,
+          0.06104651064628719,
+          0.032482597738438646
+        ],
+        "confidence": 1,
+        "text": "44.40"
+      },
+      {
+        "boundingBox": [
+          0.7266415500279113,
+          0.4473339812540068,
+          0.05689131867341479,
+          0.03340628289229042
+        ],
+        "confidence": 1,
+        "text": "36.50"
+      },
+      {
+        "boundingBox": [
+          0.8894988434761311,
+          0.4476308213315381,
+          0.058211615471424394,
+          0.0328126037883969
+        ],
+        "confidence": 1,
+        "text": "38.00"
+      },
+      {
+        "boundingBox": [
+          0.013081399396287106,
+          0.37819025504701853,
+          0.5029069787074257,
+          0.037122970648422404
+        ],
+        "confidence": 0.5,
+        "text": "cross-encoder_minilm_tuned_1_epoch_2M_unseen_5"
+      },
+      {
+        "boundingBox": [
+          0.5551734882745318,
+          0.3825905054508001,
+          0.055350698046334634,
+          0.03528302552684259
+        ],
+        "confidence": 0.5,
+        "text": "50.95"
+      },
+      {
+        "boundingBox": [
+          0.7266798537313305,
+          0.3871844256203354,
+          0.05245424537078314,
+          0.030735557968779692
+        ],
+        "confidence": 0.5,
+        "text": "50.10"
+      },
+      {
+        "boundingBox": [
+          0.8895348845600245,
+          0.38515081226767167,
+          0.05232557980021668,
+          0.032482597738438646
+        ],
+        "confidence": 0.5,
+        "text": "51.50"
+      },
+      {
+        "boundingBox": [
+          0.013081390224260412,
+          0.31554524353263513,
+          0.5058139574148514,
+          0.034802784193430525
+        ],
+        "confidence": 0.5,
+        "text": "cross-encoder_minilm_tuned_5_epoch_2M_unseen_5"
+      },
+      {
+        "boundingBox": [
+          0.5551668169491168,
+          0.31990639054131187,
+          0.05391055221874186,
+          0.03304104668151997
+        ],
+        "confidence": 0.5,
+        "text": "51.40"
+      },
+      {
+        "boundingBox": [
+          0.7267252239661933,
+          0.3224194791715591,
+          0.05381699452591471,
+          0.030335055808094702
+        ],
+        "confidence": 1,
+        "text": "51.55"
+      },
+      {
+        "boundingBox": [
+          0.8893717520211893,
+          0.31948482374968035,
+          0.05410533393237271,
+          0.033884181092116994
+        ],
+        "confidence": 0.5,
+        "text": "51.40"
+      },
+      {
+        "boundingBox": [
+          0.008333344984853809,
+          0.2516556296909491,
+          0.445833324891403,
+          0.04635761589403975
+        ],
+        "confidence": 0.5,
+        "text": "collbert_minilm_tuned_1_epoch_2M_unseen_5"
+      },
+      {
+        "boundingBox": [
+          0.5537442852289314,
+          0.2573733099553306,
+          0.05675561464343981,
+          0.030496999391130486
+        ],
+        "confidence": 1,
+        "text": "43.25"
+      },
+      {
+        "boundingBox": [
+          0.7266244947026692,
+          0.2569577467782206,
+          0.05692542934813449,
+          0.03132812550525799
+        ],
+        "confidence": 1,
+        "text": "36.35"
+      },
+      {
+        "boundingBox": [
+          0.8895348840640236,
+          0.2549668873567693,
+          0.05377906915392949,
+          0.03532008830022071
+        ],
+        "confidence": 1,
+        "text": "37.50"
+      },
+      {
+        "boundingBox": [
+          0.013034103172804928,
+          0.19453765280237822,
+          0.06114109719937273,
+          0.021597548562696245
+        ],
+        "confidence": 0.3,
+        "text": "CrOSS-"
+      },
+      {
+        "boundingBox": [
+          0.5549915008387301,
+          0.161308785709685,
+          0.05716816122601143,
+          0.0346910137740718
+        ],
+        "confidence": 1,
+        "text": "56.40"
+      },
+      {
+        "boundingBox": [
+          0.7267441859351325,
+          0.162251655490537,
+          0.055232558507642304,
+          0.03532008830022071
+        ],
+        "confidence": 1,
+        "text": "53.75"
+      },
+      {
+        "boundingBox": [
+          0.8879614876530557,
+          0.15962156325590227,
+          0.05692586199706351,
+          0.038065457712472384
+        ],
+        "confidence": 1,
+        "text": "57.40"
+      },
+      {
+        "boundingBox": [
+          0.013081393223625658,
+          0.12761020999494954,
+          0.4970930212925744,
+          0.039443152892931654
+        ],
+        "confidence": 0.5,
+        "text": "encoder_Modernbert_tuned_5_epoch_2M_unseen_5"
+      },
+      {
+        "boundingBox": [
+          0.012930612922269501,
+          0.07305874622151565,
+          0.06134807750232321,
+          0.023256057671890096
+        ],
+        "confidence": 0.3,
+        "text": "CrOSS-"
+      },
+      {
+        "boundingBox": [
+          0.5550760820305043,
+          0.04109166504283479,
+          0.05409202206349151,
+          0.03382595011730072
+        ],
+        "confidence": 1,
+        "text": "61.05"
+      },
+      {
+        "boundingBox": [
+          0.7267441854443223,
+          0.041763341269991816,
+          0.056686047861355116,
+          0.032482597738438646
+        ],
+        "confidence": 0.5,
+        "text": "53.95"
+      },
+      {
+        "boundingBox": [
+          0.8880813957345268,
+          0.041763341409203014,
+          0.05959302129257438,
+          0.032482597738438534
+        ],
+        "confidence": 0.5,
+        "text": "62.30"
+      },
+      {
+        "boundingBox": [
+          0.013081394223414047,
+          0.006622515648679883,
+          0.49418604258514875,
+          0.03752759381898463
+        ],
+        "confidence": 0.5,
+        "text": "encoder_Modernbert_tuned_1_epoch_2M_unseen_5"
+      }
+    ],
+    "ocr_text": "Vector\nFTS\nExperiment\nHybrid@5\nReranked@5\nReranked@5\ncolbert-ModernBERT-base-1-neg-5-epoch_5\n55.10\n46.80\n55.30\ncolbert-ModernBERT-base-5-neg-1-epoch-5\n55.50\n47.30\n55.50\ncollbert-ModernBERT-base-2-neg-4-epoch-5\n60.85\n50.50\n61.10\ncolbert-ModernBERT-base-1-neg-1-epoch-5\n43.35\n37.40\n38.55\ncolbert-ModernBERT-base-2-neg-1-epoch-gooaq-\n54.10\n46.95\n53.25\n1995000\ncolbert-MiniLM-L6-H384-uncased-1-neg-1-epoch_5\n44.40\n36.50\n38.00\ncross-encoder_minilm_tuned_1_epoch_2M_unseen_5\n50.95\n50.10\n51.50\ncross-encoder_minilm_tuned_5_epoch_2M_unseen_5\n51.40\n51.55\n51.40\ncollbert_minilm_tuned_1_epoch_2M_unseen_5\n43.25\n36.35\n37.50\nCrOSS-\n56.40\n53.75\n57.40\nencoder_Modernbert_tuned_5_epoch_2M_unseen_5\nCrOSS-\n61.05\n53.95\n62.30\nencoder_Modernbert_tuned_1_epoch_2M_unseen_5",
+    "description": "Training models from scratch中的配图，包含文字：Vector；FTS；Experiment；Hybrid@5；Reranked@5；Reranked@5；colbert-ModernBERT-base-1-neg-5-epoch_5；55.10；46.80；55.30；colbert-ModernBERT-base-5-neg-1-epoch-5；55.50；47.30；55.50；collbert-ModernBERT-base-2-neg-4-epoch-5；60.85；50.50；61.10；colbert-ModernBERT-base-1-neg-1-epoch-5；43.35；37.40；38.55；colbert-ModernBERT-base-2-neg-1-epoch-gooaq-；54.10；46.95；53.25；1995000；colbert-MiniLM-L6-H384-uncased-1-neg-1-epoch_5；44.40；36.50",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Hybrid@5",
+      "Reranked@5",
+      "colbert-ModernBERT-base-1-neg-5-epoch_5",
+      "55.10",
+      "46.80",
+      "55.30",
+      "colbert-ModernBERT-base-5-neg-1-epoch-5",
+      "55.50",
+      "47.30",
+      "collbert-ModernBERT-base-2-neg-4-epoch-5",
+      "60.85",
+      "50.50",
+      "61.10",
+      "colbert-ModernBERT-base-1-neg-1-epoch-5",
+      "43.35",
+      "37.40",
+      "38.55",
+      "colbert-ModernBERT-base-2-neg-1-epoch-gooaq-",
+      "54.10",
+      "46.95",
+      "53.25",
+      "1995000",
+      "colbert-MiniLM-L6-H384-uncased-1-neg-1-epoch_5",
+      "44.40",
+      "36.50",
+      "38.00",
+      "cross-encoder_minilm_tuned_1_epoch_2M_unseen_5",
+      "50.95",
+      "50.10",
+      "51.50",
+      "cross-encoder_minilm_tuned_5_epoch_2M_unseen_5",
+      "51.40",
+      "51.55",
+      "collbert_minilm_tuned_1_epoch_2M_unseen_5",
+      "43.25",
+      "36.35",
+      "37.50",
+      "CrOSS-",
+      "56.40",
+      "53.75",
+      "57.40",
+      "encoder_Modernbert_tuned_5_epoch_2M_unseen_5",
+      "61.05",
+      "53.95",
+      "62.30",
+      "encoder_Modernbert_tuned_1_epoch_2M_unseen_5"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fa49d5befb2ed2c7e797030ddac3ddaae1b543b69e101dd23cf505e5d03f1198"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-013",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a222_Screenshot-2025-04-07-at-5.40.49-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-013.png",
+    "section": "Training models from scratch",
+    "alt": "Training Results 2",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.550872093941266,
+          0.9604989600540993,
+          0.06831395262826512,
+          0.029106029106029108
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.7180232558185983,
+          0.9604989602595148,
+          0.042151163159314886,
+          0.029106029106029108
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.013028558984071343,
+          0.9276876211115026,
+          0.1134777650278361,
+          0.033513646115879925
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.8807145041470982,
+          0.9273525269757146,
+          0.10775704000795316,
+          0.03418383528933466
+        ],
+        "confidence": 1,
+        "text": "Hybrid@10"
+      },
+      {
+        "boundingBox": [
+          0.5523255837973542,
+          0.9019607847156161,
+          0.13372092630064059,
+          0.03267973822516357
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.718023258312858,
+          0.9019607847545206,
+          0.13372092630064059,
+          0.03267973822516357
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.013081397459711602,
+          0.8387799567666587,
+          0.43313953684967965,
+          0.03267973822516368
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-1-neg-5-epoch_10"
+      },
+      {
+        "boundingBox": [
+          0.5523255821438217,
+          0.8430353430096997,
+          0.05377906841584512,
+          0.030603000379153977
+        ],
+        "confidence": 1,
+        "text": "62.65"
+      },
+      {
+        "boundingBox": [
+          0.7180232566066312,
+          0.8430353431186323,
+          0.05232557893790046,
+          0.030603000379153866
+        ],
+        "confidence": 1,
+        "text": "54.10"
+      },
+      {
+        "boundingBox": [
+          0.8807780490005866,
+          0.8429866887935868,
+          0.056757855613476016,
+          0.030802221159429433
+        ],
+        "confidence": 1,
+        "text": "62.40"
+      },
+      {
+        "boundingBox": [
+          0.00833334358176289,
+          0.7812500017944861,
+          0.4458333276975848,
+          0.03787681714412816
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-5-neg-5-epoch-10"
+      },
+      {
+        "boundingBox": [
+          0.5523000754152586,
+          0.7842015804056308,
+          0.05528357022356789,
+          0.028546729851165575
+        ],
+        "confidence": 1,
+        "text": "65.20"
+      },
+      {
+        "boundingBox": [
+          0.7178934155940112,
+          0.7815697722016994,
+          0.05839921628999578,
+          0.031631698727359936
+        ],
+        "confidence": 1,
+        "text": "55.40"
+      },
+      {
+        "boundingBox": [
+          0.8806784658994077,
+          0.7815748960954657,
+          0.05550353348750492,
+          0.03162144920682208
+        ],
+        "confidence": 1,
+        "text": "64.95"
+      },
+      {
+        "boundingBox": [
+          0.013081405057549367,
+          0.7211328983976386,
+          0.43023254732676164,
+          0.030501088084897043
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-5-neg-1-epoch-10"
+      },
+      {
+        "boundingBox": [
+          0.5508258170179308,
+          0.7231172325943879,
+          0.05677859869029722,
+          0.03088971730825063
+        ],
+        "confidence": 1,
+        "text": "62.45"
+      },
+      {
+        "boundingBox": [
+          0.7179712883426396,
+          0.7230875449507963,
+          0.05824346885786813,
+          0.030949093943574035
+        ],
+        "confidence": 1,
+        "text": "54.50"
+      },
+      {
+        "boundingBox": [
+          0.8808139535307022,
+          0.7233115476060628,
+          0.05668604737173488,
+          0.030501088084897043
+        ],
+        "confidence": 1,
+        "text": "62.30"
+      },
+      {
+        "boundingBox": [
+          0.013081403373377633,
+          0.660083160513639,
+          0.4345930104770818,
+          0.030548646891191522
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-2-neg-4-epoch-10"
+      },
+      {
+        "boundingBox": [
+          0.5507653477273557,
+          0.6640132441287532,
+          0.05544604885280957,
+          0.029271986281301787
+        ],
+        "confidence": 1,
+        "text": "67.90"
+      },
+      {
+        "boundingBox": [
+          0.7179899904395001,
+          0.662169912028822,
+          0.05675257738277184,
+          0.030780002134009887
+        ],
+        "confidence": 1,
+        "text": "56.85"
+      },
+      {
+        "boundingBox": [
+          0.8807719370814673,
+          0.664307759999228,
+          0.053863102709487576,
+          0.028682954593904242
+        ],
+        "confidence": 1,
+        "text": "67.70"
+      },
+      {
+        "boundingBox": [
+          0.00833332470217423,
+          0.5997921001685095,
+          0.4333333361512076,
+          0.03770789782867112
+        ],
+        "confidence": 1,
+        "text": "colbert-ModernBERT-base-1-neg-1-epoch-10"
+      },
+      {
+        "boundingBox": [
+          0.5508720920056875,
+          0.605664488333362,
+          0.050872094743469765,
+          0.028431145911900657
+        ],
+        "confidence": 0.3,
+        "text": "49.10"
+      },
+      {
+        "boundingBox": [
+          0.7179430585178634,
+          0.6031389104420957,
+          0.05829992849080512,
+          0.031194946622154607
+        ],
+        "confidence": 1,
+        "text": "43.00"
+      },
+      {
+        "boundingBox": [
+          0.880813955495987,
+          0.6034858397048282,
+          0.05813953156616547,
+          0.030609794069476504
+        ],
+        "confidence": 1,
+        "text": "44.20"
+      },
+      {
+        "boundingBox": [
+          0.012500018617933963,
+          0.5374220365449228,
+          0.4749999746391317,
+          0.037577964164115296
+        ],
+        "confidence": 0.5,
+        "text": "collbert-ModernBERT-base-2-neg-1-epoch-gooaq-"
+      },
+      {
+        "boundingBox": [
+          0.5523255805473543,
+          0.514161220409258,
+          0.050872094743469654,
+          0.03053732473488413
+        ],
+        "confidence": 1,
+        "text": "61.20"
+      },
+      {
+        "boundingBox": [
+          0.7179325142930236,
+          0.5137880690613367,
+          0.05541404132367511,
+          0.03124739077879335
+        ],
+        "confidence": 1,
+        "text": "53.90"
+      },
+      {
+        "boundingBox": [
+          0.8807848674055677,
+          0.5140393424536838,
+          0.05674421886327852,
+          0.03074484406786504
+        ],
+        "confidence": 0.5,
+        "text": "60.55"
+      },
+      {
+        "boundingBox": [
+          0.011627907659536097,
+          0.4923747281033257,
+          0.08720929999100535,
+          0.026336290236570248
+        ],
+        "confidence": 1,
+        "text": "1995000"
+      },
+      {
+        "boundingBox": [
+          0.008333327678985659,
+          0.4250000011694861,
+          0.5083333276975849,
+          0.037577962181424396
+        ],
+        "confidence": 1,
+        "text": "colbert-MiniLM-L6-H384-uncased-1-neg-1-epoch-10"
+      },
+      {
+        "boundingBox": [
+          0.5522945430341396,
+          0.4290537055702116,
+          0.056748123380285787,
+          0.028602828107108125
+        ],
+        "confidence": 1,
+        "text": "50.45"
+      },
+      {
+        "boundingBox": [
+          0.7180232564594077,
+          0.4313725496598496,
+          0.047965115787580004,
+          0.02614378978705456
+        ],
+        "confidence": 0.5,
+        "text": "41.15"
+      },
+      {
+        "boundingBox": [
+          0.8807737878444657,
+          0.42684672218535735,
+          0.056766377921910194,
+          0.030838145535601824
+        ],
+        "confidence": 1,
+        "text": "42.30"
+      },
+      {
+        "boundingBox": [
+          0.013081387270944942,
+          0.36382536380282315,
+          0.5116279158235586,
+          0.03268879713982398
+        ],
+        "confidence": 0.5,
+        "text": "cross-encoder_minilm_tuned_1_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.5522580761968207,
+          0.36790752857077924,
+          0.05682105701055551,
+          0.031069474012093257
+        ],
+        "confidence": 1,
+        "text": "53.00"
+      },
+      {
+        "boundingBox": [
+          0.7180232563313441,
+          0.3679833678314085,
+          0.05523255789379,
+          0.031185031185031242
+        ],
+        "confidence": 1,
+        "text": "55.95"
+      },
+      {
+        "boundingBox": [
+          0.8808139531219088,
+          0.36798336751628247,
+          0.05668604737173488,
+          0.03118503118503113
+        ],
+        "confidence": 1,
+        "text": "53.05"
+      },
+      {
+        "boundingBox": [
+          0.013081395594040564,
+          0.3024948022556212,
+          0.5159883789738791,
+          0.033264033264033266
+        ],
+        "confidence": 0.5,
+        "text": "cross-encoder_minilm_tuned_5_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.5523255806533377,
+          0.30718954291288914,
+          0.050872094743469765,
+          0.030648294952456023
+        ],
+        "confidence": 0.5,
+        "text": "54.15"
+      },
+      {
+        "boundingBox": [
+          0.718023256541662,
+          0.30718954288565614,
+          0.05377906841584512,
+          0.030648294952456023
+        ],
+        "confidence": 0.5,
+        "text": "57.20"
+      },
+      {
+        "boundingBox": [
+          0.8808139531188806,
+          0.3071895428493452,
+          0.05668604737173488,
+          0.030648294952456023
+        ],
+        "confidence": 0.5,
+        "text": "53.05"
+      },
+      {
+        "boundingBox": [
+          0.013081394390124942,
+          0.24183006628575443,
+          0.44476745267323836,
+          0.034858386382739415
+        ],
+        "confidence": 0.5,
+        "text": "colbert_minilm_tuned_1_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.5523255811919884,
+          0.2483660134738913,
+          0.049418605265524995,
+          0.030501088084897043
+        ],
+        "confidence": 0.5,
+        "text": "52.15"
+      },
+      {
+        "boundingBox": [
+          0.7180232573454698,
+          0.24836601381625056,
+          0.05959302104411035,
+          0.030501088084896932
+        ],
+        "confidence": 1,
+        "text": "44.40"
+      },
+      {
+        "boundingBox": [
+          0.8807808407836034,
+          0.24822361463142795,
+          0.05820576041689207,
+          0.030785886760560932
+        ],
+        "confidence": 1,
+        "text": "46.00"
+      },
+      {
+        "boundingBox": [
+          0.0130498087035019,
+          0.19149774821792465,
+          0.061109685501563586,
+          0.02005461298254574
+        ],
+        "confidence": 0.5,
+        "text": "CrOSS-"
+      },
+      {
+        "boundingBox": [
+          0.5504419532244111,
+          0.15535896019516238,
+          0.05318586185698371,
+          0.03786595794614289
+        ],
+        "confidence": 1,
+        "text": "61.75"
+      },
+      {
+        "boundingBox": [
+          0.7180232575557876,
+          0.1590413942705492,
+          0.05813953156616547,
+          0.03267973822516368
+        ],
+        "confidence": 1,
+        "text": "60.85"
+      },
+      {
+        "boundingBox": [
+          0.8808139550810687,
+          0.1590413948307734,
+          0.05087208945995547,
+          0.03267973822516368
+        ],
+        "confidence": 0.5,
+        "text": "62.10"
+      },
+      {
+        "boundingBox": [
+          0.013081400091205246,
+          0.1285403050704248,
+          0.5058139367777224,
+          0.03267973822516368
+        ],
+        "confidence": 0.5,
+        "text": "encoder_Modernbert_tuned_5_epoch_2M_unseen_10"
+      },
+      {
+        "boundingBox": [
+          0.012915803151715923,
+          0.07502000112363927,
+          0.06137769704380194,
+          0.0220732877259443
+        ],
+        "confidence": 0.3,
+        "text": "CrOSS-"
+      },
+      {
+        "boundingBox": [
+          0.5508291382806129,
+          0.04558064723295374,
+          0.053864978357034965,
+          0.030843062609000382
+        ],
+        "confidence": 0.5,
+        "text": "66.15"
+      },
+      {
+        "boundingBox": [
+          0.7180232578361034,
+          0.04573804535238535,
+          0.05813953156616547,
+          0.030514677448233107
+        ],
+        "confidence": 1,
+        "text": "60.70"
+      },
+      {
+        "boundingBox": [
+          0.8807490433923599,
+          0.0454855348095613,
+          0.05536237912164832,
+          0.031033288912069357
+        ],
+        "confidence": 1,
+        "text": "67.20"
+      },
+      {
+        "boundingBox": [
+          0.013081408876663547,
+          0.013071895320969418,
+          0.4898255578038435,
+          0.03267973822516368
+        ],
+        "confidence": 0.5,
+        "text": "encoder_Modernbert_tuned_lepoch_2M_unseen_10"
+      }
+    ],
+    "ocr_text": "Vector\nFTS\nExperiment\nHybrid@10\nReranked@10\nReranked@10\ncolbert-ModernBERT-base-1-neg-5-epoch_10\n62.65\n54.10\n62.40\ncolbert-ModernBERT-base-5-neg-5-epoch-10\n65.20\n55.40\n64.95\ncolbert-ModernBERT-base-5-neg-1-epoch-10\n62.45\n54.50\n62.30\ncolbert-ModernBERT-base-2-neg-4-epoch-10\n67.90\n56.85\n67.70\ncolbert-ModernBERT-base-1-neg-1-epoch-10\n49.10\n43.00\n44.20\ncollbert-ModernBERT-base-2-neg-1-epoch-gooaq-\n61.20\n53.90\n60.55\n1995000\ncolbert-MiniLM-L6-H384-uncased-1-neg-1-epoch-10\n50.45\n41.15\n42.30\ncross-encoder_minilm_tuned_1_epoch_2M_unseen_10\n53.00\n55.95\n53.05\ncross-encoder_minilm_tuned_5_epoch_2M_unseen_10\n54.15\n57.20\n53.05\ncolbert_minilm_tuned_1_epoch_2M_unseen_10\n52.15\n44.40\n46.00\nCrOSS-\n61.75\n60.85\n62.10\nencoder_Modernbert_tuned_5_epoch_2M_unseen_10\nCrOSS-\n66.15\n60.70\n67.20\nencoder_Modernbert_tuned_lepoch_2M_unseen_10",
+    "description": "Training models from scratch中的配图，包含文字：Vector；FTS；Experiment；Hybrid@10；Reranked@10；Reranked@10；colbert-ModernBERT-base-1-neg-5-epoch_10；62.65；54.10；62.40；colbert-ModernBERT-base-5-neg-5-epoch-10；65.20；55.40；64.95；colbert-ModernBERT-base-5-neg-1-epoch-10；62.45；54.50；62.30；colbert-ModernBERT-base-2-neg-4-epoch-10；67.90；56.85；67.70；colbert-ModernBERT-base-1-neg-1-epoch-10；49.10；43.00；44.20；collbert-ModernBERT-base-2-neg-1-epoch-gooaq-；61.20；53.90；60.55",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Hybrid@10",
+      "Reranked@10",
+      "colbert-ModernBERT-base-1-neg-5-epoch_10",
+      "62.65",
+      "54.10",
+      "62.40",
+      "colbert-ModernBERT-base-5-neg-5-epoch-10",
+      "65.20",
+      "55.40",
+      "64.95",
+      "colbert-ModernBERT-base-5-neg-1-epoch-10",
+      "62.45",
+      "54.50",
+      "62.30",
+      "colbert-ModernBERT-base-2-neg-4-epoch-10",
+      "67.90",
+      "56.85",
+      "67.70",
+      "colbert-ModernBERT-base-1-neg-1-epoch-10",
+      "49.10",
+      "43.00",
+      "44.20",
+      "collbert-ModernBERT-base-2-neg-1-epoch-gooaq-",
+      "61.20",
+      "53.90",
+      "60.55",
+      "1995000",
+      "colbert-MiniLM-L6-H384-uncased-1-neg-1-epoch-10",
+      "50.45",
+      "41.15",
+      "42.30",
+      "cross-encoder_minilm_tuned_1_epoch_2M_unseen_10",
+      "53.00",
+      "55.95",
+      "53.05",
+      "cross-encoder_minilm_tuned_5_epoch_2M_unseen_10",
+      "54.15",
+      "57.20",
+      "colbert_minilm_tuned_1_epoch_2M_unseen_10",
+      "52.15",
+      "44.40",
+      "46.00",
+      "CrOSS-",
+      "61.75",
+      "60.85",
+      "62.10",
+      "encoder_Modernbert_tuned_5_epoch_2M_unseen_10",
+      "66.15",
+      "60.70",
+      "67.20",
+      "encoder_Modernbert_tuned_lepoch_2M_unseen_10"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c986372cd8d86694fc73ec042d76a26d873094f8fbbfbe9fe0cabf4c97455fe3"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-014",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293586cb8ad5eb78a1f5_Screenshot-2025-04-05-at-2.03.34-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-014.png",
+    "section": "Fine-tuning existing rerankers",
+    "alt": "Baseline Reranker Performance",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.32994186118106894,
+          0.8380281691027718,
+          0.06976743926576917,
+          0.0957953594100307
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.5101435954027133,
+          0.8376695613308747,
+          0.068375600745751,
+          0.09671970152519116
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.6787790691460599,
+          0.8380281690414972,
+          0.04360465153346149,
+          0.0957953594100307
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.8488372088747421,
+          0.8308823522193193,
+          0.04360465153346149,
+          0.10294117726070784
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.010084525519278149,
+          0.7326681982389431,
+          0.1150053656532904,
+          0.10819301806705095
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.33139535185097346,
+          0.6397058834091225,
+          0.13517441390948703,
+          0.11029411705446912
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.5101744215117845,
+          0.647058823624548,
+          0.12645348466538453,
+          0.10294117726070784
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.680232559215158,
+          0.639705883540425,
+          0.13372092924410262,
+          0.11029411705446912
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8501235370062379,
+          0.6346411878345108,
+          0.1253343226185748,
+          0.12042350500402321
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.01017442168608821,
+          0.4471830975029576,
+          0.2587209292441025,
+          0.08958160709327379
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.33139534980567165,
+          0.35211267719975503,
+          0.039244184254935865,
+          0.10376967510706936
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.5087209311428523,
+          0.33802817026376286,
+          0.056686045399615304,
+          0.11785418550733107
+        ],
+        "confidence": 1,
+        "text": "59.70"
+      },
+      {
+        "boundingBox": [
+          0.6802325586313298,
+          0.35211267572900184,
+          0.037790696933076906,
+          0.10376967846507756
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8488372109812403,
+          0.3380281691506093,
+          0.05959302004333322,
+          0.11785418550733107
+        ],
+        "confidence": 1,
+        "text": "50.45"
+      },
+      {
+        "boundingBox": [
+          0.009945501891375651,
+          0.23048616670163924,
+          0.09348109040751763,
+          0.12726296169657103
+        ],
+        "confidence": 0.5,
+        "text": "control_5"
+      },
+      {
+        "boundingBox": [
+          0.010174421257685013,
+          0.0441176462961167,
+          0.2747092924410254,
+          0.10376967846507756
+        ],
+        "confidence": 0.5,
+        "text": "answerai_colbert_control_10"
+      },
+      {
+        "boundingBox": [
+          0.33139534946589,
+          0.051470587104940346,
+          0.05668604539961536,
+          0.10345898883443472
+        ],
+        "confidence": 1,
+        "text": "68.25"
+      },
+      {
+        "boundingBox": [
+          0.5087209299860785,
+          0.05147058747258737,
+          0.04069767423326931,
+          0.10345898883443483
+        ],
+        "confidence": 0.5,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.6802325593605589,
+          0.05147058698239115,
+          0.05087209079923072,
+          0.10345898883443494
+        ],
+        "confidence": 1,
+        "text": "58.15"
+      },
+      {
+        "boundingBox": [
+          0.8488372091406327,
+          0.05147058747258715,
+          0.0406976742332692,
+          0.10345898883443494
+        ],
+        "confidence": 0.5,
+        "text": "N/A"
+      }
+    ],
+    "ocr_text": "Vector\nVector\nFTS\nFTS\nExperiment\nReranked@10\nReranked@5\nReranked@10\nReranked@5\nanswerai-colbert-small-v1-\nN/A\n59.70\nN/A\n50.45\ncontrol_5\nanswerai_colbert_control_10\n68.25\nN/A\n58.15\nN/A",
+    "description": "Fine-tuning existing rerankers中的配图，包含文字：Vector；Vector；FTS；FTS；Experiment；Reranked@10；Reranked@5；Reranked@10；Reranked@5；answerai-colbert-small-v1-；N/A；59.70；N/A；50.45；control_5；answerai_colbert_control_10；68.25；N/A；58.15；N/A",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Reranked@10",
+      "Reranked@5",
+      "answerai-colbert-small-v1-",
+      "N/A",
+      "59.70",
+      "50.45",
+      "control_5",
+      "answerai_colbert_control_10",
+      "68.25",
+      "58.15"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "76f0bb5b34b2881c9e17c3806c612a535a1870a35274c76dbb0a601b0b6e514b"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-015",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a21a_Screenshot-2025-04-05-at-2.03.47-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-015.png",
+    "section": "Fine-tuning existing rerankers",
+    "alt": "Finetuned Performance",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.29493833974672373,
+          0.8561442826586292,
+          0.06855355420158904,
+          0.08400773155618702
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.4839043980230228,
+          0.8563456258695135,
+          0.06852841211919475,
+          0.0836050439868452
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.6627906968391124,
+          0.8518518508465378,
+          0.04505814064226932,
+          0.0864197544797638
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.8401162781942307,
+          0.8518518508024462,
+          0.04505814064226932,
+          0.08641975447976369
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.013081395321374301,
+          0.7716049403037001,
+          0.11482558336403435,
+          0.09259258924856695
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.2965116303422895,
+          0.6975308638095008,
+          0.13372092703344424,
+          0.0864928036751832
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.4854651154978197,
+          0.6975308631922169,
+          0.125,
+          0.08649280649670488
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.6642441861860143,
+          0.6975308631922169,
+          0.13517441663596563,
+          0.08649280649670488
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8429404920389373,
+          0.6892981114574468,
+          0.12516552929077995,
+          0.09671241715109558
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.013081396309974711,
+          0.5370370381719645,
+          0.25726743743092273,
+          0.07538899867492321
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.29651162757398564,
+          0.4556213019193428,
+          0.03779069792050427,
+          0.08284023668639051
+        ],
+        "confidence": 0.5,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.48546511710423795,
+          0.44970414327024166,
+          0.055232557278235006,
+          0.08875739644970415
+        ],
+        "confidence": 0.5,
+        "text": "62.35"
+      },
+      {
+        "boundingBox": [
+          0.6642441862822238,
+          0.44970414219734334,
+          0.04069767448012607,
+          0.08875739644970415
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8413599392719793,
+          0.43617407886739124,
+          0.05419872670167025,
+          0.10296049061611556
+        ],
+        "confidence": 1,
+        "text": "51.30"
+      },
+      {
+        "boundingBox": [
+          0.011627907567699483,
+          0.3579881654785311,
+          0.1584302291129399,
+          0.09262911666779827
+        ],
+        "confidence": 1,
+        "text": "1-neg-1-epoch_5"
+      },
+      {
+        "boundingBox": [
+          0.013081399707503688,
+          0.20987654362463948,
+          0.25726743743092273,
+          0.07414712567301185
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.2916666682054456,
+          0.12280702168807767,
+          0.06666666525577541,
+          0.10526315136068676
+        ],
+        "confidence": 0.5,
+        "text": "70.00"
+      },
+      {
+        "boundingBox": [
+          0.4854651163922188,
+          0.12962963014727313,
+          0.03779069792050427,
+          0.07451238293619544
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.6655721706382598,
+          0.11587977159129337,
+          0.056937055019003036,
+          0.09540095131778148
+        ],
+        "confidence": 0.5,
+        "text": "58.35"
+      },
+      {
+        "boundingBox": [
+          0.8430232558120349,
+          0.12962963005451866,
+          0.03779069792050427,
+          0.08042954269950908
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.011627911882195922,
+          0.03703703829768923,
+          0.15406976030537556,
+          0.0872233153800287
+        ],
+        "confidence": 1,
+        "text": "1-neg-1-epoch_1"
+      }
+    ],
+    "ocr_text": "Vector\nVector\nFTS\nFTS\nExperiment\nReranked@10\nReranked@5\nReranked@10\nReranked@5\nanswerai-colbert-small-v1-\nN/A\n62.35\nN/A\n51.30\n1-neg-1-epoch_5\nanswerai-colbert-small-v1-\n70.00\nN/A\n58.35\nN/A\n1-neg-1-epoch_1",
+    "description": "Fine-tuning existing rerankers中的配图，包含文字：Vector；Vector；FTS；FTS；Experiment；Reranked@10；Reranked@5；Reranked@10；Reranked@5；answerai-colbert-small-v1-；N/A；62.35；N/A；51.30；1-neg-1-epoch_5；answerai-colbert-small-v1-；70.00；N/A；58.35；N/A；1-neg-1-epoch_1",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Reranked@10",
+      "Reranked@5",
+      "answerai-colbert-small-v1-",
+      "N/A",
+      "62.35",
+      "51.30",
+      "1-neg-1-epoch_5",
+      "70.00",
+      "58.35",
+      "1-neg-1-epoch_1"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3373a08c3db5ea759baea7626bdf0323ec250e44f62420563901399879ff3704"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-016",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a208_Screenshot-2025-04-07-at-1.52.49-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-016.png",
+    "section": "**Latency vs Performance**",
+    "alt": "Performance Improvements",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6416666643750001,
+          0.8805970141791045,
+          0.18333333333333335,
+          0.08955223880597019
+        ],
+        "confidence": 1,
+        "text": "FTS Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.010071723333211264,
+          0.8886672140433677,
+          0.09032166798909505,
+          0.06641557560631284
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.3691860480842171,
+          0.8802083327752976,
+          0.20348837110731338,
+          0.078125
+        ],
+        "confidence": 1,
+        "text": "Vector Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.887976970975645,
+          0.8787115416703006,
+          0.08015071021185982,
+          0.07591025034586596
+        ],
+        "confidence": 1,
+        "text": "Latency"
+      },
+      {
+        "boundingBox": [
+          0.010174417452269541,
+          0.743781094744377,
+          0.2165697733561198,
+          0.06965174129353235
+        ],
+        "confidence": 0.5,
+        "text": "No Reranker （Baseline）"
+      },
+      {
+        "boundingBox": [
+          0.3690905434444934,
+          0.7437251143133667,
+          0.05833054118686248,
+          0.06984143707882695
+        ],
+        "confidence": 1,
+        "text": "60.30"
+      },
+      {
+        "boundingBox": [
+          0.6424418615532359,
+          0.7388059709305037,
+          0.055232556660970045,
+          0.07960199004975133
+        ],
+        "confidence": 1,
+        "text": "39.25"
+      },
+      {
+        "boundingBox": [
+          0.8866279070989133,
+          0.7388059694982121,
+          0.056686046388414124,
+          0.07960199004975121
+        ],
+        "confidence": 1,
+        "text": "28.05"
+      },
+      {
+        "boundingBox": [
+          0.010174423771083123,
+          0.6041666669270833,
+          0.2209302266438802,
+          0.06770833333333337
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.36911883222591163,
+          0.5983178586012352,
+          0.05391349792480471,
+          0.07419761733629215
+        ],
+        "confidence": 1,
+        "text": "67.90"
+      },
+      {
+        "boundingBox": [
+          0.6437061194695906,
+          0.5970782849464598,
+          0.05561101701524529,
+          0.0766767625191912
+        ],
+        "confidence": 1,
+        "text": "56.85"
+      },
+      {
+        "boundingBox": [
+          0.886578609441875,
+          0.5984512365710164,
+          0.05823813014560275,
+          0.07393085897265372
+        ],
+        "confidence": 1,
+        "text": "60.88"
+      },
+      {
+        "boundingBox": [
+          0.010174423340640202,
+          0.46268656738739333,
+          0.16279069052802192,
+          0.06335509950248763
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.3705418045919164,
+          0.4521391469552086,
+          0.05688150723775226,
+          0.07488837170956752
+        ],
+        "confidence": 1,
+        "text": "50.45"
+      },
+      {
+        "boundingBox": [
+          0.642441862028468,
+          0.4577114422218336,
+          0.04796511332194009,
+          0.06833022388059706
+        ],
+        "confidence": 1,
+        "text": "41.15"
+      },
+      {
+        "boundingBox": [
+          0.8880263307222859,
+          0.4526153079162619,
+          0.052435710695054816,
+          0.0739360496179381
+        ],
+        "confidence": 1,
+        "text": "31.03"
+      },
+      {
+        "boundingBox": [
+          0.010174419395111637,
+          0.3177083330729167,
+          0.18895348442925347,
+          0.06288868159203975
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT Answer V1"
+      },
+      {
+        "boundingBox": [
+          0.3691570390608386,
+          0.31218729403775636,
+          0.05674406157599554,
+          0.06833374440966555
+        ],
+        "confidence": 1,
+        "text": "68.25"
+      },
+      {
+        "boundingBox": [
+          0.6438316517807607,
+          0.31188146659214044,
+          0.05099948777092833,
+          0.06894540075045918
+        ],
+        "confidence": 0.5,
+        "text": "58.15"
+      },
+      {
+        "boundingBox": [
+          0.8866083130958303,
+          0.3071059700118667,
+          0.053818257649739576,
+          0.07328805876015432
+        ],
+        "confidence": 1,
+        "text": "37.83"
+      },
+      {
+        "boundingBox": [
+          0.010174418394560902,
+          0.16666666582031253,
+          0.27325581444634334,
+          0.06770833333333337
+        ],
+        "confidence": 1,
+        "text": "Cross-Encoder ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.3691860467529376,
+          0.1666666662109374,
+          0.05087209277682836,
+          0.07291666666666674
+        ],
+        "confidence": 0.5,
+        "text": "66.15"
+      },
+      {
+        "boundingBox": [
+          0.6416666677083334,
+          0.16417910522388057,
+          0.0625,
+          0.0746268656716419
+        ],
+        "confidence": 1,
+        "text": "60.70"
+      },
+      {
+        "boundingBox": [
+          0.8865880880818935,
+          0.16626782892594005,
+          0.05676568349202471,
+          0.07371434169029112
+        ],
+        "confidence": 1,
+        "text": "68.22"
+      },
+      {
+        "boundingBox": [
+          0.010174422479847381,
+          0.024875621630130573,
+          0.21511626773410375,
+          0.06467661691542292
+        ],
+        "confidence": 0.5,
+        "text": "Cross-Encoder MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.3704515131368753,
+          0.01911715874770259,
+          0.051248137156168605,
+          0.07634901644578618
+        ],
+        "confidence": 0.5,
+        "text": "54.15"
+      },
+      {
+        "boundingBox": [
+          0.6438581943416366,
+          0.02048050022510195,
+          0.05385337935553658,
+          0.0736223334696755
+        ],
+        "confidence": 0.5,
+        "text": "57.20"
+      },
+      {
+        "boundingBox": [
+          0.8863694746224634,
+          0.018171886436293194,
+          0.0572029113769531,
+          0.07823956190650139
+        ],
+        "confidence": 1,
+        "text": "24.79"
+      }
+    ],
+    "ocr_text": "FTS Reranked@10\nReranker\nVector Reranked@10\nLatency\nNo Reranker （Baseline）\n60.30\n39.25\n28.05\nColBERT ModernBERT\n67.90\n56.85\n60.88\nColBERT MiniLM\n50.45\n41.15\n31.03\nColBERT Answer V1\n68.25\n58.15\n37.83\nCross-Encoder ModernBERT\n66.15\n60.70\n68.22\nCross-Encoder MiniLM\n54.15\n57.20\n24.79",
+    "description": "**Latency vs Performance**中的配图，包含文字：FTS Reranked@10；Reranker；Vector Reranked@10；Latency；No Reranker （Baseline）；60.30；39.25；28.05；ColBERT ModernBERT；67.90；56.85；60.88；ColBERT MiniLM；50.45；41.15；31.03；ColBERT Answer V1；68.25；58.15；37.83；Cross-Encoder ModernBERT；66.15；60.70；68.22；Cross-Encoder MiniLM；54.15；57.20；24.79",
+    "entities": [
+      "FTS Reranked@10",
+      "Reranker",
+      "Vector Reranked@10",
+      "Latency",
+      "No Reranker （Baseline）",
+      "60.30",
+      "39.25",
+      "28.05",
+      "ColBERT ModernBERT",
+      "67.90",
+      "56.85",
+      "60.88",
+      "ColBERT MiniLM",
+      "50.45",
+      "41.15",
+      "31.03",
+      "ColBERT Answer V1",
+      "68.25",
+      "58.15",
+      "37.83",
+      "Cross-Encoder ModernBERT",
+      "66.15",
+      "60.70",
+      "68.22",
+      "Cross-Encoder MiniLM",
+      "54.15",
+      "57.20",
+      "24.79"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "49932db02959c6ce7cd49f8144e9f11b8acfb6cb2e2640419a7e84a7cdda7bdb"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-017",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 17,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a20e_Screenshot-2025-04-05-at-2.21.26-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-017.png",
+    "section": "**Latency vs Performance**",
+    "alt": "Latency Comparison",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2629328714147394,
+          0.916919416224608,
+          0.06425053751684195,
+          0.05595708638429642
+        ],
+        "confidence": 1,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.3778502431836051,
+          0.9176723998026783,
+          0.08150881686363165,
+          0.054451119154691696
+        ],
+        "confidence": 0.5,
+        "text": "Limit 20"
+      },
+      {
+        "boundingBox": [
+          0.5057787199751816,
+          0.9179300837234273,
+          0.08291930515676604,
+          0.05393575131893158
+        ],
+        "confidence": 0.5,
+        "text": "Limit 50"
+      },
+      {
+        "boundingBox": [
+          0.6380608909299061,
+          0.9180868830363829,
+          0.09161077719570365,
+          0.05362215265631676
+        ],
+        "confidence": 0.5,
+        "text": "Limit 100"
+      },
+      {
+        "boundingBox": [
+          0.7761627953387058,
+          0.9179687503024115,
+          0.17005813237854772,
+          0.05345982126891613
+        ],
+        "confidence": 1,
+        "text": "Slowdown Factor"
+      },
+      {
+        "boundingBox": [
+          0.01305593969494409,
+          0.8649574915886266,
+          0.09162067736969205,
+          0.05375848710536957
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.26443248438266814,
+          0.815598514166196,
+          0.04380945038563355,
+          0.05043562687933445
+        ],
+        "confidence": 1,
+        "text": "Size"
+      },
+      {
+        "boundingBox": [
+          0.3749999989651158,
+          0.8122448976362631,
+          0.04796511738953574,
+          0.05714285746216774
+        ],
+        "confidence": 1,
+        "text": "（ms）"
+      },
+      {
+        "boundingBox": [
+          0.5043604650687986,
+          0.8122448975954468,
+          0.046511627536821476,
+          0.05714285746216774
+        ],
+        "confidence": 1,
+        "text": "（ms）"
+      },
+      {
+        "boundingBox": [
+          0.6333333346222237,
+          0.8139534888303136,
+          0.04999999575555247,
+          0.05909338593482971
+        ],
+        "confidence": 1,
+        "text": "（ms）"
+      },
+      {
+        "boundingBox": [
+          0.7761627884042447,
+          0.8122448975768939,
+          0.09738372463178568,
+          0.05714285746216774
+        ],
+        "confidence": 0.5,
+        "text": "（Limit 20）"
+      },
+      {
+        "boundingBox": [
+          0.013081399599164998,
+          0.6972656256702212,
+          0.21656975460980965,
+          0.0546875
+        ],
+        "confidence": 0.5,
+        "text": "No Reranker （Baseline）"
+      },
+      {
+        "boundingBox": [
+          0.26598837282385157,
+          0.7011718741017663,
+          0.037790696378875,
+          0.0546875
+        ],
+        "confidence": 0.3,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.376423261906872,
+          0.6977157624434597,
+          0.05819998729212389,
+          0.057629700750112534
+        ],
+        "confidence": 1,
+        "text": "28.05"
+      },
+      {
+        "boundingBox": [
+          0.5043218477978283,
+          0.6936090741216222,
+          0.05385630452417367,
+          0.06176144257187843
+        ],
+        "confidence": 1,
+        "text": "18.32"
+      },
+      {
+        "boundingBox": [
+          0.638061363620121,
+          0.697814218135989,
+          0.05236564392174725,
+          0.057432789355516434
+        ],
+        "confidence": 1,
+        "text": "31.89"
+      },
+      {
+        "boundingBox": [
+          0.7761627896765174,
+          0.6972656254321259,
+          0.0537790714948333,
+          0.0546875
+        ],
+        "confidence": 1,
+        "text": "1.00x"
+      },
+      {
+        "boundingBox": [
+          0.6333333371287055,
+          0.5930232574349648,
+          0.07916666171481113,
+          0.058139532804489136
+        ],
+        "confidence": 1,
+        "text": "243.85"
+      },
+      {
+        "boundingBox": [
+          0.01308140092474469,
+          0.5877551022552029,
+          0.22093022416795244,
+          0.05306122452020645
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.2630813960030923,
+          0.5877551018215295,
+          0.05523255604198812,
+          0.05306122452020645
+        ],
+        "confidence": 1,
+        "text": "150M"
+      },
+      {
+        "boundingBox": [
+          0.37790697711321086,
+          0.5836734687519094,
+          0.056686045894702386,
+          0.05714285746216774
+        ],
+        "confidence": 1,
+        "text": "60.88"
+      },
+      {
+        "boundingBox": [
+          0.5043604652495155,
+          0.5836734687519094,
+          0.0625,
+          0.05714285746216774
+        ],
+        "confidence": 1,
+        "text": "114.70"
+      },
+      {
+        "boundingBox": [
+          0.7761627919822364,
+          0.5836734687519094,
+          0.049418601936690454,
+          0.05714285746216774
+        ],
+        "confidence": 0.5,
+        "text": "2.17x"
+      },
+      {
+        "boundingBox": [
+          0.013081398340440736,
+          0.4775510207414897,
+          0.16279069372609528,
+          0.04979272931814194
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.2645348831509203,
+          0.4775510203333264,
+          0.03197674492635716,
+          0.04979272931814194
+        ],
+        "confidence": 1,
+        "text": "6M"
+      },
+      {
+        "boundingBox": [
+          0.37776112681245955,
+          0.4683174617986976,
+          0.052617281302291596,
+          0.05928344279527664
+        ],
+        "confidence": 1,
+        "text": "31.03"
+      },
+      {
+        "boundingBox": [
+          0.5058139541511227,
+          0.4726562502295919,
+          0.056686045894702386,
+          0.0546875
+        ],
+        "confidence": 1,
+        "text": "55.07"
+      },
+      {
+        "boundingBox": [
+          0.6333333326138892,
+          0.4765625003715859,
+          0.07499999893888809,
+          0.05859375
+        ],
+        "confidence": 1,
+        "text": "105.00"
+      },
+      {
+        "boundingBox": [
+          0.7761627907779391,
+          0.47265624955782315,
+          0.04215116328423807,
+          0.0546875
+        ],
+        "confidence": 0.5,
+        "text": "1.11x"
+      },
+      {
+        "boundingBox": [
+          0.013081393427567294,
+          0.3632653060476121,
+          0.1889534898527143,
+          0.04897959157824516
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT Answer V1"
+      },
+      {
+        "boundingBox": [
+          0.26453488430248734,
+          0.3632653064784511,
+          0.04360465048417261,
+          0.04897959157824516
+        ],
+        "confidence": 1,
+        "text": "33M"
+      },
+      {
+        "boundingBox": [
+          0.37642198445626496,
+          0.35486103292400295,
+          0.05529556486636439,
+          0.05762487277388573
+        ],
+        "confidence": 1,
+        "text": "37.83"
+      },
+      {
+        "boundingBox": [
+          0.5057124281258804,
+          0.35433981784473056,
+          0.05398212056166607,
+          0.05866730213165283
+        ],
+        "confidence": 1,
+        "text": "67.53"
+      },
+      {
+        "boundingBox": [
+          0.6365622262091543,
+          0.3585525232198187,
+          0.06408485019986265,
+          0.054323526099324226
+        ],
+        "confidence": 1,
+        "text": "135.76"
+      },
+      {
+        "boundingBox": [
+          0.776162790622739,
+          0.36326530654942046,
+          0.05232558164211898,
+          0.05306122452020645
+        ],
+        "confidence": 0.5,
+        "text": "1.35x"
+      },
+      {
+        "boundingBox": [
+          0.013081398263244151,
+          0.24804687440620166,
+          0.14244185701033338,
+          0.05078125
+        ],
+        "confidence": 1,
+        "text": "Cross-Encoder"
+      },
+      {
+        "boundingBox": [
+          0.26453488260287406,
+          0.19921874930938444,
+          0.0537790714948333,
+          0.0546875
+        ],
+        "confidence": 1,
+        "text": "150M"
+      },
+      {
+        "boundingBox": [
+          0.37636210342637777,
+          0.19513824333427499,
+          0.05686881711320518,
+          0.05462147295475006
+        ],
+        "confidence": 1,
+        "text": "68.22"
+      },
+      {
+        "boundingBox": [
+          0.5042749685284881,
+          0.19102002563117093,
+          0.06848494698175644,
+          0.05877627432346344
+        ],
+        "confidence": 1,
+        "text": "144.56"
+      },
+      {
+        "boundingBox": [
+          0.6380141487109202,
+          0.19122379714112103,
+          0.06554147033266955,
+          0.058368731290102005
+        ],
+        "confidence": 1,
+        "text": "269.70"
+      },
+      {
+        "boundingBox": [
+          0.77591735373271,
+          0.18990923524716485,
+          0.05572343171057348,
+          0.06099785678088665
+        ],
+        "confidence": 0.3,
+        "text": "2.43×"
+      },
+      {
+        "boundingBox": [
+          0.013081399001293705,
+          0.1464843741016998,
+          0.13081394879973812,
+          0.05351562611758709
+        ],
+        "confidence": 1,
+        "text": "ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.013081403563554448,
+          0.036734694619040664,
+          0.21656975460980962,
+          0.04920280538499355
+        ],
+        "confidence": 0.5,
+        "text": "Cross-Encoder MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.2645348831509203,
+          0.03673469380271421,
+          0.03197674492635716,
+          0.04920280538499355
+        ],
+        "confidence": 1,
+        "text": "6M"
+      },
+      {
+        "boundingBox": [
+          0.376197195760741,
+          0.02664818432508065,
+          0.057198631912677156,
+          0.0650709792971611
+        ],
+        "confidence": 0.5,
+        "text": "24.79"
+      },
+      {
+        "boundingBox": [
+          0.5058139538902734,
+          0.02857142800361001,
+          0.056686045894702386,
+          0.05736607126891613
+        ],
+        "confidence": 1,
+        "text": "48.99"
+      },
+      {
+        "boundingBox": [
+          0.6380123180867342,
+          0.028040626342570762,
+          0.05537071281082939,
+          0.05820446088910103
+        ],
+        "confidence": 1,
+        "text": "82.56"
+      },
+      {
+        "boundingBox": [
+          0.7774112519056565,
+          0.026925938014817685,
+          0.057096101975739444,
+          0.06043383851647377
+        ],
+        "confidence": 0.5,
+        "text": "0.88x"
+      }
+    ],
+    "ocr_text": "Model\nLimit 20\nLimit 50\nLimit 100\nSlowdown Factor\nReranker\nSize\n（ms）\n（ms）\n（ms）\n（Limit 20）\nNo Reranker （Baseline）\nN/A\n28.05\n18.32\n31.89\n1.00x\n243.85\nColBERT ModernBERT\n150M\n60.88\n114.70\n2.17x\nColBERT MiniLM\n6M\n31.03\n55.07\n105.00\n1.11x\nColBERT Answer V1\n33M\n37.83\n67.53\n135.76\n1.35x\nCross-Encoder\n150M\n68.22\n144.56\n269.70\n2.43×\nModernBERT\nCross-Encoder MiniLM\n6M\n24.79\n48.99\n82.56\n0.88x",
+    "description": "**Latency vs Performance**中的配图，包含文字：Model；Limit 20；Limit 50；Limit 100；Slowdown Factor；Reranker；Size；（ms）；（ms）；（ms）；（Limit 20）；No Reranker （Baseline）；N/A；28.05；18.32；31.89；1.00x；243.85；ColBERT ModernBERT；150M；60.88；114.70；2.17x；ColBERT MiniLM；6M；31.03；55.07；105.00；1.11x；ColBERT Answer V1",
+    "entities": [
+      "Model",
+      "Limit 20",
+      "Limit 50",
+      "Limit 100",
+      "Slowdown Factor",
+      "Reranker",
+      "Size",
+      "（ms）",
+      "（Limit 20）",
+      "No Reranker （Baseline）",
+      "N/A",
+      "28.05",
+      "18.32",
+      "31.89",
+      "1.00x",
+      "243.85",
+      "ColBERT ModernBERT",
+      "150M",
+      "60.88",
+      "114.70",
+      "2.17x",
+      "ColBERT MiniLM",
+      "6M",
+      "31.03",
+      "55.07",
+      "105.00",
+      "1.11x",
+      "ColBERT Answer V1",
+      "33M",
+      "37.83",
+      "67.53",
+      "135.76",
+      "1.35x",
+      "Cross-Encoder",
+      "68.22",
+      "144.56",
+      "269.70",
+      "2.43×",
+      "ModernBERT",
+      "Cross-Encoder MiniLM",
+      "24.79",
+      "48.99",
+      "82.56",
+      "0.88x"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d68a6100d0773eddc9d199af30b762d9ec9c1d3bd00b557bcfe7c28523a2d841"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-018",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 18,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293686cb8ad5eb78a217_Screenshot-2025-04-07-at-1.54.03-AM.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-018.png",
+    "section": "**Who should and should NOT use rerankers?**",
+    "alt": "CPU Performance",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.008694386982664106,
+          0.8959054905169977,
+          0.09307634364293275,
+          0.06829264626574161
+        ],
+        "confidence": 1,
+        "text": "Reranker"
+      },
+      {
+        "boundingBox": [
+          0.3691860488649898,
+          0.8905472647225992,
+          0.20639534635916773,
+          0.07960199004975121
+        ],
+        "confidence": 1,
+        "text": "Vector Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.6453488401122782,
+          0.8905472647225992,
+          0.18023255417466832,
+          0.07960199004975121
+        ],
+        "confidence": 0.5,
+        "text": "FTS Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8907355909384649,
+          0.8900674240978952,
+          0.08200836181640625,
+          0.07304328235227664
+        ],
+        "confidence": 1,
+        "text": "Latency"
+      },
+      {
+        "boundingBox": [
+          0.010174418400777407,
+          0.7512437806387907,
+          0.21511627708733413,
+          0.06740906938391533
+        ],
+        "confidence": 0.5,
+        "text": "No Reranker （Baseline）"
+      },
+      {
+        "boundingBox": [
+          0.37056364338181347,
+          0.7453359451372702,
+          0.05829131803033072,
+          0.0740949478908558
+        ],
+        "confidence": 1,
+        "text": "60.30"
+      },
+      {
+        "boundingBox": [
+          0.6453272013891873,
+          0.7510758292752884,
+          0.053822341577966726,
+          0.06779652685668336
+        ],
+        "confidence": 1,
+        "text": "39.25"
+      },
+      {
+        "boundingBox": [
+          0.8909600847757622,
+          0.7509925088454643,
+          0.05674262020175025,
+          0.0679631683956925
+        ],
+        "confidence": 1,
+        "text": "53.85"
+      },
+      {
+        "boundingBox": [
+          0.008720931465178682,
+          0.6113989651845915,
+          0.22238372291266587,
+          0.06273038826178556
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.3705123185115973,
+          0.6049082879031384,
+          0.05403350318610334,
+          0.06997617323007166
+        ],
+        "confidence": 1,
+        "text": "67.90"
+      },
+      {
+        "boundingBox": [
+          0.6453300339019161,
+          0.6060165705737055,
+          0.05672365327121165,
+          0.06775960637562317
+        ],
+        "confidence": 1,
+        "text": "56.85"
+      },
+      {
+        "boundingBox": [
+          0.8909323476333714,
+          0.6003330290608019,
+          0.07133297946866002,
+          0.07394534201171277
+        ],
+        "confidence": 1,
+        "text": "246.44"
+      },
+      {
+        "boundingBox": [
+          0.008720931547809046,
+          0.46517412844283335,
+          0.16279069271833538,
+          0.06332327951839312
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.3706395344843672,
+          0.46019900501217015,
+          0.058139534635916756,
+          0.07462686567164178
+        ],
+        "confidence": 1,
+        "text": "50.45"
+      },
+      {
+        "boundingBox": [
+          0.645348838595061,
+          0.46019900540945036,
+          0.04796511367712608,
+          0.06829840389650255
+        ],
+        "confidence": 0.5,
+        "text": "41.15"
+      },
+      {
+        "boundingBox": [
+          0.889384892369745,
+          0.4594279308687439,
+          0.064253471417134,
+          0.07596279258158667
+        ],
+        "confidence": 1,
+        "text": "107.90"
+      },
+      {
+        "boundingBox": [
+          0.008720932341766581,
+          0.3208955215389844,
+          0.1904069698056695,
+          0.06770551501221911
+        ],
+        "confidence": 0.5,
+        "text": "ColBERT Answer V1"
+      },
+      {
+        "boundingBox": [
+          0.37062101755272364,
+          0.3158831412341586,
+          0.05526959296711331,
+          0.07289692892957089
+        ],
+        "confidence": 1,
+        "text": "68.25"
+      },
+      {
+        "boundingBox": [
+          0.6453488367867097,
+          0.3159203985857888,
+          0.05087209413837457,
+          0.07268063701800442
+        ],
+        "confidence": 0.5,
+        "text": "58.15"
+      },
+      {
+        "boundingBox": [
+          0.8893238057900157,
+          0.3136306457928223,
+          0.0643756429576341,
+          0.0774019203375822
+        ],
+        "confidence": 1,
+        "text": "137.59"
+      },
+      {
+        "boundingBox": [
+          0.008720925465272361,
+          0.17616580399288162,
+          0.27470930728166465,
+          0.06264016640127001
+        ],
+        "confidence": 1,
+        "text": "Cross-Encoder ModernBERT"
+      },
+      {
+        "boundingBox": [
+          0.3705323233342571,
+          0.17002097408775518,
+          0.05108651635367112,
+          0.07446582281767433
+        ],
+        "confidence": 1,
+        "text": "66.15"
+      },
+      {
+        "boundingBox": [
+          0.6453488383559085,
+          0.17098445558791653,
+          0.05668604440529257,
+          0.07279663892527721
+        ],
+        "confidence": 1,
+        "text": "60.70"
+      },
+      {
+        "boundingBox": [
+          0.8908661065544311,
+          0.16959462700680605,
+          0.0641980197842561,
+          0.07531851678345325
+        ],
+        "confidence": 1,
+        "text": "276.01"
+      },
+      {
+        "boundingBox": [
+          0.008720932129915565,
+          0.036269431816715825,
+          0.21656976199016892,
+          0.06323305528555345
+        ],
+        "confidence": 0.5,
+        "text": "Cross-Encoder MiniLM"
+      },
+      {
+        "boundingBox": [
+          0.3705821079381774,
+          0.025378582389540605,
+          0.052440435526757256,
+          0.07359516561327883
+        ],
+        "confidence": 1,
+        "text": "54.15"
+      },
+      {
+        "boundingBox": [
+          0.6451088525683959,
+          0.023752419028171046,
+          0.05425903917024921,
+          0.08202883971864317
+        ],
+        "confidence": 1,
+        "text": "57.20"
+      },
+      {
+        "boundingBox": [
+          0.8909143080254253,
+          0.02514760105106728,
+          0.05828766316674949,
+          0.07405712829893496
+        ],
+        "confidence": 1,
+        "text": "83.02"
+      }
+    ],
+    "ocr_text": "Reranker\nVector Reranked@10\nFTS Reranked@10\nLatency\nNo Reranker （Baseline）\n60.30\n39.25\n53.85\nColBERT ModernBERT\n67.90\n56.85\n246.44\nColBERT MiniLM\n50.45\n41.15\n107.90\nColBERT Answer V1\n68.25\n58.15\n137.59\nCross-Encoder ModernBERT\n66.15\n60.70\n276.01\nCross-Encoder MiniLM\n54.15\n57.20\n83.02",
+    "description": "**Who should and should NOT use rerankers?**中的配图，包含文字：Reranker；Vector Reranked@10；FTS Reranked@10；Latency；No Reranker （Baseline）；60.30；39.25；53.85；ColBERT ModernBERT；67.90；56.85；246.44；ColBERT MiniLM；50.45；41.15；107.90；ColBERT Answer V1；68.25；58.15；137.59；Cross-Encoder ModernBERT；66.15；60.70；276.01；Cross-Encoder MiniLM；54.15；57.20；83.02",
+    "entities": [
+      "Reranker",
+      "Vector Reranked@10",
+      "FTS Reranked@10",
+      "Latency",
+      "No Reranker （Baseline）",
+      "60.30",
+      "39.25",
+      "53.85",
+      "ColBERT ModernBERT",
+      "67.90",
+      "56.85",
+      "246.44",
+      "ColBERT MiniLM",
+      "50.45",
+      "41.15",
+      "107.90",
+      "ColBERT Answer V1",
+      "68.25",
+      "58.15",
+      "137.59",
+      "Cross-Encoder ModernBERT",
+      "66.15",
+      "60.70",
+      "276.01",
+      "Cross-Encoder MiniLM",
+      "54.15",
+      "57.20",
+      "83.02"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a19d2db40e956439e057c45fe503229301abab85efa1156e4b2c77e1a6f3ac9a"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-019",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 19,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-019.avif",
+    "section": "Reproducibility",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Reproducibility中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-020",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 20,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-020.png",
+    "section": "Reproducibility",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Reproducibility中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-021",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 21,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-021.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb-fig-022",
+    "doc_id": "1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb",
+    "seq": 22,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1421-https-www-lancedb-com-blog-a-practical-guide-to-797cfcdb/figure-022.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

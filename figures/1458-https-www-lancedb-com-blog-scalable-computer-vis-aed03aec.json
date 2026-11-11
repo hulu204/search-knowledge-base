@@ -1,0 +1,1084 @@
+[
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-001",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c73472cd7f6d8f6240472d_preview-image.avif",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-001.avif",
+    "section": "Scalable Computer Vision with LanceDB & Voxel51",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09273732274327064,
+          0.8808266476889883,
+          0.1488276799519857,
+          0.054884174134996244
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.6656976666347983,
+          0.34883720721303113,
+          0.09883722464243572,
+          0.24806202076099537
+        ],
+        "confidence": 0.3,
+        "text": "—"
+      },
+      {
+        "boundingBox": [
+          0.04651162550553097,
+          0.06459948102682589,
+          0.20930233001708984,
+          0.4211886370623553
+        ],
+        "confidence": 0.3,
+        "text": "分"
+      }
+    ],
+    "ocr_text": "LanceDB\n—\n分",
+    "description": "Scalable Computer Vision with LanceDB & Voxel51中的配图，包含文字：LanceDB；—；分",
+    "entities": [
+      "LanceDB",
+      "—",
+      "分"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1db985f1e1c6534c70ccf1ccce52e82f6c0592e09ba9331cc4a0289513b129ae"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-002",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bd7f377f85d6011558e_1*RFtus4W8XVeoG0Bc08IHdg.avif",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-002.avif",
+    "section": "Importance of dataset analysis in CV",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08039970960573291,
+          0.9011877496313186,
+          0.08075902369115258,
+          0.0327122203090735
+        ],
+        "confidence": 1,
+        "text": "FiftyOne"
+      },
+      {
+        "boundingBox": [
+          0.1688311708658008,
+          0.9087719299415205,
+          0.12207792207792206,
+          0.021052631578947434
+        ],
+        "confidence": 0.5,
+        "text": "bddiook-validation"
+      },
+      {
+        "boundingBox": [
+          0.3090683935081461,
+          0.9121335006210649,
+          0.06238269558200593,
+          0.017838260583710186
+        ],
+        "confidence": 0.3,
+        "text": "+.8dd stage"
+      },
+      {
+        "boundingBox": [
+          0.8129870128616211,
+          0.9122807017785844,
+          0.07792207792207795,
+          0.014035087719298178
+        ],
+        "confidence": 0.3,
+        "text": "Have aleami"
+      },
+      {
+        "boundingBox": [
+          0.9194805197402597,
+          0.9052631581140351,
+          0.020779220779220786,
+          0.024561403508771895
+        ],
+        "confidence": 0.3,
+        "text": "~"
+      },
+      {
+        "boundingBox": [
+          0.9428571430649351,
+          0.9052631580701754,
+          0.020779220779220786,
+          0.024561403508771895
+        ],
+        "confidence": 0.3,
+        "text": "睏"
+      },
+      {
+        "boundingBox": [
+          0.04675324590909093,
+          0.8385964910964913,
+          0.06753246753246753,
+          0.01754385964912275
+        ],
+        "confidence": 0.5,
+        "text": "Sample tags"
+      },
+      {
+        "boundingBox": [
+          0.13506493411255416,
+          0.8385964910526316,
+          0.057142857142857134,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "Labeltags"
+      },
+      {
+        "boundingBox": [
+          0.21298701357620042,
+          0.8385964910526316,
+          0.03896103648396282,
+          0.01754385964912286
+        ],
+        "confidence": 1,
+        "text": "Labels"
+      },
+      {
+        "boundingBox": [
+          0.27272727260304913,
+          0.838596491266209,
+          0.0623376623376623,
+          0.01754385964912275
+        ],
+        "confidence": 0.3,
+        "text": "Other fields"
+      },
+      {
+        "boundingBox": [
+          0.8857142860064935,
+          0.8385964914912281,
+          0.04935064935064937,
+          0.021052631578947434
+        ],
+        "confidence": 0.3,
+        "text": "Show m"
+      },
+      {
+        "boundingBox": [
+          0.049350648138528186,
+          0.803508771754386,
+          0.07272727272727272,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "ro rapeitags："
+      },
+      {
+        "boundingBox": [
+          0.410389611012987,
+          0.7719298247719298,
+          0.06233766233766236,
+          0.03508771929824561
+        ],
+        "confidence": 0.3,
+        "text": "D①"
+      },
+      {
+        "boundingBox": [
+          0.779220780312574,
+          0.7789473682456141,
+          0.08311687816273083,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "10:000.samples"
+      },
+      {
+        "boundingBox": [
+          0.04930566420877252,
+          0.7646157643013114,
+          0.06242763469745586,
+          0.018136891147546574
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.049350648614718634,
+          0.7228070173684211,
+          0.04415584415584417,
+          0.01754385964912275
+        ],
+        "confidence": 0.3,
+        "text": "LABELS"
+      },
+      {
+        "boundingBox": [
+          0.051948050865800906,
+          0.6807017543274854,
+          0.06493506493506493,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "目weather"
+      },
+      {
+        "boundingBox": [
+          0.19740259734487733,
+          0.6807017544834308,
+          0.036363636363636376,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "10,000"
+      },
+      {
+        "boundingBox": [
+          0.19740259894416576,
+          0.6421052634502924,
+          0.03896103648396282,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "10,000"
+      },
+      {
+        "boundingBox": [
+          0.06233766129870132,
+          0.603508771754386,
+          0.06233766233766234,
+          0.01754385964912275
+        ],
+        "confidence": 0.3,
+        "text": "J timeofday."
+      },
+      {
+        "boundingBox": [
+          0.19480519673637356,
+          0.6035087721052632,
+          0.04155843908136542,
+          0.01754385964912275
+        ],
+        "confidence": 0.5,
+        "text": "10,000"
+      },
+      {
+        "boundingBox": [
+          0.07012986917748922,
+          0.5649122805263158,
+          0.05714285714285715,
+          0.01754385964912286
+        ],
+        "confidence": 1,
+        "text": "detections"
+      },
+      {
+        "boundingBox": [
+          0.19220779294372292,
+          0.5649122808771929,
+          0.04415584415584414,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "185,526"
+      },
+      {
+        "boundingBox": [
+          0.05714285726708076,
+          0.49122807013729974,
+          0.06233766233766234,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "+fikter byid"
+      },
+      {
+        "boundingBox": [
+          0.0493506489935065,
+          0.4526315788157894,
+          0.028571428571428574,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "Iabel"
+      },
+      {
+        "boundingBox": [
+          0.08311688298701299,
+          0.4140350878070176,
+          0.020779220779220786,
+          0.01403508771929829
+        ],
+        "confidence": 0.3,
+        "text": "car"
+      },
+      {
+        "boundingBox": [
+          0.20000000073593072,
+          0.4105263159649122,
+          0.04415584415584414,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "102506"
+      },
+      {
+        "boundingBox": [
+          0.0831168838311688,
+          0.375438596622807,
+          0.057142857142857134,
+          0.01754385964912286
+        ],
+        "confidence": 0.3,
+        "text": "tofficsign"
+      },
+      {
+        "boundingBox": [
+          0.2025974031433,
+          0.3754385963157896,
+          0.04155843908136542,
+          0.01754385964912275
+        ],
+        "confidence": 1,
+        "text": "34,908"
+      },
+      {
+        "boundingBox": [
+          0.08311688359307358,
+          0.3368421049122807,
+          0.059740259740259746,
+          0.021052631578947323
+        ],
+        "confidence": 0.3,
+        "text": "troffic Eighe"
+      },
+      {
+        "boundingBox": [
+          0.20519480587057276,
+          0.34035087748538007,
+          0.03896103648396282,
+          0.01754385964912286
+        ],
+        "confidence": 1,
+        "text": "26885"
+      },
+      {
+        "boundingBox": [
+          0.08311688504806186,
+          0.30175438614035077,
+          0.04155843908136542,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "person"
+      },
+      {
+        "boundingBox": [
+          0.20779220792207792,
+          0.3017543857456142,
+          0.03636363636363635,
+          0.01754385964912275
+        ],
+        "confidence": 0.5,
+        "text": "13262"
+      },
+      {
+        "boundingBox": [
+          0.0831168836363636,
+          0.2701754387134503,
+          0.031168831168831165,
+          0.014035087719298178
+        ],
+        "confidence": 0.3,
+        "text": "trck"
+      },
+      {
+        "boundingBox": [
+          0.21038960982683988,
+          0.26666666649122817,
+          0.03376623376623375,
+          0.01754385964912275
+        ],
+        "confidence": 0.3,
+        "text": "4,245"
+      },
+      {
+        "boundingBox": [
+          0.0831168834090909,
+          0.23157894749999997,
+          0.02337662337662337,
+          0.01754385964912286
+        ],
+        "confidence": 1,
+        "text": "bus"
+      },
+      {
+        "boundingBox": [
+          0.08311688359307358,
+          0.15789473701754375,
+          0.028571428571428567,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "rider"
+      },
+      {
+        "boundingBox": [
+          0.2181818186147186,
+          0.15789473701754375,
+          0.025974025974025983,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "649"
+      },
+      {
+        "boundingBox": [
+          0.22077922116883117,
+          0.12280701771929814,
+          0.023376623376623384,
+          0.01754385964912286
+        ],
+        "confidence": 0.5,
+        "text": "452"
+      }
+    ],
+    "ocr_text": "FiftyOne\nbddiook-validation\n+.8dd stage\nHave aleami\n~\n睏\nSample tags\nLabeltags\nLabels\nOther fields\nShow m\nro rapeitags：\nD①\n10:000.samples\nMETADATA\nLABELS\n目weather\n10,000\n10,000\nJ timeofday.\n10,000\ndetections\n185,526\n+fikter byid\nIabel\ncar\n102506\ntofficsign\n34,908\ntroffic Eighe\n26885\nperson\n13262\ntrck\n4,245\nbus\nrider\n649\n452",
+    "description": "Importance of dataset analysis in CV中的配图，包含文字：FiftyOne；bddiook-validation；+.8dd stage；Have aleami；~；睏；Sample tags；Labeltags；Labels；Other fields；Show m；ro rapeitags：；D①；10:000.samples；METADATA；LABELS；目weather；10,000；10,000；J timeofday.；10,000；detections；185,526；+fikter byid；Iabel；car；102506；tofficsign；34,908；troffic Eighe",
+    "entities": [
+      "FiftyOne",
+      "bddiook-validation",
+      "+.8dd stage",
+      "Have aleami",
+      "~",
+      "睏",
+      "Sample tags",
+      "Labeltags",
+      "Labels",
+      "Other fields",
+      "Show m",
+      "ro rapeitags：",
+      "D①",
+      "10:000.samples",
+      "METADATA",
+      "LABELS",
+      "目weather",
+      "10,000",
+      "J timeofday.",
+      "detections",
+      "185,526",
+      "+fikter byid",
+      "Iabel",
+      "car",
+      "102506",
+      "tofficsign",
+      "34,908",
+      "troffic Eighe",
+      "26885",
+      "person",
+      "13262",
+      "trck",
+      "4,245",
+      "bus",
+      "rider",
+      "649",
+      "452"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "521b4de01a41607af2824993deecd3b611458ce3d4f9d25f65e4b6a3ba97d536"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-003",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c734d2a5ebd59cf6f34993_1_WIKrLZEtkYGwlXaCDdctJQ.gif",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-003.gif",
+    "section": "Sort dataset by similarity",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05518763933038996,
+          0.9230769232905983,
+          0.16335540838852097,
+          0.04029304029304026
+        ],
+        "confidence": 0.5,
+        "text": "FiftyOne quickstart"
+      },
+      {
+        "boundingBox": [
+          0.2449785750280911,
+          0.9336040895264137,
+          0.06633424232600801,
+          0.022901709699805428
+        ],
+        "confidence": 0.5,
+        "text": "+add stage"
+      },
+      {
+        "boundingBox": [
+          0.8145695354580574,
+          0.937728937591575,
+          0.07726269315673295,
+          0.01831501831501836
+        ],
+        "confidence": 0.3,
+        "text": "Have aleam："
+      },
+      {
+        "boundingBox": [
+          0.27373068454746136,
+          0.8644688646520147,
+          0.013245033112582794,
+          0.01831501831501825
+        ],
+        "confidence": 0.3,
+        "text": "#"
+      },
+      {
+        "boundingBox": [
+          0.28918322214863873,
+          0.8608058606837606,
+          0.04856512141280356,
+          0.02197802197802201
+        ],
+        "confidence": 1,
+        "text": "Samples"
+      },
+      {
+        "boundingBox": [
+          0.026490065121412838,
+          0.8461538464285714,
+          0.09271523178807947,
+          0.02197802197802201
+        ],
+        "confidence": 0.5,
+        "text": "• Unsaved view"
+      },
+      {
+        "boundingBox": [
+          0.8232652323794557,
+          0.800897172298162,
+          0.07311633617409541,
+          0.024579283082004855
+        ],
+        "confidence": 0.5,
+        "text": "200 samples"
+      },
+      {
+        "boundingBox": [
+          0.011037526931567353,
+          0.7838827836996337,
+          0.03973509933774834,
+          0.01831501831501836
+        ],
+        "confidence": 1,
+        "text": "FILTER"
+      },
+      {
+        "boundingBox": [
+          0.017660044650854672,
+          0.7289377287545787,
+          0.03311258067621564,
+          0.01831501831501836
+        ],
+        "confidence": 1,
+        "text": "TAGS"
+      },
+      {
+        "boundingBox": [
+          0.019805481456364345,
+          0.6698385430596454,
+          0.061934292184859185,
+          0.02296027683076396
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.019834396771230788,
+          0.6151998203885336,
+          0.04421641705578262,
+          0.02234761182205136
+        ],
+        "confidence": 1,
+        "text": "LABELS"
+      },
+      {
+        "boundingBox": [
+          0.037107599083374784,
+          0.5553239703408573,
+          0.07561639444717509,
+          0.02805824157519221
+        ],
+        "confidence": 0.3,
+        "text": "ground-truth"
+      },
+      {
+        "boundingBox": [
+          0.041868890605651105,
+          0.5049087470205824,
+          0.061957584574785715,
+          0.023149539262820484
+        ],
+        "confidence": 1,
+        "text": "predictions"
+      },
+      {
+        "boundingBox": [
+          0.019867549775443402,
+          0.4578754578438802,
+          0.06622516556291391,
+          0.01831501831501836
+        ],
+        "confidence": 1,
+        "text": "PRIMITIVES"
+      },
+      {
+        "boundingBox": [
+          0.03642384105742078,
+          0.4029304032051282,
+          0.016556291061784523,
+          0.02197802197802201
+        ],
+        "confidence": 0.3,
+        "text": "id"
+      },
+      {
+        "boundingBox": [
+          0.022075055629139053,
+          0.3479853475579975,
+          0.06181015452538631,
+          0.02564102564102566
+        ],
+        "confidence": 0.3,
+        "text": "filepath"
+      },
+      {
+        "boundingBox": [
+          0.01986754823399563,
+          0.3003663002442003,
+          0.08609271523178809,
+          0.02197802197802201
+        ],
+        "confidence": 0.5,
+        "text": "口 uniqueness"
+      },
+      {
+        "boundingBox": [
+          0.011037526526858021,
+          0.24542124505494511,
+          0.08167770419426049,
+          0.0219780219780219
+        ],
+        "confidence": 0.5,
+        "text": "+ADD GROUP"
+      }
+    ],
+    "ocr_text": "FiftyOne quickstart\n+add stage\nHave aleam：\n#\nSamples\n• Unsaved view\n200 samples\nFILTER\nTAGS\nMETADATA\nLABELS\nground-truth\npredictions\nPRIMITIVES\nid\nfilepath\n口 uniqueness\n+ADD GROUP",
+    "description": "Sort dataset by similarity中的配图，包含文字：FiftyOne quickstart；+add stage；Have aleam：；#；Samples；• Unsaved view；200 samples；FILTER；TAGS；METADATA；LABELS；ground-truth；predictions；PRIMITIVES；id；filepath；口 uniqueness；+ADD GROUP",
+    "entities": [
+      "FiftyOne quickstart",
+      "+add stage",
+      "Have aleam：",
+      "#",
+      "Samples",
+      "• Unsaved view",
+      "200 samples",
+      "FILTER",
+      "TAGS",
+      "METADATA",
+      "LABELS",
+      "ground-truth",
+      "predictions",
+      "PRIMITIVES",
+      "id",
+      "filepath",
+      "口 uniqueness",
+      "+ADD GROUP"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "24c291ad2c10174c7e14585789476d19ceec3a84999a64dfb38bd722ae826dbd"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-004",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-004.jpg",
+    "section": "Integration with Python data ecosystem",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Integration with Python data ecosystem中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-005",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-005.png",
+    "section": "Integration with Python data ecosystem",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Integration with Python data ecosystem中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-006",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec-fig-007",
+    "doc_id": "1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1458-https-www-lancedb-com-blog-scalable-computer-vis-aed03aec/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,1507 @@
+[
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-001",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca1901a529574e07077d4c_preview-image.avif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-001.avif",
+    "section": "Hybrid Search: RAG for Real-Life Production-Grade Applications",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.27616279015126194,
+          0.9509043923676983,
+          0.09883720874786378,
+          0.02325581444634328
+        ],
+        "confidence": 0.5,
+        "text": "Full Text Search"
+      },
+      {
+        "boundingBox": [
+          0.4622093015687691,
+          0.9534883723980649,
+          0.09011627833048502,
+          0.020671833886040658
+        ],
+        "confidence": 1,
+        "text": "Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.6424418617515233,
+          0.956072351894189,
+          0.0639534870783488,
+          0.02077950018423569
+        ],
+        "confidence": 1,
+        "text": "Metadata"
+      },
+      {
+        "boundingBox": [
+          0.28197674464767225,
+          0.9250000002719507,
+          0.08866279125213622,
+          0.02332041351883507
+        ],
+        "confidence": 0.3,
+        "text": "（BM-25 / LSH）"
+      },
+      {
+        "boundingBox": [
+          0.4549418643763472,
+          0.925000000293484,
+          0.10465115706125894,
+          0.0233204126358032
+        ],
+        "confidence": 0.3,
+        "text": "CHNSW / IVF-PQ］"
+      },
+      {
+        "boundingBox": [
+          0.6264534908205017,
+          0.9250000001082507,
+          0.09593022664388018,
+          0.025925925925925908
+        ],
+        "confidence": 0.5,
+        "text": "SQL Attributes"
+      },
+      {
+        "boundingBox": [
+          0.09706856859090868,
+          0.8806109955755667,
+          0.14452565511067708,
+          0.055315478642781524
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.2877907009144095,
+          0.8138888884608397,
+          0.07703487873077391,
+          0.02332041351883496
+        ],
+        "confidence": 0.3,
+        "text": "Result ID -2"
+      },
+      {
+        "boundingBox": [
+          0.4680232589049619,
+          0.813888889285732,
+          0.07703487873077397,
+          0.0233204126358032
+        ],
+        "confidence": 0.5,
+        "text": "Result ID - 3"
+      },
+      {
+        "boundingBox": [
+          0.28779069959529907,
+          0.7416020675293692,
+          0.07558139165242511,
+          0.023255812680279764
+        ],
+        "confidence": 0.3,
+        "text": "Result ID - 3"
+      },
+      {
+        "boundingBox": [
+          0.46947674679006646,
+          0.7416020679492659,
+          0.07558139165242517,
+          0.023255812680279764
+        ],
+        "confidence": 0.3,
+        "text": "Result ID -1"
+      },
+      {
+        "boundingBox": [
+          0.2892441865356362,
+          0.67183462619216,
+          0.07412790457407636,
+          0.023535744349161725
+        ],
+        "confidence": 0.3,
+        "text": "Result ID - 1"
+      },
+      {
+        "boundingBox": [
+          0.4680232576670743,
+          0.6718346255634396,
+          0.07703487873077397,
+          0.020757967454415716
+        ],
+        "confidence": 0.5,
+        "text": "Result ID - 2"
+      },
+      {
+        "boundingBox": [
+          0.3160909713400943,
+          0.40142878935773796,
+          0.028214774529139175,
+          0.07979935540093319
+        ],
+        "confidence": 0.3,
+        "text": "'\\"
+      },
+      {
+        "boundingBox": [
+          0.45494186139299264,
+          0.4314814814168819,
+          0.10319766998291013,
+          0.025925925925925908
+        ],
+        "confidence": 0.5,
+        "text": "Merge / Re-rank"
+      },
+      {
+        "boundingBox": [
+          0.48982558058966114,
+          0.38240740749532875,
+          0.03488372166951498,
+          0.023277346293131607
+        ],
+        "confidence": 1,
+        "text": "Filter"
+      },
+      {
+        "boundingBox": [
+          0.4694767448578954,
+          0.16018518524080683,
+          0.07412790457407631,
+          0.023277347176163254
+        ],
+        "confidence": 0.3,
+        "text": "Result ID - 1"
+      },
+      {
+        "boundingBox": [
+          0.4680232576670743,
+          0.09043927672623042,
+          0.07703487873077397,
+          0.020671834769072306
+        ],
+        "confidence": 0.5,
+        "text": "Result ID - 2"
+      },
+      {
+        "boundingBox": [
+          0.4680232576670743,
+          0.01808785489999798,
+          0.07703487873077397,
+          0.0235788115748653
+        ],
+        "confidence": 0.3,
+        "text": "Result ID - 3"
+      }
+    ],
+    "ocr_text": "Full Text Search\nVector Search\nMetadata\n（BM-25 / LSH）\nCHNSW / IVF-PQ］\nSQL Attributes\nLanceDB\nResult ID -2\nResult ID - 3\nResult ID - 3\nResult ID -1\nResult ID - 1\nResult ID - 2\n'\\\nMerge / Re-rank\nFilter\nResult ID - 1\nResult ID - 2\nResult ID - 3",
+    "description": "Hybrid Search: RAG for Real-Life Production-Grade Applications中的配图，包含文字：Full Text Search；Vector Search；Metadata；（BM-25 / LSH）；CHNSW / IVF-PQ］；SQL Attributes；LanceDB；Result ID -2；Result ID - 3；Result ID - 3；Result ID -1；Result ID - 1；Result ID - 2；'\\；Merge / Re-rank；Filter；Result ID - 1；Result ID - 2；Result ID - 3",
+    "entities": [
+      "Full Text Search",
+      "Vector Search",
+      "Metadata",
+      "（BM-25 / LSH）",
+      "CHNSW / IVF-PQ］",
+      "SQL Attributes",
+      "LanceDB",
+      "Result ID -2",
+      "Result ID - 3",
+      "Result ID -1",
+      "Result ID - 1",
+      "Result ID - 2",
+      "'\\",
+      "Merge / Re-rank",
+      "Filter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "77781795b04a345bef052d85de33ba655aa843cbd1d905c99c10da332d577f54"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-002",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca19424f014a46e7999900_1_Rpx35CSEiQdIbTCKYvs59A.gif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-002.gif",
+    "section": "3. Stacked & Filtered results:",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          -8.257575633375713e-09,
+          0.009090908636363637,
+          0.9909090909090909,
+          0.10909090909090913
+        ],
+        "confidence": 0.5,
+        "text": "ALL TALK AND NO ACTION"
+      }
+    ],
+    "ocr_text": "ALL TALK AND NO ACTION",
+    "description": "3. Stacked & Filtered results:中的配图，包含文字：ALL TALK AND NO ACTION",
+    "entities": [
+      "ALL TALK AND NO ACTION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "37fcc58fc57ddc24184b8f7865a4947d667eebed8201f043592ed3cbabb8a635"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-003",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0299a48f13c62f9d92b6a_1*ydtjwr-MneBC5y4p62VLmg.avif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-003.avif",
+    "section": "3. Stacked & Filtered results:",
+    "alt": "Hybrid results favoring text",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2415584410064935,
+          0.8644067788135593,
+          0.04415584415584414,
+          0.10169491525423735
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.5142857138636362,
+          0.8644067788135593,
+          0.03376623376623378,
+          0.10169491525423735
+        ],
+        "confidence": 1,
+        "text": "text"
+      },
+      {
+        "boundingBox": [
+          0.76363635982684,
+          0.8474576268361582,
+          0.22857142857142854,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "title num_words _relevance_score"
+      },
+      {
+        "boundingBox": [
+          0.007792212424242272,
+          0.6949152542372881,
+          0.2779220779220779,
+          0.10169491525423735
+        ],
+        "confidence": 0.3,
+        "text": "◎【0.029037403， -0.0019001433, 0.01014971.-0.0.."
+      },
+      {
+        "boundingBox": [
+          0.31428571822510804,
+          0.6779661019774011,
+          0.2363636363636364,
+          0.11864406779661019
+        ],
+        "confidence": 0.3,
+        "text": "Classifying shors texs 10 one category or dtui.."
+      },
+      {
+        "boundingBox": [
+          0.5584415553896105,
+          0.6779661010593221,
+          0.24415584415584413,
+          0.11864406779661008
+        ],
+        "confidence": 0.5,
+        "text": "Using deep leamning for short text understanding"
+      },
+      {
+        "boundingBox": [
+          0.8493506494805194,
+          0.6949152559322033,
+          0.023376623376623384,
+          0.10169491525423735
+        ],
+        "confidence": 0.5,
+        "text": "187"
+      },
+      {
+        "boundingBox": [
+          0.9376623371168832,
+          0.6779661008474576,
+          0.05454545454545445,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "0.300000"
+      },
+      {
+        "boundingBox": [
+          0.298701306233766,
+          0.5254237307909604,
+          0.503896103896104,
+          0.11864406779661008
+        ],
+        "confidence": 0.3,
+        "text": "Hierarchical Pitman-Yor Process priors are com.. Compressed Nonparametric Language Modelling"
+      },
+      {
+        "boundingBox": [
+          0.007792212467532319,
+          0.5423728816384181,
+          0.28051948051948056,
+          0.0847457627118644
+        ],
+        "confidence": 0.3,
+        "text": "1 （-0.013957698, 0.02428029, 0.0018158186. -0.03.."
+      },
+      {
+        "boundingBox": [
+          0.8493506489177489,
+          0.5423728805084747,
+          0.025974025974025983,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "134"
+      },
+      {
+        "boundingBox": [
+          0.9428571427272726,
+          0.5423728815789474,
+          0.04935064935064937,
+          0.0847457627118644
+        ],
+        "confidence": 0.3,
+        "text": "0.269035"
+      },
+      {
+        "boundingBox": [
+          0.007792212467532319,
+          0.3728813559322034,
+          0.28051948051948056,
+          0.10169491525423724
+        ],
+        "confidence": 0.5,
+        "text": "2 1-0.035857946.-0.00020074612, 0.009314451.-0.."
+      },
+      {
+        "boundingBox": [
+          0.2857142770995674,
+          0.3559322025423729,
+          0.5168831168831168,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "We introduce a kong short-term memory recurren.. Speech-driven 3 D Facial Animation with Impllc.."
+      },
+      {
+        "boundingBox": [
+          0.8493506492207791,
+          0.3728813564030131,
+          0.023376623376623384,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "171"
+      },
+      {
+        "boundingBox": [
+          0.9402597393939394,
+          0.37288135508474585,
+          0.051948051948051965,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "0.141653"
+      },
+      {
+        "boundingBox": [
+          0.007792212424242272,
+          0.2033898305084746,
+          0.2779220779220779,
+          0.10169491525423724
+        ],
+        "confidence": 0.3,
+        "text": "3【-0.013545574，-0.0019434954, 0.009823939.-0.."
+      },
+      {
+        "boundingBox": [
+          0.3376623368398268,
+          0.18644067598870062,
+          0.464935064935065,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "articleinfoabstractwe prese.. BabeINet: The automatic construction, evaluat.."
+      },
+      {
+        "boundingBox": [
+          0.9402597401527885,
+          0.18644067831505473,
+          0.051948051948051854,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "0.109910"
+      },
+      {
+        "boundingBox": [
+          0.8519480523376624,
+          0.20338983135593214,
+          0.023376623376623384,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "133"
+      },
+      {
+        "boundingBox": [
+          0.007792212467532319,
+          0.05084745790960443,
+          0.28051948051948056,
+          0.0847457627118644
+        ],
+        "confidence": 0.3,
+        "text": "4 1-0.027462238. -0.00018946378, 0.017612722.-0.."
+      },
+      {
+        "boundingBox": [
+          0.29090908238095264,
+          0.033898304519773936,
+          0.5116883116883117,
+          0.10169491525423735
+        ],
+        "confidence": 0.3,
+        "text": "We introduce a technique for augmenting neural.. Deep Voice 2: Multi-Speaker Neural Text-1o-Sp.."
+      },
+      {
+        "boundingBox": [
+          0.8519480522402597,
+          0.050847458262711864,
+          0.023376623376623384,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "151"
+      },
+      {
+        "boundingBox": [
+          0.9402597411688312,
+          0.033898306214689256,
+          0.054545454545454564,
+          0.10169491525423724
+        ],
+        "confidence": 1,
+        "text": "0.048237"
+      }
+    ],
+    "ocr_text": "vector\ntext\ntitle num_words _relevance_score\n◎【0.029037403， -0.0019001433, 0.01014971.-0.0..\nClassifying shors texs 10 one category or dtui..\nUsing deep leamning for short text understanding\n187\n0.300000\nHierarchical Pitman-Yor Process priors are com.. Compressed Nonparametric Language Modelling\n1 （-0.013957698, 0.02428029, 0.0018158186. -0.03..\n134\n0.269035\n2 1-0.035857946.-0.00020074612, 0.009314451.-0..\nWe introduce a kong short-term memory recurren.. Speech-driven 3 D Facial Animation with Impllc..\n171\n0.141653\n3【-0.013545574，-0.0019434954, 0.009823939.-0..\narticleinfoabstractwe prese.. BabeINet: The automatic construction, evaluat..\n0.109910\n133\n4 1-0.027462238. -0.00018946378, 0.017612722.-0..\nWe introduce a technique for augmenting neural.. Deep Voice 2: Multi-Speaker Neural Text-1o-Sp..\n151\n0.048237",
+    "description": "3. Stacked & Filtered results:中的配图，包含文字：vector；text；title num_words _relevance_score；◎【0.029037403， -0.0019001433, 0.01014971.-0.0..；Classifying shors texs 10 one category or dtui..；Using deep leamning for short text understanding；187；0.300000；Hierarchical Pitman-Yor Process priors are com.. Compressed Nonparametric Language Modelling；1 （-0.013957698, 0.02428029, 0.0018158186. -0.03..；134；0.269035；2 1-0.035857946.-0.00020074612, 0.009314451.-0..；We introduce a kong short-term memory recurren.. Speech-driven 3 D Facial Animation with Impllc..；171；0.141653；3【-0.013545574，-0.0019434954, 0.009823939.-0..；articleinfoabstractwe prese.. BabeINet: The automatic construction, evaluat..；0.109910；133；4 1-0.027462238. -0.00018946378, 0.017612722.-0..；We introduce a technique for augmenting neural.. Deep Voice 2: Multi-Speaker Neural Text-1o-Sp..；151；0.048237",
+    "entities": [
+      "vector",
+      "text",
+      "title num_words _relevance_score",
+      "◎【0.029037403， -0.0019001433, 0.01014971.-0.0..",
+      "Classifying shors texs 10 one category or dtui..",
+      "Using deep leamning for short text understanding",
+      "187",
+      "0.300000",
+      "Hierarchical Pitman-Yor Process priors are com.. Compressed Nonparametric Language Modelling",
+      "1 （-0.013957698, 0.02428029, 0.0018158186. -0.03..",
+      "134",
+      "0.269035",
+      "2 1-0.035857946.-0.00020074612, 0.009314451.-0..",
+      "We introduce a kong short-term memory recurren.. Speech-driven 3 D Facial Animation with Impllc..",
+      "171",
+      "0.141653",
+      "3【-0.013545574，-0.0019434954, 0.009823939.-0..",
+      "articleinfoabstractwe prese.. BabeINet: The automatic construction, evaluat..",
+      "0.109910",
+      "133",
+      "4 1-0.027462238. -0.00018946378, 0.017612722.-0..",
+      "We introduce a technique for augmenting neural.. Deep Voice 2: Multi-Speaker Neural Text-1o-Sp..",
+      "151",
+      "0.048237"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "87142f420acff1b307f285abc6e87d6332af6fb2557f8d5134b383df7f247fd8"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-004",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0299a48f13c62f9d92b6d_1*8MyhbRq_96IGAWlm-EvoHw.avif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-004.avif",
+    "section": "3. Stacked & Filtered results:",
+    "alt": "Hybrid results favoring vector",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7636363665584415,
+          0.8644067802966102,
+          0.23376623376623384,
+          0.11864406779661008
+        ],
+        "confidence": 1,
+        "text": "title num_words _relevance_score"
+      },
+      {
+        "boundingBox": [
+          0.23896103883116884,
+          0.8813559324387947,
+          0.04675324675324674,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.5142857148917749,
+          0.8813559330508475,
+          0.036363636363636265,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "text"
+      },
+      {
+        "boundingBox": [
+          0.0025974061363635646,
+          0.677966102118644,
+          0.2831168831168831,
+          0.13559322033898302
+        ],
+        "confidence": 0.3,
+        "text": "0 ［0.029037403.-0.0019001433, 0.01014971.-0.0."
+      },
+      {
+        "boundingBox": [
+          0.31168831467532454,
+          0.677966102118644,
+          0.23896103896103893,
+          0.13559322033898302
+        ],
+        "confidence": 0.3,
+        "text": "Classilying shon texls to one calegory or dlL.."
+      },
+      {
+        "boundingBox": [
+          0.5558441527272727,
+          0.6779661008474576,
+          0.24935064935064943,
+          0.13559322033898313
+        ],
+        "confidence": 0.5,
+        "text": "Using deep Kearning for short text undersianding"
+      },
+      {
+        "boundingBox": [
+          0.9402597395779222,
+          0.6949152531779661,
+          0.054545454545454564,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "0.700000"
+      },
+      {
+        "boundingBox": [
+          0.8519480515584416,
+          0.7118644059322035,
+          0.023376623376623384,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "187"
+      },
+      {
+        "boundingBox": [
+          0.005194809870129722,
+          0.5423728813559322,
+          0.28051948051948056,
+          0.10169491525423735
+        ],
+        "confidence": 0.3,
+        "text": "1 【0.013957698. 0.02428029,0.0018158188.-0.03.."
+      },
+      {
+        "boundingBox": [
+          0.2961038910129871,
+          0.5084745755932203,
+          0.509090909090909,
+          0.13559322033898313
+        ],
+        "confidence": 0.3,
+        "text": "Hierarchieal Pliman-Yor Procoss priors aro comn.. Comprossed Nonparametic Language Mocalling"
+      },
+      {
+        "boundingBox": [
+          0.9402597397142857,
+          0.5254237279661017,
+          0.054545454545454564,
+          0.11864406779661019
+        ],
+        "confidence": 0.5,
+        "text": "0.674416"
+      },
+      {
+        "boundingBox": [
+          0.8519480523809524,
+          0.5423728822033898,
+          0.025974025974025983,
+          0.0847457627118644
+        ],
+        "confidence": 0.5,
+        "text": "134"
+      },
+      {
+        "boundingBox": [
+          0.33766233701298703,
+          0.338983048940678,
+          0.46753246753246763,
+          0.15254237288135597
+        ],
+        "confidence": 0.3,
+        "text": "articlointoabstractWo preso.. BabolNot:The automatic constoetion, ovaluat."
+      },
+      {
+        "boundingBox": [
+          0.005194808701298604,
+          0.3728813563559322,
+          0.2805194805194805,
+          0.10169491525423724
+        ],
+        "confidence": 0.3,
+        "text": "2［0.013545574， -0.0019434954, 0.009623939. 0..."
+      },
+      {
+        "boundingBox": [
+          0.8519480516558442,
+          0.37288135508474585,
+          0.023376623376623273,
+          0.10169491525423724
+        ],
+        "confidence": 1,
+        "text": "133"
+      },
+      {
+        "boundingBox": [
+          0.9428571422077923,
+          0.37288135508474585,
+          0.051948051948051965,
+          0.10169491525423724
+        ],
+        "confidence": 0.5,
+        "text": "0,256456"
+      },
+      {
+        "boundingBox": [
+          0.00519480991341975,
+          0.20338983107344633,
+          0.28311688311688316,
+          0.10169491525423735
+        ],
+        "confidence": 0.5,
+        "text": "3 1-0.035857946.-0.00020074612, 0.009314451，-0.."
+      },
+      {
+        "boundingBox": [
+          0.28571429168831153,
+          0.1694915237288137,
+          0.5194805194805195,
+          0.13559322033898302
+        ],
+        "confidence": 0.3,
+        "text": "We introduce a kong shart- ferm memory recuren.. Speech-driven 3 D Facial Animation with mplic.."
+      },
+      {
+        "boundingBox": [
+          0.8519480521818181,
+          0.20338983118644072,
+          0.023376623376623273,
+          0.10169491525423735
+        ],
+        "confidence": 1,
+        "text": "171"
+      },
+      {
+        "boundingBox": [
+          0.9428571435064934,
+          0.20338983135593214,
+          0.051948051948051965,
+          0.10169491525423735
+        ],
+        "confidence": 1,
+        "text": "0.123807"
+      },
+      {
+        "boundingBox": [
+          0.2909090994805192,
+          0.03389830536723171,
+          0.5142857142857142,
+          0.11864406779661008
+        ],
+        "confidence": 0.3,
+        "text": "We introduco a tochnique for augmenting noural.. Doop Voice 2 : Muli- Speaker Noural Toxt-to-Sp.."
+      },
+      {
+        "boundingBox": [
+          0.005194809870129722,
+          0.05084745790960443,
+          0.28051948051948056,
+          0.0847457627118644
+        ],
+        "confidence": 0.3,
+        "text": "4 1-0.027462298.-0.00018948378, 0.017612722，•0.."
+      },
+      {
+        "boundingBox": [
+          0.8519480518181817,
+          0.050847458097928344,
+          0.023376623376623384,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "151"
+      },
+      {
+        "boundingBox": [
+          0.9428571435064934,
+          0.050847458262711864,
+          0.051948051948051965,
+          0.0847457627118644
+        ],
+        "confidence": 1,
+        "text": "0.112552"
+      }
+    ],
+    "ocr_text": "title num_words _relevance_score\nvector\ntext\n0 ［0.029037403.-0.0019001433, 0.01014971.-0.0.\nClassilying shon texls to one calegory or dlL..\nUsing deep Kearning for short text undersianding\n0.700000\n187\n1 【0.013957698. 0.02428029,0.0018158188.-0.03..\nHierarchieal Pliman-Yor Procoss priors aro comn.. Comprossed Nonparametic Language Mocalling\n0.674416\n134\narticlointoabstractWo preso.. BabolNot:The automatic constoetion, ovaluat.\n2［0.013545574， -0.0019434954, 0.009623939. 0...\n133\n0,256456\n3 1-0.035857946.-0.00020074612, 0.009314451，-0..\nWe introduce a kong shart- ferm memory recuren.. Speech-driven 3 D Facial Animation with mplic..\n171\n0.123807\nWe introduco a tochnique for augmenting noural.. Doop Voice 2 : Muli- Speaker Noural Toxt-to-Sp..\n4 1-0.027462298.-0.00018948378, 0.017612722，•0..\n151\n0.112552",
+    "description": "3. Stacked & Filtered results:中的配图，包含文字：title num_words _relevance_score；vector；text；0 ［0.029037403.-0.0019001433, 0.01014971.-0.0.；Classilying shon texls to one calegory or dlL..；Using deep Kearning for short text undersianding；0.700000；187；1 【0.013957698. 0.02428029,0.0018158188.-0.03..；Hierarchieal Pliman-Yor Procoss priors aro comn.. Comprossed Nonparametic Language Mocalling；0.674416；134；articlointoabstractWo preso.. BabolNot:The automatic constoetion, ovaluat.；2［0.013545574， -0.0019434954, 0.009623939. 0...；133；0,256456；3 1-0.035857946.-0.00020074612, 0.009314451，-0..；We introduce a kong shart- ferm memory recuren.. Speech-driven 3 D Facial Animation with mplic..；171；0.123807；We introduco a tochnique for augmenting noural.. Doop Voice 2 : Muli- Speaker Noural Toxt-to-Sp..；4 1-0.027462298.-0.00018948378, 0.017612722，•0..；151；0.112552",
+    "entities": [
+      "title num_words _relevance_score",
+      "vector",
+      "text",
+      "0 ［0.029037403.-0.0019001433, 0.01014971.-0.0.",
+      "Classilying shon texls to one calegory or dlL..",
+      "Using deep Kearning for short text undersianding",
+      "0.700000",
+      "187",
+      "1 【0.013957698. 0.02428029,0.0018158188.-0.03..",
+      "Hierarchieal Pliman-Yor Procoss priors aro comn.. Comprossed Nonparametic Language Mocalling",
+      "0.674416",
+      "134",
+      "articlointoabstractWo preso.. BabolNot:The automatic constoetion, ovaluat.",
+      "2［0.013545574， -0.0019434954, 0.009623939. 0...",
+      "133",
+      "0,256456",
+      "3 1-0.035857946.-0.00020074612, 0.009314451，-0..",
+      "We introduce a kong shart- ferm memory recuren.. Speech-driven 3 D Facial Animation with mplic..",
+      "171",
+      "0.123807",
+      "We introduco a tochnique for augmenting noural.. Doop Voice 2 : Muli- Speaker Noural Toxt-to-Sp..",
+      "4 1-0.027462298.-0.00018948378, 0.017612722，•0..",
+      "151",
+      "0.112552"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "90d29613c066c4543e82980ebc57967835aa612962e6c8ee0d1ff305e7ecffdf"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-005",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0299a48f13c62f9d92b70_1*aWiwhCMyag60AZYl9x4QQw.avif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-005.avif",
+    "section": "Implement your filters here. Hard-code or pass dynamically.",
+    "alt": "Custom reranker filtered results",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.23636363665584417,
+          0.8965517252155172,
+          0.04415584415584414,
+          0.0862068965517242
+        ],
+        "confidence": 1,
+        "text": "vector"
+      },
+      {
+        "boundingBox": [
+          0.5064935066233766,
+          0.879310346551724,
+          0.03376623376623378,
+          0.10344827586206906
+        ],
+        "confidence": 1,
+        "text": "text"
+      },
+      {
+        "boundingBox": [
+          0.7610389571861473,
+          0.8793103442528736,
+          0.23116883116883113,
+          0.10344827586206895
+        ],
+        "confidence": 0.5,
+        "text": "title num_words _relevance_score"
+      },
+      {
+        "boundingBox": [
+          0.005194808636363543,
+          0.7068965521551724,
+          0.2753246753246753,
+          0.10344827586206895
+        ],
+        "confidence": 0.3,
+        "text": "0 【-0.029037403， -0.0019001433, 0.01014971.-0.0.."
+      },
+      {
+        "boundingBox": [
+          0.3090909052380954,
+          0.7068965511494253,
+          0.2311688311688312,
+          0.10344827586206895
+        ],
+        "confidence": 0.3,
+        "text": "Classifying short texts to one category or cfu..."
+      },
+      {
+        "boundingBox": [
+          0.5584415544155845,
+          0.7068965511494253,
+          0.24155844155844153,
+          0.10344827586206895
+        ],
+        "confidence": 0.5,
+        "text": "Using deep leaming for short text understanding"
+      },
+      {
+        "boundingBox": [
+          0.8467532466396104,
+          0.7241379315732759,
+          0.023376623376623384,
+          0.08620689655172409
+        ],
+        "confidence": 1,
+        "text": "187"
+      },
+      {
+        "boundingBox": [
+          0.9376250179034435,
+          0.7061066548053035,
+          0.04942528860909601,
+          0.10502807436318229
+        ],
+        "confidence": 0.5,
+        "text": "0,700000"
+      },
+      {
+        "boundingBox": [
+          0.007792211201298619,
+          0.5344827592672414,
+          0.2727272727272727,
+          0.1206896551724137
+        ],
+        "confidence": 0.3,
+        "text": "3 【-0.035857946,0.00020074612. 0.008314451.-0."
+      },
+      {
+        "boundingBox": [
+          0.28831168419913433,
+          0.5344827606321838,
+          0.2519480519480519,
+          0.12068965517241381
+        ],
+        "confidence": 0.5,
+        "text": "Wo introduce a long short-torm momory rocurron.."
+      },
+      {
+        "boundingBox": [
+          0.5532467501623376,
+          0.5172413784482759,
+          0.24675324675324684,
+          0.13793103448275856
+        ],
+        "confidence": 0.3,
+        "text": "Spooch-drivon 3 D Faclal Animasion with mplie.."
+      },
+      {
+        "boundingBox": [
+          0.9350649346320347,
+          0.5172413784482759,
+          0.051948051948051965,
+          0.13793103448275867
+        ],
+        "confidence": 0.3,
+        "text": "0.298656"
+      },
+      {
+        "boundingBox": [
+          0.8467532471861472,
+          0.5517241387931033,
+          0.025974025974025983,
+          0.0862068965517242
+        ],
+        "confidence": 1,
+        "text": "171"
+      },
+      {
+        "boundingBox": [
+          0.5506493484415584,
+          0.34482758426724147,
+          0.24935064935064932,
+          0.15517241379310343
+        ],
+        "confidence": 0.3,
+        "text": "Doop Volco 2 : Muli-Spoakor Noural Toxt-1o.-sp.."
+      },
+      {
+        "boundingBox": [
+          0.007792212380952225,
+          0.3793103454022989,
+          0.2753246753246753,
+          0.10344827586206895
+        ],
+        "confidence": 0.3,
+        "text": "4 【-0.027462208，-0.00018946378, 0.017612722.-0.."
+      },
+      {
+        "boundingBox": [
+          0.28831169251082234,
+          0.3620689663793103,
+          0.2519480519480519,
+          0.12068965517241381
+        ],
+        "confidence": 0.3,
+        "text": "Wio introduce a fochnique for augmonting noural.."
+      },
+      {
+        "boundingBox": [
+          0.8467532467532467,
+          0.379310346551724,
+          0.025974025974025983,
+          0.10344827586206895
+        ],
+        "confidence": 1,
+        "text": "151"
+      },
+      {
+        "boundingBox": [
+          0.9350649351803751,
+          0.3620689651819924,
+          0.051948051948051965,
+          0.12068965517241381
+        ],
+        "confidence": 0.5,
+        "text": "0.209681"
+      },
+      {
+        "boundingBox": [
+          0.007792205194805275,
+          0.2068965537356321,
+          0.2753246753246753,
+          0.12068965517241381
+        ],
+        "confidence": 0.3,
+        "text": "S 10.0012136719 -0.022609706, 0.0142485695.0..."
+      },
+      {
+        "boundingBox": [
+          0.2909090950649349,
+          0.20689655201149426,
+          0.24935064935064932,
+          0.12068965517241381
+        ],
+        "confidence": 0.5,
+        "text": "Sottware organizations have typicaly do-cmpha.."
+      },
+      {
+        "boundingBox": [
+          0.5636363660173159,
+          0.1896551747126436,
+          0.23636363636363633,
+          0.13793103037209353
+        ],
+        "confidence": 0.5,
+        "text": "A suvoy of software festing practices in alborta"
+      },
+      {
+        "boundingBox": [
+          0.9350649346938774,
+          0.1896551716748769,
+          0.051948051948051965,
+          0.13793103448275867
+        ],
+        "confidence": 0.3,
+        "text": "0.198880"
+      },
+      {
+        "boundingBox": [
+          0.846753247077922,
+          0.22413793168103446,
+          0.025974025974025983,
+          0.0862068965517242
+        ],
+        "confidence": 0.5,
+        "text": "236"
+      },
+      {
+        "boundingBox": [
+          0.3012986929870133,
+          0.03448275775862075,
+          0.49870129870129865,
+          0.12068965517241381
+        ],
+        "confidence": 0.3,
+        "text": "In this paper a novel approach is proposod 10... Text mining of news-hoadlines for FOREX markot.."
+      },
+      {
+        "boundingBox": [
+          0.9350649356103896,
+          0.034482759482758585,
+          0.054545454545454564,
+          0.12068965517241381
+        ],
+        "confidence": 0.5,
+        "text": "0,100694"
+      },
+      {
+        "boundingBox": [
+          0.02597402173160188,
+          0.051724137068965614,
+          0.2545454545454545,
+          0.08620689655172409
+        ],
+        "confidence": 0.3,
+        "text": "【-0.027905056，-4.77228c-05.0.0129647385. 0.."
+      },
+      {
+        "boundingBox": [
+          0.846753246461039,
+          0.051724137284482774,
+          0.023376623376623273,
+          0.08620689655172409
+        ],
+        "confidence": 1,
+        "text": "621"
+      }
+    ],
+    "ocr_text": "vector\ntext\ntitle num_words _relevance_score\n0 【-0.029037403， -0.0019001433, 0.01014971.-0.0..\nClassifying short texts to one category or cfu...\nUsing deep leaming for short text understanding\n187\n0,700000\n3 【-0.035857946,0.00020074612. 0.008314451.-0.\nWo introduce a long short-torm momory rocurron..\nSpooch-drivon 3 D Faclal Animasion with mplie..\n0.298656\n171\nDoop Volco 2 : Muli-Spoakor Noural Toxt-1o.-sp..\n4 【-0.027462208，-0.00018946378, 0.017612722.-0..\nWio introduce a fochnique for augmonting noural..\n151\n0.209681\nS 10.0012136719 -0.022609706, 0.0142485695.0...\nSottware organizations have typicaly do-cmpha..\nA suvoy of software festing practices in alborta\n0.198880\n236\nIn this paper a novel approach is proposod 10... Text mining of news-hoadlines for FOREX markot..\n0,100694\n【-0.027905056，-4.77228c-05.0.0129647385. 0..\n621",
+    "description": "Implement your filters here. Hard-code or pass dynamically.中的配图，包含文字：vector；text；title num_words _relevance_score；0 【-0.029037403， -0.0019001433, 0.01014971.-0.0..；Classifying short texts to one category or cfu...；Using deep leaming for short text understanding；187；0,700000；3 【-0.035857946,0.00020074612. 0.008314451.-0.；Wo introduce a long short-torm momory rocurron..；Spooch-drivon 3 D Faclal Animasion with mplie..；0.298656；171；Doop Volco 2 : Muli-Spoakor Noural Toxt-1o.-sp..；4 【-0.027462208，-0.00018946378, 0.017612722.-0..；Wio introduce a fochnique for augmonting noural..；151；0.209681；S 10.0012136719 -0.022609706, 0.0142485695.0...；Sottware organizations have typicaly do-cmpha..；A suvoy of software festing practices in alborta；0.198880；236；In this paper a novel approach is proposod 10... Text mining of news-hoadlines for FOREX markot..；0,100694；【-0.027905056，-4.77228c-05.0.0129647385. 0..；621",
+    "entities": [
+      "vector",
+      "text",
+      "title num_words _relevance_score",
+      "0 【-0.029037403， -0.0019001433, 0.01014971.-0.0..",
+      "Classifying short texts to one category or cfu...",
+      "Using deep leaming for short text understanding",
+      "187",
+      "0,700000",
+      "3 【-0.035857946,0.00020074612. 0.008314451.-0.",
+      "Wo introduce a long short-torm momory rocurron..",
+      "Spooch-drivon 3 D Faclal Animasion with mplie..",
+      "0.298656",
+      "171",
+      "Doop Volco 2 : Muli-Spoakor Noural Toxt-1o.-sp..",
+      "4 【-0.027462208，-0.00018946378, 0.017612722.-0..",
+      "Wio introduce a fochnique for augmonting noural..",
+      "151",
+      "0.209681",
+      "S 10.0012136719 -0.022609706, 0.0142485695.0...",
+      "Sottware organizations have typicaly do-cmpha..",
+      "A suvoy of software festing practices in alborta",
+      "0.198880",
+      "236",
+      "In this paper a novel approach is proposod 10... Text mining of news-hoadlines for FOREX markot..",
+      "0,100694",
+      "【-0.027905056，-4.77228c-05.0.0129647385. 0..",
+      "621"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7dd18e049acfcfd9ff8009896fd07bb57123d048952aca2e9d82cd32b8010fbe"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-006",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11762f_mahesh-deshwal.avif",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-006.avif",
+    "section": "Implement your filters here. Hard-code or pass dynamically.",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Implement your filters here. Hard-code or pass dynamically.中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e95afcae1c30392b76147f07769a96314e02e86a600d8efe8f0fbad25e721afd"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-007",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-007.png",
+    "section": "Implement your filters here. Hard-code or pass dynamically.",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Implement your filters here. Hard-code or pass dynamically.中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-008",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-008.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f-fig-009",
+    "doc_id": "1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1415-https-www-lancedb-com-blog-hybrid-search-rag-for-0cdc6b0f/figure-009.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,1052 @@
+[
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-001",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a1ef495cce38c8626849fc3_Screenshot%202026-06-02%20at%208.49.45%E2%80%AFPM.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-001.png",
+    "section": "Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Stable-Worldmodel: A High Performance Platform for Reproducible World Model Research中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5eb7c9f9cee06e078fb86a07ec095ede49ab66d14df2a9f5b4136ed6c557167a"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-002",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a1f38aa1c846b1a31d80f55_f821b042.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-002.png",
+    "section": "The data layer",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.42067989079744267,
+          0.9032921812522505,
+          0.13314446936120522,
+          0.04732510288065839
+        ],
+        "confidence": 0.5,
+        "text": "GPU Utilization（%）"
+      },
+      {
+        "boundingBox": [
+          0.1345609074699132,
+          0.8415637862165638,
+          0.026912179693475452,
+          0.04593621359931099
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.14164305930607776,
+          0.720164609662133,
+          0.01983002882737378,
+          0.04732510288065839
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.141643060017776,
+          0.595833334349732,
+          0.01983002749356355,
+          0.050257200076256225
+        ],
+        "confidence": 1,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.13881019907058176,
+          0.47083333314920817,
+          0.02407931881351069,
+          0.05833333411825048
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.13881019822605553,
+          0.34979423905137796,
+          0.022662889707338568,
+          0.05853909425774717
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.7492917862354139,
+          0.2750000001388888,
+          0.087818695281769,
+          0.041872428768456205
+        ],
+        "confidence": 0.5,
+        "text": "Time （hours）"
+      },
+      {
+        "boundingBox": [
+          0.14872521227571495,
+          0.2374999994512914,
+          0.01133144485366927,
+          0.03750000078491711
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.2422096317374713,
+          0.17916666660079195,
+          0.01133144485366927,
+          0.04583333254841615
+        ],
+        "confidence": 1,
+        "text": "5"
+      },
+      {
+        "boundingBox": [
+          0.3144475931419308,
+          0.1831275710474185,
+          0.02691217969347548,
+          0.037705762886706684
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.40084985860921446,
+          0.17901234629031837,
+          0.01983002749356355,
+          0.04598765314361197
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "boundingBox": [
+          0.4815864021718265,
+          0.174897118615577,
+          0.022662889707338596,
+          0.05426954732510281
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.5637393772982291,
+          0.18312757141672886,
+          0.019830027493563662,
+          0.041872428768456316
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.6444759212147109,
+          0.1790123455506376,
+          0.018413597053581143,
+          0.04182098726186234
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.726628895552974,
+          0.18312757298366966,
+          0.016997166613598846,
+          0.03770576092441391
+        ],
+        "confidence": 1,
+        "text": "35"
+      },
+      {
+        "boundingBox": [
+          0.8059490090334077,
+          0.1790123455506376,
+          0.018413597053581143,
+          0.04182098726186234
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.08333337184003468,
+          0.07317073384861872,
+          0.8041666097574302,
+          0.0731707286442258
+        ],
+        "confidence": 0.5,
+        "text": "GPU utilization for LeWM trained with Push-T LanceDB dataset on a H200 GPU."
+      }
+    ],
+    "ocr_text": "GPU Utilization（%）\n100\n80\n60\n40\n20\nTime （hours）\n0\n5\n10\n15\n20\n25\n30\n35\n40\nGPU utilization for LeWM trained with Push-T LanceDB dataset on a H200 GPU.",
+    "description": "The data layer中的配图，包含文字：GPU Utilization（%）；100；80；60；40；20；Time （hours）；0；5；10；15；20；25；30；35；40；GPU utilization for LeWM trained with Push-T LanceDB dataset on a H200 GPU.",
+    "entities": [
+      "GPU Utilization（%）",
+      "100",
+      "80",
+      "60",
+      "40",
+      "20",
+      "Time （hours）",
+      "0",
+      "5",
+      "10",
+      "15",
+      "25",
+      "30",
+      "35",
+      "GPU utilization for LeWM trained with Push-T LanceDB dataset on a H200 GPU."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f8c1094d6d7ec34f282d3030ec303656010f30390a610b7aab07b81588e87e4e"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-003",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a1ef6d6ddfcc86eafc96ed3_Screenshot%202026-06-02%20at%208.59.12%E2%80%AFPM.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-003.png",
+    "section": "Training LeWorldModel using stable-worldmodel",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6586206903103448,
+          0.8090909085454545,
+          0.06896551724137934,
+          0.054545454545454564
+        ],
+        "confidence": 1,
+        "text": "SIGReg"
+      },
+      {
+        "boundingBox": [
+          0.10344827598522167,
+          0.8045454546753247,
+          0.017241379310344834,
+          0.045454545454545414
+        ],
+        "confidence": 0.3,
+        "text": "alt"
+      },
+      {
+        "boundingBox": [
+          0.17755421216452608,
+          0.7904818294074303,
+          0.06040881584430563,
+          0.03267270434986458
+        ],
+        "confidence": 1,
+        "text": "Predictor"
+      },
+      {
+        "boundingBox": [
+          0.28103448244827584,
+          0.7727272725909091,
+          0.031034482758620696,
+          0.050000000000000044
+        ],
+        "confidence": 0.3,
+        "text": "2t+1"
+      },
+      {
+        "boundingBox": [
+          0.3241379312068966,
+          0.6954545459090908,
+          0.031034482758620696,
+          0.036363636363636376
+        ],
+        "confidence": 0.3,
+        "text": "MSE"
+      },
+      {
+        "boundingBox": [
+          0.10344827574137931,
+          0.5909090913636363,
+          0.018965517241379307,
+          0.045454545454545414
+        ],
+        "confidence": 0.5,
+        "text": "Zt"
+      },
+      {
+        "boundingBox": [
+          0.16451843210069678,
+          0.5844827582788801,
+          0.052175978956551405,
+          0.050313481417569195
+        ],
+        "confidence": 0.5,
+        "text": "SIGReg"
+      },
+      {
+        "boundingBox": [
+          0.2827586203448276,
+          0.5863636369886364,
+          0.03448275862068961,
+          0.04999999999999993
+        ],
+        "confidence": 0.3,
+        "text": "Zt+1"
+      },
+      {
+        "boundingBox": [
+          0.3562597294087872,
+          0.5841459320604006,
+          0.05131604095985148,
+          0.04202855283563789
+        ],
+        "confidence": 0.5,
+        "text": "SIGReg"
+      },
+      {
+        "boundingBox": [
+          0.08793103517241378,
+          0.4454545456818182,
+          0.055172413793103434,
+          0.027272727272727226
+        ],
+        "confidence": 1,
+        "text": "Encoder"
+      },
+      {
+        "boundingBox": [
+          0.27238435330279454,
+          0.44055042320996796,
+          0.05523129167227908,
+          0.03253551721572878
+        ],
+        "confidence": 1,
+        "text": "Encoder"
+      },
+      {
+        "boundingBox": [
+          0.48965517117816104,
+          0.14545454522727286,
+          0.14827586206896548,
+          0.036363636363636265
+        ],
+        "confidence": 0.5,
+        "text": "（a） Latent Embedding"
+      },
+      {
+        "boundingBox": [
+          0.6982758648275862,
+          0.14545454556818183,
+          0.22068965517241368,
+          0.036363636363636265
+        ],
+        "confidence": 0.5,
+        "text": "（b） Optimize Normality test along"
+      },
+      {
+        "boundingBox": [
+          0.5258620699353448,
+          0.10909090926136367,
+          0.07758620689655171,
+          0.031818181818181746
+        ],
+        "confidence": 1,
+        "text": "Distribution"
+      },
+      {
+        "boundingBox": [
+          0.706896554967869,
+          0.10454545431818185,
+          0.1999999868458714,
+          0.03181818181818186
+        ],
+        "confidence": 1,
+        "text": "random univariate projections"
+      },
+      {
+        "boundingBox": [
+          0.10517241362068966,
+          0.031818182329545475,
+          0.017241379310344834,
+          0.040909090909090895
+        ],
+        "confidence": 1,
+        "text": "Ot"
+      },
+      {
+        "boundingBox": [
+          0.2810344830172414,
+          0.02727272742424236,
+          0.031034482758620696,
+          0.045454545454545414
+        ],
+        "confidence": 0.5,
+        "text": "Ot+1"
+      }
+    ],
+    "ocr_text": "SIGReg\nalt\nPredictor\n2t+1\nMSE\nZt\nSIGReg\nZt+1\nSIGReg\nEncoder\nEncoder\n（a） Latent Embedding\n（b） Optimize Normality test along\nDistribution\nrandom univariate projections\nOt\nOt+1",
+    "description": "Training LeWorldModel using stable-worldmodel中的配图，包含文字：SIGReg；alt；Predictor；2t+1；MSE；Zt；SIGReg；Zt+1；SIGReg；Encoder；Encoder；（a） Latent Embedding；（b） Optimize Normality test along；Distribution；random univariate projections；Ot；Ot+1",
+    "entities": [
+      "SIGReg",
+      "alt",
+      "Predictor",
+      "2t+1",
+      "MSE",
+      "Zt",
+      "Zt+1",
+      "Encoder",
+      "（a） Latent Embedding",
+      "（b） Optimize Normality test along",
+      "Distribution",
+      "random univariate projections",
+      "Ot",
+      "Ot+1"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2fb86ec7d92ae4152228388b31e5b7f8e4bd2aa9da84630183c5e168d9d3828d"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-004",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a1efb6b05df6ee377056805_Screenshot%202026-06-02%20at%209.18.50%E2%80%AFPM.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-004.png",
+    "section": "Why does this matter for Lance?",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11181004712135204,
+          0.7786971014815554,
+          0.08887990572377966,
+          0.040401941058279434
+        ],
+        "confidence": 1,
+        "text": "stable-"
+      },
+      {
+        "boundingBox": [
+          0.41133720964259507,
+          0.7710727976614625,
+          0.17296511806946108,
+          0.04710902108086479
+        ],
+        "confidence": 0.5,
+        "text": "Hugging Face"
+      },
+      {
+        "boundingBox": [
+          0.7529069799747283,
+          0.776819922603845,
+          0.17441859856383235,
+          0.04411671627526992
+        ],
+        "confidence": 1,
+        "text": "Training node"
+      },
+      {
+        "boundingBox": [
+          0.08139534757905274,
+          0.732758621239644,
+          0.1497093069805988,
+          0.038591240557674156
+        ],
+        "confidence": 1,
+        "text": "worldmodel"
+      },
+      {
+        "boundingBox": [
+          0.44904297283492917,
+          0.7319846361012906,
+          0.09900707625957833,
+          0.040162959774792006
+        ],
+        "confidence": 1,
+        "text": "Buckets"
+      },
+      {
+        "boundingBox": [
+          0.7718023314091178,
+          0.6942148763795335,
+          0.13517440965269456,
+          0.028007345638055847
+        ],
+        "confidence": 0.5,
+        "text": "（Spot / Colab GPU）"
+      },
+      {
+        "boundingBox": [
+          0.297965118904174,
+          0.6139846739695975,
+          0.05813953157149698,
+          0.0223789626154407
+        ],
+        "confidence": 0.3,
+        "text": "collect•"
+      },
+      {
+        "boundingBox": [
+          0.6423844175296891,
+          0.5973657414401665,
+          0.0509869780477914,
+          0.025654191715050567
+        ],
+        "confidence": 1,
+        "text": "stream"
+      },
+      {
+        "boundingBox": [
+          0.29941860374329365,
+          0.584022038392005,
+          0.05523255903473051,
+          0.022299800339329767
+        ],
+        "confidence": 1,
+        "text": "convert"
+      },
+      {
+        "boundingBox": [
+          0.09447674517376842,
+          0.25862068997516974,
+          0.11773255903473054,
+          0.027880686909759644
+        ],
+        "confidence": 1,
+        "text": "collect rollouts"
+      },
+      {
+        "boundingBox": [
+          0.7834302355836362,
+          0.2586206903510364,
+          0.11191859856383224,
+          0.03065134008268744
+        ],
+        "confidence": 1,
+        "text": "LeWorldModel"
+      },
+      {
+        "boundingBox": [
+          0.4200581409182983,
+          0.2451790631780989,
+          0.15406976386107774,
+          0.03305785226639202
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB•.lance"
+      },
+      {
+        "boundingBox": [
+          0.07848837239623593,
+          0.22314049577347284,
+          0.15116278747497006,
+          0.027817358915833257
+        ],
+        "confidence": 0.5,
+        "text": "& convert to Lance"
+      },
+      {
+        "boundingBox": [
+          0.7892000370295535,
+          0.21989749040414774,
+          0.10037899690968721,
+          0.03403422110838916
+        ],
+        "confidence": 1,
+        "text": "GPU training"
+      }
+    ],
+    "ocr_text": "stable-\nHugging Face\nTraining node\nworldmodel\nBuckets\n（Spot / Colab GPU）\ncollect•\nstream\nconvert\ncollect rollouts\nLeWorldModel\nLanceDB•.lance\n& convert to Lance\nGPU training",
+    "description": "Why does this matter for Lance?中的配图，包含文字：stable-；Hugging Face；Training node；worldmodel；Buckets；（Spot / Colab GPU）；collect•；stream；convert；collect rollouts；LeWorldModel；LanceDB•.lance；& convert to Lance；GPU training",
+    "entities": [
+      "stable-",
+      "Hugging Face",
+      "Training node",
+      "worldmodel",
+      "Buckets",
+      "（Spot / Colab GPU）",
+      "collect•",
+      "stream",
+      "convert",
+      "collect rollouts",
+      "LeWorldModel",
+      "LanceDB•.lance",
+      "& convert to Lance",
+      "GPU training"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1d5d111fd0d57fa9945959fc3a5f3503651b3b5679e35cea2529519b577efe00"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-005",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 5,
+    "source_url": "https://colab.research.google.com/assets/colab-badge.svg",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-005.svg",
+    "section": "**Try the 2 min Colab walkthrough**",
+    "alt": "Open In Colab",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3161192319390917,
+          0.09608685425017072,
+          0.6156247782910991,
+          0.6578262567520141
+        ],
+        "confidence": 0.5,
+        "text": "Open in Colab"
+      }
+    ],
+    "ocr_text": "Open in Colab",
+    "description": "**Try the 2 min Colab walkthrough**中的配图，包含文字：Open in Colab",
+    "entities": [
+      "Open in Colab"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a590b05e22690c59d120ad562fa6bd74f9e2e8e5f5a8c88381e1bebc99ad0f22"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-006",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-006.avif",
+    "section": "Acknowledgements",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Acknowledgements中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-007",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce117629_quentin-lhoest.avif",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-007.avif",
+    "section": "Acknowledgements",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Acknowledgements中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "24406b6b914d2dc4e37265c349079b49cbedb6a6747f2e38c2f16adcd6642e35"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-008",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2027c11d2a9ba53d48b008_lucas-maes.jpg",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-008.jpg",
+    "section": "Acknowledgements",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Acknowledgements中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "36df7c2d5a0c41080cc29a4c947ebedafea86fc258d9c5a6654c69c99810708f"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-009",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a2027cd52076fbee756436d_quentin-le-lidec.jpg",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-009.jpg",
+    "section": "Acknowledgements",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Acknowledgements中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "343fd1d81b5a0d3c24eae2869ea95e6f5c8f105f24b10a264733f05dd8b8d6d8"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-010",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-010.png",
+    "section": "Acknowledgements",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Acknowledgements中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-011",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-011.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7-fig-012",
+    "doc_id": "1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1425-https-www-lancedb-com-blog-stable-worldmodel-a-h-d616e2e7/figure-012.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

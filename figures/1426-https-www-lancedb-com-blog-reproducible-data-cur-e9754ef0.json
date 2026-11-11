@@ -1,0 +1,569 @@
+[
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-001",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a19923176c2032736d4a99f_preview-image.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-001.png",
+    "section": "Reproducible Data Curation In The Multimodal Lakehouse",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09590114010944176,
+          0.8889160221425751,
+          0.14540702418277138,
+          0.05206486323330306
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Reproducible Data Curation In The Multimodal Lakehouse中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "29f10bf458f3c0a119d7b2845a28ad40ed780aba8cdc0c63ede32e34dcf3605c"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-002",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a19923c6de372b248d3761b_lancedb-ml-lifecycle.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-002.png",
+    "section": "Reproducible Data Curation In The Multimodal Lakehouse",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3455369604811219,
+          0.3928351072399099,
+          0.07951431274414061,
+          0.083079782128334
+        ],
+        "confidence": 1,
+        "text": "Feature"
+      },
+      {
+        "boundingBox": [
+          0.5691176475073528,
+          0.39375000028125007,
+          0.08970588235294119,
+          0.08124999999999993
+        ],
+        "confidence": 0.5,
+        "text": "Search &"
+      },
+      {
+        "boundingBox": [
+          0.09117647126470588,
+          0.33125000028125007,
+          0.13529411764705881,
+          0.08124999999999993
+        ],
+        "confidence": 1,
+        "text": "Data curation"
+      },
+      {
+        "boundingBox": [
+          0.7998450192997766,
+          0.3102073977970081,
+          0.08560407862943764,
+          0.11083520650863643
+        ],
+        "confidence": 0.5,
+        "text": "Training"
+      },
+      {
+        "boundingBox": [
+          0.32465177897432135,
+          0.24222604016235272,
+          0.12275526383343865,
+          0.12179791927337646
+        ],
+        "confidence": 1,
+        "text": "engineering"
+      },
+      {
+        "boundingBox": [
+          0.5686606242655913,
+          0.25154077829774957,
+          0.09076090419993676,
+          0.10123057365417487
+        ],
+        "confidence": 1,
+        "text": "analytics"
+      }
+    ],
+    "ocr_text": "Feature\nSearch &\nData curation\nTraining\nengineering\nanalytics",
+    "description": "Reproducible Data Curation In The Multimodal Lakehouse中的配图，包含文字：Feature；Search &；Data curation；Training；engineering；analytics",
+    "entities": [
+      "Feature",
+      "Search &",
+      "Data curation",
+      "Training",
+      "engineering",
+      "analytics"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f5260eb1edabd60a29c05143920911fd61e993c07e896202bf7203b8d1cf46b0"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-003",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a19923c6de372b248d3761b_lancedb-ml-lifecycle.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-003.png",
+    "section": "What this unlocks next",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3455369604811219,
+          0.3928351072399099,
+          0.07951431274414061,
+          0.083079782128334
+        ],
+        "confidence": 1,
+        "text": "Feature"
+      },
+      {
+        "boundingBox": [
+          0.5691176475073528,
+          0.39375000028125007,
+          0.08970588235294119,
+          0.08124999999999993
+        ],
+        "confidence": 0.5,
+        "text": "Search &"
+      },
+      {
+        "boundingBox": [
+          0.09117647126470588,
+          0.33125000028125007,
+          0.13529411764705881,
+          0.08124999999999993
+        ],
+        "confidence": 1,
+        "text": "Data curation"
+      },
+      {
+        "boundingBox": [
+          0.7998450192997766,
+          0.3102073977970081,
+          0.08560407862943764,
+          0.11083520650863643
+        ],
+        "confidence": 0.5,
+        "text": "Training"
+      },
+      {
+        "boundingBox": [
+          0.32465177897432135,
+          0.24222604016235272,
+          0.12275526383343865,
+          0.12179791927337646
+        ],
+        "confidence": 1,
+        "text": "engineering"
+      },
+      {
+        "boundingBox": [
+          0.5686606242655913,
+          0.25154077829774957,
+          0.09076090419993676,
+          0.10123057365417487
+        ],
+        "confidence": 1,
+        "text": "analytics"
+      }
+    ],
+    "ocr_text": "Feature\nSearch &\nData curation\nTraining\nengineering\nanalytics",
+    "description": "What this unlocks next中的配图，包含文字：Feature；Search &；Data curation；Training；engineering；analytics",
+    "entities": [
+      "Feature",
+      "Search &",
+      "Data curation",
+      "Training",
+      "engineering",
+      "analytics"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f5260eb1edabd60a29c05143920911fd61e993c07e896202bf7203b8d1cf46b0"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-004",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-004.avif",
+    "section": "What this unlocks next",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What this unlocks next中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-005",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-005.png",
+    "section": "What this unlocks next",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "What this unlocks next中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-006",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0-fig-007",
+    "doc_id": "1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1426-https-www-lancedb-com-blog-reproducible-data-cur-e9754ef0/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-001",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f29aa8918276febede85a5_apr%20blog%20hero.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-001.png",
+    "section": "⚡Vector Search at 10B Scale, 📊 Lance Format Benchmarks, 🚗 AV Pipelines at Scale",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.24842807319571822,
+          0.5104819393303788,
+          0.503143850962321,
+          0.1676666118480541
+        ],
+        "confidence": 0.5,
+        "text": "April 2026"
+      },
+      {
+        "boundingBox": [
+          0.3212209353372162,
+          0.2916666662135563,
+          0.3924418449401855,
+          0.07525839628996678
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "April 2026\n•LanceDB Newsletter",
+    "description": "⚡Vector Search at 10B Scale, 📊 Lance Format Benchmarks, 🚗 AV Pipelines at Scale中的配图，包含文字：April 2026；•LanceDB Newsletter",
+    "entities": [
+      "April 2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52d7c545c4e76df17605fefdc12a29902140ca00aa6e32423d5e48254969b4df"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-002",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3e2_64aa5be3.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-002.png",
+    "section": "**⚡How LanceDB Accelerates Vector Search at 10 Billion Scale**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06960939827145797,
+          0.8978596248613402,
+          0.12386260032653808,
+          0.049241991396303475
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.3866279059261509,
+          0.18604651175511078,
+          0.07703488667805991,
+          0.051916450924343494
+        ],
+        "confidence": 1,
+        "text": "How"
+      },
+      {
+        "boundingBox": [
+          0.5741279128267543,
+          0.1833333333697461,
+          0.3997092882792156,
+          0.05740740740740735
+        ],
+        "confidence": 1,
+        "text": "LanceDB Accelerates"
+      },
+      {
+        "boundingBox": [
+          0.43023255710136943,
+          0.08785529839713857,
+          0.5436046600341796,
+          0.054263563509340584
+        ],
+        "confidence": 0.5,
+        "text": "Vector Search at 10 Billion Scale"
+      }
+    ],
+    "ocr_text": "LanceDB\nHow\nLanceDB Accelerates\nVector Search at 10 Billion Scale",
+    "description": "**⚡How LanceDB Accelerates Vector Search at 10 Billion Scale**中的配图，包含文字：LanceDB；How；LanceDB Accelerates；Vector Search at 10 Billion Scale",
+    "entities": [
+      "LanceDB",
+      "How",
+      "LanceDB Accelerates",
+      "Vector Search at 10 Billion Scale"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8e02d725c55d43682aec4ef2707ab43b5e254a03bb8deed8db89966a513305d4"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-003",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3ee_4e815e3d.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-003.png",
+    "section": "**📊 Lance Format v2.2 Benchmarks: Half the Storage, None of the Slowdown**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.097383725355545,
+          0.8811369505763241,
+          0.14389533996582032,
+          0.051679586481164996
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.34166667304166654,
+          0.16296296311111114,
+          0.6375,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "Lance Format v2.2 Benchmarks："
+      },
+      {
+        "boundingBox": [
+          0.290697687120068,
+          0.07222222191676775,
+          0.681686019897461,
+          0.06989664148401331
+        ],
+        "confidence": 0.5,
+        "text": "Half the Storage, None of the Slowdown"
+      }
+    ],
+    "ocr_text": "LanceDB\nLance Format v2.2 Benchmarks：\nHalf the Storage, None of the Slowdown",
+    "description": "**📊 Lance Format v2.2 Benchmarks: Half the Storage, None of the Slowdown**中的配图，包含文字：LanceDB；Lance Format v2.2 Benchmarks：；Half the Storage, None of the Slowdown",
+    "entities": [
+      "LanceDB",
+      "Lance Format v2.2 Benchmarks：",
+      "Half the Storage, None of the Slowdown"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c7e0d28aceeb74cdcab39854933f45cf1737ac556e2afc99b0b146f32ed59da9"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-004",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3e5_99bb94ff.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-004.png",
+    "section": "**🚗 Unifying the AV ML Stack: From Raw Data to Trained Model with LanceDB**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09302325611538359,
+          0.8861111105034126,
+          0.14534883499145507,
+          0.05187338546470366
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.26744185985512964,
+          0.20155038807129722,
+          0.7063953399658203,
+          0.06459948221842449
+        ],
+        "confidence": 0.5,
+        "text": "Unifying the AV ML Stack: From Raw Data"
+      },
+      {
+        "boundingBox": [
+          0.3139534926791169,
+          0.11627907141070437,
+          0.38808139165242517,
+          0.054263563509340584
+        ],
+        "confidence": 0.5,
+        "text": "to Trained Model with"
+      },
+      {
+        "boundingBox": [
+          0.8107391870463734,
+          0.11088278418100539,
+          0.1648588339487712,
+          0.06505613680239075
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB\nUnifying the AV ML Stack: From Raw Data\nto Trained Model with\nLanceDB",
+    "description": "**🚗 Unifying the AV ML Stack: From Raw Data to Trained Model with LanceDB**中的配图，包含文字：LanceDB；Unifying the AV ML Stack: From Raw Data；to Trained Model with；LanceDB",
+    "entities": [
+      "LanceDB",
+      "Unifying the AV ML Stack: From Raw Data",
+      "to Trained Model with"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f00de79702ad94114608d807c4b789aa950dd3ddf60f81a78f6e4ef5421b221d"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-005",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3eb_4d2a06b1.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-005.png",
+    "section": "Bytedance Volcano Engine LAS's Lance-Based PB-Scale Autonomous Driving Data Lake Solution",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22965116229579813,
+          0.468834687576526,
+          0.15988372266292572,
+          0.059620598409128145
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.42732558187541764,
+          0.46883468855724797,
+          0.05232558026909828,
+          0.06504065091492695
+        ],
+        "confidence": 0.3,
+        "text": "×"
+      },
+      {
+        "boundingBox": [
+          0.5218023228101597,
+          0.4579945815218325,
+          0.33284884691238403,
+          0.07588075592652466
+        ],
+        "confidence": 0.5,
+        "text": "AVolcanoEngine"
+      }
+    ],
+    "ocr_text": "LanceDB\n×\nAVolcanoEngine",
+    "description": "Bytedance Volcano Engine LAS's Lance-Based PB-Scale Autonomous Driving Data Lake Solution中的配图，包含文字：LanceDB；×；AVolcanoEngine",
+    "entities": [
+      "LanceDB",
+      "×",
+      "AVolcanoEngine"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dd500e19bc07753a1809b13298b477c6fc238437aa2ddf51f63cbc573ba41663"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-006",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3f4_2bd362d9.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-006.png",
+    "section": "**📅 Upcoming Events**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.037500007708333234,
+          0.7794117649030831,
+          0.925,
+          0.13235294200755932
+        ],
+        "confidence": 0.5,
+        "text": "AI AGENT * CONFERENCE May 4-5 |New York Hilton Midtown"
+      },
+      {
+        "boundingBox": [
+          0.04215457303139466,
+          0.4291666661284722,
+          0.33372364044189456,
+          0.12916666666666676
+        ],
+        "confidence": 0.5,
+        "text": "What Agents Want："
+      },
+      {
+        "boundingBox": [
+          0.7856161270402857,
+          0.33138452126694407,
+          0.1676436265309652,
+          0.11223095787896054
+        ],
+        "confidence": 0.5,
+        "text": "Chang She"
+      },
+      {
+        "boundingBox": [
+          0.03750000499999988,
+          0.26470588184160215,
+          0.39999999999999997,
+          0.14705882602267795
+        ],
+        "confidence": 1,
+        "text": "Beyond One-Size-Fits-"
+      },
+      {
+        "boundingBox": [
+          0.7844132993032313,
+          0.2263383364140673,
+          0.16068159739176424,
+          0.10148999602706343
+        ],
+        "confidence": 0.5,
+        "text": "CEO,LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.039812644722108194,
+          0.11666666607954546,
+          0.3571428616841634,
+          0.12962962962962954
+        ],
+        "confidence": 1,
+        "text": "All Retrieval Systems"
+      }
+    ],
+    "ocr_text": "AI AGENT * CONFERENCE May 4-5 |New York Hilton Midtown\nWhat Agents Want：\nChang She\nBeyond One-Size-Fits-\nCEO,LanceDB\nAll Retrieval Systems",
+    "description": "**📅 Upcoming Events**中的配图，包含文字：AI AGENT * CONFERENCE May 4-5 |New York Hilton Midtown；What Agents Want：；Chang She；Beyond One-Size-Fits-；CEO,LanceDB；All Retrieval Systems",
+    "entities": [
+      "AI AGENT * CONFERENCE May 4-5 |New York Hilton Midtown",
+      "What Agents Want：",
+      "Chang She",
+      "Beyond One-Size-Fits-",
+      "CEO,LanceDB",
+      "All Retrieval Systems"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "cad9e1f75728b6516f1e9ddf72b16305e2f8161acad6572502467c02c2d070a3"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-007",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3f1_0e471124.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-007.png",
+    "section": "**📅 Upcoming Events**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5291666635833334,
+          0.764705884743679,
+          0.44999999999999996,
+          0.17647057992440685
+        ],
+        "confidence": 0.3,
+        "text": "KGC May 48 | CornellTech NYc"
+      },
+      {
+        "boundingBox": [
+          0.1580796232823209,
+          0.8500000001388889,
+          0.16744731267293295,
+          0.07500000000000007
+        ],
+        "confidence": 1,
+        "text": "Prashanth Rao"
+      },
+      {
+        "boundingBox": [
+          0.1569086656163724,
+          0.7703703696932871,
+          0.1557377020517985,
+          0.054629629629629584
+        ],
+        "confidence": 0.5,
+        "text": "Al Engineer @ LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.5292740096592375,
+          0.4958333335416666,
+          0.4168618202209472,
+          0.1337962962962963
+        ],
+        "confidence": 1,
+        "text": "Multi-Modal Knowledge"
+      },
+      {
+        "boundingBox": [
+          0.530444965412966,
+          0.3370370372800926,
+          0.29976580937703445,
+          0.1337962962962962
+        ],
+        "confidence": 0.5,
+        "text": "Graph for Agents"
+      },
+      {
+        "boundingBox": [
+          0.1919902116856497,
+          0.16978531312567924,
+          0.15934510231018065,
+          0.09376270859329783
+        ],
+        "confidence": 0.5,
+        "text": "David Hughes"
+      },
+      {
+        "boundingBox": [
+          0.5292740105673797,
+          0.19166666653645836,
+          0.43442621231079104,
+          0.07916666666666672
+        ],
+        "confidence": 0.5,
+        "text": "Unifying Vectors, Graphs, and Media Bytes with"
+      },
+      {
+        "boundingBox": [
+          0.15807962299837808,
+          0.10833333317708338,
+          0.19437939325968423,
+          0.05833333333333335
+        ],
+        "confidence": 0.5,
+        "text": "Al & Graph Solution Architect"
+      },
+      {
+        "boundingBox": [
+          0.5292739988562154,
+          0.09074074017526457,
+          0.38290398915608725,
+          0.0800925925925925
+        ],
+        "confidence": 0.5,
+        "text": "Lance, the Multimodal Lakehouse Format"
+      }
+    ],
+    "ocr_text": "KGC May 48 | CornellTech NYc\nPrashanth Rao\nAl Engineer @ LanceDB\nMulti-Modal Knowledge\nGraph for Agents\nDavid Hughes\nUnifying Vectors, Graphs, and Media Bytes with\nAl & Graph Solution Architect\nLance, the Multimodal Lakehouse Format",
+    "description": "**📅 Upcoming Events**中的配图，包含文字：KGC May 48 | CornellTech NYc；Prashanth Rao；Al Engineer @ LanceDB；Multi-Modal Knowledge；Graph for Agents；David Hughes；Unifying Vectors, Graphs, and Media Bytes with；Al & Graph Solution Architect；Lance, the Multimodal Lakehouse Format",
+    "entities": [
+      "KGC May 48 | CornellTech NYc",
+      "Prashanth Rao",
+      "Al Engineer @ LanceDB",
+      "Multi-Modal Knowledge",
+      "Graph for Agents",
+      "David Hughes",
+      "Unifying Vectors, Graphs, and Media Bytes with",
+      "Al & Graph Solution Architect",
+      "Lance, the Multimodal Lakehouse Format"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bc2834b66202a99c863143f03ef5de29693257f55a1186093f14ebb2a4edbd3"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-008",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f2a2723b4799669d6ef3e8_1b3c15ff.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-008.png",
+    "section": "**📅 Upcoming Events**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02459015818797585,
+          0.6750000008072916,
+          0.4988290468851726,
+          0.12916666666666665
+        ],
+        "confidence": 0.3,
+        "text": "Trillion is the New Billion"
+      },
+      {
+        "boundingBox": [
+          0.025761121553367104,
+          0.5125000007986111,
+          0.4882904052734374,
+          0.09583333333333321
+        ],
+        "confidence": 0.5,
+        "text": "Managing Really Large Multimodal Datasets"
+      },
+      {
+        "boundingBox": [
+          0.7950819713307115,
+          0.49166666687500005,
+          0.1615924994150797,
+          0.08796296296296291
+        ],
+        "confidence": 0.5,
+        "text": "Chang She"
+      },
+      {
+        "boundingBox": [
+          0.023419204544407445,
+          0.42500000041666663,
+          0.06206088860829671,
+          0.07500000000000007
+        ],
+        "confidence": 0.5,
+        "text": "for AI"
+      },
+      {
+        "boundingBox": [
+          0.7927400479118726,
+          0.3833333327380951,
+          0.1557377020517985,
+          0.08333333333333337
+        ],
+        "confidence": 0.5,
+        "text": "CEO,LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.08430913358291846,
+          0.14166666638020842,
+          0.046838406721750894,
+          0.07916666666666661
+        ],
+        "confidence": 0.5,
+        "text": "AI"
+      },
+      {
+        "boundingBox": [
+          0.22083333833333316,
+          0.08823529609957426,
+          0.29999999999999993,
+          0.10294117397732205
+        ],
+        "confidence": 0.5,
+        "text": "May 12-14 | San Francisco"
+      },
+      {
+        "boundingBox": [
+          0.09240139761681541,
+          0.047989425182620615,
+          0.12433069547017415,
+          0.08735448342782481
+        ],
+        "confidence": 1,
+        "text": "Council"
+      }
+    ],
+    "ocr_text": "Trillion is the New Billion\nManaging Really Large Multimodal Datasets\nChang She\nfor AI\nCEO,LanceDB\nAI\nMay 12-14 | San Francisco\nCouncil",
+    "description": "**📅 Upcoming Events**中的配图，包含文字：Trillion is the New Billion；Managing Really Large Multimodal Datasets；Chang She；for AI；CEO,LanceDB；AI；May 12-14 | San Francisco；Council",
+    "entities": [
+      "Trillion is the New Billion",
+      "Managing Really Large Multimodal Datasets",
+      "Chang She",
+      "for AI",
+      "CEO,LanceDB",
+      "AI",
+      "May 12-14 | San Francisco",
+      "Council"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4647264a7cfd2df6eb572afd3afa3e2fa12da7eb7c6529e2c2885de01ed76431"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-009",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11763d_chanchan-mao.avif",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-009.avif",
+    "section": "**🤝 Lance Community Sync Recap**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**🤝 Lance Community Sync Recap**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4427c54502be9dac51e1f7f09515bd847ed8788d47febe5bb03200f41d71a8c2"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-010",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-010.png",
+    "section": "**🤝 Lance Community Sync Recap**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "**🤝 Lance Community Sync Recap**中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-011",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-011.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736-fig-012",
+    "doc_id": "2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/2341-https-www-lancedb-com-blog-newsletter-april-2026-ae974736/figure-012.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

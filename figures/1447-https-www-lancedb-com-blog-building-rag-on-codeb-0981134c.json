@@ -1,0 +1,1802 @@
+[
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-001",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccba4b69b7b4500ccd278f_preview-image.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-001.avif",
+    "section": "Building RAG on codebases: Part 1",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09358744515351414,
+          0.8791487771471076,
+          0.14876260757446289,
+          0.05836910936567519
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Building RAG on codebases: Part 1中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6277a0afbf6a464bcac1a4a9a304fb486e639cde6677a919f9539eff76cc58f5"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-002",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294941fdf18ba1e577f1_code-rag-1-icl.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-002.avif",
+    "section": "In-context learning approach",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6725239894474868,
+          0.5415038705903719,
+          0.20149856429916246,
+          0.0925241734119171
+        ],
+        "confidence": 0.3,
+        "text": "Iust paste"
+      },
+      {
+        "boundingBox": [
+          0.6786786800729301,
+          0.4680851065349544,
+          0.19519519519519524,
+          0.08510638297872342
+        ],
+        "confidence": 0.3,
+        "text": "theentre"
+      },
+      {
+        "boundingBox": [
+          0.6006006027965466,
+          0.3723404258976064,
+          0.3513513513513513,
+          0.09042553191489355
+        ],
+        "confidence": 0.3,
+        "text": "codebase IntoLLM"
+      }
+    ],
+    "ocr_text": "Iust paste\ntheentre\ncodebase IntoLLM",
+    "description": "In-context learning approach中的配图，包含文字：Iust paste；theentre；codebase IntoLLM",
+    "entities": [
+      "Iust paste",
+      "theentre",
+      "codebase IntoLLM"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b5c209de2e7398f398a2140fbf123d29ddcefc6103f4d9f2e7e7854f7af63beb"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-003",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294941fdf18ba1e577ee_code-rag-1-1.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-003.avif",
+    "section": "Towards a naive semantic search solution",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.8879436802396511,
+          0.9181679711220205,
+          0.08748473399638002,
+          0.038664057910204885
+        ],
+        "confidence": 1,
+        "text": "Indexing"
+      },
+      {
+        "boundingBox": [
+          0.37500000102112885,
+          0.906374501400504,
+          0.05523255530824056,
+          0.03486055776892427
+        ],
+        "confidence": 1,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.485967708008762,
+          0.851775110837965,
+          0.06586059949076761,
+          0.03924483796989775
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.41279070354987907,
+          0.8014705881271837,
+          0.18313952146128848,
+          0.0222345908799495
+        ],
+        "confidence": 0.5,
+        "text": "How do you evaluate the fact"
+      },
+      {
+        "boundingBox": [
+          0.7252906986021168,
+          0.8112745097892402,
+          0.07267441535390584,
+          0.017410749458221852
+        ],
+        "confidence": 1,
+        "text": "Documents"
+      },
+      {
+        "boundingBox": [
+          0.16715116466263444,
+          0.7768924306935486,
+          0.05087209029682421,
+          0.029880478087649376
+        ],
+        "confidence": 1,
+        "text": "User"
+      },
+      {
+        "boundingBox": [
+          0.4113372126637536,
+          0.7669322704543095,
+          0.20203488036532208,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "that OpenAl's CEO, Sam Altman，"
+      },
+      {
+        "boundingBox": [
+          0.8502907004735246,
+          0.754901961227674,
+          0.10174418059364843,
+          0.02205882319416186
+        ],
+        "confidence": 0.5,
+        "text": "Chunks Vectors"
+      },
+      {
+        "boundingBox": [
+          0.41279069717556854,
+          0.7400398403923522,
+          0.20494186004566534,
+          0.019920318725099584
+        ],
+        "confidence": 0.5,
+        "text": "went through a sudden dismissal"
+      },
+      {
+        "boundingBox": [
+          0.41279070046099503,
+          0.7081673305528007,
+          0.19476744018266107,
+          0.022224826166829303
+        ],
+        "confidence": 0.5,
+        "text": "by the board in just three days，"
+      },
+      {
+        "boundingBox": [
+          0.202000946301857,
+          0.6811851852339725,
+          0.07128880548138994,
+          0.03713943283871357
+        ],
+        "confidence": 0.5,
+        "text": "Output"
+      },
+      {
+        "boundingBox": [
+          0.41279070180655736,
+          0.6762948203494845,
+          0.17441860045665264,
+          0.02223459087994928
+        ],
+        "confidence": 0.5,
+        "text": "and then was rehired by the"
+      },
+      {
+        "boundingBox": [
+          0.8313953499979393,
+          0.6663346609732239,
+          0.09738372009133056,
+          0.027292789216060598
+        ],
+        "confidence": 0.5,
+        "text": "embeddings"
+      },
+      {
+        "boundingBox": [
+          0.4127907009479136,
+          0.6444223107305211,
+          0.194767440182661,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "company, resembling a real-life"
+      },
+      {
+        "boundingBox": [
+          0.4113372141076073,
+          0.6151960783826969,
+          0.19912790068497893,
+          0.02450980418231863
+        ],
+        "confidence": 0.5,
+        "text": "version of \"Game of Thrones\" in"
+      },
+      {
+        "boundingBox": [
+          0.8850653243079925,
+          0.5946086351790665,
+          0.09033446616314833,
+          0.03137096465821276
+        ],
+        "confidence": 1,
+        "text": "Retrieval"
+      },
+      {
+        "boundingBox": [
+          0.40988372009919616,
+          0.5806772909243789,
+          0.16715116027399157,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "terms of power dynamics？"
+      },
+      {
+        "boundingBox": [
+          0.08139534953548185,
+          0.5318627454663529,
+          0.1119186004566526,
+          0.026960783270725708
+        ],
+        "confidence": 0.3,
+        "text": "/ without RAG）"
+      },
+      {
+        "boundingBox": [
+          0.7354651186540054,
+          0.5169322705765651,
+          0.2122093002283263,
+          0.0320873374483025
+        ],
+        "confidence": 1,
+        "text": "Relevant Documents"
+      },
+      {
+        "boundingBox": [
+          0.07267442795861274,
+          0.497549020196017,
+          0.2281976614156232,
+          0.01960784220600509
+        ],
+        "confidence": 0.3,
+        "text": "..l am unable to provide comments on"
+      },
+      {
+        "boundingBox": [
+          0.07267442766433672,
+          0.46812748964996886,
+          0.22529068173528,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "future events. Currently, l do not have"
+      },
+      {
+        "boundingBox": [
+          0.07267442465054952,
+          0.44322709207623967,
+          0.23691860045665264,
+          0.02491016216961983
+        ],
+        "confidence": 0.5,
+        "text": "any information regarding the dismissal"
+      },
+      {
+        "boundingBox": [
+          0.42151162789918034,
+          0.4362549797738553,
+          0.04069767494291843,
+          0.029880478087649376
+        ],
+        "confidence": 1,
+        "text": "LLM"
+      },
+      {
+        "boundingBox": [
+          0.5508720942605303,
+          0.4382470118452142,
+          0.1119186004566527,
+          0.03234122378892634
+        ],
+        "confidence": 1,
+        "text": "Generation"
+      },
+      {
+        "boundingBox": [
+          0.07122093636953583,
+          0.41633466154083176,
+          0.18895348082197475,
+          0.02490039840637448
+        ],
+        "confidence": 0.3,
+        "text": "and rehiring of OpenAl's CEO."
+      },
+      {
+        "boundingBox": [
+          0.40261627821062235,
+          0.3823529410111437,
+          0.05959302482875528,
+          0.017156863117597898
+        ],
+        "confidence": 0.5,
+        "text": "Question ："
+      },
+      {
+        "boundingBox": [
+          0.7281976814853275,
+          0.3700980397425856,
+          0.19622092100463573,
+          0.01960784220600509
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 1： \"Sam Altman Returns to"
+      },
+      {
+        "boundingBox": [
+          0.09580354732329222,
+          0.3419376115206719,
+          0.07002081093213236,
+          0.024458110095020302
+        ],
+        "confidence": 0.5,
+        "text": "with RAG"
+      },
+      {
+        "boundingBox": [
+          0.4026162851255771,
+          0.35258964184886576,
+          0.22529068173527989,
+          0.022410357615862186
+        ],
+        "confidence": 0.5,
+        "text": "How do you evaluate the fact that the"
+      },
+      {
+        "boundingBox": [
+          0.7267441859758424,
+          0.3382352941098211,
+          0.21802325958901259,
+          0.02450980418231863
+        ],
+        "confidence": 0.5,
+        "text": "OpenAl as CEO, Silicon Valley Drama"
+      },
+      {
+        "boundingBox": [
+          0.4026162796256011,
+          0.3284313730842917,
+          0.16715116027399157,
+          0.022166236938233386
+        ],
+        "confidence": 0.3,
+        "text": "OpenAI's CEO，.....dynamics？"
+      },
+      {
+        "boundingBox": [
+          0.09138588014110692,
+          0.2994107765591356,
+          0.20091664199288006,
+          0.03123405255169509
+        ],
+        "confidence": 0.5,
+        "text": "This suggests significant internal"
+      },
+      {
+        "boundingBox": [
+          0.726744189064073,
+          0.3137254903720761,
+          0.22238372009133056,
+          0.024919927832614874
+        ],
+        "confidence": 0.5,
+        "text": "Resembles the 'Zhen Huan' Comedy\""
+      },
+      {
+        "boundingBox": [
+          0.40116278833732905,
+          0.2916666670710172,
+          0.2223837200913305,
+          0.020086320747892183
+        ],
+        "confidence": 0.5,
+        "text": "Please answer the above questions"
+      },
+      {
+        "boundingBox": [
+          0.0697674442540419,
+          0.27450980398706937,
+          0.2412790609589705,
+          0.022302944821665505
+        ],
+        "confidence": 0.5,
+        "text": "disagreements within OpenAl regarding"
+      },
+      {
+        "boundingBox": [
+          0.4011627905898038,
+          0.26470588242865434,
+          0.22674418059364837,
+          0.02214670751199299
+        ],
+        "confidence": 0.5,
+        "text": "based on the following information ："
+      },
+      {
+        "boundingBox": [
+          0.0654069802411325,
+          0.2519920317421349,
+          0.21802324155261893,
+          0.0200667913216519
+        ],
+        "confidence": 0.5,
+        "text": "'the company's future direction and"
+      },
+      {
+        "boundingBox": [
+          0.7267441887447079,
+          0.2619521914886104,
+          0.22819766141562314,
+          0.019920318725099584
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 2： \"The Drama Concludes? Sam"
+      },
+      {
+        "boundingBox": [
+          0.4026162803182359,
+          0.2426470587598284,
+          0.05668604514841208,
+          0.01731310042727041
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 1："
+      },
+      {
+        "boundingBox": [
+          0.06540698529581908,
+          0.2250996014397727,
+          0.2354651015982842,
+          0.02290836653386452
+        ],
+        "confidence": 0.5,
+        "text": "'strategic decisions. All of these twists"
+      },
+      {
+        "boundingBox": [
+          0.7267441851597889,
+          0.23007968123317846,
+          0.22819767945201685,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "Altman to Return as CEO of OpenAl，"
+      },
+      {
+        "boundingBox": [
+          0.40116279276168315,
+          0.21314741008998983,
+          0.05959302031965685,
+          0.022146707511993102
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 2："
+      },
+      {
+        "boundingBox": [
+          0.06540697640932601,
+          0.19820717152744205,
+          0.23401162077630944,
+          0.022381063476501706
+        ],
+        "confidence": 0.5,
+        "text": "iand turns reflect power struggles and"
+      },
+      {
+        "boundingBox": [
+          0.7267441832183832,
+          0.203187250721113,
+          0.19040697968034315,
+          0.02490039840637448
+        ],
+        "confidence": 0.5,
+        "text": "Board to Undergo Restructuring"
+      },
+      {
+        "boundingBox": [
+          0.3996686302293024,
+          0.18835972033442216,
+          0.06112785429537437,
+          0.020339382597174827
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 3："
+      },
+      {
+        "boundingBox": [
+          0.07122093429674184,
+          0.17401960828649754,
+          0.21656976073064424,
+          0.022195531077593866
+        ],
+        "confidence": 1,
+        "text": "corporate governance issues within"
+      },
+      {
+        "boundingBox": [
+          0.06976744253477792,
+          0.14705882366639955,
+          0.058139534988583666,
+          0.022263885969184716
+        ],
+        "confidence": 0.3,
+        "text": "OpenAI.."
+      },
+      {
+        "boundingBox": [
+          0.728197682817928,
+          0.15438247018031104,
+          0.21075580136995797,
+          0.019920318725099695
+        ],
+        "confidence": 0.5,
+        "text": "Chunk 3： \"The Personnel Turmoil at"
+      },
+      {
+        "boundingBox": [
+          0.4316860448847512,
+          0.12250996022486327,
+          0.17005813995433477,
+          0.02699984307308123
+        ],
+        "confidence": 1,
+        "text": "Combine Context"
+      },
+      {
+        "boundingBox": [
+          0.7281976775893252,
+          0.12745098095582097,
+          0.2122093002283263,
+          0.019959377577580373
+        ],
+        "confidence": 0.5,
+        "text": "OpenAI Comes to an End: Who Won"
+      },
+      {
+        "boundingBox": [
+          0.7252906971200325,
+          0.10049019607448773,
+          0.09738372009133056,
+          0.02205882319416186
+        ],
+        "confidence": 0.5,
+        "text": "and Who Lost？\""
+      },
+      {
+        "boundingBox": [
+          0.15101769191413802,
+          0.07971978740117913,
+          0.08023205660195495,
+          0.031736897282391485
+        ],
+        "confidence": 1,
+        "text": "Answer"
+      },
+      {
+        "boundingBox": [
+          0.4549418622287098,
+          0.07569721174535227,
+          0.12354651015982843,
+          0.03214592572702357
+        ],
+        "confidence": 1,
+        "text": "and Prompts"
+      }
+    ],
+    "ocr_text": "Indexing\nInput\nQuery\nHow do you evaluate the fact\nDocuments\nUser\nthat OpenAl's CEO, Sam Altman，\nChunks Vectors\nwent through a sudden dismissal\nby the board in just three days，\nOutput\nand then was rehired by the\nembeddings\ncompany, resembling a real-life\nversion of \"Game of Thrones\" in\nRetrieval\nterms of power dynamics？\n/ without RAG）\nRelevant Documents\n..l am unable to provide comments on\nfuture events. Currently, l do not have\nany information regarding the dismissal\nLLM\nGeneration\nand rehiring of OpenAl's CEO.\nQuestion ：\nChunk 1： \"Sam Altman Returns to\nwith RAG\nHow do you evaluate the fact that the\nOpenAl as CEO, Silicon Valley Drama\nOpenAI's CEO，.....dynamics？\nThis suggests significant internal\nResembles the 'Zhen Huan' Comedy\"\nPlease answer the above questions\ndisagreements within OpenAl regarding\nbased on the following information ：\n'the company's future direction and\nChunk 2： \"The Drama Concludes? Sam\nChunk 1：\n'strategic decisions. All of these twists\nAltman to Return as CEO of OpenAl，\nChunk 2：\niand turns reflect power struggles and\nBoard to Undergo Restructuring\nChunk 3：\ncorporate governance issues within\nOpenAI..\nChunk 3： \"The Personnel Turmoil at\nCombine Context\nOpenAI Comes to an End: Who Won\nand Who Lost？\"\nAnswer\nand Prompts",
+    "description": "Towards a naive semantic search solution中的配图，包含文字：Indexing；Input；Query；How do you evaluate the fact；Documents；User；that OpenAl's CEO, Sam Altman，；Chunks Vectors；went through a sudden dismissal；by the board in just three days，；Output；and then was rehired by the；embeddings；company, resembling a real-life；version of \"Game of Thrones\" in；Retrieval；terms of power dynamics？；/ without RAG）；Relevant Documents；..l am unable to provide comments on；future events. Currently, l do not have；any information regarding the dismissal；LLM；Generation；and rehiring of OpenAl's CEO.；Question ：；Chunk 1： \"Sam Altman Returns to；with RAG；How do you evaluate the fact that the；OpenAl as CEO, Silicon Valley Drama",
+    "entities": [
+      "Indexing",
+      "Input",
+      "Query",
+      "How do you evaluate the fact",
+      "Documents",
+      "User",
+      "that OpenAl's CEO, Sam Altman，",
+      "Chunks Vectors",
+      "went through a sudden dismissal",
+      "by the board in just three days，",
+      "Output",
+      "and then was rehired by the",
+      "embeddings",
+      "company, resembling a real-life",
+      "version of \"Game of Thrones\" in",
+      "Retrieval",
+      "terms of power dynamics？",
+      "/ without RAG）",
+      "Relevant Documents",
+      "..l am unable to provide comments on",
+      "future events. Currently, l do not have",
+      "any information regarding the dismissal",
+      "LLM",
+      "Generation",
+      "and rehiring of OpenAl's CEO.",
+      "Question ：",
+      "Chunk 1： \"Sam Altman Returns to",
+      "with RAG",
+      "How do you evaluate the fact that the",
+      "OpenAl as CEO, Silicon Valley Drama",
+      "OpenAI's CEO，.....dynamics？",
+      "This suggests significant internal",
+      "Resembles the 'Zhen Huan' Comedy\"",
+      "Please answer the above questions",
+      "disagreements within OpenAl regarding",
+      "based on the following information ：",
+      "'the company's future direction and",
+      "Chunk 2： \"The Drama Concludes? Sam",
+      "Chunk 1：",
+      "'strategic decisions. All of these twists",
+      "Altman to Return as CEO of OpenAl，",
+      "Chunk 2：",
+      "iand turns reflect power struggles and",
+      "Board to Undergo Restructuring",
+      "Chunk 3：",
+      "corporate governance issues within",
+      "OpenAI..",
+      "Chunk 3： \"The Personnel Turmoil at",
+      "Combine Context",
+      "OpenAI Comes to an End: Who Won",
+      "and Who Lost？\"",
+      "Answer",
+      "and Prompts"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4adb837ea443e17f04051a3789322f4fd1a210c8b2d3f00827e98cb3f994515f"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-004",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294941fdf18ba1e577e3_code-rag-1-2.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-004.avif",
+    "section": "Towards a naive semantic search solution",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          1.6124660789974156e-09,
+          0.965517241489832,
+          0.1934959349593496,
+          0.03448275862068961
+        ],
+        "confidence": 1,
+        "text": "External Knowledge"
+      },
+      {
+        "boundingBox": [
+          0.051916739736028755,
+          0.9249272742878558,
+          0.08803643947694359,
+          0.036087095579354744
+        ],
+        "confidence": 1,
+        "text": "Required"
+      },
+      {
+        "boundingBox": [
+          0.3008130073306233,
+          0.8408488062334217,
+          0.09593495934959351,
+          0.021220159151193685
+        ],
+        "confidence": 0.5,
+        "text": "Modular RAG"
+      },
+      {
+        "boundingBox": [
+          0.03902439039024389,
+          0.7931034479045093,
+          0.04715447154471545,
+          0.037135278514588865
+        ],
+        "confidence": 0.5,
+        "text": "High"
+      },
+      {
+        "boundingBox": [
+          0.2780487788075881,
+          0.8116710878118972,
+          0.14308943089430892,
+          0.02122015851878356
+        ],
+        "confidence": 0.5,
+        "text": "Organic combination of"
+      },
+      {
+        "boundingBox": [
+          0.2975609766341463,
+          0.793103448408488,
+          0.10243902439024388,
+          0.018567639257294433
+        ],
+        "confidence": 1,
+        "text": "multiple modules"
+      },
+      {
+        "boundingBox": [
+          0.6959349618699187,
+          0.7824933687886826,
+          0.15121951219512197,
+          0.021220159151193574
+        ],
+        "confidence": 1,
+        "text": "Retriever fne-tuning"
+      },
+      {
+        "boundingBox": [
+          0.19186991691056918,
+          0.6976127319628647,
+          0.10731707317073172,
+          0.018567639257294433
+        ],
+        "confidence": 0.5,
+        "text": "Advanced RAG"
+      },
+      {
+        "boundingBox": [
+          0.7560975640379404,
+          0.7002652520335986,
+          0.18373983739837396,
+          0.023872679045092826
+        ],
+        "confidence": 1,
+        "text": "Collaborative fne-tuning"
+      },
+      {
+        "boundingBox": [
+          0.14471544459349603,
+          0.6684350131299734,
+          0.2048780487804878,
+          0.021220159151193574
+        ],
+        "confidence": 1,
+        "text": "Index/pre-retrieval/post-retrieval"
+      },
+      {
+        "boundingBox": [
+          0.20975609849593496,
+          0.6472148542108753,
+          0.07479674796747965,
+          0.018567639257294433
+        ],
+        "confidence": 0.5,
+        "text": "optimization"
+      },
+      {
+        "boundingBox": [
+          0.5544715434417344,
+          0.6259946948054819,
+          0.15284552845528454,
+          0.02917771883289122
+        ],
+        "confidence": 0.5,
+        "text": "All of the above"
+      },
+      {
+        "boundingBox": [
+          0.44065040680603945,
+          0.5623342176392572,
+          0.04227642276422766,
+          0.02917771883289133
+        ],
+        "confidence": 1,
+        "text": "RAG"
+      },
+      {
+        "boundingBox": [
+          0.21459078694451547,
+          0.5433752759872865,
+          0.07976151753247265,
+          0.024655283920328452
+        ],
+        "confidence": 0.5,
+        "text": "Naive RAG"
+      },
+      {
+        "boundingBox": [
+          0.6926829287479674,
+          0.549071618143236,
+          0.19186991869918713,
+          0.02652519893899208
+        ],
+        "confidence": 0.5,
+        "text": "｛ Generator fine-tuning"
+      },
+      {
+        "boundingBox": [
+          0.183739839810298,
+          0.51989389933687,
+          0.14471544715447154,
+          0.018567639257294433
+        ],
+        "confidence": 1,
+        "text": "Add relevant contextual"
+      },
+      {
+        "boundingBox": [
+          0.22110672992630462,
+          0.4957481863334302,
+          0.0683556471413713,
+          0.0217662274995597
+        ],
+        "confidence": 1,
+        "text": "paragraphs"
+      },
+      {
+        "boundingBox": [
+          0.580487805799458,
+          0.3952254639036251,
+          0.11382113821138218,
+          0.034482758620689724
+        ],
+        "confidence": 1,
+        "text": "Fine-tuning"
+      },
+      {
+        "boundingBox": [
+          0.33333333041666685,
+          0.3469387770681064,
+          0.1833333333333333,
+          0.04081632477535169
+        ],
+        "confidence": 0.5,
+        "text": "Promt Engineering"
+      },
+      {
+        "boundingBox": [
+          0.14634146589430888,
+          0.2705570294429708,
+          0.19837398373983742,
+          0.026525198938991967
+        ],
+        "confidence": 0.5,
+        "text": "Adding few shot case COT"
+      },
+      {
+        "boundingBox": [
+          0.04390243927845528,
+          0.16445623352122019,
+          0.04065040650406503,
+          0.026525198938991967
+        ],
+        "confidence": 0.5,
+        "text": "LoW"
+      },
+      {
+        "boundingBox": [
+          0.3008130102113821,
+          0.16976127331564994,
+          0.20813008130081295,
+          0.02652519893899208
+        ],
+        "confidence": 1,
+        "text": "Prompt preliminary attempts"
+      },
+      {
+        "boundingBox": [
+          0.8276422742886179,
+          0.12997347470159148,
+          0.1707317073170731,
+          0.034482758620689724
+        ],
+        "confidence": 1,
+        "text": "Model Adaptatior"
+      },
+      {
+        "boundingBox": [
+          0.8325203264715446,
+          0.09018567655172416,
+          0.12682926829268293,
+          0.03183023872679036
+        ],
+        "confidence": 0.3,
+        "text": "＋ Required"
+      },
+      {
+        "boundingBox": [
+          0.1447154467073171,
+          0.05039787831564979,
+          0.042276422764227634,
+          0.02652519893899208
+        ],
+        "confidence": 0.3,
+        "text": "LoW"
+      },
+      {
+        "boundingBox": [
+          0.7219512196422765,
+          0.04244031793103453,
+          0.04552845528455274,
+          0.037135278514588865
+        ],
+        "confidence": 1,
+        "text": "High"
+      }
+    ],
+    "ocr_text": "External Knowledge\nRequired\nModular RAG\nHigh\nOrganic combination of\nmultiple modules\nRetriever fne-tuning\nAdvanced RAG\nCollaborative fne-tuning\nIndex/pre-retrieval/post-retrieval\noptimization\nAll of the above\nRAG\nNaive RAG\n｛ Generator fine-tuning\nAdd relevant contextual\nparagraphs\nFine-tuning\nPromt Engineering\nAdding few shot case COT\nLoW\nPrompt preliminary attempts\nModel Adaptatior\n＋ Required\nLoW\nHigh",
+    "description": "Towards a naive semantic search solution中的配图，包含文字：External Knowledge；Required；Modular RAG；High；Organic combination of；multiple modules；Retriever fne-tuning；Advanced RAG；Collaborative fne-tuning；Index/pre-retrieval/post-retrieval；optimization；All of the above；RAG；Naive RAG；｛ Generator fine-tuning；Add relevant contextual；paragraphs；Fine-tuning；Promt Engineering；Adding few shot case COT；LoW；Prompt preliminary attempts；Model Adaptatior；＋ Required；LoW；High",
+    "entities": [
+      "External Knowledge",
+      "Required",
+      "Modular RAG",
+      "High",
+      "Organic combination of",
+      "multiple modules",
+      "Retriever fne-tuning",
+      "Advanced RAG",
+      "Collaborative fne-tuning",
+      "Index/pre-retrieval/post-retrieval",
+      "optimization",
+      "All of the above",
+      "RAG",
+      "Naive RAG",
+      "｛ Generator fine-tuning",
+      "Add relevant contextual",
+      "paragraphs",
+      "Fine-tuning",
+      "Promt Engineering",
+      "Adding few shot case COT",
+      "LoW",
+      "Prompt preliminary attempts",
+      "Model Adaptatior",
+      "＋ Required"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "57a4eed702105a14dfc4f8d46b2198038cd43b273ede0addae76962cbdb82d46"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-005",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294941fdf18ba1e577e6_code-rag-1-3.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-005.avif",
+    "section": "Chunking a codebase",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5791666720798694,
+          0.8181818183361461,
+          0.12916666014581657,
+          0.0381288621032122
+        ],
+        "confidence": 0.5,
+        "text": "LLM comments for"
+      },
+      {
+        "boundingBox": [
+          0.42441860660913805,
+          0.7912621359821947,
+          0.10610464699247962,
+          0.029318339153400874
+        ],
+        "confidence": 1,
+        "text": "methods, classes，"
+      },
+      {
+        "boundingBox": [
+          0.5843023243676876,
+          0.7912621363798646,
+          0.07703488504784739,
+          0.02667981582937884
+        ],
+        "confidence": 0.5,
+        "text": "all methods"
+      },
+      {
+        "boundingBox": [
+          0.41279069764535076,
+          0.7650485433717384,
+          0.1351744170881744,
+          0.03203883495145621
+        ],
+        "confidence": 1,
+        "text": "constructor declaration，"
+      },
+      {
+        "boundingBox": [
+          0.7427325596448046,
+          0.7598944595133347,
+          0.13662790640806544,
+          0.026513307071426517
+        ],
+        "confidence": 0.5,
+        "text": "semantic documentation"
+      },
+      {
+        "boundingBox": [
+          0.43740898557657065,
+          0.7352497294092676,
+          0.08448435302473539,
+          0.030819802145356068
+        ],
+        "confidence": 1,
+        "text": "doc comments"
+      },
+      {
+        "boundingBox": [
+          0.6060077239767699,
+          0.7249602448062833,
+          0.06705432060437322,
+          0.03556763917497052
+        ],
+        "confidence": 1,
+        "text": "（optional）"
+      },
+      {
+        "boundingBox": [
+          0.22218077773221423,
+          0.7025528497091189,
+          0.07889425652658832,
+          0.03288902356786649
+        ],
+        "confidence": 0.5,
+        "text": "AST parsing"
+      },
+      {
+        "boundingBox": [
+          0.22238371958302836,
+          0.6728155339317143,
+          0.09011628077580372,
+          0.026392908929621206
+        ],
+        "confidence": 0.5,
+        "text": "via tree-sitter"
+      },
+      {
+        "boundingBox": [
+          0.8212209366442718,
+          0.5300970875633211,
+          0.1468023153451773,
+          0.03495145631067964
+        ],
+        "confidence": 1,
+        "text": "Generate embeddings"
+      },
+      {
+        "boundingBox": [
+          0.09156976842765951,
+          0.509234828312807,
+          0.055232557476076305,
+          0.026687501703651195
+        ],
+        "confidence": 1,
+        "text": "Codebase"
+      },
+      {
+        "boundingBox": [
+          0.821220932249282,
+          0.49868073880386443,
+          0.1395348768967849,
+          0.03166226877749534
+        ],
+        "confidence": 0.5,
+        "text": "and store in LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.22956667067388142,
+          0.3211811953824615,
+          0.08011084336500901,
+          0.03309935227181149
+        ],
+        "confidence": 0.5,
+        "text": "AST parsing"
+      },
+      {
+        "boundingBox": [
+          0.22965116268864844,
+          0.29287598968777084,
+          0.0901162807758038,
+          0.023746701583121532
+        ],
+        "confidence": 0.5,
+        "text": "via tree-sitter"
+      },
+      {
+        "boundingBox": [
+          0.4389534877401286,
+          0.29287598946056415,
+          0.0872093021360218,
+          0.02654148583273286
+        ],
+        "confidence": 1,
+        "text": "Codebase-wide"
+      },
+      {
+        "boundingBox": [
+          0.7020348837398566,
+          0.27176781014364526,
+          0.0305232553400544,
+          0.04485488076811861
+        ],
+        "confidence": 0.3,
+        "text": "一"
+      },
+      {
+        "boundingBox": [
+          0.7877002445023217,
+          0.27891797140937036,
+          0.052506487593691586,
+          0.02263899312436002
+        ],
+        "confidence": 1,
+        "text": "VectorDB"
+      },
+      {
+        "boundingBox": [
+          0.45347028930236616,
+          0.26895974977033554,
+          0.05962918762467867,
+          0.021447255773451745
+        ],
+        "confidence": 1,
+        "text": "references"
+      },
+      {
+        "boundingBox": [
+          0.6031976744051305,
+          0.24538258579594885,
+          0.05523255747607636,
+          0.03166226877749545
+        ],
+        "confidence": 1,
+        "text": "Store as"
+      },
+      {
+        "boundingBox": [
+          0.6031976760852732,
+          0.21359223281915662,
+          0.07267441708817446,
+          0.026513307997323876
+        ],
+        "confidence": 1,
+        "text": "meta-data"
+      },
+      {
+        "boundingBox": [
+          0.3401162804493632,
+          0.026213592320938783,
+          0.4956395401913895,
+          0.0740502588957258
+        ],
+        "confidence": 0.5,
+        "text": "Part 1- codebase indexing"
+      }
+    ],
+    "ocr_text": "LLM comments for\nmethods, classes，\nall methods\nconstructor declaration，\nsemantic documentation\ndoc comments\n（optional）\nAST parsing\nvia tree-sitter\nGenerate embeddings\nCodebase\nand store in LanceDB\nAST parsing\nvia tree-sitter\nCodebase-wide\n一\nVectorDB\nreferences\nStore as\nmeta-data\nPart 1- codebase indexing",
+    "description": "Chunking a codebase中的配图，包含文字：LLM comments for；methods, classes，；all methods；constructor declaration，；semantic documentation；doc comments；（optional）；AST parsing；via tree-sitter；Generate embeddings；Codebase；and store in LanceDB；AST parsing；via tree-sitter；Codebase-wide；一；VectorDB；references；Store as；meta-data；Part 1- codebase indexing",
+    "entities": [
+      "LLM comments for",
+      "methods, classes，",
+      "all methods",
+      "constructor declaration，",
+      "semantic documentation",
+      "doc comments",
+      "（optional）",
+      "AST parsing",
+      "via tree-sitter",
+      "Generate embeddings",
+      "Codebase",
+      "and store in LanceDB",
+      "Codebase-wide",
+      "一",
+      "VectorDB",
+      "references",
+      "Store as",
+      "meta-data",
+      "Part 1- codebase indexing"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4eeb11eab8687e44a259d6fe65916457851148587727e6f5c90865d3b41062d1"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-006",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0294941fdf18ba1e577f4_code-rag-1-4.avif",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-006.avif",
+    "section": "YC-backed companies were using it",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.014071332524527696,
+          0.9250000020963679,
+          0.9427766806357468,
+          0.04655688394329505
+        ],
+        "confidence": 0.5,
+        "text": "Current code search products aren't too different from CMD + F. We've often wanted results that aren't captured by string matches or require some nuanced understanding of our codebase-questions such as"
+      },
+      {
+        "boundingBox": [
+          0.011257031299731953,
+          0.8666666659469167,
+          0.6200750431979096,
+          0.0541666681895
+        ],
+        "confidence": 0.5,
+        "text": "“How does authentication work on the backend？”， \"Find where we initialize Stripe in React\"， or \"Where do we handle hardware failures？\""
+      },
+      {
+        "boundingBox": [
+          0.012195122063197238,
+          0.7784431151882675,
+          0.9146341644101904,
+          0.050898203592814384
+        ],
+        "confidence": 0.5,
+        "text": "To build a tool to help developers quickly search and understand large codebases requires contextual understanding of every line of code, and then how to surface that understanding in a useful format."
+      },
+      {
+        "boundingBox": [
+          0.013133216805468645,
+          0.6916167663244528,
+          0.9484052497313301,
+          0.050049898867121634
+        ],
+        "confidence": 0.5,
+        "text": "First we need to parse your codebase; this isn't a walk in the park as we can't simply embed your code files because in that instance if you were to surface a result for a specific search you'd only be brought to"
+      },
+      {
+        "boundingBox": [
+          0.012195130034893998,
+          0.6416666694376456,
+          0.9437148029227073,
+          0.05444111509951299
+        ],
+        "confidence": 0.5,
+        "text": "the file that the result was in, and no deeper. To be able to find specific snippets of code you're looking for, we need to be much more granular in how we split up your codebase. We've used a universal parser"
+      },
+      {
+        "boundingBox": [
+          0.012195140087454918,
+          0.5913173664977736,
+          0.9212006911665542,
+          0.05089820359281427
+        ],
+        "confidence": 0.5,
+        "text": "（TreeSitter）， so we can traverse the Abstract Syntax Tree （AST） of your code files to pick out individual functions, classes, and snippets to be embedded; not the entire file. This allows us to work on your"
+      },
+      {
+        "boundingBox": [
+          0.012195127318815672,
+          0.545833333186073,
+          0.28424014646461987,
+          0.04583333352368735
+        ],
+        "confidence": 0.5,
+        "text": "codebase on a more semantic level than the raw source code."
+      },
+      {
+        "boundingBox": [
+          0.013133216219350518,
+          0.4500000015941399,
+          0.9606003455832772,
+          0.049999999428937514
+        ],
+        "confidence": 0.5,
+        "text": "Once we have extracted all of the relevant code from the AST, we have to embed them. （We use a number of other search heuristics too, such as edit distance and exact matches, but embeddings are the highest"
+      },
+      {
+        "boundingBox": [
+          0.01313322708318738,
+          0.40416666869235407,
+          0.950281411992161,
+          0.049999996573625194
+        ],
+        "confidence": 0.5,
+        "text": "weighted and core heuristic.） We've learned a great deal about the best implementations of embeddings for this use case, particularly in this case when using embeddings to search between modalities （natural"
+      },
+      {
+        "boundingBox": [
+          0.011257039303645326,
+          0.35416666869235414,
+          0.9596623056094067,
+          0.050024949148029574
+        ],
+        "confidence": 0.5,
+        "text": "language and code） we found that hypothetical search queries were the optimal way to surface relevant code, as well as creating a custom bias matrix for our embeddings to better optimize them at finding code"
+      },
+      {
+        "boundingBox": [
+          0.012195124792916375,
+          0.30833333332744195,
+          0.5816135110681473,
+          0.0464570864945828
+        ],
+        "confidence": 0.5,
+        "text": "from short user queries. Simply embedding the user's search query and searching the answer space with it was a poor solution."
+      },
+      {
+        "boundingBox": [
+          0.01313319946130119,
+          0.21666666900485398,
+          0.9446529252096679,
+          0.049999996573625194
+        ],
+        "confidence": 0.5,
+        "text": "One embeddings heuristic we use is a HyDE comparison, which involves using an LLM to take the user's search query, and then generate code that it thinks will be similar to the actual code the user's trying to"
+      },
+      {
+        "boundingBox": [
+          0.012195135529878613,
+          0.16616766578921816,
+          0.958724183322446,
+          0.050898203592814384
+        ],
+        "confidence": 0.5,
+        "text": "find. This process is well documented and has given us a huge increase in performance （https://www.buildt.ai/blog/3|lmtricks）. Another heuristic allows us to achieve \"search for what your code does, not what it"
+      },
+      {
+        "boundingBox": [
+          0.011257046209278069,
+          0.12083333554652065,
+          0.9624765078441082,
+          0.049999996573625194
+        ],
+        "confidence": 0.5,
+        "text": "is\" functionality—this involves the embeddings gaining some form of understanding of what the code actually does. For this we used embedding customisation to create a bias matrix to mutate the vector space in"
+      },
+      {
+        "boundingBox": [
+          0.012195134695966224,
+          0.07035928147184789,
+          0.6444652760583488,
+          0.046407185628742464
+        ],
+        "confidence": 0.5,
+        "text": "such a way that the embeddings cluster code by its functionality rather than simply its literal strings （https://www.buildt.ai/blog/viral-ripout）."
+      },
+      {
+        "boundingBox": [
+          0.013133228681199469,
+          0.004166667523260337,
+          0.956848021061615,
+          0.024999998286812652
+        ],
+        "confidence": 0.3,
+        "text": "Bw_havina_a pradluct that Iiwec iin_valr TDEHnctead of wallr Cit repacitor/_we ciive vall the nower of contextual understandinn_in real time acMalice Warkiina.on_ wallr codehare There/o no need to cantevt <itch or"
+      }
+    ],
+    "ocr_text": "Current code search products aren't too different from CMD + F. We've often wanted results that aren't captured by string matches or require some nuanced understanding of our codebase-questions such as\n“How does authentication work on the backend？”， \"Find where we initialize Stripe in React\"， or \"Where do we handle hardware failures？\"\nTo build a tool to help developers quickly search and understand large codebases requires contextual understanding of every line of code, and then how to surface that understanding in a useful format.\nFirst we need to parse your codebase; this isn't a walk in the park as we can't simply embed your code files because in that instance if you were to surface a result for a specific search you'd only be brought to\nthe file that the result was in, and no deeper. To be able to find specific snippets of code you're looking for, we need to be much more granular in how we split up your codebase. We've used a universal parser\n（TreeSitter）， so we can traverse the Abstract Syntax Tree （AST） of your code files to pick out individual functions, classes, and snippets to be embedded; not the entire file. This allows us to work on your\ncodebase on a more semantic level than the raw source code.\nOnce we have extracted all of the relevant code from the AST, we have to embed them. （We use a number of other search heuristics too, such as edit distance and exact matches, but embeddings are the highest\nweighted and core heuristic.） We've learned a great deal about the best implementations of embeddings for this use case, particularly in this case when using embeddings to search between modalities （natural\nlanguage and code） we found that hypothetical search queries were the optimal way to surface relevant code, as well as creating a custom bias matrix for our embeddings to better optimize them at finding code\nfrom short user queries. Simply embedding the user's search query and searching the answer space with it was a poor solution.\nOne embeddings heuristic we use is a HyDE comparison, which involves using an LLM to take the user's search query, and then generate code that it thinks will be similar to the actual code the user's trying to\nfind. This process is well documented and has given us a huge increase in performance （https://www.buildt.ai/blog/3|lmtricks）. Another heuristic allows us to achieve \"search for what your code does, not what it\nis\" functionality—this involves the embeddings gaining some form of understanding of what the code actually does. For this we used embedding customisation to create a bias matrix to mutate the vector space in\nsuch a way that the embeddings cluster code by its functionality rather than simply its literal strings （https://www.buildt.ai/blog/viral-ripout）.\nBw_havina_a pradluct that Iiwec iin_valr TDEHnctead of wallr Cit repacitor/_we ciive vall the nower of contextual understandinn_in real time acMalice Warkiina.on_ wallr codehare There/o no need to cantevt <itch or",
+    "description": "YC-backed companies were using it中的配图，包含文字：Current code search products aren't too different from CMD + F. We've often wanted results that aren't captured by string matches or require some nuanced understanding of our codebase-questions such as；“How does authentication work on the backend？”， \"Find where we initialize Stripe in React\"， or \"Where do we handle hardware failures？\"；To build a tool to help developers quickly search and understand large codebases requires contextual understanding of every line of code, and then how to surface that understanding in a useful format.；First we need to parse your codebase; this isn't a walk in the park as we can't simply embed your code files because in that instance if you were to surface a result for a specific search you'd only be brought to；the file that the result was in, and no deeper. To be able to find specific snippets of code you're looking for, we need to be much more granular in how we split up your codebase. We've used a universal parser；（TreeSitter）， so we can traverse the Abstract Syntax Tree （AST） of your code files to pick out individual functions, classes, and snippets to be embedded; not the entire file. This allows us to work on your；codebase on a more semantic level than the raw source code.；Once we have extracted all of the relevant code from the AST, we have to embed them. （We use a number of other search heuristics too, such as edit distance and exact matches, but embeddings are the highest；weighted and core heuristic.） We've learned a great deal about the best implementations of embeddings for this use case, particularly in this case when using embeddings to search between modalities （natural；language and code） we found that hypothetical search queries were the optimal way to surface relevant code, as well as creating a custom bias matrix for our embeddings to better optimize them at finding code；from short user queries. Simply embedding the user's search query and searching the answer space with it was a poor solution.；One embeddings heuristic we use is a HyDE comparison, which involves using an LLM to take the user's search query, and then generate code that it thinks will be similar to the actual code the user's trying to；find. This process is well documented and has given us a huge increase in performance （https://www.buildt.ai/blog/3|lmtricks）. Another heuristic allows us to achieve \"search for what your code does, not what it；is\" functionality—this involves the embeddings gaining some form of understanding of what the code actually does. For this we used embedding customisation to create a bias matrix to mutate the vector space in；such a way that the embeddings cluster code by its functionality rather than simply its literal strings （https://www.buildt.ai/blog/viral-ripout）.；Bw_havina_a pradluct that Iiwec iin_valr TDEHnctead of wallr Cit repacitor/_we ciive vall the nower of contextual understandinn_in real time acMalice Warkiina.on_ wallr codehare There/o no need to cantevt <itch or",
+    "entities": [
+      "Current code search products aren't too different from CMD + F. We've often wanted results that aren't captured by string matches or require some nuanced understanding of our codebase-questions such as",
+      "“How does authentication work on the backend？”， \"Find where we initialize Stripe in React\"， or \"Where do we handle hardware failures？\"",
+      "To build a tool to help developers quickly search and understand large codebases requires contextual understanding of every line of code, and then how to surface that understanding in a useful format.",
+      "First we need to parse your codebase; this isn't a walk in the park as we can't simply embed your code files because in that instance if you were to surface a result for a specific search you'd only be brought to",
+      "the file that the result was in, and no deeper. To be able to find specific snippets of code you're looking for, we need to be much more granular in how we split up your codebase. We've used a universal parser",
+      "（TreeSitter）， so we can traverse the Abstract Syntax Tree （AST） of your code files to pick out individual functions, classes, and snippets to be embedded; not the entire file. This allows us to work on your",
+      "codebase on a more semantic level than the raw source code.",
+      "Once we have extracted all of the relevant code from the AST, we have to embed them. （We use a number of other search heuristics too, such as edit distance and exact matches, but embeddings are the highest",
+      "weighted and core heuristic.） We've learned a great deal about the best implementations of embeddings for this use case, particularly in this case when using embeddings to search between modalities （natural",
+      "language and code） we found that hypothetical search queries were the optimal way to surface relevant code, as well as creating a custom bias matrix for our embeddings to better optimize them at finding code",
+      "from short user queries. Simply embedding the user's search query and searching the answer space with it was a poor solution.",
+      "One embeddings heuristic we use is a HyDE comparison, which involves using an LLM to take the user's search query, and then generate code that it thinks will be similar to the actual code the user's trying to",
+      "find. This process is well documented and has given us a huge increase in performance （https://www.buildt.ai/blog/3|lmtricks）. Another heuristic allows us to achieve \"search for what your code does, not what it",
+      "is\" functionality—this involves the embeddings gaining some form of understanding of what the code actually does. For this we used embedding customisation to create a bias matrix to mutate the vector space in",
+      "such a way that the embeddings cluster code by its functionality rather than simply its literal strings （https://www.buildt.ai/blog/viral-ripout）.",
+      "Bw_havina_a pradluct that Iiwec iin_valr TDEHnctead of wallr Cit repacitor/_we ciive vall the nower of contextual understandinn_in real time acMalice Warkiina.on_ wallr codehare There/o no need to cantevt <itch or"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b9daad8544be25113088559e0bddd3ba09c9d01cae207216f57bb87dea613dff"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-007",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-007.jpg",
+    "section": "References",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "References中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-008",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-008.png",
+    "section": "References",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "References中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-009",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-009.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c-fig-010",
+    "doc_id": "1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1447-https-www-lancedb-com-blog-building-rag-on-codeb-0981134c/figure-010.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

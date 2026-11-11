@@ -1,0 +1,833 @@
+[
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-001",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0297add05ed64ee4a0b46_preview-image.avif",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-001.avif",
+    "section": "LanceDB WikiSearch: Native Full-Text Search on 41M Wikipedia Docs",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7790403175663689,
+          0.8162746157330427,
+          0.16721006393432625,
+          0.0599572287665473
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.5813953443014266,
+          0.1911111114671169,
+          0.3691860580444336,
+          0.10111111111111115
+        ],
+        "confidence": 0.5,
+        "text": "The Power"
+      },
+      {
+        "boundingBox": [
+          0.5874999969791667,
+          0.11111111067901236,
+          0.36249999999999993,
+          0.06666666666666665
+        ],
+        "confidence": 0.5,
+        "text": "of FulFText Search"
+      }
+    ],
+    "ocr_text": "LanceDB\nThe Power\nof FulFText Search",
+    "description": "LanceDB WikiSearch: Native Full-Text Search on 41M Wikipedia Docs中的配图，包含文字：LanceDB；The Power；of FulFText Search",
+    "entities": [
+      "LanceDB",
+      "The Power",
+      "of FulFText Search"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a091bc57e3d3dcc93803a0dae2db087072af7e12c00bd0e14223798b579ff529"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-002",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990258_69c0297bdd05ed64ee4a0b50_wiki_analyse.png",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-002.png",
+    "section": "Analyzing the Query",
+    "alt": "Wikipedia Search Demo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06395348749887368,
+          0.876360809672564,
+          0.3968023284663999,
+          0.06065318818040433
+        ],
+        "confidence": 0.5,
+        "text": "wikipedia 41M Hybrid Search"
+      },
+      {
+        "boundingBox": [
+          0.0654069794829984,
+          0.8297045101286402,
+          0.4883720997549332,
+          0.02721617418351474
+        ],
+        "confidence": 0.5,
+        "text": "Combine semantic and keyword search across 41M+ Wikipedia articles."
+      },
+      {
+        "boundingBox": [
+          0.15110515038367134,
+          0.7192367673952916,
+          0.09895249240120574,
+          0.041526465171232596
+        ],
+        "confidence": 0.5,
+        "text": "目 Query Analysis"
+      },
+      {
+        "boundingBox": [
+          0.08281990231425415,
+          0.7263750881839172,
+          0.03784856822109481,
+          0.020583157220487425
+        ],
+        "confidence": 0.3,
+        "text": "> Demo"
+      },
+      {
+        "boundingBox": [
+          0.2819767451629259,
+          0.7262830481486411,
+          0.09738372141106671,
+          0.023716951788491425
+        ],
+        "confidence": 0.5,
+        "text": "口 How This Works"
+      },
+      {
+        "boundingBox": [
+          0.4084302320301056,
+          0.7262830478569744,
+          0.04069767411808334,
+          0.023716951788491536
+        ],
+        "confidence": 0.3,
+        "text": "日 Data"
+      },
+      {
+        "boundingBox": [
+          0.08575582454992205,
+          0.5497667185510391,
+          0.38081392944666753,
+          0.04043545878693622
+        ],
+        "confidence": 0.5,
+        "text": "Query Execution Plan of the Last search"
+      },
+      {
+        "boundingBox": [
+          0.10029070665308809,
+          0.4633333343503473,
+          0.37209301460080035,
+          0.026666664965972142
+        ],
+        "confidence": 1,
+        "text": "AnalyzeExec verbose=true，metrics=［］，cumulative_cpu=270.985115ms"
+      },
+      {
+        "boundingBox": [
+          0.10755814636670055,
+          0.4266666677670139,
+          0.29651162165613354,
+          0.026677033764021973
+        ],
+        "confidence": 0.5,
+        "text": "TracedExeC，metrics=［］，cumuLative_cpu=270.985115ms"
+      },
+      {
+        "boundingBox": [
+          0.11627905782236002,
+          0.38646967412344047,
+          0.7936046569327998,
+          0.03032659409020222
+        ],
+        "confidence": 0.5,
+        "text": "ProjectionExec:expr=［content@4 as content,title@6 as title,url@5 as url, identifier@2 as identifier,chunk_index@3 as chunk_index，_dist"
+      },
+      {
+        "boundingBox": [
+          0.12936048931601085,
+          0.3499222401852785,
+          0.781976715336001,
+          0.03032659409020222
+        ],
+        "confidence": 0.5,
+        "text": "RemoteTake:columns=\"_distance，_rowid，identifier,chunk_index,content,url, title\"，metrics=［output_rows=5, elapsed_compute=4.180315ms"
+      },
+      {
+        "boundingBox": [
+          0.14244187976214345,
+          0.3133333344059027,
+          0.6962209148458671,
+          0.026666664965972253
+        ],
+        "confidence": 1,
+        "text": "CoalesceBatchesExec: target_batch_size=1024,metrics=［output_rows=5,elapsed_compute=4.325ys］，cumulative_cpu=266.803504ms"
+      },
+      {
+        "boundingBox": [
+          0.15261629940846133,
+          0.2766666677392362,
+          0.7587209148458671,
+          0.026666664965972142
+        ],
+        "confidence": 0.5,
+        "text": "SortExec:TopK（fetch=5），expr=［_distance@e ASC NULLS LAST，_rowid@1 ASC NULLS LAST］，preserve_partitioning=［falsel,filter=［_distance"
+      },
+      {
+        "boundingBox": [
+          0.16569767989242584,
+          0.24000000110034725,
+          0.7456395425770663,
+          0.026718505989893337
+        ],
+        "confidence": 0.5,
+        "text": "ANNSubIndex:name=embedding_idx，K=5，deltas=1,metrics=［output_rows=100,elapsed_compute=266.244622ms，index_comparisons=209880，j"
+      },
+      {
+        "boundingBox": [
+          0.17732560403384853,
+          0.1998444793909786,
+          0.7340116009802676,
+          0.03032659409020222
+        ],
+        "confidence": 0.5,
+        "text": "ANNIvfPartition: vuid=1af76dec-7e75-4cf1-8e3d-8da20e08cbb7,minimum_nprobes=20，maximum_nprobes=Some （20），deltas=1， metrics=［outr"
+      }
+    ],
+    "ocr_text": "wikipedia 41M Hybrid Search\nCombine semantic and keyword search across 41M+ Wikipedia articles.\n目 Query Analysis\n> Demo\n口 How This Works\n日 Data\nQuery Execution Plan of the Last search\nAnalyzeExec verbose=true，metrics=［］，cumulative_cpu=270.985115ms\nTracedExeC，metrics=［］，cumuLative_cpu=270.985115ms\nProjectionExec:expr=［content@4 as content,title@6 as title,url@5 as url, identifier@2 as identifier,chunk_index@3 as chunk_index，_dist\nRemoteTake:columns=\"_distance，_rowid，identifier,chunk_index,content,url, title\"，metrics=［output_rows=5, elapsed_compute=4.180315ms\nCoalesceBatchesExec: target_batch_size=1024,metrics=［output_rows=5,elapsed_compute=4.325ys］，cumulative_cpu=266.803504ms\nSortExec:TopK（fetch=5），expr=［_distance@e ASC NULLS LAST，_rowid@1 ASC NULLS LAST］，preserve_partitioning=［falsel,filter=［_distance\nANNSubIndex:name=embedding_idx，K=5，deltas=1,metrics=［output_rows=100,elapsed_compute=266.244622ms，index_comparisons=209880，j\nANNIvfPartition: vuid=1af76dec-7e75-4cf1-8e3d-8da20e08cbb7,minimum_nprobes=20，maximum_nprobes=Some （20），deltas=1， metrics=［outr",
+    "description": "Analyzing the Query中的配图，包含文字：wikipedia 41M Hybrid Search；Combine semantic and keyword search across 41M+ Wikipedia articles.；目 Query Analysis；> Demo；口 How This Works；日 Data；Query Execution Plan of the Last search；AnalyzeExec verbose=true，metrics=［］，cumulative_cpu=270.985115ms；TracedExeC，metrics=［］，cumuLative_cpu=270.985115ms；ProjectionExec:expr=［content@4 as content,title@6 as title,url@5 as url, identifier@2 as identifier,chunk_index@3 as chunk_index，_dist；RemoteTake:columns=\"_distance，_rowid，identifier,chunk_index,content,url, title\"，metrics=［output_rows=5, elapsed_compute=4.180315ms；CoalesceBatchesExec: target_batch_size=1024,metrics=［output_rows=5,elapsed_compute=4.325ys］，cumulative_cpu=266.803504ms；SortExec:TopK（fetch=5），expr=［_distance@e ASC NULLS LAST，_rowid@1 ASC NULLS LAST］，preserve_partitioning=［falsel,filter=［_distance；ANNSubIndex:name=embedding_idx，K=5，deltas=1,metrics=［output_rows=100,elapsed_compute=266.244622ms，index_comparisons=209880，j；ANNIvfPartition: vuid=1af76dec-7e75-4cf1-8e3d-8da20e08cbb7,minimum_nprobes=20，maximum_nprobes=Some （20），deltas=1， metrics=［outr",
+    "entities": [
+      "wikipedia 41M Hybrid Search",
+      "Combine semantic and keyword search across 41M+ Wikipedia articles.",
+      "目 Query Analysis",
+      "> Demo",
+      "口 How This Works",
+      "日 Data",
+      "Query Execution Plan of the Last search",
+      "AnalyzeExec verbose=true，metrics=［］，cumulative_cpu=270.985115ms",
+      "TracedExeC，metrics=［］，cumuLative_cpu=270.985115ms",
+      "ProjectionExec:expr=［content@4 as content,title@6 as title,url@5 as url, identifier@2 as identifier,chunk_index@3 as chunk_index，_dist",
+      "RemoteTake:columns=\"_distance，_rowid，identifier,chunk_index,content,url, title\"，metrics=［output_rows=5, elapsed_compute=4.180315ms",
+      "CoalesceBatchesExec: target_batch_size=1024,metrics=［output_rows=5,elapsed_compute=4.325ys］，cumulative_cpu=266.803504ms",
+      "SortExec:TopK（fetch=5），expr=［_distance@e ASC NULLS LAST，_rowid@1 ASC NULLS LAST］，preserve_partitioning=［falsel,filter=［_distance",
+      "ANNSubIndex:name=embedding_idx，K=5，deltas=1,metrics=［output_rows=100,elapsed_compute=266.244622ms，index_comparisons=209880，j",
+      "ANNIvfPartition: vuid=1af76dec-7e75-4cf1-8e3d-8da20e08cbb7,minimum_nprobes=20，maximum_nprobes=Some （20），deltas=1， metrics=［outr"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d552bef772939d4e191b315f14ee5ba3ce075880b1a667c877193916d4fa2463"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-003",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cd84a131b8c3990222_69c0297bdd05ed64ee4a0b4c_wiki.png",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-003.png",
+    "section": "The WikiSearch Demo",
+    "alt": "Wikipedia Search Demo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.024709303169250376,
+          0.9656992091937854,
+          0.09447674438824341,
+          0.018469655649368533
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB Demos"
+      },
+      {
+        "boundingBox": [
+          0.13662790581023174,
+          0.860158311347828,
+          0.3328488428708155,
+          0.04221635915130961
+        ],
+        "confidence": 0.5,
+        "text": "Wikipedia 41M Hybrid Search"
+      },
+      {
+        "boundingBox": [
+          0.1366279122287134,
+          0.8283350565001482,
+          0.41279067341079057,
+          0.021269165125849865
+        ],
+        "confidence": 0.5,
+        "text": "Combine semantic and keyword search across 41M+ Wikipedia articles."
+      },
+      {
+        "boundingBox": [
+          0.1511627918990653,
+          0.7598944596693896,
+          0.03343023099111356,
+          0.015831133695521582
+        ],
+        "confidence": 0.3,
+        "text": "≥ Demo"
+      },
+      {
+        "boundingBox": [
+          0.2122093050616969,
+          0.7598944598732049,
+          0.08139534539986201,
+          0.018469655649368644
+        ],
+        "confidence": 0.3,
+        "text": "目 Qvery Analysis"
+      },
+      {
+        "boundingBox": [
+          0.31976744227099924,
+          0.7598944600820879,
+          0.08139534539986198,
+          0.018469655649368533
+        ],
+        "confidence": 0.5,
+        "text": "口 How This Works"
+      },
+      {
+        "boundingBox": [
+          0.4273255817973211,
+          0.759894460005131,
+          0.033430230991113585,
+          0.018469655649368644
+        ],
+        "confidence": 0.3,
+        "text": "目 Data"
+      },
+      {
+        "boundingBox": [
+          0.4098837228729015,
+          0.5303430084869976,
+          0.1845930224470264,
+          0.026533930599997646
+        ],
+        "confidence": 0.5,
+        "text": "Total Documents: 41,246,714"
+      },
+      {
+        "boundingBox": [
+          0.4258299001436634,
+          0.4692918340188247,
+          0.04078206119374328,
+          0.016561450977976344
+        ],
+        "confidence": 1,
+        "text": "Semantic"
+      },
+      {
+        "boundingBox": [
+          0.47965116525614104,
+          0.46949327818722164,
+          0.050872089788105423,
+          0.016028955532574996
+        ],
+        "confidence": 0.5,
+        "text": "FULL Text"
+      },
+      {
+        "boundingBox": [
+          0.5420320099061952,
+          0.46882371603465334,
+          0.03221505102608613,
+          0.017497686960088243
+        ],
+        "confidence": 1,
+        "text": "Hybrid"
+      },
+      {
+        "boundingBox": [
+          0.3168604708846945,
+          0.4063324543483694,
+          0.23691860101161855,
+          0.01583113369552147
+        ],
+        "confidence": 0.5,
+        "text": "There are no strangers here; Only friends you hav"
+      },
+      {
+        "boundingBox": [
+          0.5625000006666675,
+          0.408970976550007,
+          0.02906976683526974,
+          0.01319261174167452
+        ],
+        "confidence": 1,
+        "text": "Limit："
+      },
+      {
+        "boundingBox": [
+          0.6497093024708511,
+          0.40897097655593306,
+          0.03488371976760041,
+          0.01605487683443152
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.32848837218725835,
+          0.3482849607787847,
+          0.021802325126452304,
+          0.023746701529501868
+        ],
+        "confidence": 0.3,
+        "text": "〇"
+      },
+      {
+        "boundingBox": [
+          0.35755814270502045,
+          0.35356200584353215,
+          0.31831395510594734,
+          0.015831133695521582
+        ],
+        "confidence": 0.5,
+        "text": "Analyze Query Plan （adds overhead） Not supported for hybrid search"
+      },
+      {
+        "boundingBox": [
+          0.3837209283301087,
+          0.2347466394597374,
+          0.23546511223513172,
+          0.018614270941054722
+        ],
+        "confidence": 1,
+        "text": "Search over 40 million Wikipedia documents."
+      },
+      {
+        "boundingBox": [
+          0.385174421014217,
+          0.20837642143115498,
+          0.23546511223513172,
+          0.02119958634953456
+        ],
+        "confidence": 0.5,
+        "text": "Choose between Semantic, Keyword, or Hybrid"
+      },
+      {
+        "boundingBox": [
+          0.39534884440085266,
+          0.1845915205360581,
+          0.21366278058782934,
+          0.018614270941054833
+        ],
+        "confidence": 0.5,
+        "text": "search to find what you're Looking for."
+      }
+    ],
+    "ocr_text": "LanceDB Demos\nWikipedia 41M Hybrid Search\nCombine semantic and keyword search across 41M+ Wikipedia articles.\n≥ Demo\n目 Qvery Analysis\n口 How This Works\n目 Data\nTotal Documents: 41,246,714\nSemantic\nFULL Text\nHybrid\nThere are no strangers here; Only friends you hav\nLimit：\nSearch\n〇\nAnalyze Query Plan （adds overhead） Not supported for hybrid search\nSearch over 40 million Wikipedia documents.\nChoose between Semantic, Keyword, or Hybrid\nsearch to find what you're Looking for.",
+    "description": "The WikiSearch Demo中的配图，包含文字：LanceDB Demos；Wikipedia 41M Hybrid Search；Combine semantic and keyword search across 41M+ Wikipedia articles.；≥ Demo；目 Qvery Analysis；口 How This Works；目 Data；Total Documents: 41,246,714；Semantic；FULL Text；Hybrid；There are no strangers here; Only friends you hav；Limit：；Search；〇；Analyze Query Plan （adds overhead） Not supported for hybrid search；Search over 40 million Wikipedia documents.；Choose between Semantic, Keyword, or Hybrid；search to find what you're Looking for.",
+    "entities": [
+      "LanceDB Demos",
+      "Wikipedia 41M Hybrid Search",
+      "Combine semantic and keyword search across 41M+ Wikipedia articles.",
+      "≥ Demo",
+      "目 Qvery Analysis",
+      "口 How This Works",
+      "目 Data",
+      "Total Documents: 41,246,714",
+      "Semantic",
+      "FULL Text",
+      "Hybrid",
+      "There are no strangers here; Only friends you hav",
+      "Limit：",
+      "Search",
+      "〇",
+      "Analyze Query Plan （adds overhead） Not supported for hybrid search",
+      "Search over 40 million Wikipedia documents.",
+      "Choose between Semantic, Keyword, or Hybrid",
+      "search to find what you're Looking for."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0859f781ef1324f1acc19e55edd83e31b09cc7e11ac39b07021aff3252f090d7"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-004",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f5_david-myriel.avif",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-004.avif",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "34d93604ef4a4d0fa801d74bc0c7b29a04deda7f6bbff72ae142cd4071f216bf"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-005",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-005.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-006",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e-fig-007",
+    "doc_id": "1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1442-https-www-lancedb-com-blog-feature-full-text-sea-4137a62e/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

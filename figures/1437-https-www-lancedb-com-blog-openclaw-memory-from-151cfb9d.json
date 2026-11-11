@@ -1,0 +1,939 @@
+[
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-001",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca34631ee4d11c5b73007a_openclaw%203%20hero.avif",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-001.avif",
+    "section": "Memory for OpenClaw: From Zero to LanceDB Pro",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0973272323512728,
+          0.8849109531695027,
+          0.14400832597599472,
+          0.053094759583473206
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Memory for OpenClaw: From Zero to LanceDB Pro中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "00970db7ce4debf8268b3b597a46eb45c53711e6de2a678f4094fa0158f85182"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-002",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cea08c15b398a2440badcb_openclaw-lancedb-1.avif",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-002.avif",
+    "section": "1. memory-core",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.019210792260704455,
+          0.9066075369910367,
+          0.07334311990176928,
+          0.058685751985912527
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "boundingBox": [
+          0.34901960996078424,
+          0.9090909092561983,
+          0.2117647058823529,
+          0.04958677685950419
+        ],
+        "confidence": 0.5,
+        "text": "OpenClaw Gateway"
+      },
+      {
+        "boundingBox": [
+          0.7392156854313725,
+          0.9090909088016529,
+          0.08431372549019611,
+          0.05371900826446285
+        ],
+        "confidence": 1,
+        "text": "SQLite"
+      },
+      {
+        "boundingBox": [
+          0.05490196198529407,
+          0.7603305791838844,
+          0.3196078431372549,
+          0.05371900826446274
+        ],
+        "confidence": 0.5,
+        "text": "I memory_search （query）-"
+      },
+      {
+        "boundingBox": [
+          0.4333333368872548,
+          0.6900826449380165,
+          0.284313725490196,
+          0.04958677685950408
+        ],
+        "confidence": 0.3,
+        "text": "一 FTS5 keyword search"
+      },
+      {
+        "boundingBox": [
+          0.8058542145266613,
+          0.6856384932975654,
+          0.13338961133769922,
+          0.054342851165897654
+        ],
+        "confidence": 1,
+        "text": "chunks_fts"
+      },
+      {
+        "boundingBox": [
+          0.4291666622916668,
+          0.6219008267358104,
+          0.2791666666666667,
+          0.05371900826446274
+        ],
+        "confidence": 0.5,
+        "text": "| vecd vector search"
+      },
+      {
+        "boundingBox": [
+          0.8058823542745097,
+          0.6115702481818182,
+          0.13333333333333341,
+          0.04958677685950419
+        ],
+        "confidence": 0.5,
+        "text": "chunks_vec"
+      },
+      {
+        "boundingBox": [
+          0.42941176852941165,
+          0.5413223142561983,
+          0.3058823529411765,
+          0.04958677685950419
+        ],
+        "confidence": 0.3,
+        "text": "|< merged ranked paths"
+      },
+      {
+        "boundingBox": [
+          0.05098039431372542,
+          0.4669421494318181,
+          0.3254901960784314,
+          0.05371900826446285
+        ],
+        "confidence": 0.5,
+        "text": "|- file paths + snippets"
+      },
+      {
+        "boundingBox": [
+          0.054901961584967296,
+          0.31404958629476576,
+          0.3862745098039216,
+          0.05785123966942152
+        ],
+        "confidence": 0.3,
+        "text": "| memory-get（path,Lines）-|"
+      },
+      {
+        "boundingBox": [
+          0.43333333214285713,
+          0.2561983468713105,
+          0.16666666666666669,
+          0.04132231404958675
+        ],
+        "confidence": 0.3,
+        "text": "一 read chunk"
+      },
+      {
+        "boundingBox": [
+          0.050980389068627535,
+          0.17768594984504138,
+          0.2666666666666667,
+          0.045454545454545414
+        ],
+        "confidence": 0.3,
+        "text": "|个 fuLL chunk text -"
+      },
+      {
+        "boundingBox": [
+          0.4313725489215687,
+          0.10743801728650137,
+          0.009803921568627416,
+          0.045454545454545414
+        ],
+        "confidence": 0.3,
+        "text": "|"
+      },
+      {
+        "boundingBox": [
+          0.054901959068627486,
+          0.028925619266528924,
+          0.16470588235294117,
+          0.045454545454545525
+        ],
+        "confidence": 0.3,
+        "text": "一 answer 一"
+      },
+      {
+        "boundingBox": [
+          0.4313725489215687,
+          0.03719008333333329,
+          0.009803921568627416,
+          0.04132231404958686
+        ],
+        "confidence": 0.5,
+        "text": "|"
+      },
+      {
+        "boundingBox": [
+          0.7843137255932209,
+          0.03719008333333329,
+          0.00784313678741455,
+          0.04132231404958686
+        ],
+        "confidence": 0.5,
+        "text": "|"
+      }
+    ],
+    "ocr_text": "Agent\nOpenClaw Gateway\nSQLite\nI memory_search （query）-\n一 FTS5 keyword search\nchunks_fts\n| vecd vector search\nchunks_vec\n|< merged ranked paths\n|- file paths + snippets\n| memory-get（path,Lines）-|\n一 read chunk\n|个 fuLL chunk text -\n|\n一 answer 一\n|\n|",
+    "description": "1. memory-core中的配图，包含文字：Agent；OpenClaw Gateway；SQLite；I memory_search （query）-；一 FTS5 keyword search；chunks_fts；| vecd vector search；chunks_vec；|< merged ranked paths；|- file paths + snippets；| memory-get（path,Lines）-|；一 read chunk；|个 fuLL chunk text -；|；一 answer 一；|；|",
+    "entities": [
+      "Agent",
+      "OpenClaw Gateway",
+      "SQLite",
+      "I memory_search （query）-",
+      "一 FTS5 keyword search",
+      "chunks_fts",
+      "| vecd vector search",
+      "chunks_vec",
+      "|< merged ranked paths",
+      "|- file paths + snippets",
+      "| memory-get（path,Lines）-|",
+      "一 read chunk",
+      "|个 fuLL chunk text -",
+      "|",
+      "一 answer 一"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3e0ceee5bb5905b3535d7c6fe585329742977730884a7547b18a5e424fb9cfb0"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-003",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cea0999ebd49c619caf158_openclaw-lancedb-2.avif",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-003.avif",
+    "section": "2. memory-lancedb",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.021735989765799706,
+          0.8804788661148306,
+          0.07520933884840744,
+          0.06257167856961021
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "boundingBox": [
+          0.38681318879120874,
+          0.8823529413547238,
+          0.2373626373626374,
+          0.06417112299465233
+        ],
+        "confidence": 0.5,
+        "text": "OpenCLaw Gateway"
+      },
+      {
+        "boundingBox": [
+          0.8109318272479801,
+          0.8870873457232789,
+          0.10560887095692395,
+          0.060049908683899256
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.09450549574175822,
+          0.6898395730614972,
+          0.2923076923076923,
+          0.06951871657754016
+        ],
+        "confidence": 0.5,
+        "text": "memory_recaLl（query）"
+      },
+      {
+        "boundingBox": [
+          0.5131868153846154,
+          0.5989304815508021,
+          0.18571428571428572,
+          0.05882352941176472
+        ],
+        "confidence": 0.3,
+        "text": "embed query-"
+      },
+      {
+        "boundingBox": [
+          0.47692307681318685,
+          0.5080213913547237,
+          0.010989010989011005,
+          0.05882352941176472
+        ],
+        "confidence": 0.3,
+        "text": "|"
+      },
+      {
+        "boundingBox": [
+          0.5186813150329671,
+          0.5026737965775401,
+          0.36483516483516487,
+          0.06417112299465244
+        ],
+        "confidence": 0.5,
+        "text": "（text-embedding-3-smaLL）I"
+      },
+      {
+        "boundingBox": [
+          0.479120882032967,
+          0.4117647061497326,
+          0.23296703296703292,
+          0.06417112299465244
+        ],
+        "confidence": 0.3,
+        "text": "I vector search"
+      },
+      {
+        "boundingBox": [
+          0.47499999963541667,
+          0.31283422456506926,
+          0.2375,
+          0.07219251336898402
+        ],
+        "confidence": 0.3,
+        "text": "|^ top-k chunks"
+      },
+      {
+        "boundingBox": [
+          0.05274725304029306,
+          0.22459893097147954,
+          0.4307692307692308,
+          0.05882352941176461
+        ],
+        "confidence": 0.5,
+        "text": "|— chunk texts + metadata -"
+      },
+      {
+        "boundingBox": [
+          0.0571428586080586,
+          0.03208556172014265,
+          0.17582417582417584,
+          0.05882352941176472
+        ],
+        "confidence": 0.3,
+        "text": "一 answer 一"
+      }
+    ],
+    "ocr_text": "Agent\nOpenCLaw Gateway\nLanceDB\nmemory_recaLl（query）\nembed query-\n|\n（text-embedding-3-smaLL）I\nI vector search\n|^ top-k chunks\n|— chunk texts + metadata -\n一 answer 一",
+    "description": "2. memory-lancedb中的配图，包含文字：Agent；OpenCLaw Gateway；LanceDB；memory_recaLl（query）；embed query-；|；（text-embedding-3-smaLL）I；I vector search；|^ top-k chunks；|— chunk texts + metadata -；一 answer 一",
+    "entities": [
+      "Agent",
+      "OpenCLaw Gateway",
+      "LanceDB",
+      "memory_recaLl（query）",
+      "embed query-",
+      "|",
+      "（text-embedding-3-smaLL）I",
+      "I vector search",
+      "|^ top-k chunks",
+      "|— chunk texts + metadata -",
+      "一 answer 一"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9784a94938fa596acdb520708f48109478d43fa4c58e0e125a7e466fa8945f4b"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-004",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cea0a2b70ea1eefd92c0cd_openclaw-lancedb-3.avif",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-004.avif",
+    "section": "3. memory-lancedb-pro",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03830645141129033,
+          0.9151943458657243,
+          0.06854838709677419,
+          0.042402826855123754
+        ],
+        "confidence": 1,
+        "text": "Agent"
+      },
+      {
+        "boundingBox": [
+          0.3729838736895161,
+          0.9151943463780918,
+          0.21774193548387094,
+          0.042402826855123754
+        ],
+        "confidence": 0.5,
+        "text": "OpenCLaw Gateway"
+      },
+      {
+        "boundingBox": [
+          0.7640121142853958,
+          0.9214116964427208,
+          0.09495964357929843,
+          0.03703526641791788
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.4475806451612903,
+          0.8551236753533569,
+          0.020161290322580627,
+          0.035335689045936425
+        ],
+        "confidence": 0.3,
+        "text": "！"
+      },
+      {
+        "boundingBox": [
+          0.07056451587701613,
+          0.7879858654372791,
+          0.30241935483870974,
+          0.04593639575971742
+        ],
+        "confidence": 0.5,
+        "text": "I memory_recall（query）"
+      },
+      {
+        "boundingBox": [
+          0.4475806450604839,
+          0.7950530033961524,
+          0.018145161290322565,
+          0.03886925795052998
+        ],
+        "confidence": 0.3,
+        "text": "-|"
+      },
+      {
+        "boundingBox": [
+          0.6713709682571685,
+          0.7067137810954063,
+          0.092741935483871,
+          0.08833922261484106
+        ],
+        "confidence": 0.3,
+        "text": "—"
+      },
+      {
+        "boundingBox": [
+          0.4596774220514112,
+          0.727915194655477,
+          0.21572580645161293,
+          0.03886925795052998
+        ],
+        "confidence": 0.3,
+        "text": "一 embed query 一"
+      },
+      {
+        "boundingBox": [
+          0.4596774221774193,
+          0.6713780919611307,
+          0.2258064516129032,
+          0.035335689045936425
+        ],
+        "confidence": 0.3,
+        "text": "一 vector search，"
+      },
+      {
+        "boundingBox": [
+          0.44758064191028224,
+          0.604240282508834,
+          0.26008064516129037,
+          0.04240282685512353
+        ],
+        "confidence": 0.3,
+        "text": "|1 40 candidates -"
+      },
+      {
+        "boundingBox": [
+          0.4596774198840726,
+          0.4664310947438163,
+          0.36895161290322576,
+          0.053003533568904526
+        ],
+        "confidence": 0.5,
+        "text": "F rerank（query, candidates）"
+      },
+      {
+        "boundingBox": [
+          0.45362902978830644,
+          0.4204947001325088,
+          0.310483870967742,
+          0.03886925795053009
+        ],
+        "confidence": 0.5,
+        "text": "I via Jina reranker-v3"
+      },
+      {
+        "boundingBox": [
+          0.4475806459879032,
+          0.3498233211307421,
+          0.35685483870967744,
+          0.04240282685512364
+        ],
+        "confidence": 0.5,
+        "text": "|个 re-sorted by relevance"
+      },
+      {
+        "boundingBox": [
+          0.44758064791666663,
+          0.22614841007067132,
+          0.3306451612903226,
+          0.04240282685512364
+        ],
+        "confidence": 0.3,
+        "text": "一 filter + blend scores"
+      },
+      {
+        "boundingBox": [
+          0.0665322609014977,
+          0.16607773869257947,
+          0.3971774193548387,
+          0.03886925795052998
+        ],
+        "confidence": 0.3,
+        "text": "|- chunk texts + metadata 一"
+      },
+      {
+        "boundingBox": [
+          0.07056451778225806,
+          0.04240282699646658,
+          0.16532258064516128,
+          0.035335689045936314
+        ],
+        "confidence": 0.3,
+        "text": "一 answer 一"
+      }
+    ],
+    "ocr_text": "Agent\nOpenCLaw Gateway\nLanceDB\n！\nI memory_recall（query）\n-|\n—\n一 embed query 一\n一 vector search，\n|1 40 candidates -\nF rerank（query, candidates）\nI via Jina reranker-v3\n|个 re-sorted by relevance\n一 filter + blend scores\n|- chunk texts + metadata 一\n一 answer 一",
+    "description": "3. memory-lancedb-pro中的配图，包含文字：Agent；OpenCLaw Gateway；LanceDB；！；I memory_recall（query）；-|；—；一 embed query 一；一 vector search，；|1 40 candidates -；F rerank（query, candidates）；I via Jina reranker-v3；|个 re-sorted by relevance；一 filter + blend scores；|- chunk texts + metadata 一；一 answer 一",
+    "entities": [
+      "Agent",
+      "OpenCLaw Gateway",
+      "LanceDB",
+      "！",
+      "I memory_recall（query）",
+      "-|",
+      "—",
+      "一 embed query 一",
+      "一 vector search，",
+      "|1 40 candidates -",
+      "F rerank（query, candidates）",
+      "I via Jina reranker-v3",
+      "|个 re-sorted by relevance",
+      "一 filter + blend scores",
+      "|- chunk texts + metadata 一",
+      "一 answer 一"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "611fb9ee07460dca3dc4bfcdc69b2411ddc2954a8448b95c49979145256d61ca"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-005",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-005.avif",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Conclusions中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-006",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-006.png",
+    "section": "Conclusions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Conclusions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-007",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-007.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d-fig-008",
+    "doc_id": "1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1437-https-www-lancedb-com-blog-openclaw-memory-from-151cfb9d/figure-008.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

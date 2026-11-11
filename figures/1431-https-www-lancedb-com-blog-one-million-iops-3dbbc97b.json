@@ -1,0 +1,2837 @@
+[
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-001",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c73f550bd57e4e1cfe0e4d_hero.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-001.avif",
+    "section": "The Quest for One Million IOPS: Benchmarking Storage at LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0983558247814738,
+          0.8798432802392395,
+          0.14391335248947146,
+          0.05420232878790965
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "The Quest for One Million IOPS: Benchmarking Storage at LanceDB中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "79156ea4e9f69dcceb9cc9971547fd165405e41d13afd803a755e2e0150adf8e"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-002",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c399022d_69c02bd0439866b54cc8d58c_nvme-horse.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-002.avif",
+    "section": "Introduction",
+    "alt": "NVMe Horse",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.014534880745509404,
+          0.7534562228753156,
+          0.5014534901441559,
+          0.15668202764976957
+        ],
+        "confidence": 1,
+        "text": "Unoptimized Storage Library"
+      },
+      {
+        "boundingBox": [
+          0.8851744165153708,
+          0.8018433176264604,
+          0.08866279402029198,
+          0.10829493087557607
+        ],
+        "confidence": 0.5,
+        "text": "NVMe"
+      }
+    ],
+    "ocr_text": "Unoptimized Storage Library\nNVMe",
+    "description": "Introduction中的配图，包含文字：Unoptimized Storage Library；NVMe",
+    "entities": [
+      "Unoptimized Storage Library",
+      "NVMe"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "984f04ed0779a30ad31d2ad9e7d7e38c2b3f67ff64c865ceb9570e7b8e458930"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-003",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c3990231_69c741934d54f93536d0d57c_random-access-overview.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-003.avif",
+    "section": "Random Access is Typically Search",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22623574237642582,
+          0.8389057744984803,
+          0.10836501901140685,
+          0.05775075987841949
+        ],
+        "confidence": 1,
+        "text": "Index"
+      },
+      {
+        "boundingBox": [
+          0.5414655001637287,
+          0.7816223474796594,
+          0.36012331886436544,
+          0.07478343824485145
+        ],
+        "confidence": 0.5,
+        "text": "SELECT * WHERE"
+      },
+      {
+        "boundingBox": [
+          0.4771863158903675,
+          0.7051671731762919,
+          0.4923954372623574,
+          0.05775075987841949
+        ],
+        "confidence": 0.3,
+        "text": ".. ORDER BY .. LIMIT .."
+      },
+      {
+        "boundingBox": [
+          0.022637737152777504,
+          0.5672561321218623,
+          0.11251920257684395,
+          0.047858554179182944
+        ],
+        "confidence": 1,
+        "text": "Random"
+      },
+      {
+        "boundingBox": [
+          0.026521018491982403,
+          0.5069943593483526,
+          0.10475263849410721,
+          0.04376204325435373
+        ],
+        "confidence": 0.5,
+        "text": "Access"
+      },
+      {
+        "boundingBox": [
+          0.284887965078698,
+          0.41697086108000003,
+          0.6545081773185004,
+          0.08273838356273155
+        ],
+        "confidence": 0.5,
+        "text": "Fetch rows 5000, 17382,13323.."
+      },
+      {
+        "boundingBox": [
+          0.21471514905190642,
+          0.11193126499456241,
+          0.10479023429377449,
+          0.05881224287317155
+        ],
+        "confidence": 1,
+        "text": "Table"
+      },
+      {
+        "boundingBox": [
+          0.6577946772496831,
+          0.12158054759371839,
+          0.12167300380228141,
+          0.05775075987841949
+        ],
+        "confidence": 1,
+        "text": "Result"
+      }
+    ],
+    "ocr_text": "Index\nSELECT * WHERE\n.. ORDER BY .. LIMIT ..\nRandom\nAccess\nFetch rows 5000, 17382,13323..\nTable\nResult",
+    "description": "Random Access is Typically Search中的配图，包含文字：Index；SELECT * WHERE；.. ORDER BY .. LIMIT ..；Random；Access；Fetch rows 5000, 17382,13323..；Table；Result",
+    "entities": [
+      "Index",
+      "SELECT * WHERE",
+      ".. ORDER BY .. LIMIT ..",
+      "Random",
+      "Access",
+      "Fetch rows 5000, 17382,13323..",
+      "Table",
+      "Result"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "93a3170048e1668c420427739763abb50ccb336621dbe0f92813847d571839cd"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-004",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cb84a131b8c3990205_69c02bd0439866b54cc8d595_cold-search-bottleneck.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-004.avif",
+    "section": "Metadata in Memory is the Common Case",
+    "alt": "Cold Search Bottleneck",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.011532321316790878,
+          0.8416906270857445,
+          0.11501675376409215,
+          0.09583952736719858
+        ],
+        "confidence": 1,
+        "text": "Create Plan"
+      },
+      {
+        "boundingBox": [
+          0.7398255806202593,
+          0.7259886999664694,
+          0.06540697797944273,
+          0.08569960944396626
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.3249309126049948,
+          0.6651103210355707,
+          0.12513817895816853,
+          0.11422380350403871
+        ],
+        "confidence": 0.5,
+        "text": "Load Index"
+      },
+      {
+        "boundingBox": [
+          0.8502906994209821,
+          0.6948051968350079,
+          0.04941860150687305,
+          0.09090908503128314
+        ],
+        "confidence": 1,
+        "text": "Load"
+      },
+      {
+        "boundingBox": [
+          0.7440975635500533,
+          0.6157166630740065,
+          0.05976999017256723,
+          0.09324199870481331
+        ],
+        "confidence": 1,
+        "text": "Index"
+      },
+      {
+        "boundingBox": [
+          0.8561046519072499,
+          0.5779220805055036,
+          0.03633720784247674,
+          0.09740259418379793
+        ],
+        "confidence": 1,
+        "text": "File"
+      },
+      {
+        "boundingBox": [
+          0.8255532422132422,
+          0.466919818993905,
+          0.09889351567135585,
+          0.09213438950016006
+        ],
+        "confidence": 1,
+        "text": "Metadata"
+      },
+      {
+        "boundingBox": [
+          0.9375000011621577,
+          0.29870130228955327,
+          0.052325579486315665,
+          0.09112920599468688
+        ],
+        "confidence": 1,
+        "text": "Read"
+      },
+      {
+        "boundingBox": [
+          0.946220930330587,
+          0.18079095822494973,
+          0.03488372126712069,
+          0.09322033898305082
+        ],
+        "confidence": 1,
+        "text": "File"
+      },
+      {
+        "boundingBox": [
+          0.27325580870974747,
+          0.07062146816525383,
+          0.40261628356161,
+          0.11864406779661008
+        ],
+        "confidence": 0.3,
+        "text": "Probably not your biggest problem..."
+      }
+    ],
+    "ocr_text": "Create Plan\nSearch\nLoad Index\nLoad\nIndex\nFile\nMetadata\nRead\nFile\nProbably not your biggest problem...",
+    "description": "Metadata in Memory is the Common Case中的配图，包含文字：Create Plan；Search；Load Index；Load；Index；File；Metadata；Read；File；Probably not your biggest problem...",
+    "entities": [
+      "Create Plan",
+      "Search",
+      "Load Index",
+      "Load",
+      "Index",
+      "File",
+      "Metadata",
+      "Read",
+      "Probably not your biggest problem..."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a75b7e0199642741d9b00319e76a3a18dd4aa2d3c2d59474d715ef34ec9d947a"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-005",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c3990263_69c02bd1439866b54cc8d5b0_initial-flamegraph.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-005.avif",
+    "section": "Phase 1: Flamegraphs",
+    "alt": "Initial Flamegraph",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4534883734837935,
+          0.9117943548887146,
+          0.09302325448590126,
+          0.021673387096774133
+        ],
+        "confidence": 0.5,
+        "text": "Flame Graph"
+      },
+      {
+        "boundingBox": [
+          0.949127908644806,
+          0.9178082196728925,
+          0.036337207177442044,
+          0.009784735018207202
+        ],
+        "confidence": 0.3,
+        "text": "saarch"
+      },
+      {
+        "boundingBox": [
+          0.4273255822931952,
+          0.8219178078165182,
+          0.08284883442039265,
+          0.035441064065502514
+        ],
+        "confidence": 1,
+        "text": "pread64"
+      },
+      {
+        "boundingBox": [
+          0.6534091305514358,
+          0.7994730683037966,
+          0.10493562892525499,
+          0.03918526441820214
+        ],
+        "confidence": 1,
+        "text": "reordering"
+      },
+      {
+        "boundingBox": [
+          0.7456395360510585,
+          0.7278225808595813,
+          0.09011627814013079,
+          0.03538681230237406
+        ],
+        "confidence": 0.5,
+        "text": "decoding"
+      },
+      {
+        "boundingBox": [
+          0.8997093034276028,
+          0.7240704507778378,
+          0.033430230831671626,
+          0.023483364812789453
+        ],
+        "confidence": 0.3,
+        "text": "？？？"
+      },
+      {
+        "boundingBox": [
+          0.0392441828659594,
+          0.6516634050722558,
+          0.23837209461691852,
+          0.03331643342971802
+        ],
+        "confidence": 1,
+        "text": "Searching Vector Index"
+      },
+      {
+        "boundingBox": [
+          0.3328488367989899,
+          0.6575342468876804,
+          0.0348837218598691,
+          0.03147785029103667
+        ],
+        "confidence": 0.3,
+        "text": "？？？"
+      },
+      {
+        "boundingBox": [
+          0.8531976753145499,
+          0.5733855190205768,
+          0.018895347675163654,
+          0.009784735018207202
+        ],
+        "confidence": 0.3,
+        "text": "La."
+      },
+      {
+        "boundingBox": [
+          0.9287790698958176,
+          0.571428571828084,
+          0.029069766313016054,
+          0.013752879634980175
+        ],
+        "confidence": 0.3,
+        "text": "try.."
+      },
+      {
+        "boundingBox": [
+          0.851744186974306,
+          0.5498991935295781,
+          0.029069766313016054,
+          0.017641129032258007
+        ],
+        "confidence": 0.3,
+        "text": "<L."
+      },
+      {
+        "boundingBox": [
+          0.9287790703769622,
+          0.5538160473091669,
+          0.03052325448590132,
+          0.013724275173679468
+        ],
+        "confidence": 0.5,
+        "text": "wak.."
+      },
+      {
+        "boundingBox": [
+          0.8517441867239438,
+          0.5362035227087102,
+          0.024709301794360483,
+          0.013698629794582251
+        ],
+        "confidence": 0.3,
+        "text": "<L."
+      },
+      {
+        "boundingBox": [
+          0.9229651168421984,
+          0.5362035227589086,
+          0.03488371900455678,
+          0.015711799744636767
+        ],
+        "confidence": 0.5,
+        "text": "fute.."
+      },
+      {
+        "boundingBox": [
+          0.6322674420888172,
+          0.518590998376059,
+          0.011627906810737665,
+          0.011741682406394727
+        ],
+        "confidence": 0.3,
+        "text": "p."
+      },
+      {
+        "boundingBox": [
+          0.8517441865032158,
+          0.5185909982387167,
+          0.02325581362147533,
+          0.013698629794582251
+        ],
+        "confidence": 0.3,
+        "text": "<."
+      },
+      {
+        "boundingBox": [
+          0.922965116803529,
+          0.5205479455547934,
+          0.014534883156508083,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "do"
+      },
+      {
+        "boundingBox": [
+          0.6104651175756456,
+          0.5029354210277224,
+          0.03197674265878647,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "file."
+      },
+      {
+        "boundingBox": [
+          0.8517441864762864,
+          0.5009784737850311,
+          0.021802325448590065,
+          0.013698629794582251
+        ],
+        "confidence": 0.3,
+        "text": "<."
+      },
+      {
+        "boundingBox": [
+          0.9345930238094172,
+          0.5009784737850311,
+          0.02325581362147533,
+          0.013698629794582251
+        ],
+        "confidence": 0.3,
+        "text": "X6."
+      },
+      {
+        "boundingBox": [
+          0.5914159697040409,
+          0.482415658241259,
+          0.043912247983281416,
+          0.015599211377482325
+        ],
+        "confidence": 1,
+        "text": "filemap"
+      },
+      {
+        "boundingBox": [
+          0.8502906989709943,
+          0.4853228965658829,
+          0.03197674265878636,
+          0.011741682406394727
+        ],
+        "confidence": 0.3,
+        "text": "<lan."
+      },
+      {
+        "boundingBox": [
+          0.9229651160735901,
+          0.4853228966110431,
+          0.01889534910281976,
+          0.011741682406394727
+        ],
+        "confidence": 0.3,
+        "text": "x64"
+      },
+      {
+        "boundingBox": [
+          0.5915145126334477,
+          0.46536935121695744,
+          0.04371516005007814,
+          0.012509829575015674
+        ],
+        "confidence": 0.5,
+        "text": "generiC"
+      },
+      {
+        "boundingBox": [
+          0.8517441870157704,
+          0.46771037218232114,
+          0.030523254485901208,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "call."
+      },
+      {
+        "boundingBox": [
+          0.9171511628912228,
+          0.4677103720061959,
+          0.014534883156507972,
+          0.011741682406394727
+        ],
+        "confidence": 1,
+        "text": "do"
+      },
+      {
+        "boundingBox": [
+          0.9345930242755879,
+          0.46572580642559946,
+          0.020348835848048807,
+          0.011769300987643616
+        ],
+        "confidence": 0.3,
+        "text": "Sy."
+      },
+      {
+        "boundingBox": [
+          0.5901162798107484,
+          0.4480846774221945,
+          0.0276162781401309,
+          0.013754852837131848
+        ],
+        "confidence": 1,
+        "text": "ext4"
+      },
+      {
+        "boundingBox": [
+          0.6206395354373243,
+          0.45009784770743544,
+          0.02325581362147533,
+          0.011741682406394727
+        ],
+        "confidence": 0.3,
+        "text": "fil。"
+      },
+      {
+        "boundingBox": [
+          0.8488372102301198,
+          0.4480846773977326,
+          0.029069766313016054,
+          0.013754852837131848
+        ],
+        "confidence": 0.3,
+        "text": "allo"
+      },
+      {
+        "boundingBox": [
+          0.9171511645825883,
+          0.4480846775024593,
+          0.0377906953503272,
+          0.011797905448944324
+        ],
+        "confidence": 1,
+        "text": "entry."
+      },
+      {
+        "boundingBox": [
+          0.5290697681413026,
+          0.43044354856301104,
+          0.01744185950227839,
+          0.011826509910245031
+        ],
+        "confidence": 1,
+        "text": "SC."
+      },
+      {
+        "boundingBox": [
+          0.5900966271043405,
+          0.4303986830466473,
+          0.04945790981818099,
+          0.013958015749531372
+        ],
+        "confidence": 0.5,
+        "text": "vfs read"
+      },
+      {
+        "boundingBox": [
+          0.8517441872192586,
+          0.4304435485793189,
+          0.030523254485901208,
+          0.011826509910245031
+        ],
+        "confidence": 0.5,
+        "text": "core."
+      },
+      {
+        "boundingBox": [
+          0.9142441865151126,
+          0.42842741919684124,
+          0.045058139070065395,
+          0.01579958681137339
+        ],
+        "confidence": 0.5,
+        "text": "syscall"
+      },
+      {
+        "boundingBox": [
+          0.5159790243652073,
+          0.4128798096080607,
+          0.029088462898117284,
+          0.013770714402198792
+        ],
+        "confidence": 0.5,
+        "text": "sche."
+      },
+      {
+        "boundingBox": [
+          0.6002906981041933,
+          0.4128024191604629,
+          0.021802325448590065,
+          0.013812062240415979
+        ],
+        "confidence": 0.3,
+        "text": "x64"
+      },
+      {
+        "boundingBox": [
+          0.6206395355611531,
+          0.412802419175496,
+          0.024709301794360483,
+          0.012096774193548376
+        ],
+        "confidence": 0.3,
+        "text": "SyS"
+      },
+      {
+        "boundingBox": [
+          0.8357232496766241,
+          0.4127318716326417,
+          0.04221629239841851,
+          0.014066589455450806
+        ],
+        "confidence": 1,
+        "text": "<alloc."
+      },
+      {
+        "boundingBox": [
+          0.9084302332360029,
+          0.414818548446368,
+          0.04360465089718024,
+          0.011795932727475256
+        ],
+        "confidence": 0.3,
+        "text": "tokio：；"
+      },
+      {
+        "boundingBox": [
+          0.2500000003486918,
+          0.3951612904815407,
+          0.184593017943605,
+          0.013840666221034192
+        ],
+        "confidence": 0.5,
+        "text": "<f32 as lance_linalg：：distance："
+      },
+      {
+        "boundingBox": [
+          0.5130813967477216,
+          0.3971774195232275,
+          0.03488371900455678,
+          0.011824537188776074
+        ],
+        "confidence": 0.5,
+        "text": "futex."
+      },
+      {
+        "boundingBox": [
+          0.5886463573753412,
+          0.3951757385089859,
+          0.058172402981512494,
+          0.013953806892518128
+        ],
+        "confidence": 0.3,
+        "text": "x64_SyS_C."
+      },
+      {
+        "boundingBox": [
+          0.8342788299521025,
+          0.3951710676676041,
+          0.04219815545453287,
+          0.01396314895922135
+        ],
+        "confidence": 0.5,
+        "text": "alloc：."
+      },
+      {
+        "boundingBox": [
+          0.9084302336653464,
+          0.3951612901068594,
+          0.04651162724295055,
+          0.013840666701716797
+        ],
+        "confidence": 0.5,
+        "text": "tlokio：：."
+      },
+      {
+        "boundingBox": [
+          0.23401162671252904,
+          0.37550403215344785,
+          0.19912790538308148,
+          0.016129032258064502
+        ],
+        "confidence": 0.5,
+        "text": "<lance_table：：utils：：ExactSize<I>"
+      },
+      {
+        "boundingBox": [
+          0.5232558146309205,
+          0.37953629055116367,
+          0.024709301794360483,
+          0.012096774193548376
+        ],
+        "confidence": 1,
+        "text": "fut."
+      },
+      {
+        "boundingBox": [
+          0.584212997679766,
+          0.3750920642682477,
+          0.05977168054637794,
+          0.016939159362546863
+        ],
+        "confidence": 0.5,
+        "text": "do_syscal."
+      },
+      {
+        "boundingBox": [
+          0.8356351033300354,
+          0.37698281038399295,
+          0.04239258509196209,
+          0.015114614079075439
+        ],
+        "confidence": 0.3,
+        "text": "core：：."
+      },
+      {
+        "boundingBox": [
+          0.902616278777345,
+          0.37953629042070036,
+          0.049418603588720966,
+          0.012096774193548487
+        ],
+        "confidence": 0.5,
+        "text": "<lance i"
+      },
+      {
+        "boundingBox": [
+          0.2296511722583425,
+          0.35812133088023945,
+          0.20494184665337298,
+          0.015870604784257947
+        ],
+        "confidence": 0.5,
+        "text": "<alloc：：vec：：Vec<T> as alloc：：vec："
+      },
+      {
+        "boundingBox": [
+          0.5101744195739099,
+          0.3618951612256185,
+          0.030523254485901208,
+          0.012096774193548376
+        ],
+        "confidence": 1,
+        "text": "futex"
+      },
+      {
+        "boundingBox": [
+          0.5843023263626455,
+          0.3581213308313157,
+          0.0625,
+          0.015870604784257947
+        ],
+        "confidence": 0.5,
+        "text": "entry_SYS."
+      },
+      {
+        "boundingBox": [
+          0.8357558136953452,
+          0.35987903222235873,
+          0.045058139070065395,
+          0.017811770400693372
+        ],
+        "confidence": 0.3,
+        "text": "WLance.."
+      },
+      {
+        "boundingBox": [
+          0.9026162809199466,
+          0.35812133099311994,
+          0.0552325562802618,
+          0.013854475271317224
+        ],
+        "confidence": 0.3,
+        "text": "Niiytures."
+      },
+      {
+        "boundingBox": [
+          0.23110465081674408,
+          0.3422379032314373,
+          0.19767441435488398,
+          0.014112903225806384
+        ],
+        "confidence": 0.5,
+        "text": "Lance_index：：vector：：pq：：distance"
+      },
+      {
+        "boundingBox": [
+          0.5101298488140482,
+          0.3441569473558307,
+          0.0378798382011003,
+          0.012273190002287548
+        ],
+        "confidence": 0.5,
+        "text": "do fut"
+      },
+      {
+        "boundingBox": [
+          0.5958772052998597,
+          0.3420885562216164,
+          0.052431637655475094,
+          0.014453025114151807
+        ],
+        "confidence": 0.3,
+        "text": "libc pre，"
+      },
+      {
+        "boundingBox": [
+          0.761627908493401,
+          0.3422379033292846,
+          0.036337207177442044,
+          0.014112903225806495
+        ],
+        "confidence": 0.3,
+        "text": "callo."
+      },
+      {
+        "boundingBox": [
+          0.8386627907022214,
+          0.3442540320937372,
+          0.0276162781401309,
+          0.012096774193548376
+        ],
+        "confidence": 0.5,
+        "text": "ance"
+      },
+      {
+        "boundingBox": [
+          0.9055232567059591,
+          0.33855185873667026,
+          0.061046508971802416,
+          0.01981507674340277
+        ],
+        "confidence": 0.3,
+        "text": "28lance_i"
+      },
+      {
+        "boundingBox": [
+          0.06250002126953376,
+          0.3228962819239445,
+          0.38372090048418794,
+          0.015813395380973816
+        ],
+        "confidence": 0.5,
+        "text": "lance_index：：vector:Wpq：：di. lance_index：：vector：：pq：：storage：：P."
+      },
+      {
+        "boundingBox": [
+          0.5203488374304615,
+          0.3248532292563292,
+          0.020348837275705023,
+          0.013856447992786292
+        ],
+        "confidence": 0.5,
+        "text": "x64"
+      },
+      {
+        "boundingBox": [
+          0.5959168757058404,
+          0.32475752044714434,
+          0.05380578526479751,
+          0.013890047227182789
+        ],
+        "confidence": 0.3,
+        "text": "libc pre."
+      },
+      {
+        "boundingBox": [
+          0.761627908493401,
+          0.3248532293447477,
+          0.036337207177442044,
+          0.011840318960528284
+        ],
+        "confidence": 1,
+        "text": "arrow."
+      },
+      {
+        "boundingBox": [
+          0.8125000012893241,
+          0.3266129033010601,
+          0.06540697634577042,
+          0.012096774193548376
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：run."
+      },
+      {
+        "boundingBox": [
+          0.8880813944462477,
+          0.3248532293623304,
+          0.08430232544859007,
+          0.013856447992786292
+        ],
+        "confidence": 1,
+        "text": "tokio：：runtim."
+      },
+      {
+        "boundingBox": [
+          0.06250000418226724,
+          0.3072407047455661,
+          0.12209301794360498,
+          0.013827843531485473
+        ],
+        "confidence": 0.5,
+        "text": "<lance index： ：vectory"
+      },
+      {
+        "boundingBox": [
+          0.1875000110500382,
+          0.305283757462105,
+          0.28052324306465193,
+          0.015784790919672997
+        ],
+        "confidence": 0.3,
+        "text": "Ypq：：s. <lance_index：：vector：：pq：：storage：：. all."
+      },
+      {
+        "boundingBox": [
+          0.5072310301733961,
+          0.30509157911811646,
+          0.045130963810903646,
+          0.016039934369825537
+        ],
+        "confidence": 0.3,
+        "text": "×64_SyS"
+      },
+      {
+        "boundingBox": [
+          0.5843023252900509,
+          0.30724070484341326,
+          0.0654069763457703,
+          0.013827843531485584
+        ],
+        "confidence": 0.5,
+        "text": "std：：os：：u."
+      },
+      {
+        "boundingBox": [
+          0.7616279081400835,
+          0.3072407048829082,
+          0.03197674265878636,
+          0.011811714499227466
+        ],
+        "confidence": 0.5,
+        "text": "arrow"
+      },
+      {
+        "boundingBox": [
+          0.8125000030884664,
+          0.30724070470479625,
+          0.06976743800911356,
+          0.013827843531485584
+        ],
+        "confidence": 1,
+        "text": "tokio：：run.."
+      },
+      {
+        "boundingBox": [
+          0.8851744205714074,
+          0.30724070470479625,
+          0.0901162781401309,
+          0.013827843531485584
+        ],
+        "confidence": 1,
+        "text": "tokio：：runtime."
+      },
+      {
+        "boundingBox": [
+          0.0319767560666274,
+          0.2896281801777252,
+          0.457848828709768,
+          0.013799239070184766
+        ],
+        "confidence": 0.5,
+        "text": "<lance index：：vector：：flat：：index：：FlatIndex as lance index：：vector：：v3：：sub."
+      },
+      {
+        "boundingBox": [
+          0.4985465132479505,
+          0.2896281803721451,
+          0.0552325562802618,
+          0.011783110037926758
+        ],
+        "confidence": 0.5,
+        "text": "do sysCa."
+      },
+      {
+        "boundingBox": [
+          0.5813953512322819,
+          0.28767123297417285,
+          0.06686046166334325,
+          0.01575618645837229
+        ],
+        "confidence": 0.5,
+        "text": "ZN79_$LT$L."
+      },
+      {
+        "boundingBox": [
+          0.7513733743766339,
+          0.28923872686858376,
+          0.03068348319230685,
+          0.012520589174762842
+        ],
+        "confidence": 1,
+        "text": "arrow"
+      },
+      {
+        "boundingBox": [
+          0.8110465153793021,
+          0.2896281802429568,
+          0.16133720717744204,
+          0.013799239070184766
+        ],
+        "confidence": 1,
+        "text": "tokio：：runtime：：scheduler：："
+      },
+      {
+        "boundingBox": [
+          0.037790713958487474,
+          0.2700587083166386,
+          0.4462209004841879,
+          0.01572758199707147
+        ],
+        "confidence": 0.5,
+        "text": "ZN10lance_core5utils5tokio9spawn_cpu28_$u7b$su7bsclosuresu7d$$u7d$17h3d4d89"
+      },
+      {
+        "boundingBox": [
+          0.4985348809357292,
+          0.2719301268989456,
+          0.055255821365082336,
+          0.013869687914848328
+        ],
+        "confidence": 1,
+        "text": "entry SY."
+      },
+      {
+        "boundingBox": [
+          0.5755813986849612,
+          0.2720156557158857,
+          0.07267441435488398,
+          0.013770634608883947
+        ],
+        "confidence": 0.5,
+        "text": "<tokio：：run."
+      },
+      {
+        "boundingBox": [
+          0.7499447431124489,
+          0.2717367083842981,
+          0.0320872575223089,
+          0.012299577074666113
+        ],
+        "confidence": 0.5,
+        "text": "arrow"
+      },
+      {
+        "boundingBox": [
+          0.8110465145707897,
+          0.27005870853842595,
+          0.16860465089718024,
+          0.015727581997071582
+        ],
+        "confidence": 0.5,
+        "text": "std：：thread：：local：：LocalKey."
+      },
+      {
+        "boundingBox": [
+          0.03197675285322634,
+          0.2544031313845092,
+          0.25581394127029145,
+          0.013742029666900635
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runtime：：task：：core：：Core<T,S>：：poll"
+      },
+      {
+        "boundingBox": [
+          0.4956395352345494,
+          0.25244618420704956,
+          0.04360465089718024,
+          0.01569897705508816
+        ],
+        "confidence": 1,
+        "text": "syscall"
+      },
+      {
+        "boundingBox": [
+          0.5741279090090406,
+          0.2544031313192777,
+          0.07412790538308145,
+          0.01374203014758324
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runt."
+      },
+      {
+        "boundingBox": [
+          0.7514336752292309,
+          0.25430454304084416,
+          0.0320163715385392,
+          0.011938859378137878
+        ],
+        "confidence": 0.5,
+        "text": "arrow"
+      },
+      {
+        "boundingBox": [
+          0.811046516369932,
+          0.254403131464774,
+          0.1729651125605235,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runtime：：scheduler：：c."
+      },
+      {
+        "boundingBox": [
+          0.030523264091976327,
+          0.2348336593538206,
+          0.29360463947593096,
+          0.015670373074470056
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runtime：：task：：harness：：Harness<T,S>：：poll"
+      },
+      {
+        "boundingBox": [
+          0.4897778662569577,
+          0.2344553748785979,
+          0.06695589762247961,
+          0.01641214662982582
+        ],
+        "confidence": 0.5,
+        "text": "parking_Lo."
+      },
+      {
+        "boundingBox": [
+          0.5726744205993168,
+          0.23679060701598076,
+          0.07994185807462229,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "toK10：：runtim"
+      },
+      {
+        "boundingBox": [
+          0.7514127295245546,
+          0.236559575351306,
+          0.04223268189116147,
+          0.014160692691802979
+        ],
+        "confidence": 0.3,
+        "text": "salloc."
+      },
+      {
+        "boundingBox": [
+          0.8095930212810611,
+          0.23679060688877918,
+          0.16860465089718024,
+          0.011741682406394727
+        ],
+        "confidence": 1,
+        "text": "tokio：：runtime：：context：：run"
+      },
+      {
+        "boundingBox": [
+          0.03052325867679258,
+          0.21917808239559855,
+          0.25145349102819753,
+          0.013698629794582251
+        ],
+        "confidence": 1,
+        "text": "tokio：：runtime：：blocking：：pool：：Inner：：run"
+      },
+      {
+        "boundingBox": [
+          0.48691860720864316,
+          0.21917808259129334,
+          0.17151162153232596,
+          0.01369862979458214
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runtime：：blocking：：po."
+      },
+      {
+        "boundingBox": [
+          0.7514534891078137,
+          0.21917808254109483,
+          0.04215116272429509,
+          0.011741682406394727
+        ],
+        "confidence": 0.5,
+        "text": "core：：."
+      },
+      {
+        "boundingBox": [
+          0.8110465145707897,
+          0.21917808239559855,
+          0.16860465089718024,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "tokio：：runtime：：runtime：：Run."
+      },
+      {
+        "boundingBox": [
+          0.03052326542002859,
+          0.20156555798268272,
+          0.29215114844773343,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "std：：sys：：backtrace：： rust begin short backtrace"
+      },
+      {
+        "boundingBox": [
+          0.4869186111412933,
+          0.20156555799899056,
+          0.1264534796069482,
+          0.013698629794582251
+        ],
+        "confidence": 1,
+        "text": "std：：sys：：backtrace：："
+      },
+      {
+        "boundingBox": [
+          0.6235465120570348,
+          0.20156555807237608,
+          0.024709301794360594,
+          0.013698629794582251
+        ],
+        "confidence": 1,
+        "text": "rust"
+      },
+      {
+        "boundingBox": [
+          0.7500000003639208,
+          0.20156555791617636,
+          0.03197674265878636,
+          0.011741682406394727
+        ],
+        "confidence": 1,
+        "text": "arrow"
+      },
+      {
+        "boundingBox": [
+          0.8095930255308283,
+          0.20156555780329588,
+          0.1264534796069482,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "std：：sys：：backtrace：："
+      },
+      {
+        "boundingBox": [
+          0.9462209308400205,
+          0.20156555812945376,
+          0.026162789967245748,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "rust"
+      },
+      {
+        "boundingBox": [
+          0.0305232573972672,
+          0.18195564529560404,
+          0.319767432298489,
+          0.015696017972884557
+        ],
+        "confidence": 0.5,
+        "text": "core：：ops：：function：：FnOnce：：call once｛｛vtable.shim｝｝"
+      },
+      {
+        "boundingBox": [
+          0.4869186040226307,
+          0.18395303331699475,
+          0.1671511598689827,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "core：：ops：：function：：FnOnce："
+      },
+      {
+        "boundingBox": [
+          0.7456054058487844,
+          0.1837126423119666,
+          0.05239383903092254,
+          0.0141794123957234
+        ],
+        "confidence": 0.5,
+        "text": "ZN5 Lance."
+      },
+      {
+        "boundingBox": [
+          0.8095930205785417,
+          0.1839530333414564,
+          0.16860465089718024,
+          0.013698629794582251
+        ],
+        "confidence": 0.5,
+        "text": "core：：ops：：function：：Fn0nce："
+      },
+      {
+        "boundingBox": [
+          0.030523261972267242,
+          0.16633064496282213,
+          0.322674414354884,
+          0.013708493882609973
+        ],
+        "confidence": 0.5,
+        "text": "std：：sys：：pal：：unix：：thread：：Thread：：new：：thread start"
+      },
+      {
+        "boundingBox": [
+          0.4869186095112934,
+          0.16633064496282213,
+          0.16569766884078518,
+          0.013708493882609973
+        ],
+        "confidence": 0.5,
+        "text": "std：：sys：：pal：：unix：：thread："
+      },
+      {
+        "boundingBox": [
+          0.7207151742576714,
+          0.1630701009404364,
+          0.06874407122948933,
+          0.024153341208734802
+        ],
+        "confidence": 0.3,
+        "text": "Bkio：：runti"
+      },
+      {
+        "boundingBox": [
+          0.8095930224153148,
+          0.1663306451177471,
+          0.16715115986898277,
+          0.013708493882609973
+        ],
+        "confidence": 0.5,
+        "text": "std：：sys：：pal：：unix：：thread："
+      },
+      {
+        "boundingBox": [
+          0.03052325703040688,
+          0.1486895159813294,
+          0.07267441435488398,
+          0.011780150955723268
+        ],
+        "confidence": 0.5,
+        "text": "start thread"
+      },
+      {
+        "boundingBox": [
+          0.48546511831136624,
+          0.14868951620963988,
+          0.0741279053830815,
+          0.011780150955723157
+        ],
+        "confidence": 0.5,
+        "text": "start thread"
+      },
+      {
+        "boundingBox": [
+          0.7165697686583139,
+          0.14868951603025293,
+          0.07267441435488398,
+          0.011780150955723157
+        ],
+        "confidence": 1,
+        "text": "tokio：：runti"
+      },
+      {
+        "boundingBox": [
+          0.8095930244722673,
+          0.1486895159813294,
+          0.07267441435488398,
+          0.011780150955723268
+        ],
+        "confidence": 0.5,
+        "text": "start thread"
+      },
+      {
+        "boundingBox": [
+          0.03044724793103096,
+          0.13072499282516403,
+          0.03794271217848727,
+          0.014479564562920544
+        ],
+        "confidence": 1,
+        "text": "clone3"
+      },
+      {
+        "boundingBox": [
+          0.48690912215722587,
+          0.13106972079609147,
+          0.036356175017214165,
+          0.013790108984516491
+        ],
+        "confidence": 1,
+        "text": "clone3"
+      },
+      {
+        "boundingBox": [
+          0.6729510038795994,
+          0.13101429245009788,
+          0.05380729286970487,
+          0.013900965452194214
+        ],
+        "confidence": 1,
+        "text": "［unknown］"
+      },
+      {
+        "boundingBox": [
+          0.8080720354449281,
+          0.12884608368725947,
+          0.039379185545230344,
+          0.016280435746715893
+        ],
+        "confidence": 1,
+        "text": "clone3"
+      },
+      {
+        "boundingBox": [
+          0.017441860522659856,
+          0.1134072578676435,
+          0.05523255628026174,
+          0.013794307747194923
+        ],
+        "confidence": 0.5,
+        "text": "Lance-cpu"
+      },
+      {
+        "boundingBox": [
+          0.48255814305312483,
+          0.1134072582981277,
+          0.09156976345770373,
+          0.011837359878324683
+        ],
+        "confidence": 0.5,
+        "text": "tokio-runtime-w"
+      },
+      {
+        "boundingBox": [
+          0.6627906994473765,
+          0.1134072578676435,
+          0.09011627814013079,
+          0.013794307747194923
+        ],
+        "confidence": 0.5,
+        "text": "vector-search-b"
+      }
+    ],
+    "ocr_text": "Flame Graph\nsaarch\npread64\nreordering\ndecoding\n？？？\nSearching Vector Index\n？？？\nLa.\ntry..\n<L.\nwak..\n<L.\nfute..\np.\n<.\ndo\nfile.\n<.\nX6.\nfilemap\n<lan.\nx64\ngeneriC\ncall.\ndo\nSy.\next4\nfil。\nallo\nentry.\nSC.\nvfs read\ncore.\nsyscall\nsche.\nx64\nSyS\n<alloc.\ntokio：；\n<f32 as lance_linalg：：distance：\nfutex.\nx64_SyS_C.\nalloc：.\ntlokio：：.\n<lance_table：：utils：：ExactSize<I>\nfut.\ndo_syscal.\ncore：：.\n<lance i\n<alloc：：vec：：Vec<T> as alloc：：vec：\nfutex\nentry_SYS.\nWLance..\nNiiytures.\nLance_index：：vector：：pq：：distance\ndo fut\nlibc pre，\ncallo.\nance\n28lance_i\nlance_index：：vector:Wpq：：di. lance_index：：vector：：pq：：storage：：P.\nx64\nlibc pre.\narrow.\ntokio：：run.\ntokio：：runtim.\n<lance index： ：vectory\nYpq：：s. <lance_index：：vector：：pq：：storage：：. all.\n×64_SyS\nstd：：os：：u.\narrow\ntokio：：run..\ntokio：：runtime.\n<lance index：：vector：：flat：：index：：FlatIndex as lance index：：vector：：v3：：sub.\ndo sysCa.\nZN79_$LT$L.\narrow\ntokio：：runtime：：scheduler：：\nZN10lance_core5utils5tokio9spawn_cpu28_$u7b$su7bsclosuresu7d$$u7d$17h3d4d89\nentry SY.\n<tokio：：run.\narrow\nstd：：thread：：local：：LocalKey.\ntokio：：runtime：：task：：core：：Core<T,S>：：poll\nsyscall\ntokio：：runt.\narrow\ntokio：：runtime：：scheduler：：c.\ntokio：：runtime：：task：：harness：：Harness<T,S>：：poll\nparking_Lo.\ntoK10：：runtim\nsalloc.\ntokio：：runtime：：context：：run\ntokio：：runtime：：blocking：：pool：：Inner：：run\ntokio：：runtime：：blocking：：po.\ncore：：.\ntokio：：runtime：：runtime：：Run.\nstd：：sys：：backtrace：： rust begin short backtrace\nstd：：sys：：backtrace：：\nrust\narrow\nstd：：sys：：backtrace：：\nrust\ncore：：ops：：function：：FnOnce：：call once｛｛vtable.shim｝｝\ncore：：ops：：function：：FnOnce：\nZN5 Lance.\ncore：：ops：：function：：Fn0nce：\nstd：：sys：：pal：：unix：：thread：：Thread：：new：：thread start\nstd：：sys：：pal：：unix：：thread：\nBkio：：runti\nstd：：sys：：pal：：unix：：thread：\nstart thread\nstart thread\ntokio：：runti\nstart thread\nclone3\nclone3\n［unknown］\nclone3\nLance-cpu\ntokio-runtime-w\nvector-search-b",
+    "description": "Phase 1: Flamegraphs中的配图，包含文字：Flame Graph；saarch；pread64；reordering；decoding；？？？；Searching Vector Index；？？？；La.；try..；<L.；wak..；<L.；fute..；p.；<.；do；file.；<.；X6.；filemap；<lan.；x64；generiC；call.；do；Sy.；ext4；fil。；allo",
+    "entities": [
+      "Flame Graph",
+      "saarch",
+      "pread64",
+      "reordering",
+      "decoding",
+      "？？？",
+      "Searching Vector Index",
+      "La.",
+      "try..",
+      "<L.",
+      "wak..",
+      "fute..",
+      "p.",
+      "<.",
+      "do",
+      "file.",
+      "X6.",
+      "filemap",
+      "<lan.",
+      "x64",
+      "generiC",
+      "call.",
+      "Sy.",
+      "ext4",
+      "fil。",
+      "allo",
+      "entry.",
+      "SC.",
+      "vfs read",
+      "core.",
+      "syscall",
+      "sche.",
+      "SyS",
+      "<alloc.",
+      "tokio：；",
+      "<f32 as lance_linalg：：distance：",
+      "futex.",
+      "x64_SyS_C.",
+      "alloc：.",
+      "tlokio：：.",
+      "<lance_table：：utils：：ExactSize<I>",
+      "fut.",
+      "do_syscal.",
+      "core：：.",
+      "<lance i",
+      "<alloc：：vec：：Vec<T> as alloc：：vec：",
+      "futex",
+      "entry_SYS.",
+      "WLance..",
+      "Niiytures.",
+      "Lance_index：：vector：：pq：：distance",
+      "do fut",
+      "libc pre，",
+      "callo.",
+      "ance",
+      "28lance_i",
+      "lance_index：：vector:Wpq：：di. lance_index：：vector：：pq：：storage：：P.",
+      "libc pre.",
+      "arrow.",
+      "tokio：：run.",
+      "tokio：：runtim.",
+      "<lance index： ：vectory",
+      "Ypq：：s. <lance_index：：vector：：pq：：storage：：. all.",
+      "×64_SyS",
+      "std：：os：：u.",
+      "arrow",
+      "tokio：：run..",
+      "tokio：：runtime.",
+      "<lance index：：vector：：flat：：index：：FlatIndex as lance index：：vector：：v3：：sub.",
+      "do sysCa.",
+      "ZN79_$LT$L.",
+      "tokio：：runtime：：scheduler：：",
+      "ZN10lance_core5utils5tokio9spawn_cpu28_$u7b$su7bsclosuresu7d$$u7d$17h3d4d89",
+      "entry SY.",
+      "<tokio：：run.",
+      "std：：thread：：local：：LocalKey.",
+      "tokio：：runtime：：task：：core：：Core<T,S>：：poll",
+      "tokio：：runt.",
+      "tokio：：runtime：：scheduler：：c.",
+      "tokio：：runtime：：task：：harness：：Harness<T,S>：：poll",
+      "parking_Lo.",
+      "toK10：：runtim",
+      "salloc.",
+      "tokio：：runtime：：context：：run",
+      "tokio：：runtime：：blocking：：pool：：Inner：：run",
+      "tokio：：runtime：：blocking：：po.",
+      "tokio：：runtime：：runtime：：Run.",
+      "std：：sys：：backtrace：： rust begin short backtrace",
+      "std：：sys：：backtrace：：",
+      "rust",
+      "core：：ops：：function：：FnOnce：：call once｛｛vtable.shim｝｝",
+      "core：：ops：：function：：FnOnce：",
+      "ZN5 Lance.",
+      "core：：ops：：function：：Fn0nce：",
+      "std：：sys：：pal：：unix：：thread：：Thread：：new：：thread start",
+      "std：：sys：：pal：：unix：：thread：",
+      "Bkio：：runti",
+      "start thread",
+      "tokio：：runti",
+      "clone3",
+      "［unknown］",
+      "Lance-cpu",
+      "tokio-runtime-w",
+      "vector-search-b"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "072ff855b168258537dead820f0c944e263da48ccbf9c14f1cde2793de0cc484"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-006",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cb84a131b8c3990208_69c02bd0439866b54cc8d592_wat.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-006.avif",
+    "section": "First Conclusion: Index Search is Expensive",
+    "alt": "Wat?",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6490066193035067,
+          0.45049505049504945,
+          0.03973510565347227,
+          0.1188118811881188
+        ],
+        "confidence": 0.3,
+        "text": "mii"
+      },
+      {
+        "boundingBox": [
+          0.45695364134105965,
+          0.1485148511881189,
+          0.20860927152317876,
+          0.1089108910891089
+        ],
+        "confidence": 0.5,
+        "text": "wat"
+      }
+    ],
+    "ocr_text": "mii\nwat",
+    "description": "First Conclusion: Index Search is Expensive中的配图，包含文字：mii；wat",
+    "entities": [
+      "mii",
+      "wat"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "006d8de6a81fa69a63e9ae4b7f996b2a24ee833380fcdb4dbd5e57cf73e51959"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-007",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c3990234_69c02bd1439866b54cc8d5a7_pipelines-intro.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-007.avif",
+    "section": "Phase 2: Pipelines",
+    "alt": "Pipelines Introduction",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7838926234724555,
+          0.4541666663173354,
+          0.20805368339065966,
+          0.05833333403199581
+        ],
+        "confidence": 0.5,
+        "text": "Decode & Post-Process"
+      },
+      {
+        "boundingBox": [
+          0.008053691617584667,
+          0.42857142762053213,
+          0.15973154253664268,
+          0.0631868131868133
+        ],
+        "confidence": 0.5,
+        "text": "Search& Schedule"
+      },
+      {
+        "boundingBox": [
+          0.8375838958922792,
+          0.37500000036458336,
+          0.1006711369067167,
+          0.0625
+        ],
+        "confidence": 0.3,
+        "text": "（1 per core）"
+      },
+      {
+        "boundingBox": [
+          0.036179388685067364,
+          0.3449034775634049,
+          0.10213786437448147,
+          0.0685263780447154
+        ],
+        "confidence": 0.5,
+        "text": "（1 per core）"
+      },
+      {
+        "boundingBox": [
+          0.47248322066226756,
+          0.10833333469699058,
+          0.044295302534525405,
+          0.04999999685601875
+        ],
+        "confidence": 1,
+        "text": "Read"
+      },
+      {
+        "boundingBox": [
+          0.382550339046003,
+          0.024725273471056686,
+          0.22416106367533184,
+          0.06730769230769229
+        ],
+        "confidence": 0.5,
+        "text": "（parallelism based on disk）"
+      }
+    ],
+    "ocr_text": "Decode & Post-Process\nSearch& Schedule\n（1 per core）\n（1 per core）\nRead\n（parallelism based on disk）",
+    "description": "Phase 2: Pipelines中的配图，包含文字：Decode & Post-Process；Search& Schedule；（1 per core）；（1 per core）；Read；（parallelism based on disk）",
+    "entities": [
+      "Decode & Post-Process",
+      "Search& Schedule",
+      "（1 per core）",
+      "Read",
+      "（parallelism based on disk）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ced721e8be5fb388e4a93ed31c225474fa3e69c4e11691d8489d5e7ac487f1b0"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-008",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c3990237_69c02bd1439866b54cc8d5a0_pipelines.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-008.avif",
+    "section": "Phase 2: Pipelines",
+    "alt": "Pipelines Instrumentation",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4881806526646718,
+          0.8047715062016413,
+          0.23875497381783384,
+          0.06920095344087962
+        ],
+        "confidence": 0.5,
+        "text": "Waiting for I/O"
+      },
+      {
+        "boundingBox": [
+          0.010113400760175997,
+          0.593833819193198,
+          0.09459877869473445,
+          0.04421641933384235
+        ],
+        "confidence": 1,
+        "text": "Queue"
+      },
+      {
+        "boundingBox": [
+          0.024709302985723037,
+          0.5289179098215491,
+          0.06540697465563033,
+          0.04850746268656714
+        ],
+        "confidence": 1,
+        "text": "Size"
+      },
+      {
+        "boundingBox": [
+          0.47383720645435606,
+          0.2462686566459985,
+          0.3081395444314042,
+          0.06532554484125386
+        ],
+        "confidence": 0.5,
+        "text": "Waiting for Decoder"
+      },
+      {
+        "boundingBox": [
+          0.4213359459277273,
+          0.03286456243954927,
+          0.07447926987447012,
+          0.04055106817786369
+        ],
+        "confidence": 0.5,
+        "text": "Time"
+      }
+    ],
+    "ocr_text": "Waiting for I/O\nQueue\nSize\nWaiting for Decoder\nTime",
+    "description": "Phase 2: Pipelines中的配图，包含文字：Waiting for I/O；Queue；Size；Waiting for Decoder；Time",
+    "entities": [
+      "Waiting for I/O",
+      "Queue",
+      "Size",
+      "Waiting for Decoder",
+      "Time"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b028a7619e102260326a3a98ee344de38623b7b28f1c5a910ee842ee5db17001"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-009",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35cf84a131b8c399024a_69c02bd1439866b54cc8d5ad_io-sync-overhead.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-009.avif",
+    "section": "Solution 1: Scheduler Rework",
+    "alt": "I/O Synchronization Overhead",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.018895350654535587,
+          0.9359939757381432,
+          0.07994185837116137,
+          0.03915662650602414
+        ],
+        "confidence": 1,
+        "text": "Scheduling"
+      },
+      {
+        "boundingBox": [
+          0.158185462427001,
+          0.9343044208447495,
+          0.06444302850778791,
+          0.036946713206279735
+        ],
+        "confidence": 1,
+        "text": "Request"
+      },
+      {
+        "boundingBox": [
+          0.28744042171173056,
+          0.9354433376409415,
+          0.0748525539971448,
+          0.03276587250721019
+        ],
+        "confidence": 0.3,
+        "text": "I/O Loop"
+      },
+      {
+        "boundingBox": [
+          0.5595930246263416,
+          0.9329819276207038,
+          0.06395348669692902,
+          0.03646251666976741
+        ],
+        "confidence": 1,
+        "text": "Blocking"
+      },
+      {
+        "boundingBox": [
+          0.7805232568548686,
+          0.9416666663291943,
+          0.05813953390654192,
+          0.030555555619389163
+        ],
+        "confidence": 1,
+        "text": "Decode"
+      },
+      {
+        "boundingBox": [
+          0.9111882589938509,
+          0.9434022582872438,
+          0.05698394775390625,
+          0.032639928610928126
+        ],
+        "confidence": 1,
+        "text": "Decode"
+      },
+      {
+        "boundingBox": [
+          0.4213782163261794,
+          0.9154119685853616,
+          0.07584821699549138,
+          0.03306495137961518
+        ],
+        "confidence": 0.3,
+        "text": "I/O Task"
+      },
+      {
+        "boundingBox": [
+          0.6874999996627442,
+          0.9277108434899396,
+          0.023255814162883803,
+          0.02506693443620056
+        ],
+        "confidence": 0.3,
+        "text": "OS"
+      },
+      {
+        "boundingBox": [
+          0.030477163485651593,
+          0.9079857287945305,
+          0.05677823022441729,
+          0.028472986566015046
+        ],
+        "confidence": 0.5,
+        "text": "Thread"
+      },
+      {
+        "boundingBox": [
+          0.1669800380830873,
+          0.9016926516102569,
+          0.046853876601608585,
+          0.02994803060968232
+        ],
+        "confidence": 1,
+        "text": "Queue"
+      },
+      {
+        "boundingBox": [
+          0.296458428484005,
+          0.9024132858632945,
+          0.056792444548768195,
+          0.03128454053258323
+        ],
+        "confidence": 1,
+        "text": "Thread"
+      },
+      {
+        "boundingBox": [
+          0.5536785229150616,
+          0.8991465395718468,
+          0.07578248775070995,
+          0.035040255052497526
+        ],
+        "confidence": 0.3,
+        "text": "I/O Task"
+      },
+      {
+        "boundingBox": [
+          0.7862801870313452,
+          0.9051915925391005,
+          0.048079159764395696,
+          0.02850570448909895
+        ],
+        "confidence": 1,
+        "text": "Queue"
+      },
+      {
+        "boundingBox": [
+          0.9113372084809495,
+          0.9081325300135099,
+          0.0566860472096129,
+          0.02797858111829643
+        ],
+        "confidence": 1,
+        "text": "Thread"
+      },
+      {
+        "boundingBox": [
+          0.2456395350668449,
+          0.8275602403328781,
+          0.049418604720961296,
+          0.03915662650602414
+        ],
+        "confidence": 1,
+        "text": "Notify"
+      },
+      {
+        "boundingBox": [
+          0.09447674380238769,
+          0.8055555552293049,
+          0.052325581116154846,
+          0.028028782591762336
+        ],
+        "confidence": 1,
+        "text": "Submit"
+      },
+      {
+        "boundingBox": [
+          0.08855824599402393,
+          0.7603629146495262,
+          0.0641625777273831,
+          0.03482972570212495
+        ],
+        "confidence": 1,
+        "text": "Request"
+      },
+      {
+        "boundingBox": [
+          0.24999999932684855,
+          0.733333333231972,
+          0.030523256651535463,
+          0.030555555619389274
+        ],
+        "confidence": 1,
+        "text": "Pop"
+      },
+      {
+        "boundingBox": [
+          0.3735465118055121,
+          0.7138554218244404,
+          0.04796511502269679,
+          0.03614457831325302
+        ],
+        "confidence": 1,
+        "text": "Spawn"
+      },
+      {
+        "boundingBox": [
+          0.5000000002066748,
+          0.6277777783623065,
+          0.04796511502269685,
+          0.03637884754732423
+        ],
+        "confidence": 0.5,
+        "text": "Spawn"
+      },
+      {
+        "boundingBox": [
+          0.4925901393719531,
+          0.5879670892929696,
+          0.06278483873272772,
+          0.037954709616052185
+        ],
+        "confidence": 1,
+        "text": "Blocking"
+      },
+      {
+        "boundingBox": [
+          0.6041666663772919,
+          0.4759036148355186,
+          0.07083333373351142,
+          0.039969401187207265
+        ],
+        "confidence": 1,
+        "text": "pread64"
+      },
+      {
+        "boundingBox": [
+          0.8531976747713024,
+          0.3055555555825664,
+          0.04941860472096127,
+          0.038888888186718984
+        ],
+        "confidence": 0.5,
+        "text": "Notify"
+      },
+      {
+        "boundingBox": [
+          0.7209085150067288,
+          0.26373606165931873,
+          0.06399692202252161,
+          0.033638990069010166
+        ],
+        "confidence": 0.5,
+        "text": "Enqueue"
+      },
+      {
+        "boundingBox": [
+          0.8677325586163877,
+          0.19427710883448823,
+          0.029069766953271015,
+          0.033500668514205745
+        ],
+        "confidence": 0.5,
+        "text": "Pop"
+      }
+    ],
+    "ocr_text": "Scheduling\nRequest\nI/O Loop\nBlocking\nDecode\nDecode\nI/O Task\nOS\nThread\nQueue\nThread\nI/O Task\nQueue\nThread\nNotify\nSubmit\nRequest\nPop\nSpawn\nSpawn\nBlocking\npread64\nNotify\nEnqueue\nPop",
+    "description": "Solution 1: Scheduler Rework中的配图，包含文字：Scheduling；Request；I/O Loop；Blocking；Decode；Decode；I/O Task；OS；Thread；Queue；Thread；I/O Task；Queue；Thread；Notify；Submit；Request；Pop；Spawn；Spawn；Blocking；pread64；Notify；Enqueue；Pop",
+    "entities": [
+      "Scheduling",
+      "Request",
+      "I/O Loop",
+      "Blocking",
+      "Decode",
+      "I/O Task",
+      "OS",
+      "Thread",
+      "Queue",
+      "Notify",
+      "Submit",
+      "Pop",
+      "Spawn",
+      "pread64",
+      "Enqueue"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ae4bfda866f7ac0a1ae8c67036f30a423df6199dab0f8ff3d99bb85418b87591"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-010",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd35ce84a131b8c399023a_69c02bd0439866b54cc8d58f_batman.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-010.avif",
+    "section": "Benchmarking Woes",
+    "alt": "Batman",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.04330709015748027,
+          0.8699186992886179,
+          0.4251968503937008,
+          0.05284552845528456
+        ],
+        "confidence": 0.5,
+        "text": "WE'VE DONE I-"
+      },
+      {
+        "boundingBox": [
+          0.5708661456692913,
+          0.8780487806910569,
+          0.3937007874015749,
+          0.03658536585365857
+        ],
+        "confidence": 0.5,
+        "text": "CHECK YOUR WORK"
+      }
+    ],
+    "ocr_text": "WE'VE DONE I-\nCHECK YOUR WORK",
+    "description": "Benchmarking Woes中的配图，包含文字：WE'VE DONE I-；CHECK YOUR WORK",
+    "entities": [
+      "WE'VE DONE I-",
+      "CHECK YOUR WORK"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "301275d4c1c6f07780663a60b91438aa0b34fdec1a2e111b25d4d498fb742af0"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-011",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd4fa9be72261ef74e1788_69c02bd1439866b54cc8d59d_dupe-queries.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-011.avif",
+    "section": "Benchmarking Woes",
+    "alt": "Dupe Queries",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4999999999358974,
+          0.8875502013052209,
+          0.01692307692307693,
+          0.06024096385542166
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.7705858078991717,
+          0.6801417980971182,
+          0.18652069091796875,
+          0.09754772645881371
+        ],
+        "confidence": 1,
+        "text": "both queries"
+      },
+      {
+        "boundingBox": [
+          0.5630769232435897,
+          0.7068273094712182,
+          0.020000000000000018,
+          0.06024096385542166
+        ],
+        "confidence": 1,
+        "text": "3"
+      },
+      {
+        "boundingBox": [
+          0.6369230768923076,
+          0.6706827303212851,
+          0.01846153846153853,
+          0.06024096385542166
+        ],
+        "confidence": 0.5,
+        "text": "≥"
+      },
+      {
+        "boundingBox": [
+          0.029193409771734635,
+          0.5859194608704412,
+          0.15392087496243992,
+          0.09322131972715075
+        ],
+        "confidence": 0.5,
+        "text": "Query Foo"
+      },
+      {
+        "boundingBox": [
+          0.766153845676923,
+          0.6024096393172691,
+          0.19538461538461538,
+          0.07630522088353409
+        ],
+        "confidence": 0.5,
+        "text": "match row 17"
+      },
+      {
+        "boundingBox": [
+          0.7615384600641026,
+          0.4979919672021419,
+          0.20461538461538453,
+          0.08032128514056225
+        ],
+        "confidence": 0.3,
+        "text": "sowe hit the"
+      },
+      {
+        "boundingBox": [
+          0.27827826856394616,
+          0.46429838665204304,
+          0.09421269343449518,
+          0.0794353561707769
+        ],
+        "confidence": 1,
+        "text": "Index"
+      },
+      {
+        "boundingBox": [
+          0.5661538461978022,
+          0.4738955828169822,
+          0.03384615384615386,
+          0.06827309236947787
+        ],
+        "confidence": 1,
+        "text": "17"
+      },
+      {
+        "boundingBox": [
+          0.7797260063634104,
+          0.37414979385877645,
+          0.16824029775766225,
+          0.10310603528616413
+        ],
+        "confidence": 0.5,
+        "text": "Kernel page"
+      },
+      {
+        "boundingBox": [
+          0.021328736632425925,
+          0.2947470962639406,
+          0.15426560621995192,
+          0.09725279597393477
+        ],
+        "confidence": 0.5,
+        "text": "Query Bar"
+      },
+      {
+        "boundingBox": [
+          0.7415384603717949,
+          0.2971887556894244,
+          0.24461538461538468,
+          0.08032128514056225
+        ],
+        "confidence": 1,
+        "text": "cache on second"
+      },
+      {
+        "boundingBox": [
+          0.5538461540538462,
+          0.2650602411847389,
+          0.041538461538461635,
+          0.06827309236947787
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.8230769232948718,
+          0.1767068279116466,
+          0.08153846153846145,
+          0.07228915662650603
+        ],
+        "confidence": 1,
+        "text": "query"
+      },
+      {
+        "boundingBox": [
+          0.553846154068376,
+          0.07630522110664895,
+          0.040000000000000036,
+          0.06425702811244971
+        ],
+        "confidence": 1,
+        "text": "88"
+      }
+    ],
+    "ocr_text": "1\nboth queries\n3\n≥\nQuery Foo\nmatch row 17\nsowe hit the\nIndex\n17\nKernel page\nQuery Bar\ncache on second\n50\nquery\n88",
+    "description": "Benchmarking Woes中的配图，包含文字：1；both queries；3；≥；Query Foo；match row 17；sowe hit the；Index；17；Kernel page；Query Bar；cache on second；50；query；88",
+    "entities": [
+      "1",
+      "both queries",
+      "3",
+      "≥",
+      "Query Foo",
+      "match row 17",
+      "sowe hit the",
+      "Index",
+      "17",
+      "Kernel page",
+      "Query Bar",
+      "cache on second",
+      "50",
+      "query",
+      "88"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "59b2e49873c5c55514e428778d0fbc2a99e3fdd156824334d497f7c216df4540"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-012",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd4fa9be72261ef74e1790_69c02bd1439866b54cc8d5aa_micdrop.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-012.avif",
+    "section": "Results",
+    "alt": "Mic Drop",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Results中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2ef30f3ac28e68e11c1ee822a0f959489a82729f38fc48e64a8f8800cb84990a"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-013",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cd4fa9be72261ef74e178b_69c02bd1439866b54cc8d5a3_compute-storage-separation.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-013.avif",
+    "section": "What’s Next?",
+    "alt": "Compute-Storage Separation",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.45581650275307134,
+          0.8958942200195749,
+          0.21775687657869774,
+          0.0789704420699402
+        ],
+        "confidence": 0.5,
+        "text": "CPU & RAM Heavy"
+      },
+      {
+        "boundingBox": [
+          0.04360465406557058,
+          0.872340424296068,
+          0.13662790335141695,
+          0.0675422746764599
+        ],
+        "confidence": 1,
+        "text": "NVMe Heavy"
+      },
+      {
+        "boundingBox": [
+          0.4665697693659201,
+          0.8225806447706884,
+          0.1947674384483924,
+          0.06749027845097422
+        ],
+        "confidence": 0.5,
+        "text": "Compute Servers"
+      },
+      {
+        "boundingBox": [
+          0.015988370371836133,
+          0.8014184385606744,
+          0.18895349135765666,
+          0.06808302759075446
+        ],
+        "confidence": 1,
+        "text": "Storage Servers"
+      },
+      {
+        "boundingBox": [
+          0.9229651153679692,
+          0.5425219943709014,
+          0.06540697813034058,
+          0.0532226870136876
+        ],
+        "confidence": 0.5,
+        "text": "Client"
+      }
+    ],
+    "ocr_text": "CPU & RAM Heavy\nNVMe Heavy\nCompute Servers\nStorage Servers\nClient",
+    "description": "What’s Next?中的配图，包含文字：CPU & RAM Heavy；NVMe Heavy；Compute Servers；Storage Servers；Client",
+    "entities": [
+      "CPU & RAM Heavy",
+      "NVMe Heavy",
+      "Compute Servers",
+      "Storage Servers",
+      "Client"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7c6cfe0d5e5f59adf188011219805117c26b906a437e6295fdb8bf74d5ead4f6"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-014",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760bdc_weston-pace.avif",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-014.avif",
+    "section": "What’s Next?",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What’s Next?中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d540d318fb6247a94b5cc1d00a9feb5f06da70d5118d4e27cae4c86018cf400"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-015",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-015.png",
+    "section": "What’s Next?",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "What’s Next?中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-016",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-016.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b-fig-017",
+    "doc_id": "1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b",
+    "seq": 17,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1431-https-www-lancedb-com-blog-one-million-iops-3dbbc97b/figure-017.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

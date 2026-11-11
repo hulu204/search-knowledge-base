@@ -1,0 +1,400 @@
+[
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-001",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-002",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-002.webp",
+    "section": "Common Crawl Foundation at ACL 2026",
+    "alt": "Malte Ostendorff",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Common Crawl Foundation at ACL 2026中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-003",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-003.webp",
+    "section": "Common Crawl Foundation at ACL 2026",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Common Crawl Foundation at ACL 2026中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-004",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a8562b814f0dcb0568f9083_image2.webp",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-004.webp",
+    "section": "Common Crawl Foundation at ACL 2026",
+    "alt": "A photo of the entrance of the conference venue with ACL banner, Grand Hyatt Manchester San Diego",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3924242298748017,
+          0.7195135463289436,
+          0.215151538848877,
+          0.06097290356953933
+        ],
+        "confidence": 0.5,
+        "text": "ACL 2026"
+      },
+      {
+        "boundingBox": [
+          0.38250000131249995,
+          0.6733333335208334,
+          0.21000000000000008,
+          0.050000000000000044
+        ],
+        "confidence": 1,
+        "text": "SAN DIEGO"
+      },
+      {
+        "boundingBox": [
+          0.6272672407253345,
+          0.6753109501082077,
+          0.10546551704406737,
+          0.03604476610819496
+        ],
+        "confidence": 0.3,
+        "text": "JULY 2-7"
+      },
+      {
+        "boundingBox": [
+          0.31999999978125004,
+          0.593333333,
+          0.04249999999999998,
+          0.026666666666666727
+        ],
+        "confidence": 0.5,
+        "text": "The"
+      },
+      {
+        "boundingBox": [
+          0.37749999765000003,
+          0.5933333331333334,
+          0.23500000000000004,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "64th Annual Meeting"
+      },
+      {
+        "boundingBox": [
+          0.6275000005625,
+          0.6000000001666668,
+          0.0675,
+          0.026666666666666616
+        ],
+        "confidence": 0.5,
+        "text": "ofthe"
+      },
+      {
+        "boundingBox": [
+          0.2075000011071428,
+          0.5533333334285715,
+          0.155,
+          0.033333333333333215
+        ],
+        "confidence": 0.5,
+        "text": "Association"
+      },
+      {
+        "boundingBox": [
+          0.37499999778125004,
+          0.5499999994583333,
+          0.4075,
+          0.043333333333333446
+        ],
+        "confidence": 0.5,
+        "text": "for Computational Linguistics"
+      }
+    ],
+    "ocr_text": "ACL 2026\nSAN DIEGO\nJULY 2-7\nThe\n64th Annual Meeting\nofthe\nAssociation\nfor Computational Linguistics",
+    "description": "Common Crawl Foundation at ACL 2026中的配图，包含文字：ACL 2026；SAN DIEGO；JULY 2-7；The；64th Annual Meeting；ofthe；Association；for Computational Linguistics",
+    "entities": [
+      "ACL 2026",
+      "SAN DIEGO",
+      "JULY 2-7",
+      "The",
+      "64th Annual Meeting",
+      "ofthe",
+      "Association",
+      "for Computational Linguistics"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5b17afefa4ea3b15064fc1fd8b8b9f71bcd678944dfe6a6d23b26a079d1008c9"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-005",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a8563396c67d4638341f97d_image1.webp",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-005.webp",
+    "section": "A contribution from the Common Crawl team: CommonLID",
+    "alt": "A photo of some of the CommonLID co-authors at the ACL poster session",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.47812499984375006,
+          0.7375000001190477,
+          0.04999999999999999,
+          0.033333333333333215
+        ],
+        "confidence": 1,
+        "text": "C58"
+      },
+      {
+        "boundingBox": [
+          0.6999999998214286,
+          0.6916666668154763,
+          0.03125,
+          0.02083333333333326
+        ],
+        "confidence": 0.3,
+        "text": "C66"
+      },
+      {
+        "boundingBox": [
+          0.3374999999609375,
+          0.44583333342013887,
+          0.06562500000000004,
+          0.02083333333333337
+        ],
+        "confidence": 0.3,
+        "text": "TCOATWATE？"
+      },
+      {
+        "boundingBox": [
+          0.3531249998295455,
+          0.4041666668371211,
+          0.03749999999999998,
+          0.03749999999999998
+        ],
+        "confidence": 0.5,
+        "text": "98"
+      }
+    ],
+    "ocr_text": "C58\nC66\nTCOATWATE？\n98",
+    "description": "A contribution from the Common Crawl team: CommonLID中的配图，包含文字：C58；C66；TCOATWATE？；98",
+    "entities": [
+      "C58",
+      "C66",
+      "TCOATWATE？",
+      "98"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "696e382c2399987c3499121a99b8361913da5207bf699785b1e3e1628cc96374"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-006",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-006.webp",
+    "section": "Quality, provenance, and contamination",
+    "alt": "Malte is a Senior Research Engineer at Common Crawl.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Quality, provenance, and contamination中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-007",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-008",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-009",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64-fig-010",
+    "doc_id": "2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2372-Common-Crawl-Foundation-at-ACL-2026-a4779e64/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

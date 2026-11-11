@@ -1,0 +1,247 @@
+[
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-001",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-002",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-002.webp",
+    "section": "Measuring Web Accessibility from Crawl Archives",
+    "alt": "Thom Vaughan",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Measuring Web Accessibility from Crawl Archives中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-003",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64e634cbee339bea89485d24_analysis.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-003.webp",
+    "section": "Measuring Web Accessibility from Crawl Archives",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Measuring Web Accessibility from Crawl Archives中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5b2e54afa85e0c3e0788a68b5b2d00720784647f90fffa41a1b66ef6838f2549"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-004",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/699df1f2705d6e0d2087796a_coverage.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-004.webp",
+    "section": "**The audit**",
+    "alt": "Light through layered glass",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**The audit**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d3a9623c37e00aea279259716b18415e0ac2e4ced0b5086acef802add308a57a"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-005",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/699df25dfc2b755f51942b9b_swatches.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-005.webp",
+    "section": "**Why this matters for the crawl**",
+    "alt": "Paint swatches in earth tones",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Why this matters for the crawl**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "41330348f221913667b4b99c17a4647d0cc7e717ff53a4680dbeb95761c9dcc3"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-006",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/69a085daa014334c437fefb3_thom-hires.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-006.webp",
+    "section": "**Try it yourself**",
+    "alt": "Thom is Principal Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try it yourself**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d335760f86f5097e16bbe055f9540cc778030c93e3ac726f150f90895f89b978"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-007",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68ade5c6ef12425101705c61_pedro.webp",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-007.webp",
+    "section": "**Try it yourself**",
+    "alt": "Pedro is a Principal Research Scientist at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Try it yourself**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dca3fe13fc8a85ccbda3970b80d634e5705d7b0f3aa527a5d6bfb4d45715c284"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-008",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-008.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-009",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-009.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-010",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6-fig-011",
+    "doc_id": "2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2314-https-commoncrawl-org-blog-measuring-web-accessi-633877a6/figure-011.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

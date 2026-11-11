@@ -1,0 +1,258 @@
+[
+  {
+    "figure_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67-fig-001",
+    "doc_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67",
+    "seq": 1,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsVqYWAk393dNLxQAjWtfrIG5CtDsjpvgOPUg1daGyIyrTK8mz8sIab7RxWuBzeo95Oo2mNEJXnxicg/640?wx_fmt=png",
+    "image_path": "images/2373-BERT在美团搜索核心排序的探索和实践-050dbe67/figure-001.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11451894991045695,
+          0.3344371333149,
+          0.5431702790436921,
+          0.39259820235402965
+        ],
+        "confidence": 1,
+        "text": "点击关注“美团技术团队”，阅读更多技术干货"
+      }
+    ],
+    "ocr_text": "点击关注“美团技术团队”，阅读更多技术干货",
+    "description": "文章中的配图，包含文字：点击关注“美团技术团队”，阅读更多技术干货",
+    "entities": [
+      "点击关注“美团技术团队”，阅读更多技术干货"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8778f2020908489095acd65d73bda1ea449c770ced8f2abfb95cfb683debd23e"
+  },
+  {
+    "figure_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67-fig-002",
+    "doc_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67",
+    "seq": 2,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsUAGEuYTdwBEUekmiafjUxd6b2J8wO2LX7PlLE9JQBpPiaQ7dMD1EPYLY7YjJ8ttc8CtIG7Uet1h2Cw/640?wx_fmt=png",
+    "image_path": "images/2373-BERT在美团搜索核心排序的探索和实践-050dbe67/figure-002.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5837563449238579,
+          0.6415094364779874,
+          0.050761421319796995,
+          0.3018867924528301
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.09179620326114546,
+          -0.05786582241494931,
+          0.7759630232292988,
+          0.7374932271129682
+        ],
+        "confidence": 0.3,
+        "text": "Puj=1+e-0（8-8）"
+      }
+    ],
+    "ocr_text": "1\nPuj=1+e-0（8-8）",
+    "description": "文章中的配图，包含文字：1；Puj=1+e-0（8-8）",
+    "entities": [
+      "1",
+      "Puj=1+e-0（8-8）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b4b5e0a020a6e3a9cac5019db192c930c6eb502a8fa733e17085ceb30b559d34"
+  },
+  {
+    "figure_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67-fig-003",
+    "doc_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67",
+    "seq": 3,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsUAGEuYTdwBEUekmiafjUxd6JSiaRIaI2zPPADk99jpTTDk21nHI6kH4H2k4Xm9vT9eJPEiaxBVfMGSg/640?wx_fmt=png",
+    "image_path": "images/2373-BERT在美团搜索核心排序的探索和实践-050dbe67/figure-003.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.24208144785067873,
+          0.6301369886301369,
+          0.024886877828054293,
+          0.23287671232876717
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.2662961354949297,
+          0.3422964329920386,
+          0.6913004741409785,
+          0.411013903683179
+        ],
+        "confidence": 0.3,
+        "text": "（1-Sig）a（si-sj）+log（1+e-o（8：-gj））"
+      },
+      {
+        "boundingBox": [
+          0.03619909608314477,
+          0.3561643837328766,
+          0.16968325791855204,
+          0.3561643835616438
+        ],
+        "confidence": 0.3,
+        "text": "C=〉"
+      },
+      {
+        "boundingBox": [
+          0.24208144802036197,
+          0.28767123504566217,
+          0.0339366515837104,
+          0.26027397260273977
+        ],
+        "confidence": 1,
+        "text": "2"
+      },
+      {
+        "boundingBox": [
+          0.12217194532428356,
+          0.08219177910958908,
+          0.10859728506787329,
+          0.20547945205479445
+        ],
+        "confidence": 0.3,
+        "text": "（i,jEN"
+      }
+    ],
+    "ocr_text": "1\n（1-Sig）a（si-sj）+log（1+e-o（8：-gj））\nC=〉\n2\n（i,jEN",
+    "description": "文章中的配图，包含文字：1；（1-Sig）a（si-sj）+log（1+e-o（8：-gj））；C=〉；2；（i,jEN",
+    "entities": [
+      "1",
+      "（1-Sig）a（si-sj）+log（1+e-o（8：-gj））",
+      "C=〉",
+      "2",
+      "（i,jEN"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "76eddf811e5459628ebf6413d1f638d55d5d9c886935f9a8124878cbfd6a5974"
+  },
+  {
+    "figure_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67-fig-004",
+    "doc_id": "2373-BERT在美团搜索核心排序的探索和实践-050dbe67",
+    "seq": 4,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/hEx03cFgUsVqYWAk393dNLxQAjWtfrIGRsyiaFNm0lM7TN0S2WicBWTVTxpgicia04QWjNYicWlNGI5XRhGanxqxK5g/640?wx_fmt=jpeg",
+    "image_path": "images/2373-BERT在美团搜索核心排序的探索和实践-050dbe67/figure-004.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.17962962858465611,
+          0.8381742736514524,
+          0.14629629629629629,
+          0.06224066390041483
+        ],
+        "confidence": 1,
+        "text": "美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.1796296294212963,
+          0.8008298759336099,
+          0.1462962962962963,
+          0.03319502074688807
+        ],
+        "confidence": 1,
+        "text": "tech.meituan.com"
+      },
+      {
+        "boundingBox": [
+          0.7203703706481481,
+          0.5477178425311203,
+          0.04444444444444451,
+          0.049792531120331884
+        ],
+        "confidence": 1,
+        "text": "美团"
+      },
+      {
+        "boundingBox": [
+          0.7184586520117591,
+          0.5140987653736551,
+          0.04641602834065761,
+          0.03404313400078607
+        ],
+        "confidence": 0.3,
+        "text": "技术团队"
+      },
+      {
+        "boundingBox": [
+          0.10740740527777777,
+          0.2531120329875519,
+          0.29814814814814816,
+          0.053941908713692976
+        ],
+        "confidence": 1,
+        "text": "CODE A BETTER LIFE"
+      },
+      {
+        "boundingBox": [
+          0.10740740611111113,
+          0.19502074676348546,
+          0.12962962962962962,
+          0.045643153526971014
+        ],
+        "confidence": 0.5,
+        "text": "一行代码"
+      },
+      {
+        "boundingBox": [
+          0.2777777786772487,
+          0.1950207470954356,
+          0.12592592592592594,
+          0.045643153526971014
+        ],
+        "confidence": 0.5,
+        "text": "亿万生活"
+      },
+      {
+        "boundingBox": [
+          0.6222222202160494,
+          0.12448132755878283,
+          0.2407407407407407,
+          0.053941908713692976
+        ],
+        "confidence": 1,
+        "text": "长按二维码关注我们"
+      }
+    ],
+    "ocr_text": "美团技术团队\ntech.meituan.com\n美团\n技术团队\nCODE A BETTER LIFE\n一行代码\n亿万生活\n长按二维码关注我们",
+    "description": "文章中的配图，包含文字：美团技术团队；tech.meituan.com；美团；技术团队；CODE A BETTER LIFE；一行代码；亿万生活；长按二维码关注我们",
+    "entities": [
+      "美团技术团队",
+      "tech.meituan.com",
+      "美团",
+      "技术团队",
+      "CODE A BETTER LIFE",
+      "一行代码",
+      "亿万生活",
+      "长按二维码关注我们"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7d46d23331b692922251e7f54f4a0e491562d3aa3aaba4339df2465c533ac06d"
+  }
+]

@@ -1,0 +1,699 @@
+[
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-001",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca230a5f3786f1f5c961bf_geo%20hero.avif",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-001.avif",
+    "section": "How We Added Geospatial Support To Lance With No New Code",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09657842620467885,
+          0.8804482912368126,
+          0.14590564966201783,
+          0.05577008459303112
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "How We Added Geospatial Support To Lance With No New Code中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "550f5333c886ecfc654214650d5c4050b7f9fb43d2432150a879187a60625701"
+  },
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-002",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0298d8f80c18ae2d68324_rtree.png",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-002.png",
+    "section": "Visualizing R-Tree Pruning",
+    "alt": "R-Tree Index Structure",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11773255962072596,
+          0.9445910285138126,
+          0.11482557665244342,
+          0.02572559366754612
+        ],
+        "confidence": 1,
+        "text": "Spatial View"
+      },
+      {
+        "boundingBox": [
+          0.1569767441839251,
+          0.8753298154615383,
+          0.026162790643777745,
+          0.020569237681366204
+        ],
+        "confidence": 1,
+        "text": "B1"
+      },
+      {
+        "boundingBox": [
+          0.49854651127726357,
+          0.8199208445500842,
+          0.03052325613733342,
+          0.020773161684302988
+        ],
+        "confidence": 1,
+        "text": "B2"
+      },
+      {
+        "boundingBox": [
+          0.2311046508784715,
+          0.780757097793245,
+          0.02470930291844456,
+          0.022082019292584798
+        ],
+        "confidence": 1,
+        "text": "L1"
+      },
+      {
+        "boundingBox": [
+          0.34302325586512666,
+          0.7807570982424792,
+          0.026162790643777745,
+          0.020694089124573933
+        ],
+        "confidence": 1,
+        "text": "L2"
+      },
+      {
+        "boundingBox": [
+          0.6235465122960725,
+          0.7915567282852564,
+          0.023255812875555337,
+          0.01781002638522433
+        ],
+        "confidence": 1,
+        "text": "L3"
+      },
+      {
+        "boundingBox": [
+          0.5450581392505645,
+          0.6939313983555778,
+          0.02470930291844453,
+          0.02057964254495026
+        ],
+        "confidence": 0.5,
+        "text": "L4"
+      },
+      {
+        "boundingBox": [
+          0.6816860466318204,
+          0.692429022269819,
+          0.027616278369110958,
+          0.020631663717506465
+        ],
+        "confidence": 1,
+        "text": "L5"
+      },
+      {
+        "boundingBox": [
+          0.232558139092693,
+          0.6324921139008088,
+          0.11918604909866723,
+          0.020542186923266037
+        ],
+        "confidence": 1,
+        "text": "Root BBox"
+      },
+      {
+        "boundingBox": [
+          0.122093019840258,
+          0.5315457415957638,
+          0.1569767484977787,
+          0.019245815151285095
+        ],
+        "confidence": 1,
+        "text": "RTree Structure"
+      },
+      {
+        "boundingBox": [
+          0.4389231532963455,
+          0.4225297228714818,
+          0.13668857542017104,
+          0.02718030305525243
+        ],
+        "confidence": 0.5,
+        "text": "Root （page 6）"
+      },
+      {
+        "boundingBox": [
+          0.4461595702392057,
+          0.39556607166753677,
+          0.12221574377752886,
+          0.027479843602645992
+        ],
+        "confidence": 0.3,
+        "text": "BBox:global"
+      },
+      {
+        "boundingBox": [
+          0.20494185854136313,
+          0.2552770454505976,
+          0.1845930245493336,
+          0.028634626192279078
+        ],
+        "confidence": 0.5,
+        "text": "Branch B1 （page 4）"
+      },
+      {
+        "boundingBox": [
+          0.6031976742659458,
+          0.2618296535824973,
+          0.19040697545066632,
+          0.027088552792028264
+        ],
+        "confidence": 0.5,
+        "text": "Branch B2 （page 5）"
+      },
+      {
+        "boundingBox": [
+          0.24403213396923426,
+          0.23409589866832392,
+          0.10786596509115373,
+          0.02392176902388521
+        ],
+        "confidence": 1,
+        "text": "BBox: left"
+      },
+      {
+        "boundingBox": [
+          0.6424027704546722,
+          0.23481975895304585,
+          0.11345027399816321,
+          0.027205908833204284
+        ],
+        "confidence": 0.5,
+        "text": "BBox: right"
+      },
+      {
+        "boundingBox": [
+          0.06091730745058562,
+          0.07989979338032194,
+          0.07147933848718246,
+          0.02158842615213119
+        ],
+        "confidence": 0.5,
+        "text": "Leaf L1"
+      },
+      {
+        "boundingBox": [
+          0.26884543464010635,
+          0.08181708197473125,
+          0.0698672696712675,
+          0.020908422394603998
+        ],
+        "confidence": 0.5,
+        "text": "Leaf L1"
+      },
+      {
+        "boundingBox": [
+          0.4678617463667311,
+          0.08760065941321182,
+          0.07009045958953525,
+          0.02038227788376623
+        ],
+        "confidence": 0.5,
+        "text": "Leaf L1"
+      },
+      {
+        "boundingBox": [
+          0.6668806386987148,
+          0.08567473828773897,
+          0.07176197835335907,
+          0.024234120009127835
+        ],
+        "confidence": 0.5,
+        "text": "Leaf L1"
+      },
+      {
+        "boundingBox": [
+          0.8691499707098087,
+          0.09606900318609746,
+          0.06983959341686519,
+          0.02079574791296801
+        ],
+        "confidence": 0.5,
+        "text": "Leaf L1"
+      },
+      {
+        "boundingBox": [
+          0.04892492566856837,
+          0.05204529428339877,
+          0.09090157528549322,
+          0.021636258329124747
+        ],
+        "confidence": 0.5,
+        "text": "_rowid:0"
+      },
+      {
+        "boundingBox": [
+          0.25796207384408315,
+          0.05272577333557871,
+          0.09143324118483259,
+          0.024870707680493376
+        ],
+        "confidence": 0.5,
+        "text": "_rowid:1"
+      },
+      {
+        "boundingBox": [
+          0.45890355455676984,
+          0.06124829537152665,
+          0.08931079553949445,
+          0.02044255500733061
+        ],
+        "confidence": 0.5,
+        "text": "_rowid: 2"
+      },
+      {
+        "boundingBox": [
+          0.6529114011413439,
+          0.0558935003821025,
+          0.0935618607994998,
+          0.027214425220338456
+        ],
+        "confidence": 0.5,
+        "text": "_rowid:3"
+      },
+      {
+        "boundingBox": [
+          0.8575581403463156,
+          0.06596306059627255,
+          0.09011627605155492,
+          0.02394230195903524
+        ],
+        "confidence": 0.5,
+        "text": "_rowid:4"
+      }
+    ],
+    "ocr_text": "Spatial View\nB1\nB2\nL1\nL2\nL3\nL4\nL5\nRoot BBox\nRTree Structure\nRoot （page 6）\nBBox:global\nBranch B1 （page 4）\nBranch B2 （page 5）\nBBox: left\nBBox: right\nLeaf L1\nLeaf L1\nLeaf L1\nLeaf L1\nLeaf L1\n_rowid:0\n_rowid:1\n_rowid: 2\n_rowid:3\n_rowid:4",
+    "description": "Visualizing R-Tree Pruning中的配图，包含文字：Spatial View；B1；B2；L1；L2；L3；L4；L5；Root BBox；RTree Structure；Root （page 6）；BBox:global；Branch B1 （page 4）；Branch B2 （page 5）；BBox: left；BBox: right；Leaf L1；Leaf L1；Leaf L1；Leaf L1；Leaf L1；_rowid:0；_rowid:1；_rowid: 2；_rowid:3；_rowid:4",
+    "entities": [
+      "Spatial View",
+      "B1",
+      "B2",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "Root BBox",
+      "RTree Structure",
+      "Root （page 6）",
+      "BBox:global",
+      "Branch B1 （page 4）",
+      "Branch B2 （page 5）",
+      "BBox: left",
+      "BBox: right",
+      "Leaf L1",
+      "_rowid:0",
+      "_rowid:1",
+      "_rowid: 2",
+      "_rowid:3",
+      "_rowid:4"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7a254d4232742d707b8be480c16aa41efb113afc5d533b6d1685bd3b34c203e4"
+  },
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-003",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce117613_jack-ye.avif",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-003.avif",
+    "section": "Future Work",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Future Work中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9e03e1a1f55e21a843e988a016ce7d4be753a64b21e2072a9f2d53bc27a4bd29"
+  },
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-004",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-004.png",
+    "section": "Future Work",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Future Work中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-005",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-005.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0-fig-006",
+    "doc_id": "1417-https-www-lancedb-com-blog-geo-support-01e8fec0",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1417-https-www-lancedb-com-blog-geo-support-01e8fec0/figure-006.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

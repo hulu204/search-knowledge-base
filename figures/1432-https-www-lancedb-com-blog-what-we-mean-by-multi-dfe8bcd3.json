@@ -1,0 +1,1365 @@
+[
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-001",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccd1115f9f525f55edbb52_multimodal%20hero.avif",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-001.avif",
+    "section": "One System, Many Workloads: Rethinking What \"Multimodal\" Means for AI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09655515486417592,
+          0.8802424270357534,
+          0.14438968896865845,
+          0.0561818096372817
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "One System, Many Workloads: Rethinking What \"Multimodal\" Means for AI中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "78d089423a73b2ef655a545af7ecab812be806d07f349e0c156f80d2cd530ace"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-002",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccd16801c8d7bb5109690c_multimodal-lance-2.avif",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-002.avif",
+    "section": "How the data is used",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1120448193043884,
+          0.9220779223304473,
+          0.16526610644257703,
+          0.038961038961038974
+        ],
+        "confidence": 0.5,
+        "text": "Search Engine /"
+      },
+      {
+        "boundingBox": [
+          0.4591722849713706,
+          0.9205697379850214,
+          0.11246775779403556,
+          0.04197740761232582
+        ],
+        "confidence": 1,
+        "text": "Relational"
+      },
+      {
+        "boundingBox": [
+          0.7843137262605042,
+          0.9220779223484848,
+          0.06162464985994398,
+          0.038961038961038974
+        ],
+        "confidence": 1,
+        "text": "Data"
+      },
+      {
+        "boundingBox": [
+          0.1428275115038648,
+          0.8785936097756641,
+          0.10650183840626093,
+          0.03934957661153948
+        ],
+        "confidence": 1,
+        "text": "Vector DB"
+      },
+      {
+        "boundingBox": [
+          0.4621202258231227,
+          0.878372991087913,
+          0.10377075024345678,
+          0.03979081405705709
+        ],
+        "confidence": 1,
+        "text": "Database"
+      },
+      {
+        "boundingBox": [
+          0.7561601171883701,
+          0.8820366902421107,
+          0.12073298863002224,
+          0.04112142505067762
+        ],
+        "confidence": 1,
+        "text": "Warehouse"
+      },
+      {
+        "boundingBox": [
+          0.2549019626610644,
+          0.7142857145454546,
+          0.1876750700280112,
+          0.03463203463203457
+        ],
+        "confidence": 0.5,
+        "text": "Full-text search &"
+      },
+      {
+        "boundingBox": [
+          0.4481792704131653,
+          0.7099567097943723,
+          0.10364145658263302,
+          0.038961038961038974
+        ],
+        "confidence": 0.5,
+        "text": "Random"
+      },
+      {
+        "boundingBox": [
+          0.6218487403127917,
+          0.6883116884920635,
+          0.0980392156862746,
+          0.038961038961038974
+        ],
+        "confidence": 1,
+        "text": "Analytics"
+      },
+      {
+        "boundingBox": [
+          0.2745098049419768,
+          0.6709956711811997,
+          0.14285714285714285,
+          0.03463203463203457
+        ],
+        "confidence": 1,
+        "text": "Vector search"
+      },
+      {
+        "boundingBox": [
+          0.47036691160697486,
+          0.6657253751475625,
+          0.0760729012369108,
+          0.04517262735408101
+        ],
+        "confidence": 0.5,
+        "text": "Access"
+      },
+      {
+        "boundingBox": [
+          0.4424545284765644,
+          0.4797100135257162,
+          0.11789206496807714,
+          0.044908975625967074
+        ],
+        "confidence": 1,
+        "text": "Traditional"
+      },
+      {
+        "boundingBox": [
+          0.448071761050954,
+          0.4365155316430246,
+          0.10665759986856066,
+          0.040388850422648725
+        ],
+        "confidence": 0.5,
+        "text": "Data Lake"
+      },
+      {
+        "boundingBox": [
+          0.31092436924769906,
+          0.2857142854978356,
+          0.07002801120448177,
+          0.03896103896103886
+        ],
+        "confidence": 1,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.6609880696283612,
+          0.27237032995942867,
+          0.07578296287387021,
+          0.03967492198531242
+        ],
+        "confidence": 1,
+        "text": "Offline"
+      },
+      {
+        "boundingBox": [
+          0.40336134191176476,
+          0.2597402596861472,
+          0.2100840336134454,
+          0.038961038961038974
+        ],
+        "confidence": 1,
+        "text": "Feature Engineering"
+      },
+      {
+        "boundingBox": [
+          0.30252100812324934,
+          0.23809523863636362,
+          0.08403361344537813,
+          0.04329004329004327
+        ],
+        "confidence": 0.5,
+        "text": "Training"
+      },
+      {
+        "boundingBox": [
+          0.6329103957567739,
+          0.22404583342308215,
+          0.1319383145714339,
+          0.04541482347430603
+        ],
+        "confidence": 0.5,
+        "text": "Embeddings"
+      },
+      {
+        "boundingBox": [
+          0.08683473461718019,
+          0.08225108181818186,
+          0.09243697478991597,
+          0.051948051948051965
+        ],
+        "confidence": 0.5,
+        "text": "Training"
+      },
+      {
+        "boundingBox": [
+          0.46774796959782894,
+          0.07770145524843264,
+          0.08131078511726952,
+          0.035073280334472656
+        ],
+        "confidence": 1,
+        "text": "Feature"
+      },
+      {
+        "boundingBox": [
+          0.8346212567169269,
+          0.07301866047905514,
+          0.07305440715714995,
+          0.03578085919995333
+        ],
+        "confidence": 1,
+        "text": "Object"
+      },
+      {
+        "boundingBox": [
+          0.10364145588235296,
+          0.047619047510822576,
+          0.05602240896358543,
+          0.03463203463203457
+        ],
+        "confidence": 1,
+        "text": "Lake"
+      },
+      {
+        "boundingBox": [
+          0.4761508312033923,
+          0.03446281953754882,
+          0.06170394106739374,
+          0.03497046516055147
+        ],
+        "confidence": 1,
+        "text": "Store"
+      },
+      {
+        "boundingBox": [
+          0.8374605493808663,
+          0.030020008234206252,
+          0.061773577991987794,
+          0.03952708388819837
+        ],
+        "confidence": 1,
+        "text": "Store"
+      }
+    ],
+    "ocr_text": "Search Engine /\nRelational\nData\nVector DB\nDatabase\nWarehouse\nFull-text search &\nRandom\nAnalytics\nVector search\nAccess\nTraditional\nData Lake\nModel\nOffline\nFeature Engineering\nTraining\nEmbeddings\nTraining\nFeature\nObject\nLake\nStore\nStore",
+    "description": "How the data is used中的配图，包含文字：Search Engine /；Relational；Data；Vector DB；Database；Warehouse；Full-text search &；Random；Analytics；Vector search；Access；Traditional；Data Lake；Model；Offline；Feature Engineering；Training；Embeddings；Training；Feature；Object；Lake；Store；Store",
+    "entities": [
+      "Search Engine /",
+      "Relational",
+      "Data",
+      "Vector DB",
+      "Database",
+      "Warehouse",
+      "Full-text search &",
+      "Random",
+      "Analytics",
+      "Vector search",
+      "Access",
+      "Traditional",
+      "Data Lake",
+      "Model",
+      "Offline",
+      "Feature Engineering",
+      "Training",
+      "Embeddings",
+      "Feature",
+      "Object",
+      "Lake",
+      "Store"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3f617b3ba6d7ecce02d27ac7cfb461c6e9a98c86535be0ea728364c814a188bd"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-003",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccd1a2b24455e34758c5f0_multimodal-lance-1.avif",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-003.avif",
+    "section": "2. Supports online and batch workloads",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.13775510414540815,
+          0.9447368422368421,
+          0.16836734693877553,
+          0.03157894736842104
+        ],
+        "confidence": 0.5,
+        "text": "Online （Search）"
+      },
+      {
+        "boundingBox": [
+          0.663265304798348,
+          0.9368421051503759,
+          0.18537414965986387,
+          0.0368421052631579
+        ],
+        "confidence": 1,
+        "text": "Batch （Analytics）"
+      },
+      {
+        "boundingBox": [
+          0.035638415942019615,
+          0.8547168290560734,
+          0.04607010536453351,
+          0.016882129719382855
+        ],
+        "confidence": 1,
+        "text": "main.py"
+      },
+      {
+        "boundingBox": [
+          0.5680272116275641,
+          0.8499999999122807,
+          0.052721085191583916,
+          0.015789473684210575
+        ],
+        "confidence": 0.3,
+        "text": "query.sq"
+      },
+      {
+        "boundingBox": [
+          0.03704915959430775,
+          0.7814796419345313,
+          0.09956039376810294,
+          0.027671301992316044
+        ],
+        "confidence": 0.3,
+        "text": "query=（\"\"."
+      },
+      {
+        "boundingBox": [
+          0.5679734975799466,
+          0.7890616430692086,
+          0.049427155734730444,
+          0.016613556209363445
+        ],
+        "confidence": 0.5,
+        "text": "SELECT"
+      },
+      {
+        "boundingBox": [
+          0.05442176492346948,
+          0.7526315787828948,
+          0.30272108843537415,
+          0.023684210526315752
+        ],
+        "confidence": 0.5,
+        "text": "near the guardrail by an intersection"
+      },
+      {
+        "boundingBox": [
+          0.5850160506001966,
+          0.7525042705563626,
+          0.06976381937662757,
+          0.02393882525594615
+        ],
+        "confidence": 1,
+        "text": "district，"
+      },
+      {
+        "boundingBox": [
+          0.05258791743029434,
+          0.7205420491940883,
+          0.19075073190286856,
+          0.02561894341519
+        ],
+        "confidence": 0.5,
+        "text": "in front of a red Light"
+      },
+      {
+        "boundingBox": [
+          0.5850340171130952,
+          0.723684210493421,
+          0.2806122448979591,
+          0.023684210526315863
+        ],
+        "confidence": 0.5,
+        "text": "date_trunc（'day'， timestamp） AS day，"
+      },
+      {
+        "boundingBox": [
+          0.054421769189342384,
+          0.6921052634344349,
+          0.03231292517006802,
+          0.021052630951529983
+        ],
+        "confidence": 0.3,
+        "text": "\"！\"）"
+      },
+      {
+        "boundingBox": [
+          0.5833333341411564,
+          0.6947368422368421,
+          0.06462585034013613,
+          0.021052631578947434
+        ],
+        "confidence": 1,
+        "text": "COUNT（*）"
+      },
+      {
+        "boundingBox": [
+          0.8111288477940404,
+          0.6936717391251629,
+          0.08532460530598962,
+          0.020973848041735188
+        ],
+        "confidence": 0.5,
+        "text": "AS submaps，"
+      },
+      {
+        "boundingBox": [
+          0.03741496763038545,
+          0.6578947369736842,
+          0.19727891156462585,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "# Create query embedding"
+      },
+      {
+        "boundingBox": [
+          0.5850340136904763,
+          0.6631578943421053,
+          0.11734693877551017,
+          0.023684210526315752
+        ],
+        "confidence": 1,
+        "text": "AVG （num_points）"
+      },
+      {
+        "boundingBox": [
+          0.8112244936632913,
+          0.663157895131579,
+          0.10884353092738563,
+          0.023684210526315863
+        ],
+        "confidence": 0.5,
+        "text": "AS avg-points，"
+      },
+      {
+        "boundingBox": [
+          0.037308694388651295,
+          0.6215622996300887,
+          0.2791326613653274,
+          0.029393494756598137
+        ],
+        "confidence": 0.5,
+        "text": "query_vector = embed_model_（query）"
+      },
+      {
+        "boundingBox": [
+          0.5850340134693877,
+          0.6342105261052631,
+          0.1394557823129251,
+          0.021052631578947434
+        ],
+        "confidence": 0.5,
+        "text": "AVG（num_instances）"
+      },
+      {
+        "boundingBox": [
+          0.8112244914540817,
+          0.6342105263157894,
+          0.13265306122448983,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "AS avg_instances，"
+      },
+      {
+        "boundingBox": [
+          0.581632653465136,
+          0.6026315786513158,
+          0.0357142857142857,
+          0.023684210526315863
+        ],
+        "confidence": 0.5,
+        "text": "SUMC"
+      },
+      {
+        "boundingBox": [
+          0.03741496305272113,
+          0.5631578946271929,
+          0.3520408163265306,
+          0.023684210526315752
+        ],
+        "confidence": 0.5,
+        "text": "# Filter on district code and point density"
+      },
+      {
+        "boundingBox": [
+          0.5969387753401361,
+          0.5736842102631579,
+          0.23809523809523814,
+          0.021052631578947434
+        ],
+        "confidence": 0.5,
+        "text": "CASE WHEN num_points >= 100000"
+      },
+      {
+        "boundingBox": [
+          0.5968347041408264,
+          0.5466517817046549,
+          0.05122854920471609,
+          0.01985432976170587
+        ],
+        "confidence": 0.5,
+        "text": "THEN 1"
+      },
+      {
+        "boundingBox": [
+          0.03741496714852604,
+          0.5342105266666667,
+          0.08333333333333334,
+          0.021052630951530094
+        ],
+        "confidence": 0.3,
+        "text": "result= C"
+      },
+      {
+        "boundingBox": [
+          0.5968074768933728,
+          0.5148756362855867,
+          0.051283005954456895,
+          0.02024872616717699
+        ],
+        "confidence": 0.3,
+        "text": "ELSE B"
+      },
+      {
+        "boundingBox": [
+          0.06972788911564633,
+          0.5026315788596492,
+          0.12244897959183675,
+          0.021052631578947434
+        ],
+        "confidence": 0.5,
+        "text": "table.search（q）"
+      },
+      {
+        "boundingBox": [
+          0.5969387751700681,
+          0.4868421051644737,
+          0.027210884353741527,
+          0.018421052631579005
+        ],
+        "confidence": 1,
+        "text": "END"
+      },
+      {
+        "boundingBox": [
+          0.07142857216553286,
+          0.4710526319298246,
+          0.05782312925170069,
+          0.021052630951530094
+        ],
+        "confidence": 0.5,
+        "text": ".whereC"
+      },
+      {
+        "boundingBox": [
+          0.5833333351190476,
+          0.45263157907894735,
+          0.1428571428571428,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "） AS dense_submaps"
+      },
+      {
+        "boundingBox": [
+          0.10034014178004518,
+          0.434210525877193,
+          0.346938775510204,
+          0.02631578947368418
+        ],
+        "confidence": 0.5,
+        "text": "\"district = '05'AND num_points >= 50000\"，"
+      },
+      {
+        "boundingBox": [
+          0.5697278921130952,
+          0.42368421026315795,
+          0.09353741496598644,
+          0.021052631578947434
+        ],
+        "confidence": 1,
+        "text": "FROM submaps"
+      },
+      {
+        "boundingBox": [
+          0.10374149863945571,
+          0.4052631578508772,
+          0.12244897959183675,
+          0.023684210526315863
+        ],
+        "confidence": 1,
+        "text": "prefilter=True，"
+      },
+      {
+        "boundingBox": [
+          0.5680272068664967,
+          0.3947368419736843,
+          0.3214285714285713,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "WHERE timestamp >= TIMESTAMP'2025-01-01'"
+      },
+      {
+        "boundingBox": [
+          0.06972789107142857,
+          0.3789473687280702,
+          0.008503401360544227,
+          0.018421052631578894
+        ],
+        "confidence": 0.5,
+        "text": "）"
+      },
+      {
+        "boundingBox": [
+          0.5816326561394557,
+          0.36052631600000007,
+          0.30782312925170074,
+          0.02631578947368418
+        ],
+        "confidence": 0.5,
+        "text": "AND timestamp < TIMESTAMP'2025-02-01'"
+      },
+      {
+        "boundingBox": [
+          0.0714164208000748,
+          0.3446352972526405,
+          0.07315355417679768,
+          0.0212557215439646
+        ],
+        "confidence": 0.3,
+        "text": ".select（［"
+      },
+      {
+        "boundingBox": [
+          0.5697278924957483,
+          0.33157894707236846,
+          0.1717687074829931,
+          0.023684210526315752
+        ],
+        "confidence": 0.5,
+        "text": "GROUP BY district, day"
+      },
+      {
+        "boundingBox": [
+          0.1037150714720835,
+          0.3102645435225725,
+          0.09699162334000982,
+          0.02420775513899953
+        ],
+        "confidence": 0.3,
+        "text": "\"submap_id\"，"
+      },
+      {
+        "boundingBox": [
+          0.5697278936564626,
+          0.3026315790526317,
+          0.25,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "ORDER BY day DESC, submaps DESC："
+      },
+      {
+        "boundingBox": [
+          0.10204081482426307,
+          0.2789473685526316,
+          0.09013605442176871,
+          0.023684210526315752
+        ],
+        "confidence": 0.3,
+        "text": "\"scene_id\"，"
+      },
+      {
+        "boundingBox": [
+          0.10204081792632994,
+          0.24736842118421043,
+          0.09863944929473253,
+          0.023684210526315863
+        ],
+        "confidence": 0.5,
+        "text": "\"timestamp\"，"
+      },
+      {
+        "boundingBox": [
+          0.10204081789798525,
+          0.2157894738157894,
+          0.10034012956684138,
+          0.023684210526315863
+        ],
+        "confidence": 0.5,
+        "text": "\"center_xyz\""
+      },
+      {
+        "boundingBox": [
+          0.10204081507227893,
+          0.18684210526315792,
+          0.10034013605442178,
+          0.021052631578947323
+        ],
+        "confidence": 0.5,
+        "text": "\"num_points\""
+      },
+      {
+        "boundingBox": [
+          0.06802721069727892,
+          0.15526315773684218,
+          0.018707482993197286,
+          0.021052631578947323
+        ],
+        "confidence": 0.3,
+        "text": "］）"
+      },
+      {
+        "boundingBox": [
+          0.0697278904251701,
+          0.12105263134210542,
+          0.09013605442176871,
+          0.023684210526315752
+        ],
+        "confidence": 0.5,
+        "text": ".Limit（100）"
+      },
+      {
+        "boundingBox": [
+          0.07132802970256046,
+          0.08844465553340652,
+          0.09713985806419735,
+          0.025742266052647622
+        ],
+        "confidence": 0.5,
+        "text": ".to_polarsO）"
+      },
+      {
+        "boundingBox": [
+          0.035714285884353734,
+          0.06315789486842116,
+          0.010204081632653059,
+          0.018421052631578894
+        ],
+        "confidence": 0.3,
+        "text": "）"
+      }
+    ],
+    "ocr_text": "Online （Search）\nBatch （Analytics）\nmain.py\nquery.sq\nquery=（\"\".\nSELECT\nnear the guardrail by an intersection\ndistrict，\nin front of a red Light\ndate_trunc（'day'， timestamp） AS day，\n\"！\"）\nCOUNT（*）\nAS submaps，\n# Create query embedding\nAVG （num_points）\nAS avg-points，\nquery_vector = embed_model_（query）\nAVG（num_instances）\nAS avg_instances，\nSUMC\n# Filter on district code and point density\nCASE WHEN num_points >= 100000\nTHEN 1\nresult= C\nELSE B\ntable.search（q）\nEND\n.whereC\n） AS dense_submaps\n\"district = '05'AND num_points >= 50000\"，\nFROM submaps\nprefilter=True，\nWHERE timestamp >= TIMESTAMP'2025-01-01'\n）\nAND timestamp < TIMESTAMP'2025-02-01'\n.select（［\nGROUP BY district, day\n\"submap_id\"，\nORDER BY day DESC, submaps DESC：\n\"scene_id\"，\n\"timestamp\"，\n\"center_xyz\"\n\"num_points\"\n］）\n.Limit（100）\n.to_polarsO）\n）",
+    "description": "2. Supports online and batch workloads中的配图，包含文字：Online （Search）；Batch （Analytics）；main.py；query.sq；query=（\"\".；SELECT；near the guardrail by an intersection；district，；in front of a red Light；date_trunc（'day'， timestamp） AS day，；\"！\"）；COUNT（*）；AS submaps，；# Create query embedding；AVG （num_points）；AS avg-points，；query_vector = embed_model_（query）；AVG（num_instances）；AS avg_instances，；SUMC；# Filter on district code and point density；CASE WHEN num_points >= 100000；THEN 1；result= C；ELSE B；table.search（q）；END；.whereC；） AS dense_submaps；\"district = '05'AND num_points >= 50000\"，",
+    "entities": [
+      "Online （Search）",
+      "Batch （Analytics）",
+      "main.py",
+      "query.sq",
+      "query=（\"\".",
+      "SELECT",
+      "near the guardrail by an intersection",
+      "district，",
+      "in front of a red Light",
+      "date_trunc（'day'， timestamp） AS day，",
+      "\"！\"）",
+      "COUNT（*）",
+      "AS submaps，",
+      "# Create query embedding",
+      "AVG （num_points）",
+      "AS avg-points，",
+      "query_vector = embed_model_（query）",
+      "AVG（num_instances）",
+      "AS avg_instances，",
+      "SUMC",
+      "# Filter on district code and point density",
+      "CASE WHEN num_points >= 100000",
+      "THEN 1",
+      "result= C",
+      "ELSE B",
+      "table.search（q）",
+      "END",
+      ".whereC",
+      "） AS dense_submaps",
+      "\"district = '05'AND num_points >= 50000\"，",
+      "FROM submaps",
+      "prefilter=True，",
+      "WHERE timestamp >= TIMESTAMP'2025-01-01'",
+      "）",
+      "AND timestamp < TIMESTAMP'2025-02-01'",
+      ".select（［",
+      "GROUP BY district, day",
+      "\"submap_id\"，",
+      "ORDER BY day DESC, submaps DESC：",
+      "\"scene_id\"，",
+      "\"timestamp\"，",
+      "\"center_xyz\"",
+      "\"num_points\"",
+      "］）",
+      ".Limit（100）",
+      ".to_polarsO）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8a677eb3694850b773e4527bbc645346f6ecd139f1368a702146afcd35805033"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-004",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ccd1b92366f3de912806bd_multimodal-lance-3.avif",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-004.avif",
+    "section": "3. Far more than just search",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06402164404541756,
+          0.7750000002083334,
+          0.11361586524550392,
+          0.07499999999999996
+        ],
+        "confidence": 1,
+        "text": "LanceDB OSS"
+      },
+      {
+        "boundingBox": [
+          0.24887285835020354,
+          0.7789473677928296,
+          0.1262398570351451,
+          0.07105263157894737
+        ],
+        "confidence": 1,
+        "text": "LanceDB Cloud"
+      },
+      {
+        "boundingBox": [
+          0.5202885566240761,
+          0.7708333351887379,
+          0.37781784188034195,
+          0.07916666583011023
+        ],
+        "confidence": 1,
+        "text": "LanceDB Enterprise - Multimodal Lakehouse"
+      },
+      {
+        "boundingBox": [
+          0.5707857864970713,
+          0.4797942408932677,
+          0.09176175804898945,
+          0.098103824414705
+        ],
+        "confidence": 1,
+        "text": "Exploratory"
+      },
+      {
+        "boundingBox": [
+          0.7376014434947558,
+          0.5125000005587785,
+          0.05680793262275197,
+          0.05855263157894741
+        ],
+        "confidence": 1,
+        "text": "Feature"
+      },
+      {
+        "boundingBox": [
+          0.07659000180953522,
+          0.46565973487855405,
+          0.052410619143407236,
+          0.06451386652494728
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.26688315882821667,
+          0.47037213454478444,
+          0.0523472973424145,
+          0.05925573298805631
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.4381966377596192,
+          0.4701377515128341,
+          0.0523713766679465,
+          0.059724496540270344
+        ],
+        "confidence": 1,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.887285843929298,
+          0.45789473639939693,
+          0.05861136064230543,
+          0.07127192898800494
+        ],
+        "confidence": 1,
+        "text": "Training"
+      },
+      {
+        "boundingBox": [
+          0.5625000018055555,
+          0.40384615712431005,
+          0.10833333333333328,
+          0.09615384152061057
+        ],
+        "confidence": 0.5,
+        "text": "Data Analysis"
+      },
+      {
+        "boundingBox": [
+          0.7166666683333334,
+          0.40384615712431005,
+          0.09999999999999998,
+          0.09615384152061057
+        ],
+        "confidence": 1,
+        "text": "Engineering"
+      },
+      {
+        "boundingBox": [
+          0.29756538090374524,
+          0.1416666682981128,
+          0.42831377426103984,
+          0.07938596323916791
+        ],
+        "confidence": 0.5,
+        "text": "Lance Open Lakehouse Format for Multimodal AI"
+      }
+    ],
+    "ocr_text": "LanceDB OSS\nLanceDB Cloud\nLanceDB Enterprise - Multimodal Lakehouse\nExploratory\nFeature\nSearch\nSearch\nSearch\nTraining\nData Analysis\nEngineering\nLance Open Lakehouse Format for Multimodal AI",
+    "description": "3. Far more than just search中的配图，包含文字：LanceDB OSS；LanceDB Cloud；LanceDB Enterprise - Multimodal Lakehouse；Exploratory；Feature；Search；Search；Search；Training；Data Analysis；Engineering；Lance Open Lakehouse Format for Multimodal AI",
+    "entities": [
+      "LanceDB OSS",
+      "LanceDB Cloud",
+      "LanceDB Enterprise - Multimodal Lakehouse",
+      "Exploratory",
+      "Feature",
+      "Search",
+      "Training",
+      "Data Analysis",
+      "Engineering",
+      "Lance Open Lakehouse Format for Multimodal AI"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a1bab92b4275a9075459e4b9629e1b0274c0beafaf9192d85aed22bdd6fba738"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-005",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175f2_prashanth.avif",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-005.avif",
+    "section": "Rethinking what “multimodal” means for AI",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Rethinking what “multimodal” means for AI中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e2fba112fa594ec02f22ce3d39f0ecd90b48d9accf8683ca208b6ef0de17440"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-006",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-006.png",
+    "section": "Rethinking what “multimodal” means for AI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Rethinking what “multimodal” means for AI中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-007",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-007.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3-fig-008",
+    "doc_id": "1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1432-https-www-lancedb-com-blog-what-we-mean-by-multi-dfe8bcd3/figure-008.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

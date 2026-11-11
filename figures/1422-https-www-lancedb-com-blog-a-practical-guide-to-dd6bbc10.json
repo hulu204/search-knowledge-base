@@ -1,0 +1,4048 @@
+[
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-001",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69cccfb53396eb61cfcff842_a-practical-guide-to-fine-tuning-embedding-models.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-001.avif",
+    "section": "A Practical Guide to Fine-Tuning Embedding Models",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09648308078305887,
+          0.8794856996992744,
+          0.14453383684158325,
+          0.057695266935560485
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "A Practical Guide to Fine-Tuning Embedding Models中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "aee4678cf03187b7c79fd12a696d986b555bef38ad630e13db9b49c3438d65f4"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-002",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293141fdf18ba1e5673d_Screenshot-2025-04-20-at-7.49.44-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-002.avif",
+    "section": "A Practical Guide to Fine-Tuning Embedding Models",
+    "alt": "Retrieval Pipeline",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05960265130075208,
+          0.6122807017312378,
+          0.11147902534796846,
+          0.13771929824561402
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.18749999765625006,
+          0.624561403118147,
+          0.18750000000000003,
+          0.12543859649122802
+        ],
+        "confidence": 1,
+        "text": "Retriever"
+      },
+      {
+        "boundingBox": [
+          0.43478926595326034,
+          0.6523542869566421,
+          0.12821396044195804,
+          0.09529142881694597
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "boundingBox": [
+          0.6165662414547064,
+          0.6233795630175656,
+          0.1418675135502584,
+          0.12824087310255627
+        ],
+        "confidence": 1,
+        "text": "Reranking"
+      },
+      {
+        "boundingBox": [
+          0.8035320085374481,
+          0.6701754384228802,
+          0.13465783498544226,
+          0.06315789473684208
+        ],
+        "confidence": 0.5,
+        "text": "LLM or User"
+      },
+      {
+        "boundingBox": [
+          0.213024282515367,
+          0.35416666598214286,
+          0.18322295858957507,
+          0.09583333333333333
+        ],
+        "confidence": 1,
+        "text": "Embedding Model"
+      },
+      {
+        "boundingBox": [
+          0.22295805888662315,
+          0.1875000005059524,
+          0.16114790111669378,
+          0.0708333333333333
+        ],
+        "confidence": 1,
+        "text": "Vector Index"
+      }
+    ],
+    "ocr_text": "Query\nRetriever\nResults\nReranking\nLLM or User\nEmbedding Model\nVector Index",
+    "description": "A Practical Guide to Fine-Tuning Embedding Models中的配图，包含文字：Query；Retriever；Results；Reranking；LLM or User；Embedding Model；Vector Index",
+    "entities": [
+      "Query",
+      "Retriever",
+      "Results",
+      "Reranking",
+      "LLM or User",
+      "Embedding Model",
+      "Vector Index"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2c7066126e0aad13e7864424131e4965087099571cc42748c558ee5a75f94844"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-003",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e56770_Screenshot-2025-04-19-at-9.45.35-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-003.avif",
+    "section": "Tuning Embedding Models",
+    "alt": "Sentence Transformers",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.32267441988939044,
+          0.909756097831605,
+          0.2674418534382735,
+          0.024390243902439046
+        ],
+        "confidence": 0.5,
+        "text": "Dataset （200_000_0 Rows）"
+      },
+      {
+        "boundingBox": [
+          0.31666666555363465,
+          0.695731706966596,
+          0.2791666633093973,
+          0.037195121951219545
+        ],
+        "confidence": 0.5,
+        "text": "Mine hard negatives"
+      },
+      {
+        "boundingBox": [
+          0.14970930573928354,
+          0.645731707557043,
+          0.1773255771011672,
+          0.025765877235226498
+        ],
+        "confidence": 0.5,
+        "text": "199_500_0 Rows"
+      },
+      {
+        "boundingBox": [
+          0.5072674423102604,
+          0.6567073172747186,
+          0.10319767480898479,
+          0.018292682926829285
+        ],
+        "confidence": 0.5,
+        "text": "5000 Rows"
+      },
+      {
+        "boundingBox": [
+          0.1497093054835682,
+          0.6182926834823889,
+          0.20203487786522795,
+          0.02582970014432584
+        ],
+        "confidence": 0.5,
+        "text": "Num negatives: 1"
+      },
+      {
+        "boundingBox": [
+          0.5058139515157,
+          0.6262195127606647,
+          0.19767442289883286,
+          0.024390243902438935
+        ],
+        "confidence": 0.5,
+        "text": "Num negatives: 30"
+      },
+      {
+        "boundingBox": [
+          0.14970930249056788,
+          0.5859756095154174,
+          0.30087209770781764,
+          0.02755096016860592
+        ],
+        "confidence": 0.3,
+        "text": "Format:anchor,tve，-ve"
+      },
+      {
+        "boundingBox": [
+          0.5058139570184931,
+          0.5987804882815171,
+          0.2790697557304559,
+          0.024407917115746414
+        ],
+        "confidence": 0.5,
+        "text": "Format:anchor,tve，-ve_1"
+      },
+      {
+        "boundingBox": [
+          0.1656976769332425,
+          0.46036585357642956,
+          0.24273255267421273,
+          0.021341463414634165
+        ],
+        "confidence": 0.5,
+        "text": "Total samples :1995000"
+      },
+      {
+        "boundingBox": [
+          0.5668604698112228,
+          0.46524390210060707,
+          0.21075580458436471,
+          0.019512195703459967
+        ],
+        "confidence": 0.3,
+        "text": "Total samples: 5000"
+      },
+      {
+        "boundingBox": [
+          0.5843023277955941,
+          0.31561996758078226,
+          0.1526162763371064,
+          0.022794666522886753
+        ],
+        "confidence": 1,
+        "text": "Evaluator（s）"
+      },
+      {
+        "boundingBox": [
+          0.22082408342831944,
+          0.29892344550797956,
+          0.12230532135244776,
+          0.02856212709008188
+        ],
+        "confidence": 1,
+        "text": "Trainer"
+      },
+      {
+        "boundingBox": [
+          0.5750000086937053,
+          0.276219511718214,
+          0.2416666532375893,
+          0.037195121951219434
+        ],
+        "confidence": 0.5,
+        "text": "* TripletEvaluator"
+      },
+      {
+        "boundingBox": [
+          0.23255814293978316,
+          0.24146341477746358,
+          0.11773255267421273,
+          0.019512194540442507
+        ],
+        "confidence": 1,
+        "text": "Forward pass"
+      },
+      {
+        "boundingBox": [
+          0.19622093225919504,
+          0.1817073173207976,
+          0.17441860152812158,
+          0.021341463414634165
+        ],
+        "confidence": 1,
+        "text": "MultipleNegatives"
+      },
+      {
+        "boundingBox": [
+          0.19622093184461584,
+          0.15914634150114892,
+          0.11337208931464435,
+          0.021341463414634165
+        ],
+        "confidence": 1,
+        "text": "RankingLoss"
+      },
+      {
+        "boundingBox": [
+          0.20494186138505502,
+          0.03220611891143432,
+          0.19912790229218233,
+          0.02576489564849105
+        ],
+        "confidence": 1,
+        "text": "Trained Model"
+      }
+    ],
+    "ocr_text": "Dataset （200_000_0 Rows）\nMine hard negatives\n199_500_0 Rows\n5000 Rows\nNum negatives: 1\nNum negatives: 30\nFormat:anchor,tve，-ve\nFormat:anchor,tve，-ve_1\nTotal samples :1995000\nTotal samples: 5000\nEvaluator（s）\nTrainer\n* TripletEvaluator\nForward pass\nMultipleNegatives\nRankingLoss\nTrained Model",
+    "description": "Tuning Embedding Models中的配图，包含文字：Dataset （200_000_0 Rows）；Mine hard negatives；199_500_0 Rows；5000 Rows；Num negatives: 1；Num negatives: 30；Format:anchor,tve，-ve；Format:anchor,tve，-ve_1；Total samples :1995000；Total samples: 5000；Evaluator（s）；Trainer；* TripletEvaluator；Forward pass；MultipleNegatives；RankingLoss；Trained Model",
+    "entities": [
+      "Dataset （200_000_0 Rows）",
+      "Mine hard negatives",
+      "199_500_0 Rows",
+      "5000 Rows",
+      "Num negatives: 1",
+      "Num negatives: 30",
+      "Format:anchor,tve，-ve",
+      "Format:anchor,tve，-ve_1",
+      "Total samples :1995000",
+      "Total samples: 5000",
+      "Evaluator（s）",
+      "Trainer",
+      "* TripletEvaluator",
+      "Forward pass",
+      "MultipleNegatives",
+      "RankingLoss",
+      "Trained Model"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c02182b1950194280ccf0f0ab580265fac5719702e70225aa327c35049299e15"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-004",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e56762_Screenshot-2025-04-16-at-7.22.41-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-004.avif",
+    "section": "Fine-tuning Results",
+    "alt": "Hit Rate @5",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.010174421206767568,
+          0.9255952383054331,
+          0.1744185977511936,
+          0.04464285597841955
+        ],
+        "confidence": 1,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.7994186079064972,
+          0.9255952383054331,
+          0.18895348442925353,
+          0.04464285597841955
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @5"
+      },
+      {
+        "boundingBox": [
+          0.010115299462146855,
+          0.8476717996396914,
+          0.07715312110053169,
+          0.03679925831634434
+        ],
+        "confidence": 0.5,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.9316860466580216,
+          0.8447293449643413,
+          0.056686046388414124,
+          0.042735042735042694
+        ],
+        "confidence": 1,
+        "text": "48.75"
+      },
+      {
+        "boundingBox": [
+          0.010174423757213762,
+          0.7619047620238095,
+          0.24418604109022354,
+          0.04166666666666674
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9315134103868068,
+          0.7608986881335337,
+          0.05703131887647839,
+          0.04367881351047098
+        ],
+        "confidence": 1,
+        "text": "49.30"
+      },
+      {
+        "boundingBox": [
+          0.010174417929258519,
+          0.6780626788550917,
+          0.2485465155707465,
+          0.04558404422553519
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9359635758735517,
+          0.6781607156848635,
+          0.05249145295884872,
+          0.0454642820222424
+        ],
+        "confidence": 1,
+        "text": "51.55"
+      },
+      {
+        "boundingBox": [
+          0.010174417403580212,
+          0.5982142861309524,
+          0.24854651557074653,
+          0.04166666666666663
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316860466337968,
+          0.5982142853670636,
+          0.056686046388414124,
+          0.04166666666666663
+        ],
+        "confidence": 1,
+        "text": "52.60"
+      },
+      {
+        "boundingBox": [
+          0.01017442718406494,
+          0.5142450141123268,
+          0.24709300994873049,
+          0.042735042735042694
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316583079691759,
+          0.5176983856734798,
+          0.056741523742675826,
+          0.041984180439571306
+        ],
+        "confidence": 1,
+        "text": "54.70"
+      },
+      {
+        "boundingBox": [
+          0.010174421239777014,
+          0.4344729339111775,
+          0.245639525519477,
+          0.0387413508532054
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9315847108039697,
+          0.43393857380589507,
+          0.056888718075222444,
+          0.042837137510294276
+        ],
+        "confidence": 1,
+        "text": "54.25"
+      },
+      {
+        "boundingBox": [
+          0.010174421992796232,
+          0.3511904768967029,
+          0.2587209277682834,
+          0.0448209186564823
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9330780369610407,
+          0.35086951283075385,
+          0.05535555415683324,
+          0.0452847847571739
+        ],
+        "confidence": 0.5,
+        "text": "54.75"
+      },
+      {
+        "boundingBox": [
+          0.010174420145348842,
+          0.26780626813613095,
+          0.24999999999999997,
+          0.04469373083522177
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316005102878412,
+          0.27034031379115786,
+          0.056857119666205436,
+          0.04265270613537209
+        ],
+        "confidence": 1,
+        "text": "55.45"
+      },
+      {
+        "boundingBox": [
+          0.010174417929258519,
+          0.18750000045387105,
+          0.2485465155707465,
+          0.03899572649572647
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.930198488270404,
+          0.18730487000769847,
+          0.05675418641832142,
+          0.04205692595566102
+        ],
+        "confidence": 1,
+        "text": "56.80"
+      },
+      {
+        "boundingBox": [
+          0.010174417632504627,
+          0.10398860450943737,
+          0.24854651557074656,
+          0.04184472934472938
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9345376619643095,
+          0.10389321223896353,
+          0.05243630409240718,
+          0.04518976646271189
+        ],
+        "confidence": 1,
+        "text": "57.55"
+      },
+      {
+        "boundingBox": [
+          0.010174426827960343,
+          0.02083333291666667,
+          0.24709300994873049,
+          0.04184472934472938
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.930205576571041,
+          0.023651136140741102,
+          0.058193498187594894,
+          0.04198344276841215
+        ],
+        "confidence": 1,
+        "text": "58.25"
+      }
+    ],
+    "ocr_text": "Experiment Name\nVector Hit Rate @5\nbaseline\n48.75\nemb-all-MiniLM-1-epochs\n49.30\nemb-all-MiniLM-2-epochs\n51.55\nemb-all-MiniLM-4-epochs\n52.60\nemb-all-MiniLM-3-epochs\n54.70\nemb-all-MiniLM-7-epochs\n54.25\nemb-all-MiniLM-10-epochs\n54.75\nemb-all-MiniLM-5-epochs\n55.45\nemb-all-MiniLM-8-epochs\n56.80\nemb-all-MiniLM-9-epochs\n57.55\nemb-all-MiniLM-6-epochs\n58.25",
+    "description": "Fine-tuning Results中的配图，包含文字：Experiment Name；Vector Hit Rate @5；baseline；48.75；emb-all-MiniLM-1-epochs；49.30；emb-all-MiniLM-2-epochs；51.55；emb-all-MiniLM-4-epochs；52.60；emb-all-MiniLM-3-epochs；54.70；emb-all-MiniLM-7-epochs；54.25；emb-all-MiniLM-10-epochs；54.75；emb-all-MiniLM-5-epochs；55.45；emb-all-MiniLM-8-epochs；56.80；emb-all-MiniLM-9-epochs；57.55；emb-all-MiniLM-6-epochs；58.25",
+    "entities": [
+      "Experiment Name",
+      "Vector Hit Rate @5",
+      "baseline",
+      "48.75",
+      "emb-all-MiniLM-1-epochs",
+      "49.30",
+      "emb-all-MiniLM-2-epochs",
+      "51.55",
+      "emb-all-MiniLM-4-epochs",
+      "52.60",
+      "emb-all-MiniLM-3-epochs",
+      "54.70",
+      "emb-all-MiniLM-7-epochs",
+      "54.25",
+      "emb-all-MiniLM-10-epochs",
+      "54.75",
+      "emb-all-MiniLM-5-epochs",
+      "55.45",
+      "emb-all-MiniLM-8-epochs",
+      "56.80",
+      "emb-all-MiniLM-9-epochs",
+      "57.55",
+      "emb-all-MiniLM-6-epochs",
+      "58.25"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "075212ea25c9be9ead018b6e40858cd58ab43d48ea1b659c9b2b18e196e7de3f"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-005",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e5675c_Screenshot-2025-04-16-at-7.23.28-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-005.avif",
+    "section": "Fine-tuning Results",
+    "alt": "Hit Rate @10",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.011627906496085694,
+          0.9335347433735813,
+          0.1744186041589914,
+          0.04229607156099435
+        ],
+        "confidence": 0.5,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.7906976765011388,
+          0.9335347438435377,
+          0.19767441663596563,
+          0.04229607156099435
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @10"
+      },
+      {
+        "boundingBox": [
+          0.011480162760263913,
+          0.8534382902151719,
+          0.07733037369261173,
+          0.03632583673130885
+        ],
+        "confidence": 1,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.9314982320852206,
+          0.8478310647155546,
+          0.05706167551746977,
+          0.04451913861101575
+        ],
+        "confidence": 1,
+        "text": "60.25"
+      },
+      {
+        "boundingBox": [
+          0.011627906633339234,
+          0.7636887611708036,
+          0.24273256256907727,
+          0.043227665706051854
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9374999996672086,
+          0.7673716013292712,
+          0.050872093761512915,
+          0.04242666997552258
+        ],
+        "confidence": 1,
+        "text": "61.75"
+      },
+      {
+        "boundingBox": [
+          0.011627914154602967,
+          0.6797583075013008,
+          0.24854649981579402,
+          0.04531722110011738
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316255456197728,
+          0.6824270777071835,
+          0.05680704844312101,
+          0.043000828635795685
+        ],
+        "confidence": 1,
+        "text": "63.35"
+      },
+      {
+        "boundingBox": [
+          0.011627915368265757,
+          0.5979827087805597,
+          0.24854649981579405,
+          0.04250067455280748
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9315154267726089,
+          0.600119055073874,
+          0.05702728504281429,
+          0.041453732537261256
+        ],
+        "confidence": 1,
+        "text": "64.95"
+      },
+      {
+        "boundingBox": [
+          0.01162791420305256,
+          0.512968300538128,
+          0.248546499815794,
+          0.04610950871228492
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316112156532383,
+          0.5161796983046711,
+          0.056835708935614626,
+          0.043169304685565235
+        ],
+        "confidence": 1,
+        "text": "66.05"
+      },
+      {
+        "boundingBox": [
+          0.01162791540925619,
+          0.432024169305102,
+          0.2456395206107511,
+          0.04229607156099435
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9330562521920637,
+          0.4315826214429056,
+          0.05539912357409693,
+          0.04620031527208668
+        ],
+        "confidence": 1,
+        "text": "67.00"
+      },
+      {
+        "boundingBox": [
+          0.011627907989149361,
+          0.34726224844244613,
+          0.2470930207949571,
+          0.04610950871228481
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9330067378720127,
+          0.3496931833037923,
+          0.05549815226857768,
+          0.04381604977918285
+        ],
+        "confidence": 0.5,
+        "text": "67.05"
+      },
+      {
+        "boundingBox": [
+          0.01162790891535258,
+          0.26586102873951967,
+          0.2572674374309228,
+          0.04537816418694485
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316328393266753,
+          0.2685483328911573,
+          0.05679246159102491,
+          0.03994261084784689
+        ],
+        "confidence": 1,
+        "text": "68.20"
+      },
+      {
+        "boundingBox": [
+          0.011627909349199174,
+          0.18429002978148867,
+          0.2470930207949571,
+          0.03927492477021233
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.933098407296936,
+          0.18405721891296822,
+          0.0553148140027685,
+          0.042761695488042095
+        ],
+        "confidence": 1,
+        "text": "69.35"
+      },
+      {
+        "boundingBox": [
+          0.01162790951531214,
+          0.0994236305226246,
+          0.24709302079495707,
+          0.03954917896721477
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.930232556924474,
+          0.09942363134317367,
+          0.058139536483277854,
+          0.043227665706051965
+        ],
+        "confidence": 1,
+        "text": "70.05"
+      },
+      {
+        "boundingBox": [
+          0.011474751936389539,
+          0.013692455016222072,
+          0.24742843903053485,
+          0.04688102986008702
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9301917593926855,
+          0.014878947257439323,
+          0.05822113185252964,
+          0.04577080729371874
+        ],
+        "confidence": 1,
+        "text": "70.60"
+      }
+    ],
+    "ocr_text": "Experiment Name\nVector Hit Rate @10\nbaseline\n60.25\nemb-all-MiniLM-1-epochs\n61.75\nemb-all-MiniLM-2-epochs\n63.35\nemb-all-MiniLM-4-epochs\n64.95\nemb-all-MiniLM-3-epochs\n66.05\nemb-all-MiniLM-7-epochs\n67.00\nemb-all-MiniLM-5-epochs\n67.05\nemb-all-MiniLM-10-epochs\n68.20\nemb-all-MiniLM-8-epochs\n69.35\nemb-all-MiniLM-6-epochs\n70.05\nemb-all-MiniLM-9-epochs\n70.60",
+    "description": "Fine-tuning Results中的配图，包含文字：Experiment Name；Vector Hit Rate @10；baseline；60.25；emb-all-MiniLM-1-epochs；61.75；emb-all-MiniLM-2-epochs；63.35；emb-all-MiniLM-4-epochs；64.95；emb-all-MiniLM-3-epochs；66.05；emb-all-MiniLM-7-epochs；67.00；emb-all-MiniLM-5-epochs；67.05；emb-all-MiniLM-10-epochs；68.20；emb-all-MiniLM-8-epochs；69.35；emb-all-MiniLM-6-epochs；70.05；emb-all-MiniLM-9-epochs；70.60",
+    "entities": [
+      "Experiment Name",
+      "Vector Hit Rate @10",
+      "baseline",
+      "60.25",
+      "emb-all-MiniLM-1-epochs",
+      "61.75",
+      "emb-all-MiniLM-2-epochs",
+      "63.35",
+      "emb-all-MiniLM-4-epochs",
+      "64.95",
+      "emb-all-MiniLM-3-epochs",
+      "66.05",
+      "emb-all-MiniLM-7-epochs",
+      "67.00",
+      "emb-all-MiniLM-5-epochs",
+      "67.05",
+      "emb-all-MiniLM-10-epochs",
+      "68.20",
+      "emb-all-MiniLM-8-epochs",
+      "69.35",
+      "emb-all-MiniLM-6-epochs",
+      "70.05",
+      "emb-all-MiniLM-9-epochs",
+      "70.60"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1a7f9e4a8f7c449d227cc992e3e682eeb6c524c6237db822d94634452ddf54e7"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-006",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e5676a_Screenshot-2025-04-17-at-2.59.17-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-006.avif",
+    "section": "**Ideal scenario for fine-tuning**",
+    "alt": "Training Dataset Visualization",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2718023269151607,
+          0.7637571161371384,
+          0.12790697477432966,
+          0.04179843779533132
+        ],
+        "confidence": 0.5,
+        "text": "•Training Data"
+      },
+      {
+        "boundingBox": [
+          0.7514534894137596,
+          0.7637571163542116,
+          0.125,
+          0.03832621637738853
+        ],
+        "confidence": 0.3,
+        "text": "PTraining Data"
+      },
+      {
+        "boundingBox": [
+          0.14244186116631402,
+          0.6072106260442351,
+          0.02906976589411614,
+          0.03167826310507038
+        ],
+        "confidence": 0.5,
+        "text": "<N>"
+      },
+      {
+        "boundingBox": [
+          0.5857558146546862,
+          0.5937500006914915,
+          0.02906976589411614,
+          0.03472222141794279
+        ],
+        "confidence": 0.3,
+        "text": "<N>"
+      },
+      {
+        "boundingBox": [
+          0.7122093026879622,
+          0.5208333337976541,
+          0.02180232442058716,
+          0.02091239661374167
+        ],
+        "confidence": 0.3,
+        "text": "40>"
+      },
+      {
+        "boundingBox": [
+          0.796511627112203,
+          0.4962049331452246,
+          0.14244186074652432,
+          0.04554079696394686
+        ],
+        "confidence": 0.5,
+        "text": "*Domain specific"
+      },
+      {
+        "boundingBox": [
+          0.2834302334645476,
+          0.4648956356590974,
+          0.15261627850695136,
+          0.04204880716226134
+        ],
+        "confidence": 0.5,
+        "text": "pFine-tuning Data"
+      },
+      {
+        "boundingBox": [
+          0.8037790735924976,
+          0.45445920248776117,
+          0.14389534208341592,
+          0.0420685737363754
+        ],
+        "confidence": 1,
+        "text": "Fine-tuning data"
+      },
+      {
+        "boundingBox": [
+          0.3386627963153656,
+          0.14583333471336357,
+          0.268895342083416,
+          0.04202245353973788
+        ],
+        "confidence": 0.3,
+        "text": "N- #rows in training dataset"
+      },
+      {
+        "boundingBox": [
+          0.33866279173055186,
+          0.10721062661998604,
+          0.04651162664064051,
+          0.03515048452301317
+        ],
+        "confidence": 0.3,
+        "text": "n-#"
+      },
+      {
+        "boundingBox": [
+          0.3909883696216825,
+          0.10056926079378758,
+          0.24273255701390262,
+          0.041791848937293485
+        ],
+        "confidence": 0.5,
+        "text": "rows in fine-tuning dataset"
+      }
+    ],
+    "ocr_text": "•Training Data\nPTraining Data\n<N>\n<N>\n40>\n*Domain specific\npFine-tuning Data\nFine-tuning data\nN- #rows in training dataset\nn-#\nrows in fine-tuning dataset",
+    "description": "**Ideal scenario for fine-tuning**中的配图，包含文字：•Training Data；PTraining Data；<N>；<N>；40>；*Domain specific；pFine-tuning Data；Fine-tuning data；N- #rows in training dataset；n-#；rows in fine-tuning dataset",
+    "entities": [
+      "•Training Data",
+      "PTraining Data",
+      "<N>",
+      "40>",
+      "*Domain specific",
+      "pFine-tuning Data",
+      "Fine-tuning data",
+      "N- #rows in training dataset",
+      "n-#",
+      "rows in fine-tuning dataset"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e81ed23cbd86044f34e2fd0bb3be5b2b019c5009a49251e4fa018c4633d28370"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-007",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e56759_Screenshot-2025-04-20-at-7.09.35-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-007.avif",
+    "section": "SQuAD Fine-tuning Results",
+    "alt": "SQuAD Hit Rate @5",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.010174417755975934,
+          0.9335260121553051,
+          0.1758720917894048,
+          0.04230480249217483
+        ],
+        "confidence": 0.5,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.8008720931550383,
+          0.9335260120210318,
+          0.18895348985271432,
+          0.042304803870316876
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @5"
+      },
+      {
+        "boundingBox": [
+          0.010046161779474483,
+          0.8478033386942002,
+          0.24735348082052983,
+          0.04537603620848907
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9331163796444962,
+          0.8488082690686465,
+          0.056732358123397275,
+          0.04256473111279446
+        ],
+        "confidence": 1,
+        "text": "38.70"
+      },
+      {
+        "boundingBox": [
+          0.010174422849808363,
+          0.7643504537815231,
+          0.2441860405891429,
+          0.04229607058398299
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.935974289171549,
+          0.7639779600749199,
+          0.053923515351657625,
+          0.046062207635427455
+        ],
+        "confidence": 1,
+        "text": "40.15"
+      },
+      {
+        "boundingBox": [
+          0.010174421729651101,
+          0.6820809245274458,
+          0.25,
+          0.040462427745664775
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9359782255984164,
+          0.6824018114208878,
+          0.05391564190139031,
+          0.043051362726729714
+        ],
+        "confidence": 1,
+        "text": "41.55"
+      },
+      {
+        "boundingBox": [
+          0.010174417273740877,
+          0.5981873112060292,
+          0.24854651014728577,
+          0.039274924063269046
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9359964895010474,
+          0.5979112591610285,
+          0.05387911312437521,
+          0.04284817634979432
+        ],
+        "confidence": 1,
+        "text": "41.65"
+      },
+      {
+        "boundingBox": [
+          0.010174418836240876,
+          0.5130057796924831,
+          0.24854651014728574,
+          0.046242774566474076
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9300281361621662,
+          0.5153388977675775,
+          0.06000186670804719,
+          0.04485090757381016
+        ],
+        "confidence": 1,
+        "text": "42.00"
+      },
+      {
+        "boundingBox": [
+          0.010174427658112287,
+          0.4320241695141862,
+          0.25726742804133346,
+          0.039274924063269046
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9373203991645644,
+          0.4310458506823239,
+          0.052684783935546875,
+          0.04425270984627605
+        ],
+        "confidence": 0.5,
+        "text": "42.10"
+      },
+      {
+        "boundingBox": [
+          0.010174420390365443,
+          0.3468208103390559,
+          0.25000000000000006,
+          0.04624277318833192
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9316632025088379,
+          0.3472961126610219,
+          0.05818522192009301,
+          0.04256789670514227
+        ],
+        "confidence": 1,
+        "text": "42.85"
+      },
+      {
+        "boundingBox": [
+          0.010133943596665035,
+          0.2685072953133506,
+          0.07711583483699963,
+          0.037003537823010024
+        ],
+        "confidence": 1,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.9316860461524546,
+          0.2628398791178479,
+          0.058139535747416704,
+          0.04531721986098103
+        ],
+        "confidence": 1,
+        "text": "43.65"
+      },
+      {
+        "boundingBox": [
+          0.010174421416182711,
+          0.1806358384552037,
+          0.2485465101472857,
+          0.040462427745664775
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.930159342985357,
+          0.17782881336647394,
+          0.05973945373620049,
+          0.046155061335921954
+        ],
+        "confidence": 1,
+        "text": "44.30"
+      },
+      {
+        "boundingBox": [
+          0.010174420665213691,
+          0.09667673703684487,
+          0.24854651014728574,
+          0.039274924063269046
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.931641901254554,
+          0.09641339002793137,
+          0.05822782556271189,
+          0.04282276616620195
+        ],
+        "confidence": 1,
+        "text": "44.90"
+      },
+      {
+        "boundingBox": [
+          0.010174422451793137,
+          0.011560693130375999,
+          0.2485465101472857,
+          0.040462427745664775
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9301678183257897,
+          0.011714527265739072,
+          0.05972250247366395,
+          0.04605735106275266
+        ],
+        "confidence": 1,
+        "text": "45.65"
+      }
+    ],
+    "ocr_text": "Experiment Name\nVector Hit Rate @5\nemb-all-MiniLM-7-epochs\n38.70\nemb-all-MiniLM-1-epochs\n40.15\nemb-all-MiniLM-8-epochs\n41.55\nemb-all-MiniLM-6-epochs\n41.65\nemb-all-MiniLM-2-epochs\n42.00\nemb-all-MiniLM-10-epochs\n42.10\nemb-all-MiniLM-9-epochs\n42.85\nbaseline\n43.65\nemb-all-MiniLM-5-epochs\n44.30\nemb-all-MiniLM-4-epochs\n44.90\nemb-all-MiniLM-3-epochs\n45.65",
+    "description": "SQuAD Fine-tuning Results中的配图，包含文字：Experiment Name；Vector Hit Rate @5；emb-all-MiniLM-7-epochs；38.70；emb-all-MiniLM-1-epochs；40.15；emb-all-MiniLM-8-epochs；41.55；emb-all-MiniLM-6-epochs；41.65；emb-all-MiniLM-2-epochs；42.00；emb-all-MiniLM-10-epochs；42.10；emb-all-MiniLM-9-epochs；42.85；baseline；43.65；emb-all-MiniLM-5-epochs；44.30；emb-all-MiniLM-4-epochs；44.90；emb-all-MiniLM-3-epochs；45.65",
+    "entities": [
+      "Experiment Name",
+      "Vector Hit Rate @5",
+      "emb-all-MiniLM-7-epochs",
+      "38.70",
+      "emb-all-MiniLM-1-epochs",
+      "40.15",
+      "emb-all-MiniLM-8-epochs",
+      "41.55",
+      "emb-all-MiniLM-6-epochs",
+      "41.65",
+      "emb-all-MiniLM-2-epochs",
+      "42.00",
+      "emb-all-MiniLM-10-epochs",
+      "42.10",
+      "emb-all-MiniLM-9-epochs",
+      "42.85",
+      "baseline",
+      "43.65",
+      "emb-all-MiniLM-5-epochs",
+      "44.30",
+      "emb-all-MiniLM-4-epochs",
+      "44.90",
+      "emb-all-MiniLM-3-epochs",
+      "45.65"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8944478d5c7ef9801414cf3ea6ca28d470baf4fc1004a6caf58248ae75a12517"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-008",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e5675f_Screenshot-2025-04-20-at-7.10.18-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-008.avif",
+    "section": "SQuAD Fine-tuning Results",
+    "alt": "SQuAD Hit Rate @10",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.00872093343809407,
+          0.9362318843729229,
+          0.17587208881058505,
+          0.04637681021206619
+        ],
+        "confidence": 0.5,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.7921511660752693,
+          0.9362318841156437,
+          0.2005813854366707,
+          0.04637681021206619
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @10"
+      },
+      {
+        "boundingBox": [
+          0.008720933119595889,
+          0.8521739127207588,
+          0.25145348490283476,
+          0.04541644773621489
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9359111958343237,
+          0.8546482189601061,
+          0.05550318989673808,
+          0.043715611057005166
+        ],
+        "confidence": 1,
+        "text": "56.90"
+      },
+      {
+        "boundingBox": [
+          0.008720929818180932,
+          0.7680722894462104,
+          0.24854651509716527,
+          0.04518072155938635
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9375000002997144,
+          0.7710144932350741,
+          0.05377906927183351,
+          0.04223851881165441
+        ],
+        "confidence": 1,
+        "text": "57.60"
+      },
+      {
+        "boundingBox": [
+          0.00872093988980903,
+          0.6837349405154876,
+          0.24709300888317254,
+          0.04525056645490122
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9374421751443041,
+          0.686428220968621,
+          0.05389471959801362,
+          0.042806209343067114
+        ],
+        "confidence": 0.3,
+        "text": "57.70"
+      },
+      {
+        "boundingBox": [
+          0.008580610225103319,
+          0.6040906913658376,
+          0.07731552230579228,
+          0.03880656974903052
+        ],
+        "confidence": 1,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.9359940260367715,
+          0.6021047218940256,
+          0.056791017841360425,
+          0.04277850717738052
+        ],
+        "confidence": 1,
+        "text": "58.25"
+      },
+      {
+        "boundingBox": [
+          0.008720931802325554,
+          0.514492753820819,
+          0.24999999999999997,
+          0.04637681021206608
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9360111202489633,
+          0.5178671116261685,
+          0.05675682941628568,
+          0.04257903029953225
+        ],
+        "confidence": 1,
+        "text": "58.55"
+      },
+      {
+        "boundingBox": [
+          0.008720932571963215,
+          0.4333333339501987,
+          0.2587209307281665,
+          0.039558232348898215
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9358018189721073,
+          0.43231691938854644,
+          0.05572194360487959,
+          0.045004714744678376
+        ],
+        "confidence": 1,
+        "text": "58.70"
+      },
+      {
+        "boundingBox": [
+          0.008720934481722111,
+          0.3492753618596778,
+          0.25145348490283476,
+          0.045302950817605714
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9360465121723538,
+          0.34927536222112365,
+          0.05668604440529257,
+          0.045302950817605714
+        ],
+        "confidence": 0.5,
+        "text": "58.90"
+      },
+      {
+        "boundingBox": [
+          0.008720931540697665,
+          0.2650602412534394,
+          0.24999999999999997,
+          0.04518072155938624
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9359580718489724,
+          0.26755620335526487,
+          0.05686292701593321,
+          0.043200846685879535
+        ],
+        "confidence": 1,
+        "text": "59.00"
+      },
+      {
+        "boundingBox": [
+          0.008720932018272412,
+          0.18373494002620416,
+          0.25,
+          0.03945346638776259
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9345930234523905,
+          0.18674698774206777,
+          0.0581395346359167,
+          0.03933996946915341
+        ],
+        "confidence": 1,
+        "text": "60.65"
+      },
+      {
+        "boundingBox": [
+          0.0087209327325581,
+          0.09939759056837305,
+          0.24999999999999997,
+          0.039732844587685334
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9373547641703912,
+          0.10151156239135772,
+          0.05552303058475083,
+          0.040952779244685544
+        ],
+        "confidence": 1,
+        "text": "62.25"
+      },
+      {
+        "boundingBox": [
+          0.008720929818180932,
+          0.014492753396796676,
+          0.24854651509716527,
+          0.03972411363021189
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.9345701109889718,
+          0.01793624003667338,
+          0.05818535895320964,
+          0.042440773784250485
+        ],
+        "confidence": 0.5,
+        "text": "62.35"
+      }
+    ],
+    "ocr_text": "Experiment Name\nVector Hit Rate @10\nemb-all-MiniLM-8-epochs\n56.90\nemb-all-MiniLM-7-epochs\n57.60\nemb-all-MiniLM-1-epochs\n57.70\nbaseline\n58.25\nemb-all-MiniLM-6-epochs\n58.55\nemb-all-MiniLM-10-epochs\n58.70\nemb-all-MiniLM-9-epochs\n58.90\nemb-all-MiniLM-2-epochs\n59.00\nemb-all-MiniLM-4-epochs\n60.65\nemb-all-MiniLM-5-epochs\n62.25\nemb-all-MiniLM-3-epochs\n62.35",
+    "description": "SQuAD Fine-tuning Results中的配图，包含文字：Experiment Name；Vector Hit Rate @10；emb-all-MiniLM-8-epochs；56.90；emb-all-MiniLM-7-epochs；57.60；emb-all-MiniLM-1-epochs；57.70；baseline；58.25；emb-all-MiniLM-6-epochs；58.55；emb-all-MiniLM-10-epochs；58.70；emb-all-MiniLM-9-epochs；58.90；emb-all-MiniLM-2-epochs；59.00；emb-all-MiniLM-4-epochs；60.65；emb-all-MiniLM-5-epochs；62.25；emb-all-MiniLM-3-epochs；62.35",
+    "entities": [
+      "Experiment Name",
+      "Vector Hit Rate @10",
+      "emb-all-MiniLM-8-epochs",
+      "56.90",
+      "emb-all-MiniLM-7-epochs",
+      "57.60",
+      "emb-all-MiniLM-1-epochs",
+      "57.70",
+      "baseline",
+      "58.25",
+      "emb-all-MiniLM-6-epochs",
+      "58.55",
+      "emb-all-MiniLM-10-epochs",
+      "58.70",
+      "emb-all-MiniLM-9-epochs",
+      "58.90",
+      "emb-all-MiniLM-2-epochs",
+      "59.00",
+      "emb-all-MiniLM-4-epochs",
+      "60.65",
+      "emb-all-MiniLM-5-epochs",
+      "62.25",
+      "emb-all-MiniLM-3-epochs",
+      "62.35"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e280ddb32daa2fd55de6e28dc3620f5f5da94ed1ce7e724f6a99418cfd1fbc49"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-009",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e5676d_Screenshot-2025-04-20-at-7.14.51-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-009.avif",
+    "section": "SQuAD Fine-tuning Results",
+    "alt": "Model Comparison",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.37209302448050563,
+          0.917829457910989,
+          0.216569766998291,
+          0.03100775146484369
+        ],
+        "confidence": 0.5,
+        "text": "BGE embeddings"
+      },
+      {
+        "boundingBox": [
+          0.22674418882745787,
+          0.8697674416892043,
+          0.1366279029846191,
+          0.01889922523498533
+        ],
+        "confidence": 0.5,
+        "text": "vector_hit_rate_@10"
+      },
+      {
+        "boundingBox": [
+          0.616279068399869,
+          0.8713178294057048,
+          0.129360466003418,
+          0.0186821708679199
+        ],
+        "confidence": 1,
+        "text": "vector_hit_rate_@5"
+      },
+      {
+        "boundingBox": [
+          0.1540697665131917,
+          0.8418604649944027,
+          0.15552325248718263,
+          0.01085271326700854
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.539244191113707,
+          0.8418604651688213,
+          0.15697673797607414,
+          0.01085271326700854
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325467914913,
+          0.8153333335849701,
+          0.154069766998291,
+          0.012666666666666715
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-6-epochs"
+      },
+      {
+        "boundingBox": [
+          0.539244191113707,
+          0.815333333622446,
+          0.15697673797607414,
+          0.011333333333333417
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-1-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325757643587,
+          0.7906666666850435,
+          0.154069766998291,
+          0.01088372103373203
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.5392441877949087,
+          0.7891472865964699,
+          0.15697673797607414,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-V1.5-8-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325467914913,
+          0.7643410850460823,
+          0.154069766998291,
+          0.010992248535156235
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.5392441877949087,
+          0.7626666666225904,
+          0.15697673797607414,
+          0.012666666666666715
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.1555232600693931,
+          0.7379844964491749,
+          0.15552325248718263,
+          0.012682170232137135
+        ],
+        "confidence": 0.5,
+        "text": "emb-bge-base-en-V1.5-3-epochs"
+      },
+      {
+        "boundingBox": [
+          0.5392441877949087,
+          0.7364341085421982,
+          0.15697673797607414,
+          0.012403100331624284
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-2-epochs"
+      },
+      {
+        "boundingBox": [
+          0.1555232600693931,
+          0.7131782946068059,
+          0.15552325248718263,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.539244191113707,
+          0.7113333335633034,
+          0.15697673797607414,
+          0.011333333333333306
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-4-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325685938162,
+          0.6866666663854586,
+          0.154069766998291,
+          0.012666666666666715
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.539244191113707,
+          0.6852713178819996,
+          0.15697673797607414,
+          0.01085271326700854
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-5-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325513889403,
+          0.6633333334702058,
+          0.04069767475128175,
+          0.009534883499145552
+        ],
+        "confidence": 1,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.5392441877949087,
+          0.658666666563448,
+          0.15697673797607414,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.1540697665131917,
+          0.6353333333740991,
+          0.15552325248718263,
+          0.011333333333333417
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-7-epochs"
+      },
+      {
+        "boundingBox": [
+          0.539244191113707,
+          0.6325581398341878,
+          0.15697673797607414,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15552325796161026,
+          0.6106666665917353,
+          0.154069766998291,
+          0.011333333333333417
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-9-epochs"
+      },
+      {
+        "boundingBox": [
+          0.5392441880943356,
+          0.6077519380176585,
+          0.162790699005127,
+          0.010914728800455742
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.15406976808656211,
+          0.5844961238897516,
+          0.16133720397949217,
+          0.01085271326700854
+        ],
+        "confidence": 1,
+        "text": "emb-bge-base-en-v1.5-10-epochs"
+      },
+      {
+        "boundingBox": [
+          0.53916891147635,
+          0.5826028511909966,
+          0.042301712036132866,
+          0.011538483937581279
+        ],
+        "confidence": 1,
+        "text": "baseline"
+      },
+      {
+        "boundingBox": [
+          0.1889534886041094,
+          0.5333333333535759,
+          0.014534883499145501,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.23255813964577604,
+          0.5317829458031801,
+          0.014534883499145529,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.27616279080856676,
+          0.5317829458031801,
+          0.014534883499145557,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.3197674418260087,
+          0.5317829458962033,
+          0.014534883499145501,
+          0.012403100331624284
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.3648255814335667,
+          0.53333333334324,
+          0.014534883499145501,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.4084302327901559,
+          0.5333333333535759,
+          0.014534883499145501,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.4651162792969312,
+          0.5162790700614295,
+          0.015988371372222865,
+          0.0170542627970377
+        ],
+        "confidence": 0.3,
+        "text": "」"
+      },
+      {
+        "boundingBox": [
+          0.5872093025260979,
+          0.5286666665011517,
+          0.015988371372222865,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.6453488371940941,
+          0.5286666668963519,
+          0.017441860437393153,
+          0.01733333333333331
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.7063953494642139,
+          0.5299999999817635,
+          0.013081394433975269,
+          0.011333333333333417
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.7630813953143807,
+          0.5286666665011517,
+          0.014534883499145557,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.29481317774830174,
+          0.4630996035246213,
+          0.33778854370117184,
+          0.033292330423990935
+        ],
+        "confidence": 0.5,
+        "text": "AlL-mini-LM embeddings"
+      },
+      {
+        "boundingBox": [
+          0.22529069894810164,
+          0.40000000011814485,
+          0.13953488349914553,
+          0.01866666666666661
+        ],
+        "confidence": 1,
+        "text": "vector_hit_rate_@10"
+      },
+      {
+        "boundingBox": [
+          0.6148255851576552,
+          0.40000000013881676,
+          0.13226743698120114,
+          0.01866666666666661
+        ],
+        "confidence": 1,
+        "text": "vector_hit_rate_@5"
+      },
+      {
+        "boundingBox": [
+          0.15261628313243064,
+          0.3705426355060306,
+          0.13808138847351076,
+          0.01085271326700854
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-3-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907037843334,
+          0.37054263569207724,
+          0.1337209224700927,
+          0.01085271326700843
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-3-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.34573643396727094,
+          0.13808138847351073,
+          0.010930233001709033
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-5-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.536337211157404,
+          0.3426356594995542,
+          0.13953488349914556,
+          0.014031007130940742
+        ],
+        "confidence": 0.5,
+        "text": "emb-all-MiniLM-4-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.320666666717624,
+          0.13808138847351073,
+          0.011333333333333306
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-4-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377906999185607,
+          0.3193333330458057,
+          0.13517441749572745,
+          0.010899225234985321
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-5-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.15261628350064768,
+          0.2945736434259191,
+          0.13808138847351073,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-2-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377906979898674,
+          0.29599999996153925,
+          0.05087209224700917,
+          0.009426356633504218
+        ],
+        "confidence": 1,
+        "text": "baseline-5"
+      },
+      {
+        "boundingBox": [
+          0.15261628325234344,
+          0.2697674416804493,
+          0.13808138847351076,
+          0.010899225234985432
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-9-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907026215426,
+          0.26799999991156676,
+          0.13372092247009282,
+          0.012666666666666715
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-9-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.15261627693839852,
+          0.2446666667028382,
+          0.1438953495025635,
+          0.011333333333333306
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-10-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377906999170938,
+          0.24333333340698093,
+          0.13953488349914545,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-10-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.21999999978481566,
+          0.13808138847351073,
+          0.011333333333333306
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-6-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907032271628,
+          0.218604651215333,
+          0.1337209224700927,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-2-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526026898884869,
+          0.1952674791488389,
+          0.056713223457336426,
+          0.01101542917887366
+        ],
+        "confidence": 1,
+        "text": "baseline-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907032271628,
+          0.19379844966494542,
+          0.1337209224700927,
+          0.01086821683247885
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-6-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.17054263551765858,
+          0.13808138847351073,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-1-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907004817873,
+          0.16733333328883604,
+          0.13517441749572756,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.14573643403840042,
+          0.13808138847351073,
+          0.009596899350484245
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-7-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377906993921207,
+          0.14263565934323186,
+          0.1380813884735107,
+          0.012697673797607334
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-1-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.1526162807814133,
+          0.12066666678875348,
+          0.13808138847351073,
+          0.009565891265869153
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-8-epochs-10"
+      },
+      {
+        "boundingBox": [
+          0.5377907028380993,
+          0.11782945741688344,
+          0.1380813884735106,
+          0.01085271326700843
+        ],
+        "confidence": 1,
+        "text": "emb-all-MiniLM-7-epochs-5"
+      },
+      {
+        "boundingBox": [
+          0.18750000016054552,
+          0.06511627921403274,
+          0.01598837137222292,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.23255813976204748,
+          0.06511627921403274,
+          0.01598837137222292,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.2790697674316288,
+          0.06511627921403274,
+          0.014534883499145501,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.3226744188051676,
+          0.06511627919852891,
+          0.01598837137222292,
+          0.012403100331624284
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.37063953505921277,
+          0.06511627896511774,
+          0.014534883499145501,
+          0.01088372103373203
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.41569767461548734,
+          0.06511627944659082,
+          0.01598837137222292,
+          0.012403100331624395
+        ],
+        "confidence": 1,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.5915697674340589,
+          0.06511627913917573,
+          0.013081395626068137,
+          0.009550387382507353
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.6526162789384118,
+          0.06666666664828991,
+          0.014534883499145557,
+          0.008000000000000007
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.715116279035311,
+          0.06333333341845615,
+          0.014534883499145557,
+          0.011333333333333306
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.7776162791806598,
+          0.06333333328137303,
+          0.014534883499145557,
+          0.012666666666666604
+        ],
+        "confidence": 1,
+        "text": "40"
+      }
+    ],
+    "ocr_text": "BGE embeddings\nvector_hit_rate_@10\nvector_hit_rate_@5\nemb-bge-base-en-v1.5-1-epochs\nemb-bge-base-en-v1.5-6-epochs\nemb-bge-base-en-v1.5-6-epochs\nemb-bge-base-en-v1.5-1-epochs\nemb-bge-base-en-v1.5-8-epochs\nemb-bge-base-en-V1.5-8-epochs\nemb-bge-base-en-v1.5-2-epochs\nemb-bge-base-en-v1.5-3-epochs\nemb-bge-base-en-V1.5-3-epochs\nemb-bge-base-en-v1.5-2-epochs\nemb-bge-base-en-v1.5-4-epochs\nemb-bge-base-en-v1.5-4-epochs\nemb-bge-base-en-v1.5-5-epochs\nemb-bge-base-en-v1.5-5-epochs\nbaseline\nemb-bge-base-en-v1.5-7-epochs\nemb-bge-base-en-v1.5-7-epochs\nemb-bge-base-en-v1.5-9-epochs\nemb-bge-base-en-v1.5-9-epochs\nemb-bge-base-en-v1.5-10-epochs\nemb-bge-base-en-v1.5-10-epochs\nbaseline\n10\n20\n30\n40\n50\n60\n」\n10\n20\n30\n40\nAlL-mini-LM embeddings\nvector_hit_rate_@10\nvector_hit_rate_@5\nemb-all-MiniLM-3-epochs-10\nemb-all-MiniLM-3-epochs-5\nemb-all-MiniLM-5-epochs-10\nemb-all-MiniLM-4-epochs-5\nemb-all-MiniLM-4-epochs-10\nemb-all-MiniLM-5-epochs-5\nemb-all-MiniLM-2-epochs-10\nbaseline-5\nemb-all-MiniLM-9-epochs-10\nemb-all-MiniLM-9-epochs-5\nemb-all-MiniLM-10-epochs-10\nemb-all-MiniLM-10-epochs-5\nemb-all-MiniLM-6-epochs-10\nemb-all-MiniLM-2-epochs-5\nbaseline-10\nemb-all-MiniLM-6-epochs-5\nemb-all-MiniLM-1-epochs-10\nemb-all-MiniLM-8-epochs-5\nemb-all-MiniLM-7-epochs-10\nemb-all-MiniLM-1-epochs-5\nemb-all-MiniLM-8-epochs-10\nemb-all-MiniLM-7-epochs-5\n10\n20\n30\n40\n50\n60\n10\n20\n30\n40",
+    "description": "SQuAD Fine-tuning Results中的配图，包含文字：BGE embeddings；vector_hit_rate_@10；vector_hit_rate_@5；emb-bge-base-en-v1.5-1-epochs；emb-bge-base-en-v1.5-6-epochs；emb-bge-base-en-v1.5-6-epochs；emb-bge-base-en-v1.5-1-epochs；emb-bge-base-en-v1.5-8-epochs；emb-bge-base-en-V1.5-8-epochs；emb-bge-base-en-v1.5-2-epochs；emb-bge-base-en-v1.5-3-epochs；emb-bge-base-en-V1.5-3-epochs；emb-bge-base-en-v1.5-2-epochs；emb-bge-base-en-v1.5-4-epochs；emb-bge-base-en-v1.5-4-epochs；emb-bge-base-en-v1.5-5-epochs；emb-bge-base-en-v1.5-5-epochs；baseline；emb-bge-base-en-v1.5-7-epochs；emb-bge-base-en-v1.5-7-epochs；emb-bge-base-en-v1.5-9-epochs；emb-bge-base-en-v1.5-9-epochs；emb-bge-base-en-v1.5-10-epochs；emb-bge-base-en-v1.5-10-epochs；baseline；10；20；30；40；50",
+    "entities": [
+      "BGE embeddings",
+      "vector_hit_rate_@10",
+      "vector_hit_rate_@5",
+      "emb-bge-base-en-v1.5-1-epochs",
+      "emb-bge-base-en-v1.5-6-epochs",
+      "emb-bge-base-en-v1.5-8-epochs",
+      "emb-bge-base-en-V1.5-8-epochs",
+      "emb-bge-base-en-v1.5-2-epochs",
+      "emb-bge-base-en-v1.5-3-epochs",
+      "emb-bge-base-en-V1.5-3-epochs",
+      "emb-bge-base-en-v1.5-4-epochs",
+      "emb-bge-base-en-v1.5-5-epochs",
+      "baseline",
+      "emb-bge-base-en-v1.5-7-epochs",
+      "emb-bge-base-en-v1.5-9-epochs",
+      "emb-bge-base-en-v1.5-10-epochs",
+      "10",
+      "20",
+      "30",
+      "40",
+      "50",
+      "60",
+      "」",
+      "AlL-mini-LM embeddings",
+      "emb-all-MiniLM-3-epochs-10",
+      "emb-all-MiniLM-3-epochs-5",
+      "emb-all-MiniLM-5-epochs-10",
+      "emb-all-MiniLM-4-epochs-5",
+      "emb-all-MiniLM-4-epochs-10",
+      "emb-all-MiniLM-5-epochs-5",
+      "emb-all-MiniLM-2-epochs-10",
+      "baseline-5",
+      "emb-all-MiniLM-9-epochs-10",
+      "emb-all-MiniLM-9-epochs-5",
+      "emb-all-MiniLM-10-epochs-10",
+      "emb-all-MiniLM-10-epochs-5",
+      "emb-all-MiniLM-6-epochs-10",
+      "emb-all-MiniLM-2-epochs-5",
+      "baseline-10",
+      "emb-all-MiniLM-6-epochs-5",
+      "emb-all-MiniLM-1-epochs-10",
+      "emb-all-MiniLM-8-epochs-5",
+      "emb-all-MiniLM-7-epochs-10",
+      "emb-all-MiniLM-1-epochs-5",
+      "emb-all-MiniLM-8-epochs-10",
+      "emb-all-MiniLM-7-epochs-5"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "570426b619d258dc094f6d721805e1228e995cb2e7a9d8da47716cc93dd4791e"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-010",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293141fdf18ba1e5674e_Screenshot-2025-04-20-at-7.40.07-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-010.avif",
+    "section": "**What about augmentation and synthetic data generation?**",
+    "alt": "Synthetic Data Generation",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3226744176810325,
+          0.4632768366588489,
+          0.11191860536467929,
+          0.06797316422065092
+        ],
+        "confidence": 1,
+        "text": "Augmentation"
+      },
+      {
+        "boundingBox": [
+          0.3166666692361111,
+          0.38709677724849945,
+          0.1875,
+          0.09727822244167328
+        ],
+        "confidence": 1,
+        "text": "（Synthetic datagen）"
+      },
+      {
+        "boundingBox": [
+          0.7993894622441746,
+          0.37794986012686016,
+          0.13377921383118818,
+          0.10285734136899305
+        ],
+        "confidence": 1,
+        "text": "Dataset"
+      },
+      {
+        "boundingBox": [
+          0.16399015233099393,
+          0.3112286952586141,
+          0.14585690332162157,
+          0.12330532073974598
+        ],
+        "confidence": 1,
+        "text": "Dataset"
+      }
+    ],
+    "ocr_text": "Augmentation\n（Synthetic datagen）\nDataset\nDataset",
+    "description": "**What about augmentation and synthetic data generation?**中的配图，包含文字：Augmentation；（Synthetic datagen）；Dataset；Dataset",
+    "entities": [
+      "Augmentation",
+      "（Synthetic datagen）",
+      "Dataset"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "19b02f2ed5171728c88c295ee924e6c44be74b94b9df6ded188fe2675072c12f"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-011",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293141fdf18ba1e56751_image-5.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-011.avif",
+    "section": "Fine-tuned Embedder + Reranker?",
+    "alt": "Reranker Results",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.29496415905711815,
+          0.8565567411505444,
+          0.06850191558118335,
+          0.08318281455858223
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.4840116275222581,
+          0.8579881662592781,
+          0.0683139531192436,
+          0.08028343866562704
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.6627906968391124,
+          0.8518518508465378,
+          0.04505814064226932,
+          0.0864197544797638
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.8401162781942307,
+          0.8518518508024462,
+          0.04505814064226932,
+          0.08641975447976369
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.013057195008709612,
+          0.7710604571731056,
+          0.11487398398898016,
+          0.09368155834942882
+        ],
+        "confidence": 1,
+        "text": "Experiment"
+      },
+      {
+        "boundingBox": [
+          0.2965116303422895,
+          0.6975308638095008,
+          0.13372092703344424,
+          0.0864928036751832
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.4854651154978197,
+          0.6975308631922169,
+          0.125,
+          0.08649280649670488
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.6642441861860143,
+          0.6975308631922169,
+          0.13517441663596563,
+          0.08649280649670488
+        ],
+        "confidence": 1,
+        "text": "Reranked@10"
+      },
+      {
+        "boundingBox": [
+          0.8429404920389373,
+          0.6892981114574468,
+          0.12516552929077995,
+          0.09671241715109558
+        ],
+        "confidence": 1,
+        "text": "Reranked@5"
+      },
+      {
+        "boundingBox": [
+          0.013081396309974711,
+          0.5370370381719645,
+          0.25726743743092273,
+          0.07538899867492321
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.29651162757398564,
+          0.4556213019193428,
+          0.03779069792050427,
+          0.08284023668639051
+        ],
+        "confidence": 0.5,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.48546511710423795,
+          0.44970414327024166,
+          0.055232557278235006,
+          0.08875739644970415
+        ],
+        "confidence": 0.5,
+        "text": "62.35"
+      },
+      {
+        "boundingBox": [
+          0.6642441863064487,
+          0.44970414205331033,
+          0.04069767448012607,
+          0.08875739644970415
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.8413599392719793,
+          0.43617407886739124,
+          0.05419872670167025,
+          0.10296049061611556
+        ],
+        "confidence": 1,
+        "text": "51.30"
+      },
+      {
+        "boundingBox": [
+          0.01162790770915504,
+          0.3579881654950654,
+          0.15843022911293994,
+          0.09262911666779827
+        ],
+        "confidence": 1,
+        "text": "1-neg-1-epoch_5"
+      },
+      {
+        "boundingBox": [
+          0.013081399707503688,
+          0.20987654362463948,
+          0.25726743743092273,
+          0.07414712567301185
+        ],
+        "confidence": 1,
+        "text": "answerai-colbert-small-v1-"
+      },
+      {
+        "boundingBox": [
+          0.2916666682054456,
+          0.12280702168807767,
+          0.06666666525577541,
+          0.10526315136068676
+        ],
+        "confidence": 1,
+        "text": "70.00"
+      },
+      {
+        "boundingBox": [
+          0.4854651163922188,
+          0.12962963014727313,
+          0.03779069792050427,
+          0.07451238293619544
+        ],
+        "confidence": 1,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.6655546923410022,
+          0.11568122110972012,
+          0.05697201161377963,
+          0.09579805227426386
+        ],
+        "confidence": 0.5,
+        "text": "58.35"
+      },
+      {
+        "boundingBox": [
+          0.8430232558120349,
+          0.12962963005451866,
+          0.03779069792050427,
+          0.08042954269950908
+        ],
+        "confidence": 0.5,
+        "text": "N/A"
+      },
+      {
+        "boundingBox": [
+          0.011627912216498228,
+          0.03703703808163972,
+          0.15406976030537559,
+          0.08722331820155027
+        ],
+        "confidence": 0.5,
+        "text": "1-neg-1-epoch_1"
+      }
+    ],
+    "ocr_text": "Vector\nVector\nFTS\nFTS\nExperiment\nReranked@10\nReranked@5\nReranked@10\nReranked@5\nanswerai-colbert-small-v1-\nN/A\n62.35\nN/A\n51.30\n1-neg-1-epoch_5\nanswerai-colbert-small-v1-\n70.00\nN/A\n58.35\nN/A\n1-neg-1-epoch_1",
+    "description": "Fine-tuned Embedder + Reranker?中的配图，包含文字：Vector；Vector；FTS；FTS；Experiment；Reranked@10；Reranked@5；Reranked@10；Reranked@5；answerai-colbert-small-v1-；N/A；62.35；N/A；51.30；1-neg-1-epoch_5；answerai-colbert-small-v1-；70.00；N/A；58.35；N/A；1-neg-1-epoch_1",
+    "entities": [
+      "Vector",
+      "FTS",
+      "Experiment",
+      "Reranked@10",
+      "Reranked@5",
+      "answerai-colbert-small-v1-",
+      "N/A",
+      "62.35",
+      "51.30",
+      "1-neg-1-epoch_5",
+      "70.00",
+      "58.35",
+      "1-neg-1-epoch_1"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "18d161deaefc40c9df319f067fc613dd74dcaa936d3a6242266f1bba17b09852"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-012",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e56765_Screenshot-2025-04-16-at-7.25.46-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-012.avif",
+    "section": "Fine-tuned Embedder + Reranker?",
+    "alt": "Combined Results @5",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3866279060312876,
+          0.9403794039760467,
+          0.19912791285021558,
+          0.03523035221050819
+        ],
+        "confidence": 1,
+        "text": "Vector Reranked Hit"
+      },
+      {
+        "boundingBox": [
+          0.6409883745974324,
+          0.9344473006915676,
+          0.17441859804350757,
+          0.041162455296455125
+        ],
+        "confidence": 0.5,
+        "text": "FTS Reranked Hit"
+      },
+      {
+        "boundingBox": [
+          0.8357558119015045,
+          0.9344473007399609,
+          0.15116279338968208,
+          0.041162455296455125
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid Hit Rate"
+      },
+      {
+        "boundingBox": [
+          0.015988375137125966,
+          0.9023136243149736,
+          0.1729651089372306,
+          0.041131106624260005
+        ],
+        "confidence": 0.5,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.49992570825715815,
+          0.8666671843178269,
+          0.08445090984476028,
+          0.04173338137432969
+        ],
+        "confidence": 0.5,
+        "text": "Rate @5"
+      },
+      {
+        "boundingBox": [
+          0.7296063810434663,
+          0.8668839307075639,
+          0.08439188990099677,
+          0.04129989104283194
+        ],
+        "confidence": 0.5,
+        "text": "Rate @5"
+      },
+      {
+        "boundingBox": [
+          0.9563953490813172,
+          0.8726287266273566,
+          0.03052325544686152,
+          0.03523035221050819
+        ],
+        "confidence": 1,
+        "text": "@5"
+      },
+      {
+        "boundingBox": [
+          0.014534888172348034,
+          0.7913279138692161,
+          0.24854650037042025,
+          0.0406504045108903
+        ],
+        "confidence": 1,
+        "text": "-gooaq-9-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.530388959679998,
+          0.7555130272018507,
+          0.05404766214304957,
+          0.044529500534724376
+        ],
+        "confidence": 1,
+        "text": "61.95"
+      },
+      {
+        "boundingBox": [
+          0.7571198646008659,
+          0.7580822520435084,
+          0.056981201171874996,
+          0.04210108043602001
+        ],
+        "confidence": 0.5,
+        "text": "50.50"
+      },
+      {
+        "boundingBox": [
+          0.9387579847050165,
+          0.7580466937731325,
+          0.048356123299434284,
+          0.044882225193523695
+        ],
+        "confidence": 1,
+        "text": "61.15"
+      },
+      {
+        "boundingBox": [
+          0.015988372540173417,
+          0.7313624678828092,
+          0.14825581517712824,
+          0.033419023136246784
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-b"
+      },
+      {
+        "boundingBox": [
+          0.013081398473837135,
+          0.6476964781984844,
+          0.25,
+          0.04124953752924654
+        ],
+        "confidence": 1,
+        "text": "-gooaq-6-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.52606572021767,
+          0.6147318968223812,
+          0.05688018798828132,
+          0.04424894377014632
+        ],
+        "confidence": 1,
+        "text": "62.30"
+      },
+      {
+        "boundingBox": [
+          0.757170376446149,
+          0.617376866802213,
+          0.05688017746497853,
+          0.03895900304642308
+        ],
+        "confidence": 1,
+        "text": "50.50"
+      },
+      {
+        "boundingBox": [
+          0.9314544098159137,
+          0.6140880150421544,
+          0.05424234324488142,
+          0.0428266794945098
+        ],
+        "confidence": 1,
+        "text": "61.40"
+      },
+      {
+        "boundingBox": [
+          0.015988370930780753,
+          0.5880758806528761,
+          0.14680232607085128,
+          0.03531743566910217
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-b"
+      },
+      {
+        "boundingBox": [
+          0.014200792120340856,
+          0.5038380022158754,
+          0.2636839347050108,
+          0.05170697111703437
+        ],
+        "confidence": 1,
+        "text": "-goodq-9-epochs-reranker-"
+      },
+      {
+        "boundingBox": [
+          0.5276162805692816,
+          0.4688346891943562,
+          0.056686043574892264,
+          0.04916017037124443
+        ],
+        "confidence": 1,
+        "text": "57.45"
+      },
+      {
+        "boundingBox": [
+          0.758696423368876,
+          0.47413888648575153,
+          0.055281572013065716,
+          0.04088211795051799
+        ],
+        "confidence": 1,
+        "text": "53.95"
+      },
+      {
+        "boundingBox": [
+          0.9329971782317664,
+          0.4736517340976788,
+          0.0526102947366649,
+          0.04456645357578137
+        ],
+        "confidence": 0.3,
+        "text": "58.10"
+      },
+      {
+        "boundingBox": [
+          0.015988375201525306,
+          0.44715447243231954,
+          0.13808139143318968,
+          0.032520323608712265
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-"
+      },
+      {
+        "boundingBox": [
+          0.014186179795908667,
+          0.3597057891868827,
+          0.2637245125606142,
+          0.053812536911363784
+        ],
+        "confidence": 0.5,
+        "text": "-goodq-6-epochs-reranker-"
+      },
+      {
+        "boundingBox": [
+          0.5276162808924231,
+          0.3303341913308874,
+          0.056686043574892264,
+          0.04370179948586117
+        ],
+        "confidence": 1,
+        "text": "57.35"
+      },
+      {
+        "boundingBox": [
+          0.7585920902093701,
+          0.332701352351118,
+          0.05694372769059808,
+          0.041914368656423284
+        ],
+        "confidence": 1,
+        "text": "53.95"
+      },
+      {
+        "boundingBox": [
+          0.931686045529385,
+          0.33033419073982295,
+          0.05523255973026675,
+          0.04635957703185878
+        ],
+        "confidence": 1,
+        "text": "57.95"
+      },
+      {
+        "boundingBox": [
+          0.0159883753772413,
+          0.30334190197443645,
+          0.13662790232691274,
+          0.032701457987101334
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-"
+      },
+      {
+        "boundingBox": [
+          0.014534892456504913,
+          0.22493224953837732,
+          0.24854650037042025,
+          0.03523035221050819
+        ],
+        "confidence": 1,
+        "text": "-gooaq-9-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5231959703175738,
+          0.19207508137704754,
+          0.06116619767813847,
+          0.038614064684870275
+        ],
+        "confidence": 1,
+        "text": "64.50"
+      },
+      {
+        "boundingBox": [
+          0.7601411172296653,
+          0.1868481249416244,
+          0.0538456726074219,
+          0.043647923015996515
+        ],
+        "confidence": 1,
+        "text": "51.30"
+      },
+      {
+        "boundingBox": [
+          0.9286713254730061,
+          0.19183104350350344,
+          0.05835502361429157,
+          0.03910214000005652
+        ],
+        "confidence": 1,
+        "text": "63.85"
+      },
+      {
+        "boundingBox": [
+          0.01598837233258818,
+          0.16260162616427398,
+          0.1206395326811692,
+          0.03020042993109151
+        ],
+        "confidence": 1,
+        "text": "answerai-col"
+      },
+      {
+        "boundingBox": [
+          0.01453489183513868,
+          0.08097686352050193,
+          0.24854650037042025,
+          0.03856041131105403
+        ],
+        "confidence": 1,
+        "text": "-goodq-6-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5305232559234702,
+          0.04878048848902705,
+          0.05377907062398979,
+          0.0379403783606993
+        ],
+        "confidence": 0.5,
+        "text": "64.10"
+      },
+      {
+        "boundingBox": [
+          0.7601744182217987,
+          0.04336043357915831,
+          0.05377907062398979,
+          0.043360433112686225
+        ],
+        "confidence": 1,
+        "text": "51.30"
+      },
+      {
+        "boundingBox": [
+          0.9301766761757078,
+          0.048488749948536025,
+          0.056797811573949364,
+          0.038523855429995035
+        ],
+        "confidence": 0.5,
+        "text": "63.70"
+      },
+      {
+        "boundingBox": [
+          0.015988373528601448,
+          0.018970190824370348,
+          0.12063953268116917,
+          0.032520323608712154
+        ],
+        "confidence": 1,
+        "text": "answerai-col"
+      }
+    ],
+    "ocr_text": "Vector Reranked Hit\nFTS Reranked Hit\nHybrid Hit Rate\nExperiment Name\nRate @5\nRate @5\n@5\n-gooaq-9-epochs-colbert-\n61.95\n50.50\n61.15\nModernBERT-b\n-gooaq-6-epochs-colbert-\n62.30\n50.50\n61.40\nModernBERT-b\n-goodq-9-epochs-reranker-\n57.45\n53.95\n58.10\nModernBERT-\n-goodq-6-epochs-reranker-\n57.35\n53.95\n57.95\nModernBERT-\n-gooaq-9-epochs-colbert-\n64.50\n51.30\n63.85\nanswerai-col\n-goodq-6-epochs-colbert-\n64.10\n51.30\n63.70\nanswerai-col",
+    "description": "Fine-tuned Embedder + Reranker?中的配图，包含文字：Vector Reranked Hit；FTS Reranked Hit；Hybrid Hit Rate；Experiment Name；Rate @5；Rate @5；@5；-gooaq-9-epochs-colbert-；61.95；50.50；61.15；ModernBERT-b；-gooaq-6-epochs-colbert-；62.30；50.50；61.40；ModernBERT-b；-goodq-9-epochs-reranker-；57.45；53.95；58.10；ModernBERT-；-goodq-6-epochs-reranker-；57.35；53.95；57.95；ModernBERT-；-gooaq-9-epochs-colbert-；64.50；51.30",
+    "entities": [
+      "Vector Reranked Hit",
+      "FTS Reranked Hit",
+      "Hybrid Hit Rate",
+      "Experiment Name",
+      "Rate @5",
+      "@5",
+      "-gooaq-9-epochs-colbert-",
+      "61.95",
+      "50.50",
+      "61.15",
+      "ModernBERT-b",
+      "-gooaq-6-epochs-colbert-",
+      "62.30",
+      "61.40",
+      "-goodq-9-epochs-reranker-",
+      "57.45",
+      "53.95",
+      "58.10",
+      "ModernBERT-",
+      "-goodq-6-epochs-reranker-",
+      "57.35",
+      "57.95",
+      "64.50",
+      "51.30",
+      "63.85",
+      "answerai-col",
+      "-goodq-6-epochs-colbert-",
+      "64.10",
+      "63.70"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "cd2cbda568c34c439a84cf9afa97ecd456937bddd3ff5c3ad6214fcd1e74e12d"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-013",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293241fdf18ba1e56756_Screenshot-2025-04-16-at-7.26.06-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-013.avif",
+    "section": "Fine-tuned Embedder + Reranker?",
+    "alt": "Combined Results @10",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.38081395772600074,
+          0.9453124995051038,
+          0.1991278956568026,
+          0.035613930473724964
+        ],
+        "confidence": 1,
+        "text": "Vector Reranked Hit"
+      },
+      {
+        "boundingBox": [
+          0.639534884608031,
+          0.9427083335770083,
+          0.1758720937615128,
+          0.038218097140391594
+        ],
+        "confidence": 0.5,
+        "text": "FTS Reranked Hit"
+      },
+      {
+        "boundingBox": [
+          0.8386627889943584,
+          0.9400544966532934,
+          0.15261628128453864,
+          0.04359672963619232
+        ],
+        "confidence": 0.5,
+        "text": "Hybrid Hit Rate"
+      },
+      {
+        "boundingBox": [
+          0.013081394349075732,
+          0.9073569488827171,
+          0.17441860415899138,
+          0.04087193310260773
+        ],
+        "confidence": 1,
+        "text": "Experiment Name"
+      },
+      {
+        "boundingBox": [
+          0.4853973330201731,
+          0.8740604497328113,
+          0.09461231205235249,
+          0.039345040917396545
+        ],
+        "confidence": 0.5,
+        "text": "Rate @10"
+      },
+      {
+        "boundingBox": [
+          0.7194767470487312,
+          0.8746594006523505,
+          0.09447673951041846,
+          0.03814713905254996
+        ],
+        "confidence": 0.5,
+        "text": "Rate @10"
+      },
+      {
+        "boundingBox": [
+          0.947674418980307,
+          0.874659400384196,
+          0.042151161437226414,
+          0.03814713905254996
+        ],
+        "confidence": 1,
+        "text": "@10"
+      },
+      {
+        "boundingBox": [
+          0.010174420137110644,
+          0.7955729164255368,
+          0.2514534790208369,
+          0.0382145494222641
+        ],
+        "confidence": 1,
+        "text": "-gooaq-9-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5218023250819086,
+          0.7656249996657342,
+          0.05668604688075651,
+          0.03818971415360772
+        ],
+        "confidence": 1,
+        "text": "68.85"
+      },
+      {
+        "boundingBox": [
+          0.7558139527508859,
+          0.7629427797507592,
+          0.058139536483277854,
+          0.04087193310260773
+        ],
+        "confidence": 1,
+        "text": "56.85"
+      },
+      {
+        "boundingBox": [
+          0.9389534881171672,
+          0.7629427797507592,
+          0.050872093761512804,
+          0.04087193310260773
+        ],
+        "confidence": 0.3,
+        "text": "68.15"
+      },
+      {
+        "boundingBox": [
+          0.013081396813838441,
+          0.735677083753711,
+          0.14825581247697425,
+          0.03544008235136664
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-b"
+      },
+      {
+        "boundingBox": [
+          0.010174426423447751,
+          0.6536458338688322,
+          0.2514534790208369,
+          0.0390625
+        ],
+        "confidence": 1,
+        "text": "-gooaq-6-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5218023248300665,
+          0.6130790180761121,
+          0.058139536483277854,
+          0.049681397775809044
+        ],
+        "confidence": 1,
+        "text": "69.05"
+      },
+      {
+        "boundingBox": [
+          0.757267441739491,
+          0.6184895834669921,
+          0.0566860468807564,
+          0.040910960485537995
+        ],
+        "confidence": 1,
+        "text": "56.85"
+      },
+      {
+        "boundingBox": [
+          0.9300694612827064,
+          0.6150079064719947,
+          0.05991921709248493,
+          0.0451885461807251
+        ],
+        "confidence": 1,
+        "text": "68.00"
+      },
+      {
+        "boundingBox": [
+          0.013081394604536157,
+          0.5911458334779283,
+          0.14825581247697422,
+          0.035557163258393754
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-b"
+      },
+      {
+        "boundingBox": [
+          0.010174414468253366,
+          0.5091145837792439,
+          0.2659883750460515,
+          0.0390625
+        ],
+        "confidence": 1,
+        "text": "-gooaq-9-epochs-reranker-"
+      },
+      {
+        "boundingBox": [
+          0.5261627894754881,
+          0.4739583345493654,
+          0.052325583364034256,
+          0.04427083333333326
+        ],
+        "confidence": 0.5,
+        "text": "62.10"
+      },
+      {
+        "boundingBox": [
+          0.7542415997132017,
+          0.4735368997915558,
+          0.059830754209986625,
+          0.044751813014348385
+        ],
+        "confidence": 1,
+        "text": "60.70"
+      },
+      {
+        "boundingBox": [
+          0.9300997244139827,
+          0.473468155882672,
+          0.05985868985709142,
+          0.04488930354515708
+        ],
+        "confidence": 1,
+        "text": "62.40"
+      },
+      {
+        "boundingBox": [
+          0.013081393952073262,
+          0.44661458361086515,
+          0.1380813958410086,
+          0.03567424416542053
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-"
+      },
+      {
+        "boundingBox": [
+          0.010174413803282475,
+          0.3645833339076393,
+          0.26598837504605144,
+          0.0390625
+        ],
+        "confidence": 1,
+        "text": "-gooaq-6-epochs-reranker-"
+      },
+      {
+        "boundingBox": [
+          0.5188687922591343,
+          0.32957237848613496,
+          0.05964613556035192,
+          0.04385251800219214
+        ],
+        "confidence": 1,
+        "text": "62.00"
+      },
+      {
+        "boundingBox": [
+          0.7528756472011543,
+          0.3322600346469292,
+          0.06110916984230075,
+          0.04120200127363205
+        ],
+        "confidence": 1,
+        "text": "60.70"
+      },
+      {
+        "boundingBox": [
+          0.9300785447615231,
+          0.3289774645757575,
+          0.061354537942703846,
+          0.047767144938310024
+        ],
+        "confidence": 1,
+        "text": "62.45"
+      },
+      {
+        "boundingBox": [
+          0.014534886057017127,
+          0.30208333323931214,
+          0.13517441663596566,
+          0.0330665297806263
+        ],
+        "confidence": 1,
+        "text": "ModernBERT-"
+      },
+      {
+        "boundingBox": [
+          0.011627909476744157,
+          0.22070844698598657,
+          0.24999999999999997,
+          0.03840613613526023
+        ],
+        "confidence": 1,
+        "text": "-gooaq-9-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5231778660299926,
+          0.18762789525678703,
+          0.05684194154779065,
+          0.04163794219493866
+        ],
+        "confidence": 1,
+        "text": "71.85"
+      },
+      {
+        "boundingBox": [
+          0.7572674423741715,
+          0.18750000091260188,
+          0.05523255727823495,
+          0.04166666542490316
+        ],
+        "confidence": 1,
+        "text": "58.35"
+      },
+      {
+        "boundingBox": [
+          0.9344658609816603,
+          0.1847137077148181,
+          0.05548688277457525,
+          0.044741521279017094
+        ],
+        "confidence": 0.5,
+        "text": "71.30"
+      },
+      {
+        "boundingBox": [
+          0.013081397648694966,
+          0.16015624946809204,
+          0.12063953119243563,
+          0.03385416666666663
+        ],
+        "confidence": 1,
+        "text": "answerai-col"
+      },
+      {
+        "boundingBox": [
+          0.010174426423447751,
+          0.079019073661736,
+          0.2514534790208369,
+          0.03816842660307884
+        ],
+        "confidence": 1,
+        "text": "-gooaq-6-epochs-colbert-"
+      },
+      {
+        "boundingBox": [
+          0.5260816387976903,
+          0.04052744205074765,
+          0.05248788524103887,
+          0.044285714626312256
+        ],
+        "confidence": 1,
+        "text": "71.55"
+      },
+      {
+        "boundingBox": [
+          0.7571584768446351,
+          0.04574483824862696,
+          0.056903976673226775,
+          0.0393005137642225
+        ],
+        "confidence": 1,
+        "text": "58.35"
+      },
+      {
+        "boundingBox": [
+          0.9358530131302294,
+          0.040071404684372425,
+          0.05416606633243215,
+          0.047922586401303646
+        ],
+        "confidence": 1,
+        "text": "71.05"
+      },
+      {
+        "boundingBox": [
+          0.013081397648694966,
+          0.016348775099952584,
+          0.12063953119243563,
+          0.03313039119044947
+        ],
+        "confidence": 1,
+        "text": "answerai-col"
+      }
+    ],
+    "ocr_text": "Vector Reranked Hit\nFTS Reranked Hit\nHybrid Hit Rate\nExperiment Name\nRate @10\nRate @10\n@10\n-gooaq-9-epochs-colbert-\n68.85\n56.85\n68.15\nModernBERT-b\n-gooaq-6-epochs-colbert-\n69.05\n56.85\n68.00\nModernBERT-b\n-gooaq-9-epochs-reranker-\n62.10\n60.70\n62.40\nModernBERT-\n-gooaq-6-epochs-reranker-\n62.00\n60.70\n62.45\nModernBERT-\n-gooaq-9-epochs-colbert-\n71.85\n58.35\n71.30\nanswerai-col\n-gooaq-6-epochs-colbert-\n71.55\n58.35\n71.05\nanswerai-col",
+    "description": "Fine-tuned Embedder + Reranker?中的配图，包含文字：Vector Reranked Hit；FTS Reranked Hit；Hybrid Hit Rate；Experiment Name；Rate @10；Rate @10；@10；-gooaq-9-epochs-colbert-；68.85；56.85；68.15；ModernBERT-b；-gooaq-6-epochs-colbert-；69.05；56.85；68.00；ModernBERT-b；-gooaq-9-epochs-reranker-；62.10；60.70；62.40；ModernBERT-；-gooaq-6-epochs-reranker-；62.00；60.70；62.45；ModernBERT-；-gooaq-9-epochs-colbert-；71.85；58.35",
+    "entities": [
+      "Vector Reranked Hit",
+      "FTS Reranked Hit",
+      "Hybrid Hit Rate",
+      "Experiment Name",
+      "Rate @10",
+      "@10",
+      "-gooaq-9-epochs-colbert-",
+      "68.85",
+      "56.85",
+      "68.15",
+      "ModernBERT-b",
+      "-gooaq-6-epochs-colbert-",
+      "69.05",
+      "68.00",
+      "-gooaq-9-epochs-reranker-",
+      "62.10",
+      "60.70",
+      "62.40",
+      "ModernBERT-",
+      "-gooaq-6-epochs-reranker-",
+      "62.00",
+      "62.45",
+      "71.85",
+      "58.35",
+      "71.30",
+      "answerai-col",
+      "71.55",
+      "71.05"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bdee9212b409544c4121f6ac189133fa5d12eecafa9483044512274d98129a6"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-014",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c0293141fdf18ba1e5674b_Screenshot-2025-04-23-at-2.27.51-PM.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-014.avif",
+    "section": "Fine-tuned Embedder + Reranker?",
+    "alt": "Best Combined Results",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.008524115356929256,
+          0.7793617998828036,
+          0.1355680502888884,
+          0.1634986230305263
+        ],
+        "confidence": 1,
+        "text": "Configuration"
+      },
+      {
+        "boundingBox": [
+          0.4156976697780508,
+          0.7946428591608986,
+          0.18895349529128214,
+          0.13128306610243656
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @5"
+      },
+      {
+        "boundingBox": [
+          0.7063953550294246,
+          0.7946428558062018,
+          0.19912789857487168,
+          0.13128307035991116
+        ],
+        "confidence": 0.5,
+        "text": "Vector Hit Rate @10"
+      },
+      {
+        "boundingBox": [
+          -6.03665428314986e-05,
+          0.5509330408186068,
+          0.09178739669927315,
+          0.13497602088110794
+        ],
+        "confidence": 1,
+        "text": "Baseline"
+      },
+      {
+        "boundingBox": [
+          0.41569767507635513,
+          0.5357142855217791,
+          0.05668604539961536,
+          0.1309523795332228
+        ],
+        "confidence": 1,
+        "text": "48.75"
+      },
+      {
+        "boundingBox": [
+          0.7063953494749744,
+          0.5446428581250691,
+          0.056686045399615415,
+          0.1220238081046513
+        ],
+        "confidence": 1,
+        "text": "60.25"
+      },
+      {
+        "boundingBox": [
+          0.4155315470995798,
+          0.2840272744663245,
+          0.057018301281092254,
+          0.13564915316445492
+        ],
+        "confidence": 1,
+        "text": "62.30"
+      },
+      {
+        "boundingBox": [
+          0.01017441725066357,
+          0.2767857132021041,
+          0.21511628302358987,
+          0.13062169296400894
+        ],
+        "confidence": 0.5,
+        "text": "Best Embedding Tuned"
+      },
+      {
+        "boundingBox": [
+          0.7063953494368203,
+          0.27678571336987823,
+          0.056686045399615415,
+          0.1398809509617942
+        ],
+        "confidence": 1,
+        "text": "69.05"
+      },
+      {
+        "boundingBox": [
+          0.4156442924018655,
+          0.026799652176842437,
+          0.05824629908484669,
+          0.13158588324274334
+        ],
+        "confidence": 1,
+        "text": "64.50"
+      },
+      {
+        "boundingBox": [
+          0.7063136918216447,
+          0.03558105191892602,
+          0.05248889551189284,
+          0.12328233889171059
+        ],
+        "confidence": 1,
+        "text": "71.85"
+      },
+      {
+        "boundingBox": [
+          0.010174425552722183,
+          0.01785714174662656,
+          0.2703488278189741,
+          0.13029100639479507
+        ],
+        "confidence": 0.5,
+        "text": "Best Embedding + Reranking"
+      }
+    ],
+    "ocr_text": "Configuration\nVector Hit Rate @5\nVector Hit Rate @10\nBaseline\n48.75\n60.25\n62.30\nBest Embedding Tuned\n69.05\n64.50\n71.85\nBest Embedding + Reranking",
+    "description": "Fine-tuned Embedder + Reranker?中的配图，包含文字：Configuration；Vector Hit Rate @5；Vector Hit Rate @10；Baseline；48.75；60.25；62.30；Best Embedding Tuned；69.05；64.50；71.85；Best Embedding + Reranking",
+    "entities": [
+      "Configuration",
+      "Vector Hit Rate @5",
+      "Vector Hit Rate @10",
+      "Baseline",
+      "48.75",
+      "60.25",
+      "62.30",
+      "Best Embedding Tuned",
+      "69.05",
+      "64.50",
+      "71.85",
+      "Best Embedding + Reranking"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "68a15f3dd51b3a97f2f3bd6bd85f227b6fd5ab925d40b77431fcbc1b3346bd37"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-015",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 15,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-015.avif",
+    "section": "Reproducibility",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Reproducibility中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-016",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 16,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-016.png",
+    "section": "Reproducibility",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Reproducibility中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-017",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 17,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-017.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10-fig-018",
+    "doc_id": "1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10",
+    "seq": 18,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1422-https-www-lancedb-com-blog-a-practical-guide-to-dd6bbc10/figure-018.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

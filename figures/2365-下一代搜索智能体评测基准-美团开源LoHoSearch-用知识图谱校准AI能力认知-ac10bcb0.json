@@ -1,0 +1,4300 @@
+[
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-001",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 1,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=077f02cb&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_jpg%2FV95GN2mm0DzD5ia2Su3hicCBRNACBBOWGvMU1HyVS49FOSdaTlhP7ibKHY3JntP3s0j0tx4FVk6NSfQpOh8lu6Hz5iaXrWx2hcHaePWpRT8mYpw%2F0%3Fwx_fmt%3Djpeg",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-001.jpg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.13669862681949044,
+          0.41733783271069225,
+          0.7467640292259954,
+          0.15322755229088558
+        ],
+        "confidence": 0.3,
+        "text": "2 LongCat"
+      }
+    ],
+    "ocr_text": "2 LongCat",
+    "description": "文章中的配图，包含文字：2 LongCat",
+    "entities": [
+      "2 LongCat"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "28283f0ba053d7a2fe9c0e2b9714a2ff340cf94c4602abf324c9666c6df0e9c2"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-002",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 2,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=15525f1f&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FJhVy5CXYiaohGWZlYglDXlVt8zdPrTwcvibdxHAYo8pm5dYDrcsjOBZJXRQicnbsGibFfSQKuuiasKsHz0VVstI7KRywCS6HHxn6JibtUh46t5Hj4%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D0",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-002.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02777777766460906,
+          0.9615384616355866,
+          0.020370370370370372,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "100-"
+      },
+      {
+        "boundingBox": [
+          0.06296296287037036,
+          0.87062937064498,
+          0.1037037037037037,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "SOTA: GPT.5.5 Pro （90.1%）"
+      },
+      {
+        "boundingBox": [
+          0.03148148138888889,
+          0.8531468532342658,
+          0.022222222222222227,
+          0.01748251748251739
+        ],
+        "confidence": 0.3,
+        "text": "90-"
+      },
+      {
+        "boundingBox": [
+          0.8925925924957911,
+          0.8181818182215512,
+          0.042592592592592626,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "GPT-55Pro"
+      },
+      {
+        "boundingBox": [
+          0.8518206772056401,
+          0.7794575474888255,
+          0.04080308984827108,
+          0.01800798202728049
+        ],
+        "confidence": 0.3,
+        "text": "Kmi-K26|"
+      },
+      {
+        "boundingBox": [
+          0.03148148137345679,
+          0.7447552449009325,
+          0.01666666666666667,
+          0.01748251748251739
+        ],
+        "confidence": 0.3,
+        "text": "80-"
+      },
+      {
+        "boundingBox": [
+          0.7296296295396826,
+          0.7307692307942057,
+          0.07037037037037042,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "Qwen3.5.3978.A178"
+      },
+      {
+        "boundingBox": [
+          0.9111111110925926,
+          0.7377622378496503,
+          0.033333333333333326,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "Opus-4.7"
+      },
+      {
+        "boundingBox": [
+          0.8499999999074074,
+          0.7027972028438229,
+          0.02777777777777768,
+          0.013986013986013957
+        ],
+        "confidence": 0.5,
+        "text": "GLM-5.1|"
+      },
+      {
+        "boundingBox": [
+          0.48514094163935323,
+          0.684922001630978,
+          0.04268107944064664,
+          0.018267884954705993
+        ],
+        "confidence": 0.3,
+        "text": "GPT-52Po"
+      },
+      {
+        "boundingBox": [
+          0.6722222221296297,
+          0.6678321678645429,
+          0.04999999999999993,
+          0.01748251748251739
+        ],
+        "confidence": 0.3,
+        "text": "MniMax-M2.5"
+      },
+      {
+        "boundingBox": [
+          0.43888888842592594,
+          0.6538461541958042,
+          0.031481481481481444,
+          0.020979020979020935
+        ],
+        "confidence": 0.3,
+        "text": "Opus-4.5"
+      },
+      {
+        "boundingBox": [
+          0.005555550195636515,
+          0.40559440775058275,
+          0.014814825411196107,
+          0.25874125874125864
+        ],
+        "confidence": 1,
+        "text": "BrowseComp Accuracy （%）"
+      },
+      {
+        "boundingBox": [
+          0.6333333332407407,
+          0.6538461538850039,
+          0.033333333333333326,
+          0.013986013986014068
+        ],
+        "confidence": 0.3,
+        "text": "Km：-K25"
+      },
+      {
+        "boundingBox": [
+          0.03148148138888889,
+          0.632867132983683,
+          0.020370370370370372,
+          0.020979020979020935
+        ],
+        "confidence": 0.3,
+        "text": "70-"
+      },
+      {
+        "boundingBox": [
+          0.4415333628311912,
+          0.5953171357810927,
+          0.04839314001577871,
+          0.046474923620690944
+        ],
+        "confidence": 0.3,
+        "text": "米"
+      },
+      {
+        "boundingBox": [
+          0.4500000004629629,
+          0.5734265736451049,
+          0.052083333333333315,
+          0.0174825174825175
+        ],
+        "confidence": 0.5,
+        "text": "DoepSeek-V3.2|"
+      },
+      {
+        "boundingBox": [
+          0.3851851850347222,
+          0.513986014291958,
+          0.03518518518518521,
+          0.04895104895104896
+        ],
+        "confidence": 0.3,
+        "text": "H."
+      },
+      {
+        "boundingBox": [
+          0.033333333222222226,
+          0.5244755246853147,
+          0.011111111111111113,
+          0.020979020979020935
+        ],
+        "confidence": 0.5,
+        "text": "60"
+      },
+      {
+        "boundingBox": [
+          0.38208367527737447,
+          0.4702070591662423,
+          0.0764375545360424,
+          0.04738659458560546
+        ],
+        "confidence": 0.3,
+        "text": "KntiK2 carind3Pro"
+      },
+      {
+        "boundingBox": [
+          0.10925925922839508,
+          0.43706293735431234,
+          0.02407407407407408,
+          0.0174825174825175
+        ],
+        "confidence": 0.5,
+        "text": "GPT.5"
+      },
+      {
+        "boundingBox": [
+          0.031481481412037035,
+          0.4160839163461538,
+          0.01296296296296296,
+          0.020979020979021046
+        ],
+        "confidence": 0.5,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.03148148139917696,
+          0.3076923077894328,
+          0.018518518518518517,
+          0.0174825174825175
+        ],
+        "confidence": 0.5,
+        "text": "40-"
+      },
+      {
+        "boundingBox": [
+          0.03148148136243386,
+          0.19930069942557438,
+          0.01666666666666667,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "30-"
+      },
+      {
+        "boundingBox": [
+          0.13703703694787378,
+          0.16433566436803926,
+          0.05208333333333334,
+          0.0174825174825175
+        ],
+        "confidence": 0.3,
+        "text": "DoepSeok-V3.1|"
+      },
+      {
+        "boundingBox": [
+          0.029629629550264554,
+          0.08741258756243764,
+          0.014814814814814815,
+          0.020979020979020935
+        ],
+        "confidence": 1,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.06259259339207911,
+          0.03356643341068111,
+          0.043703700878002016,
+          0.06433566300185412
+        ],
+        "confidence": 0.3,
+        "text": "2025.08"
+      },
+      {
+        "boundingBox": [
+          0.156947395552974,
+          0.03166896808371811,
+          0.04479830000135632,
+          0.06799251716453703
+        ],
+        "confidence": 0.3,
+        "text": "2025：.09"
+      },
+      {
+        "boundingBox": [
+          0.24936143003655598,
+          0.034000482101754104,
+          0.044763731073450164,
+          0.060646250531390056
+        ],
+        "confidence": 0.5,
+        "text": "2025-10"
+      },
+      {
+        "boundingBox": [
+          0.34444444481151726,
+          0.033566436290839885,
+          0.04407407266122321,
+          0.06363635963493297
+        ],
+        "confidence": 0.5,
+        "text": "2025-11"
+      },
+      {
+        "boundingBox": [
+          0.43536749119395207,
+          0.03130548179362658,
+          0.04458837155942558,
+          0.06761114747374208
+        ],
+        "confidence": 0.5,
+        "text": "2025-12"
+      },
+      {
+        "boundingBox": [
+          0.5306267813084307,
+          0.02850995246674215,
+          0.04515669434158898,
+          0.07342657342657344
+        ],
+        "confidence": 0.3,
+        "text": "2026.01"
+      },
+      {
+        "boundingBox": [
+          0.6259259262929986,
+          0.033566436290839885,
+          0.04407407266122332,
+          0.06363635963493297
+        ],
+        "confidence": 0.5,
+        "text": "2026-02"
+      },
+      {
+        "boundingBox": [
+          0.7114814825870173,
+          0.03356643313831886,
+          0.04444444091231725,
+          0.06293706293706292
+        ],
+        "confidence": 0.5,
+        "text": "2026.03"
+      },
+      {
+        "boundingBox": [
+          0.8055555523579991,
+          0.031160011639660534,
+          0.04547930823432078,
+          0.06962156629228933
+        ],
+        "confidence": 0.3,
+        "text": "2026：-04"
+      },
+      {
+        "boundingBox": [
+          0.8978104534943026,
+          0.030296172619634132,
+          0.04425926561708804,
+          0.06933361000114391
+        ],
+        "confidence": 0.3,
+        "text": "2026-05"
+      },
+      {
+        "boundingBox": [
+          0.48148148138631686,
+          0.0069930070221445595,
+          0.06851851851851853,
+          0.020979020979021046
+        ],
+        "confidence": 1,
+        "text": "Release Date"
+      }
+    ],
+    "ocr_text": "100-\nSOTA: GPT.5.5 Pro （90.1%）\n90-\nGPT-55Pro\nKmi-K26|\n80-\nQwen3.5.3978.A178\nOpus-4.7\nGLM-5.1|\nGPT-52Po\nMniMax-M2.5\nOpus-4.5\nBrowseComp Accuracy （%）\nKm：-K25\n70-\n米\nDoepSeek-V3.2|\nH.\n60\nKntiK2 carind3Pro\nGPT.5\n50\n40-\n30-\nDoepSeok-V3.1|\n20\n2025.08\n2025：.09\n2025-10\n2025-11\n2025-12\n2026.01\n2026-02\n2026.03\n2026：-04\n2026-05\nRelease Date",
+    "description": "文章中的配图，包含文字：100-；SOTA: GPT.5.5 Pro （90.1%）；90-；GPT-55Pro；Kmi-K26|；80-；Qwen3.5.3978.A178；Opus-4.7；GLM-5.1|；GPT-52Po；MniMax-M2.5；Opus-4.5；BrowseComp Accuracy （%）；Km：-K25；70-；米；DoepSeek-V3.2|；H.；60；KntiK2 carind3Pro；GPT.5；50；40-；30-；DoepSeok-V3.1|；20；2025.08；2025：.09；2025-10；2025-11",
+    "entities": [
+      "100-",
+      "SOTA: GPT.5.5 Pro （90.1%）",
+      "90-",
+      "GPT-55Pro",
+      "Kmi-K26|",
+      "80-",
+      "Qwen3.5.3978.A178",
+      "Opus-4.7",
+      "GLM-5.1|",
+      "GPT-52Po",
+      "MniMax-M2.5",
+      "Opus-4.5",
+      "BrowseComp Accuracy （%）",
+      "Km：-K25",
+      "70-",
+      "米",
+      "DoepSeek-V3.2|",
+      "H.",
+      "60",
+      "KntiK2 carind3Pro",
+      "GPT.5",
+      "50",
+      "40-",
+      "30-",
+      "DoepSeok-V3.1|",
+      "20",
+      "2025.08",
+      "2025：.09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026.01",
+      "2026-02",
+      "2026.03",
+      "2026：-04",
+      "2026-05",
+      "Release Date"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1d879594c2755709145a2e65e6882ee59aef95987588895eb91ff2d3bde9da63"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-003",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 3,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=48ee0cf0&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaogXibVwjVxGzZZiaiajLk7cgtqNgy5QT6TsicIp7e8rb3zEKoGwsXBPwCgoqkJScoCFpRLt0UpSzcicZlUQTVfOyGoPpibTK1CpibWwZU%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D3",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-003.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6777777808641974,
+          0.95357142875,
+          0.18518518518518523,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "（c） QA Generation & Verification"
+      },
+      {
+        "boundingBox": [
+          0.04814815067129625,
+          0.9428571430803572,
+          0.20185185185185184,
+          0.02499999999999991
+        ],
+        "confidence": 0.5,
+        "text": "（a） Knowledge Graph Construction"
+      },
+      {
+        "boundingBox": [
+          0.35925926094907407,
+          0.9428571429910714,
+          0.13518518518518524,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "（b） Subgraph Sampling"
+      },
+      {
+        "boundingBox": [
+          0.30555555404320994,
+          0.8821428570238095,
+          0.09074074074074073,
+          0.021428571428571463
+        ],
+        "confidence": 1,
+        "text": "Tree-structured"
+      },
+      {
+        "boundingBox": [
+          0.12962963055555551,
+          0.864285714375,
+          0.0740740740740741,
+          0.021428571428571352
+        ],
+        "confidence": 0.5,
+        "text": "7.62M Enities"
+      },
+      {
+        "boundingBox": [
+          0.41851851885802466,
+          0.8357142858928571,
+          0.020370370370370372,
+          0.017857142857142905
+        ],
+        "confidence": 0.5,
+        "text": "ans"
+      },
+      {
+        "boundingBox": [
+          0.1314814806712963,
+          0.82142857125,
+          0.06481481481481483,
+          0.021428571428571463
+        ],
+        "confidence": 0.5,
+        "text": "265M Links"
+      },
+      {
+        "boundingBox": [
+          0.8851851859567902,
+          0.8000000000595238,
+          0.04629629629629628,
+          0.025000000000000022
+        ],
+        "confidence": 0.3,
+        "text": "Texty：."
+      },
+      {
+        "boundingBox": [
+          0.03888888805555558,
+          0.7821428570089286,
+          0.06666666666666668,
+          0.02499999999999991
+        ],
+        "confidence": 1,
+        "text": "WIKIPEDIA"
+      },
+      {
+        "boundingBox": [
+          0.690740740617284,
+          0.7821428575,
+          0.011111111111111183,
+          0.021428571428571463
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.7777777776851852,
+          0.7785714287857143,
+          0.012962962962962954,
+          0.021428571428571463
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.36296296316666665,
+          0.7500000000714286,
+          0.020370370370370372,
+          0.02857142857142847
+        ],
+        "confidence": 0.3,
+        "text": "E11，"
+      },
+      {
+        "boundingBox": [
+          0.47407407424382714,
+          0.7500000000892857,
+          0.020370370370370372,
+          0.03214285714285714
+        ],
+        "confidence": 0.3,
+        "text": "E13"
+      },
+      {
+        "boundingBox": [
+          0.6888888887962963,
+          0.7571428572470238,
+          0.022222222222222254,
+          0.025000000000000022
+        ],
+        "confidence": 0.3,
+        "text": "00"
+      },
+      {
+        "boundingBox": [
+          0.7796296297407407,
+          0.7607142858571428,
+          0.011111111111111183,
+          0.021428571428571463
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.8833333322530865,
+          0.7571428576190476,
+          0.07222222222222219,
+          0.028571427719933595
+        ],
+        "confidence": 0.3,
+        "text": "Textz：.film"
+      },
+      {
+        "boundingBox": [
+          0.9555555554629631,
+          0.7500000003928572,
+          0.016666666666666607,
+          0.03928571428571426
+        ],
+        "confidence": 0.3,
+        "text": "X"
+      },
+      {
+        "boundingBox": [
+          0.955555555648148,
+          0.7071428567142857,
+          0.020370370370370372,
+          0.04285714285714293
+        ],
+        "confidence": 0.3,
+        "text": "×"
+      },
+      {
+        "boundingBox": [
+          0.8833333341666667,
+          0.7142857145089285,
+          0.06666666666666665,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "Textk：...film"
+      },
+      {
+        "boundingBox": [
+          0.5870370377546296,
+          0.7107142858482143,
+          0.05740740740740746,
+          0.017857142857142794
+        ],
+        "confidence": 0.5,
+        "text": "Fetch Browse"
+      },
+      {
+        "boundingBox": [
+          0.7018518528935185,
+          0.7107142858482143,
+          0.08333333333333326,
+          0.017857142857142794
+        ],
+        "confidence": 0.5,
+        "text": "Obfuscated Relation"
+      },
+      {
+        "boundingBox": [
+          0.37777777749999997,
+          0.6642857141517857,
+          0.022222222222222254,
+          0.03214285714285725
+        ],
+        "confidence": 0.3,
+        "text": "（E22"
+      },
+      {
+        "boundingBox": [
+          0.4148148145138889,
+          0.6642857142410714,
+          0.02407407407407408,
+          0.03214285714285714
+        ],
+        "confidence": 0.3,
+        "text": "E23"
+      },
+      {
+        "boundingBox": [
+          0.4574074072222222,
+          0.6678571431785714,
+          0.022222222222222254,
+          0.03214285714285725
+        ],
+        "confidence": 0.3,
+        "text": "E24"
+      },
+      {
+        "boundingBox": [
+          0.6055555559567901,
+          0.6821428572023809,
+          0.024074074074074026,
+          0.017857142857142905
+        ],
+        "confidence": 0.5,
+        "text": "Page"
+      },
+      {
+        "boundingBox": [
+          0.7221791890834496,
+          0.681752945839285,
+          0.04267865993358477,
+          0.018636964900152986
+        ],
+        "confidence": 0.5,
+        "text": "Extraction"
+      },
+      {
+        "boundingBox": [
+          0.20548095960921195,
+          0.6421603488197987,
+          0.06126030109546801,
+          0.026393588100160903
+        ],
+        "confidence": 0.5,
+        "text": "Entity Info"
+      },
+      {
+        "boundingBox": [
+          0.6333333350231481,
+          0.6392857144196429,
+          0.13518518518518519,
+          0.02499999999999991
+        ],
+        "confidence": 0.5,
+        "text": "（c1） Relation Extraction"
+      },
+      {
+        "boundingBox": [
+          0.8407407409814814,
+          0.6428571430000001,
+          0.024074074074074137,
+          0.02857142857142847
+        ],
+        "confidence": 0.5,
+        "text": "（c2）"
+      },
+      {
+        "boundingBox": [
+          0.3074074062037037,
+          0.6000000003125,
+          0.09999999999999998,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "Graph-structured"
+      },
+      {
+        "boundingBox": [
+          0.8574074083101851,
+          0.5892857144196428,
+          0.07222222222222219,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "Try to answer"
+      },
+      {
+        "boundingBox": [
+          0.20740740772222221,
+          0.5821428572857144,
+          0.03148148148148147,
+          0.021428571428571352
+        ],
+        "confidence": 1,
+        "text": "Article"
+      },
+      {
+        "boundingBox": [
+          0.20736157192836188,
+          0.5496285783417496,
+          0.053795372998272944,
+          0.02574284332139154
+        ],
+        "confidence": 1,
+        "text": "Hyperlinks"
+      },
+      {
+        "boundingBox": [
+          0.8611111124768518,
+          0.5392857144196428,
+          0.10925925925925917,
+          0.025000000000000133
+        ],
+        "confidence": 1,
+        "text": "Subgraph Coverage"
+      },
+      {
+        "boundingBox": [
+          0.7907407408703703,
+          0.4892857136785713,
+          0.024074074074074026,
+          0.06071428571428572
+        ],
+        "confidence": 0.3,
+        "text": "？"
+      },
+      {
+        "boundingBox": [
+          0.2055555561851852,
+          0.5178571430000001,
+          0.06296296296296297,
+          0.021428571428571352
+        ],
+        "confidence": 1,
+        "text": "Wikdata P31"
+      },
+      {
+        "boundingBox": [
+          0.3574074075925926,
+          0.5071428572142858,
+          0.01851851851851849,
+          0.02857142857142858
+        ],
+        "confidence": 0.5,
+        "text": "EA"
+      },
+      {
+        "boundingBox": [
+          0.8981481476234568,
+          0.5107142861309524,
+          0.03518518518518521,
+          0.025000000000000133
+        ],
+        "confidence": 1,
+        "text": "Check"
+      },
+      {
+        "boundingBox": [
+          0.2037037039814815,
+          0.48214285728571427,
+          0.027777777777777762,
+          0.02857142857142858
+        ],
+        "confidence": 1,
+        "text": "Type"
+      },
+      {
+        "boundingBox": [
+          0.8611111124537036,
+          0.4642857144642857,
+          0.1074074074074074,
+          0.021428571428571352
+        ],
+        "confidence": 1,
+        "text": "Answer Satisfaction"
+      },
+      {
+        "boundingBox": [
+          0.5961873556754645,
+          0.44202051634544337,
+          0.05021788279215489,
+          0.026673253093446925
+        ],
+        "confidence": 1,
+        "text": "Structure"
+      },
+      {
+        "boundingBox": [
+          0.6832867206150885,
+          0.4423511243075777,
+          0.06120433807373049,
+          0.02244060720716201
+        ],
+        "confidence": 0.5,
+        "text": "Description"
+      },
+      {
+        "boundingBox": [
+          0.7907407405740742,
+          0.44285714310714286,
+          0.020370370370370372,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "QA"
+      },
+      {
+        "boundingBox": [
+          0.35740740725925924,
+          0.4250000003214286,
+          0.018518518518518545,
+          0.03214285714285714
+        ],
+        "confidence": 0.3,
+        "text": "Eo"
+      },
+      {
+        "boundingBox": [
+          0.4777777779861111,
+          0.42857142861607134,
+          0.016666666666666663,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "Ec"
+      },
+      {
+        "boundingBox": [
+          0.8962962964197531,
+          0.43571428535714285,
+          0.03703703703703698,
+          0.021428571428571463
+        ],
+        "confidence": 1,
+        "text": "Check"
+      },
+      {
+        "boundingBox": [
+          0.4166666665185185,
+          0.385714286,
+          0.01851851851851849,
+          0.02857142857142858
+        ],
+        "confidence": 0.3,
+        "text": "EE）"
+      },
+      {
+        "boundingBox": [
+          0.6444444458564815,
+          0.36428571441964286,
+          0.11296296296296293,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "（c3） QA Generation"
+      },
+      {
+        "boundingBox": [
+          0.8703703692592594,
+          0.36428571410714294,
+          0.0888888888888888,
+          0.021428571428571352
+        ],
+        "confidence": 0.5,
+        "text": "（C4） Verification"
+      },
+      {
+        "boundingBox": [
+          0.01851852354938254,
+          0.3071428572023809,
+          0.30185185185185187,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "Q: Each clue below points to the same person.ldentilyit："
+      },
+      {
+        "boundingBox": [
+          0.659259261898148,
+          0.30000000022321427,
+          0.21111111111111114,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "（d） Post Filtering and Human Review"
+      },
+      {
+        "boundingBox": [
+          0.018518523672839366,
+          0.28214285755952384,
+          0.5351851851851851,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "1. This person appeared in a film （Film A） that stars an individual （Person C） who works as an actor，"
+      },
+      {
+        "boundingBox": [
+          0.018518523833333234,
+          0.2500000001785715,
+          0.5314814814814816,
+          0.025000000000000022
+        ],
+        "confidence": 1,
+        "text": "singer, and television host, and who has a background as a volleyball player and served as a fitness"
+      },
+      {
+        "boundingBox": [
+          0.581481482191358,
+          0.25,
+          0.042592592592592626,
+          0.021428571428571463
+        ],
+        "confidence": 1,
+        "text": "Human"
+      },
+      {
+        "boundingBox": [
+          0.7981023742961493,
+          0.24597943297957725,
+          0.06490636048493559,
+          0.025898276908057127
+        ],
+        "confidence": 1,
+        "text": "Uniqueness"
+      },
+      {
+        "boundingBox": [
+          0.9110705197816709,
+          0.24597317788221296,
+          0.07415525648328991,
+          0.02591078877449038
+        ],
+        "confidence": 0.5,
+        "text": "2000 Original"
+      },
+      {
+        "boundingBox": [
+          0.016666668827160423,
+          0.22857142857142854,
+          0.12962962962962965,
+          0.021428571428571463
+        ],
+        "confidence": 0.5,
+        "text": "coach in the late 2000s."
+      },
+      {
+        "boundingBox": [
+          0.648148149074074,
+          0.23214285724999995,
+          0.09259259259259267,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "Difficulty Filtering"
+      },
+      {
+        "boundingBox": [
+          0.5814590836470247,
+          0.21772071505801205,
+          0.04078553517659511,
+          0.025272855588368004
+        ],
+        "confidence": 0.5,
+        "text": "Review"
+      },
+      {
+        "boundingBox": [
+          0.7998977737870452,
+          0.21689201953785364,
+          0.061315564756040275,
+          0.026930247034345434
+        ],
+        "confidence": 1,
+        "text": "Verification"
+      },
+      {
+        "boundingBox": [
+          0.9240529129778848,
+          0.2177046924746473,
+          0.048190470095033855,
+          0.025304901599884078
+        ],
+        "confidence": 1,
+        "text": "QA Pairs"
+      },
+      {
+        "boundingBox": [
+          0.018518523796296166,
+          0.1964285716071429,
+          0.5277777777777778,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "2. This person appeared in a television series that features a person （Person D） who appeared in a"
+      },
+      {
+        "boundingBox": [
+          0.018518523833333234,
+          0.1678571430357143,
+          0.5314814814814816,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "second cinematic release in the late 2000s and who became active as a playwright and performer in"
+      },
+      {
+        "boundingBox": [
+          0.020370369282407427,
+          0.13928571397321432,
+          0.18333333333333335,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "the early 2000s, receiving awards."
+      },
+      {
+        "boundingBox": [
+          0.018518525115740554,
+          0.11428571441964286,
+          0.5277777777777778,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "3. This person won a best actress award for a film （Film B） in the early 2010s, which was produced"
+      },
+      {
+        "boundingBox": [
+          0.6611111113271605,
+          0.11071428607142852,
+          0.042592592592592626,
+          0.021428571428571463
+        ],
+        "confidence": 0.5,
+        "text": "hard QA"
+      },
+      {
+        "boundingBox": [
+          0.016666657746913907,
+          0.08571428553571436,
+          0.5351851851851852,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "by a person （Person E） who was born in the early 1960s, works as a film director, and has produced"
+      },
+      {
+        "boundingBox": [
+          0.018518522361111,
+          0.0571428572767857,
+          0.3074074074074074,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "several noted films, including award-winning feature films."
+      },
+      {
+        "boundingBox": [
+          0.6592592584953705,
+          0.04642857129464284,
+          0.061111111111111116,
+          0.025000000000000022
+        ],
+        "confidence": 0.3,
+        "text": "easy QA X"
+      },
+      {
+        "boundingBox": [
+          0.018518519537037016,
+          0.03214285728571442,
+          0.10185185185185183,
+          0.021428571428571352
+        ],
+        "confidence": 0.5,
+        "text": "A: Vishka Asayesh"
+      }
+    ],
+    "ocr_text": "（c） QA Generation & Verification\n（a） Knowledge Graph Construction\n（b） Subgraph Sampling\nTree-structured\n7.62M Enities\nans\n265M Links\nTexty：.\nWIKIPEDIA\n◎\n◎\nE11，\nE13\n00\n◎\nTextz：.film\nX\n×\nTextk：...film\nFetch Browse\nObfuscated Relation\n（E22\nE23\nE24\nPage\nExtraction\nEntity Info\n（c1） Relation Extraction\n（c2）\nGraph-structured\nTry to answer\nArticle\nHyperlinks\nSubgraph Coverage\n？\nWikdata P31\nEA\nCheck\nType\nAnswer Satisfaction\nStructure\nDescription\nQA\nEo\nEc\nCheck\nEE）\n（c3） QA Generation\n（C4） Verification\nQ: Each clue below points to the same person.ldentilyit：\n（d） Post Filtering and Human Review\n1. This person appeared in a film （Film A） that stars an individual （Person C） who works as an actor，\nsinger, and television host, and who has a background as a volleyball player and served as a fitness\nHuman\nUniqueness\n2000 Original\ncoach in the late 2000s.\nDifficulty Filtering\nReview\nVerification\nQA Pairs\n2. This person appeared in a television series that features a person （Person D） who appeared in a\nsecond cinematic release in the late 2000s and who became active as a playwright and performer in\nthe early 2000s, receiving awards.\n3. This person won a best actress award for a film （Film B） in the early 2010s, which was produced\nhard QA\nby a person （Person E） who was born in the early 1960s, works as a film director, and has produced\nseveral noted films, including award-winning feature films.\neasy QA X\nA: Vishka Asayesh",
+    "description": "文章中的配图，包含文字：（c） QA Generation & Verification；（a） Knowledge Graph Construction；（b） Subgraph Sampling；Tree-structured；7.62M Enities；ans；265M Links；Texty：.；WIKIPEDIA；◎；◎；E11，；E13；00；◎；Textz：.film；X；×；Textk：...film；Fetch Browse；Obfuscated Relation；（E22；E23；E24；Page；Extraction；Entity Info；（c1） Relation Extraction；（c2）；Graph-structured",
+    "entities": [
+      "（c） QA Generation & Verification",
+      "（a） Knowledge Graph Construction",
+      "（b） Subgraph Sampling",
+      "Tree-structured",
+      "7.62M Enities",
+      "ans",
+      "265M Links",
+      "Texty：.",
+      "WIKIPEDIA",
+      "◎",
+      "E11，",
+      "E13",
+      "00",
+      "Textz：.film",
+      "X",
+      "×",
+      "Textk：...film",
+      "Fetch Browse",
+      "Obfuscated Relation",
+      "（E22",
+      "E23",
+      "E24",
+      "Page",
+      "Extraction",
+      "Entity Info",
+      "（c1） Relation Extraction",
+      "（c2）",
+      "Graph-structured",
+      "Try to answer",
+      "Article",
+      "Hyperlinks",
+      "Subgraph Coverage",
+      "？",
+      "Wikdata P31",
+      "EA",
+      "Check",
+      "Type",
+      "Answer Satisfaction",
+      "Structure",
+      "Description",
+      "QA",
+      "Eo",
+      "Ec",
+      "EE）",
+      "（c3） QA Generation",
+      "（C4） Verification",
+      "Q: Each clue below points to the same person.ldentilyit：",
+      "（d） Post Filtering and Human Review",
+      "1. This person appeared in a film （Film A） that stars an individual （Person C） who works as an actor，",
+      "singer, and television host, and who has a background as a volleyball player and served as a fitness",
+      "Human",
+      "Uniqueness",
+      "2000 Original",
+      "coach in the late 2000s.",
+      "Difficulty Filtering",
+      "Review",
+      "Verification",
+      "QA Pairs",
+      "2. This person appeared in a television series that features a person （Person D） who appeared in a",
+      "second cinematic release in the late 2000s and who became active as a playwright and performer in",
+      "the early 2000s, receiving awards.",
+      "3. This person won a best actress award for a film （Film B） in the early 2010s, which was produced",
+      "hard QA",
+      "by a person （Person E） who was born in the early 1960s, works as a film director, and has produced",
+      "several noted films, including award-winning feature films.",
+      "easy QA X",
+      "A: Vishka Asayesh"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "38eda470fc7cd1fa23419e7af2d92f111cb6c4f7d4630915bebe56b18774a491"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-004",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 4,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=358816da&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaoia8TB3oLtvQ3ibrKASx8x9TcyJetCWZp3oD9Orsa57CDWA5m6vIP3JhoRkcAfR32hJ7wrXW2tsTbhcnndichrKPXtPbuJOZIrO4o%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D5",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-004.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.23966942511806374,
+          0.9255663431345353,
+          0.5082644628099173,
+          0.03883495145631066
+        ],
+        "confidence": 0.5,
+        "text": "（b） Subgraph Sampling"
+      },
+      {
+        "boundingBox": [
+          0.033057847809917426,
+          0.8284789642718446,
+          0.34297520661157027,
+          0.032362459546925626
+        ],
+        "confidence": 1,
+        "text": "Tree-structured"
+      },
+      {
+        "boundingBox": [
+          0.46280991797520665,
+          0.7572815535598706,
+          0.07438016528925617,
+          0.02588996763754048
+        ],
+        "confidence": 0.5,
+        "text": "ans"
+      },
+      {
+        "boundingBox": [
+          0.25619834769283745,
+          0.6310679611920172,
+          0.07024793388429751,
+          0.04207119741100318
+        ],
+        "confidence": 0.3,
+        "text": "Ei1"
+      },
+      {
+        "boundingBox": [
+          0.4628099167768595,
+          0.627831715631068,
+          0.07438016528925623,
+          0.04207119741100318
+        ],
+        "confidence": 0.5,
+        "text": "E12"
+      },
+      {
+        "boundingBox": [
+          0.6818181827479339,
+          0.6310679611245955,
+          0.07438016528925617,
+          0.04207119741100318
+        ],
+        "confidence": 0.5,
+        "text": "E13"
+      },
+      {
+        "boundingBox": [
+          0.18181818228305782,
+          0.49838187712378645,
+          0.0743801652892562,
+          0.04207119741100329
+        ],
+        "confidence": 0.5,
+        "text": "E21"
+      },
+      {
+        "boundingBox": [
+          0.318181818742621,
+          0.5016181230466944,
+          0.07851239669421489,
+          0.04207119741100318
+        ],
+        "confidence": 0.5,
+        "text": "E22"
+      },
+      {
+        "boundingBox": [
+          0.46280991809917355,
+          0.5016181230420713,
+          0.07438016528925623,
+          0.03883495145631066
+        ],
+        "confidence": 1,
+        "text": "E23"
+      },
+      {
+        "boundingBox": [
+          0.6198347114876033,
+          0.5080906149514564,
+          0.07438016528925628,
+          0.03883495145631066
+        ],
+        "confidence": 0.5,
+        "text": "E24"
+      },
+      {
+        "boundingBox": [
+          0.7520661151515151,
+          0.5080906152103559,
+          0.07438016528925617,
+          0.03883495145631066
+        ],
+        "confidence": 0.5,
+        "text": "E25"
+      },
+      {
+        "boundingBox": [
+          0.03719008744834698,
+          0.3915857606796116,
+          0.3842975206611571,
+          0.03883495145631066
+        ],
+        "confidence": 1,
+        "text": "Graph-structured"
+      },
+      {
+        "boundingBox": [
+          0.4504132224173554,
+          0.34304207119741104,
+          0.05785123966942152,
+          0.03883495145631066
+        ],
+        "confidence": 1,
+        "text": "EB"
+      },
+      {
+        "boundingBox": [
+          0.23966942221074378,
+          0.25242718442556644,
+          0.05785123966942152,
+          0.04207119741100318
+        ],
+        "confidence": 1,
+        "text": "EA"
+      },
+      {
+        "boundingBox": [
+          0.6735537180268596,
+          0.2588996762944984,
+          0.07851239669421484,
+          0.02588996763754048
+        ],
+        "confidence": 0.3,
+        "text": "ans"
+      },
+      {
+        "boundingBox": [
+          0.23966942110881545,
+          0.12944983851132674,
+          0.0537190082644628,
+          0.03883495145631066
+        ],
+        "confidence": 1,
+        "text": "Ep"
+      },
+      {
+        "boundingBox": [
+          0.6942148766942149,
+          0.12944983828478973,
+          0.06611570247933884,
+          0.04207119741100318
+        ],
+        "confidence": 0.3,
+        "text": "Ec"
+      },
+      {
+        "boundingBox": [
+          0.46280991785123965,
+          0.06472491870550168,
+          0.05785123966942146,
+          0.03883495145631066
+        ],
+        "confidence": 0.5,
+        "text": "EE"
+      }
+    ],
+    "ocr_text": "（b） Subgraph Sampling\nTree-structured\nans\nEi1\nE12\nE13\nE21\nE22\nE23\nE24\nE25\nGraph-structured\nEB\nEA\nans\nEp\nEc\nEE",
+    "description": "文章中的配图，包含文字：（b） Subgraph Sampling；Tree-structured；ans；Ei1；E12；E13；E21；E22；E23；E24；E25；Graph-structured；EB；EA；ans；Ep；Ec；EE",
+    "entities": [
+      "（b） Subgraph Sampling",
+      "Tree-structured",
+      "ans",
+      "Ei1",
+      "E12",
+      "E13",
+      "E21",
+      "E22",
+      "E23",
+      "E24",
+      "E25",
+      "Graph-structured",
+      "EB",
+      "EA",
+      "Ep",
+      "Ec",
+      "EE"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "12091d709c7f793a1c741ce8180a828df0f4e4aebb2ddfeeca2b3f55c124a4a8"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-005",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 5,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=18e2bc60&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaohGknoZY2qicLa7XdEKalV5r9zicwq8bPsXiakcNOUSRgV0Gl16hXHlicia251ibfRSjLW7mUfQ8g3yiaAr6UrA45ibibKibVW4fYBQWlicEw%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D8",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-005.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3955815572779513,
+          0.7484994648109419,
+          0.12133688479661942,
+          0.16966774476973034
+        ],
+        "confidence": 1,
+        "text": "Tree"
+      },
+      {
+        "boundingBox": [
+          0.5898437504083807,
+          0.737430166861351,
+          0.1640625,
+          0.16201117318435743
+        ],
+        "confidence": 1,
+        "text": "Graph"
+      },
+      {
+        "boundingBox": [
+          0.8300781245198567,
+          0.7653631290502793,
+          0.130859375,
+          0.13407821229050287
+        ],
+        "confidence": 1,
+        "text": "Total"
+      },
+      {
+        "boundingBox": [
+          0.04470230001268516,
+          0.4441670095580941,
+          0.23676727712154388,
+          0.16194530572305177
+        ],
+        "confidence": 1,
+        "text": "Questions"
+      },
+      {
+        "boundingBox": [
+          0.4082031253605769,
+          0.4692737432960894,
+          0.09375,
+          0.13966480446927387
+        ],
+        "confidence": 1,
+        "text": "282"
+      },
+      {
+        "boundingBox": [
+          0.6230468746651785,
+          0.469273742717478,
+          0.09375,
+          0.13966480446927387
+        ],
+        "confidence": 1,
+        "text": "262"
+      },
+      {
+        "boundingBox": [
+          0.845703124609375,
+          0.4692737426908752,
+          0.09375,
+          0.13407821229050276
+        ],
+        "confidence": 1,
+        "text": "544"
+      },
+      {
+        "boundingBox": [
+          0.044738396260174534,
+          0.25435444914649397,
+          0.2796638309955597,
+          0.16726874772396827
+        ],
+        "confidence": 0.5,
+        "text": "Avg. Nodes"
+      },
+      {
+        "boundingBox": [
+          0.41406250009765627,
+          0.2625698315021726,
+          0.080078125,
+          0.16201117318435754
+        ],
+        "confidence": 1,
+        "text": "7.9"
+      },
+      {
+        "boundingBox": [
+          0.6171874998155382,
+          0.2569832411545624,
+          0.107421875,
+          0.16759776536312843
+        ],
+        "confidence": 1,
+        "text": "10.0"
+      },
+      {
+        "boundingBox": [
+          0.8554687500878906,
+          0.2625698316201117,
+          0.076171875,
+          0.15642458100558665
+        ],
+        "confidence": 1,
+        "text": "8.9"
+      },
+      {
+        "boundingBox": [
+          0.408333332518494,
+          0.05865921947596797,
+          0.09166666865348816,
+          0.2039106145251396
+        ],
+        "confidence": 1,
+        "text": "6.9"
+      },
+      {
+        "boundingBox": [
+          0.04484286767599796,
+          0.07707435443110622,
+          0.27359551191329956,
+          0.1587004528365321
+        ],
+        "confidence": 1,
+        "text": "Avg. Edges"
+      },
+      {
+        "boundingBox": [
+          0.6171874994726563,
+          0.08379888254189949,
+          0.10546875,
+          0.15083798882681565
+        ],
+        "confidence": 1,
+        "text": "12.5"
+      },
+      {
+        "boundingBox": [
+          0.8535156246337892,
+          0.07821229151536324,
+          0.078125,
+          0.16201117318435754
+        ],
+        "confidence": 0.5,
+        "text": "9.6"
+      }
+    ],
+    "ocr_text": "Tree\nGraph\nTotal\nQuestions\n282\n262\n544\nAvg. Nodes\n7.9\n10.0\n8.9\n6.9\nAvg. Edges\n12.5\n9.6",
+    "description": "文章中的配图，包含文字：Tree；Graph；Total；Questions；282；262；544；Avg. Nodes；7.9；10.0；8.9；6.9；Avg. Edges；12.5；9.6",
+    "entities": [
+      "Tree",
+      "Graph",
+      "Total",
+      "Questions",
+      "282",
+      "262",
+      "544",
+      "Avg. Nodes",
+      "7.9",
+      "10.0",
+      "8.9",
+      "6.9",
+      "Avg. Edges",
+      "12.5",
+      "9.6"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b54cb675cda0ba30d2ecaa7bab6be1f31db8d5e94806ff8eb42636edfd8e50a2"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-006",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 6,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=c96d14d3&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaohx1qRMWEFOJjPqSIwOqbicD2PhAMh2gkGvwbfemiaOkqvW2HiayKmULodqdDHH7uIGR4YDuvetRvJWSZgpWOCgojvTOo3wE1XIog%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D9",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-006.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2907407406481482,
+          0.8717201163629738,
+          0.037037037037037035,
+          0.020408163265306145
+        ],
+        "confidence": 1,
+        "text": "3.7%"
+      },
+      {
+        "boundingBox": [
+          0.35370370418981484,
+          0.871720116690962,
+          0.03888888888888886,
+          0.017492711370262426
+        ],
+        "confidence": 1,
+        "text": "4.6%"
+      },
+      {
+        "boundingBox": [
+          0.42592592620370373,
+          0.8309037902124115,
+          0.03888888888888886,
+          0.023323615160349864
+        ],
+        "confidence": 1,
+        "text": "5.7%"
+      },
+      {
+        "boundingBox": [
+          0.6703703710555554,
+          0.7376093291253645,
+          0.19074074074074077,
+          0.03206997084548102
+        ],
+        "confidence": 0.3,
+        "text": "• Music （119, 21.9%）"
+      },
+      {
+        "boundingBox": [
+          0.6740740762037037,
+          0.688046647396918,
+          0.29814814814814816,
+          0.02915451895043719
+        ],
+        "confidence": 0.5,
+        "text": "Geography & Places （106, 19.5%）"
+      },
+      {
+        "boundingBox": [
+          0.5296296291296296,
+          0.6559766762682215,
+          0.050000000000000044,
+          0.023323615160349864
+        ],
+        "confidence": 1,
+        "text": "14.9%"
+      },
+      {
+        "boundingBox": [
+          0.6999999969444446,
+          0.6355685130466472,
+          0.24444444444444435,
+          0.029154518950437303
+        ],
+        "confidence": 0.3,
+        "text": "Film & Television （106, 19.5%）"
+      },
+      {
+        "boundingBox": [
+          0.6999999980555556,
+          0.5830903789723032,
+          0.15555555555555556,
+          0.03206997084548102
+        ],
+        "confidence": 0.3,
+        "text": "Sports （81,14.9%）"
+      },
+      {
+        "boundingBox": [
+          0.2888888892195767,
+          0.49854227448979593,
+          0.09444444444444444,
+          0.061224489795918324
+        ],
+        "confidence": 1,
+        "text": "544"
+      },
+      {
+        "boundingBox": [
+          0.7018518494290124,
+          0.5335276966958212,
+          0.29074074074074063,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": "Transportation & Vehicles （31, 5.7%）"
+      },
+      {
+        "boundingBox": [
+          0.05740740782407406,
+          0.49271137035957235,
+          0.05000000000000001,
+          0.023323615160349864
+        ],
+        "confidence": 1,
+        "text": "21.9%"
+      },
+      {
+        "boundingBox": [
+          0.7055555579475309,
+          0.48396501474732756,
+          0.287037037037037,
+          0.026239067055393583
+        ],
+        "confidence": 0.5,
+        "text": "Business & Organizations （25, 4.6%）"
+      },
+      {
+        "boundingBox": [
+          0.2906280546563824,
+          0.42758973330874706,
+          0.0891142597904912,
+          0.028202455870959153
+        ],
+        "confidence": 1,
+        "text": "Questions"
+      },
+      {
+        "boundingBox": [
+          0.7018518485185186,
+          0.43148688039358596,
+          0.2666666666666667,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": "Politics & Government （20, 3.7%）"
+      },
+      {
+        "boundingBox": [
+          0.7037037049652778,
+          0.37900874650145766,
+          0.20185185185185184,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": "Arts & Culture （19, 3.5%）"
+      },
+      {
+        "boundingBox": [
+          0.7018518499537038,
+          0.3265306121477163,
+          0.22777777777777775,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": "History & Military （18, 3.3%）"
+      },
+      {
+        "boundingBox": [
+          0.703703706550926,
+          0.27696793017492716,
+          0.22777777777777775,
+          0.029154518950437303
+        ],
+        "confidence": 0.5,
+        "text": "Science & Nature （15, 2.8%）"
+      },
+      {
+        "boundingBox": [
+          0.5071790646403178,
+          0.2611128972353929,
+          0.05045668637311018,
+          0.025879162046026583
+        ],
+        "confidence": 1,
+        "text": "19.5%"
+      },
+      {
+        "boundingBox": [
+          0.7037037047685185,
+          0.2244897960641401,
+          0.12777777777777777,
+          0.029154518950437303
+        ],
+        "confidence": 0.3,
+        "text": "Other（4, 0.7%）"
+      },
+      {
+        "boundingBox": [
+          0.24250057926052562,
+          0.11905374761215926,
+          0.04833217550207067,
+          0.024283174175562694
+        ],
+        "confidence": 1,
+        "text": "19.5%"
+      }
+    ],
+    "ocr_text": "3.7%\n4.6%\n5.7%\n• Music （119, 21.9%）\nGeography & Places （106, 19.5%）\n14.9%\nFilm & Television （106, 19.5%）\nSports （81,14.9%）\n544\nTransportation & Vehicles （31, 5.7%）\n21.9%\nBusiness & Organizations （25, 4.6%）\nQuestions\nPolitics & Government （20, 3.7%）\nArts & Culture （19, 3.5%）\nHistory & Military （18, 3.3%）\nScience & Nature （15, 2.8%）\n19.5%\nOther（4, 0.7%）\n19.5%",
+    "description": "文章中的配图，包含文字：3.7%；4.6%；5.7%；• Music （119, 21.9%）；Geography & Places （106, 19.5%）；14.9%；Film & Television （106, 19.5%）；Sports （81,14.9%）；544；Transportation & Vehicles （31, 5.7%）；21.9%；Business & Organizations （25, 4.6%）；Questions；Politics & Government （20, 3.7%）；Arts & Culture （19, 3.5%）；History & Military （18, 3.3%）；Science & Nature （15, 2.8%）；19.5%；Other（4, 0.7%）；19.5%",
+    "entities": [
+      "3.7%",
+      "4.6%",
+      "5.7%",
+      "• Music （119, 21.9%）",
+      "Geography & Places （106, 19.5%）",
+      "14.9%",
+      "Film & Television （106, 19.5%）",
+      "Sports （81,14.9%）",
+      "544",
+      "Transportation & Vehicles （31, 5.7%）",
+      "21.9%",
+      "Business & Organizations （25, 4.6%）",
+      "Questions",
+      "Politics & Government （20, 3.7%）",
+      "Arts & Culture （19, 3.5%）",
+      "History & Military （18, 3.3%）",
+      "Science & Nature （15, 2.8%）",
+      "19.5%",
+      "Other（4, 0.7%）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "49bb557ebae387b3b49aec23a05c5e050153bd39c88216e2065ecf743231d618"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-007",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 7,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=e76567b1&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaoh6hPYHp2n19dgjESQ1X4K2iaKgYFlTicVico23vzgExhkCkZSy1XUv4DFgI5Ty9m3CJqtRLny83faHVm8hLp1lm1BZJRk8M7kVQ4%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D10",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-007.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.46111111646296277,
+          0.8888888891358024,
+          0.5351851851851852,
+          0.0864197530864198
+        ],
+        "confidence": 0.5,
+        "text": "Reasoning Source LoHoSearch Score （%） Calibration Error （%）"
+      },
+      {
+        "boundingBox": [
+          0.009072064127127638,
+          0.8988669539958996,
+          0.054078095047562204,
+          0.054117944505479576
+        ],
+        "confidence": 0.5,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.5537037032253086,
+          0.7777777774691358,
+          0.05740740740740746,
+          0.0864197530864198
+        ],
+        "confidence": 1,
+        "text": "Closed"
+      },
+      {
+        "boundingBox": [
+          0.009259257388888918,
+          0.7839506170370371,
+          0.18703703703703706,
+          0.061728395061728336
+        ],
+        "confidence": 0.5,
+        "text": "GPT-5.5 （OpenAL,2026）"
+      },
+      {
+        "boundingBox": [
+          0.49444444458333336,
+          0.7901234570987654,
+          0.016666666666666607,
+          0.06172839506172845
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.6907126851636961,
+          0.7837553812856886,
+          0.04635240766737203,
+          0.07446454189441831
+        ],
+        "confidence": 1,
+        "text": "34.74"
+      },
+      {
+        "boundingBox": [
+          0.8925925924421296,
+          0.7901234564429012,
+          0.024074074074074137,
+          0.06790123456790131
+        ],
+        "confidence": 1,
+        "text": "48"
+      },
+      {
+        "boundingBox": [
+          0.009128625389685844,
+          0.7026161989206183,
+          0.3058074103461372,
+          0.08615648599318515
+        ],
+        "confidence": 0.5,
+        "text": "DeepSeek-V4-Pro* （DeepSeek-AI, 2026）"
+      },
+      {
+        "boundingBox": [
+          0.5574074071944445,
+          0.6975308646604939,
+          0.050000000000000044,
+          0.09259259259259256
+        ],
+        "confidence": 1,
+        "text": "Open"
+      },
+      {
+        "boundingBox": [
+          0.49444444435185175,
+          0.7160493831569665,
+          0.01666666666666672,
+          0.061728395061728336
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.6907407407253087,
+          0.7098765425925926,
+          0.04629629629629628,
+          0.07407407407407418
+        ],
+        "confidence": 1,
+        "text": "15.99"
+      },
+      {
+        "boundingBox": [
+          0.892592592712963,
+          0.7160493829938271,
+          0.024074074074074026,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "35"
+      },
+      {
+        "boundingBox": [
+          0.00925926044444441,
+          0.6296296303086419,
+          0.2740740740740741,
+          0.06790123456790131
+        ],
+        "confidence": 0.5,
+        "text": "Claude-Opus-4.6 （Anthropic, 2026b）"
+      },
+      {
+        "boundingBox": [
+          0.49259259279629625,
+          0.6419753090123457,
+          0.020370370370370317,
+          0.06172839506172845
+        ],
+        "confidence": 0.3,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.5555555556790123,
+          0.6234567906035665,
+          0.05555555555555558,
+          0.0864197530864198
+        ],
+        "confidence": 1,
+        "text": "Closed"
+      },
+      {
+        "boundingBox": [
+          0.6907407405401235,
+          0.629629630298354,
+          0.04629629629629628,
+          0.08024691358024683
+        ],
+        "confidence": 1,
+        "text": "15.62"
+      },
+      {
+        "boundingBox": [
+          0.8925925924206349,
+          0.6358024688271605,
+          0.024074074074074026,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "31"
+      },
+      {
+        "boundingBox": [
+          0.009033373651894742,
+          0.550901511587514,
+          0.25238766140407987,
+          0.0847621788213282
+        ],
+        "confidence": 0.5,
+        "text": "Kimi-K2.6* （Moonshot-AI,2026）"
+      },
+      {
+        "boundingBox": [
+          0.557407407526455,
+          0.5432098772486773,
+          0.04999999999999993,
+          0.09876543209876543
+        ],
+        "confidence": 1,
+        "text": "Open"
+      },
+      {
+        "boundingBox": [
+          0.6907407405401235,
+          0.5555555562242798,
+          0.04629629629629628,
+          0.08024691358024694
+        ],
+        "confidence": 1,
+        "text": "15.53"
+      },
+      {
+        "boundingBox": [
+          0.49444444461111103,
+          0.5679012348765432,
+          0.01666666666666672,
+          0.05555555555555547
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.8925925927777777,
+          0.5617283953703703,
+          0.025925925925925908,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "56"
+      },
+      {
+        "boundingBox": [
+          0.49444444462962955,
+          0.48765432129629627,
+          0.01851851851851849,
+          0.06790123456790131
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.5537037040123456,
+          0.4691358017489713,
+          0.059259259259259234,
+          0.08641975308641969
+        ],
+        "confidence": 1,
+        "text": "Closed"
+      },
+      {
+        "boundingBox": [
+          0.6904770970880278,
+          0.4796139543610154,
+          0.04682358282583732,
+          0.07780912481708291
+        ],
+        "confidence": 1,
+        "text": "13.32"
+      },
+      {
+        "boundingBox": [
+          0.8925925924074075,
+          0.4814814820987654,
+          0.025925925925925908,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "72"
+      },
+      {
+        "boundingBox": [
+          0.009259257098765464,
+          0.4814814812757201,
+          0.25925925925925924,
+          0.06172839506172845
+        ],
+        "confidence": 0.5,
+        "text": "Gemini-3.1-Pro （DeepMind, 2026）"
+      },
+      {
+        "boundingBox": [
+          0.009259257962962987,
+          0.40123456874999996,
+          0.20370370370370372,
+          0.0679012345679012
+        ],
+        "confidence": 0.5,
+        "text": "GLM-5.1 （Zhipu-AI, 2026）"
+      },
+      {
+        "boundingBox": [
+          0.4925925923888889,
+          0.4135802466666666,
+          0.020370370370370428,
+          0.06172839506172845
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.5574074072993827,
+          0.38888888811728384,
+          0.050000000000000044,
+          0.09259259259259267
+        ],
+        "confidence": 1,
+        "text": "Open"
+      },
+      {
+        "boundingBox": [
+          0.688888888968254,
+          0.39506172782186955,
+          0.04814814814814816,
+          0.08024691358024694
+        ],
+        "confidence": 1,
+        "text": "12.77"
+      },
+      {
+        "boundingBox": [
+          0.892592592507716,
+          0.40740740769032924,
+          0.024074074074074137,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "58"
+      },
+      {
+        "boundingBox": [
+          0.5555555560339506,
+          0.32098765468106993,
+          0.05740740740740746,
+          0.09259259259259256
+        ],
+        "confidence": 1,
+        "text": "Closed"
+      },
+      {
+        "boundingBox": [
+          0.009259260740740705,
+          0.3271604947530865,
+          0.2740740740740741,
+          0.07407407407407407
+        ],
+        "confidence": 0.5,
+        "text": "Claude-Opus-4.7 （Anthropic, 2026c）"
+      },
+      {
+        "boundingBox": [
+          0.49444444435185175,
+          0.3395061732253086,
+          0.01851851851851849,
+          0.061728395061728336
+        ],
+        "confidence": 1,
+        "text": "N"
+      },
+      {
+        "boundingBox": [
+          0.6907407404100528,
+          0.33333333302469137,
+          0.04629629629629639,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "10.29"
+      },
+      {
+        "boundingBox": [
+          0.892592592507716,
+          0.33333333361625517,
+          0.024074074074074137,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "35"
+      },
+      {
+        "boundingBox": [
+          0.009259256651234622,
+          0.253086419547325,
+          0.31296296296296294,
+          0.061728395061728336
+        ],
+        "confidence": 0.5,
+        "text": "DeepSeek-V4-Flash （DeepSeek-Al, 2026）"
+      },
+      {
+        "boundingBox": [
+          0.49444444452160496,
+          0.259259258744856,
+          0.01666666666666672,
+          0.061728395061728336
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.6907407408597883,
+          0.2530864192239859,
+          0.04629629629629628,
+          0.07407407407407418
+        ],
+        "confidence": 1,
+        "text": "10.02"
+      },
+      {
+        "boundingBox": [
+          0.8925925925092593,
+          0.2592592595987654,
+          0.024074074074074137,
+          0.06790123456790131
+        ],
+        "confidence": 1,
+        "text": "48"
+      },
+      {
+        "boundingBox": [
+          0.49259259253703697,
+          0.17901234648148145,
+          0.020370370370370428,
+          0.08024691358024694
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.009199839691046707,
+          0.17224540094241603,
+          0.4408851623535156,
+          0.0752060383926203
+        ],
+        "confidence": 1,
+        "text": "LongCat-Flash-Thinking-2601 （LongCat-Team et al.， 2026）"
+      },
+      {
+        "boundingBox": [
+          0.6944444443148148,
+          0.17901234493827156,
+          0.03888888888888897,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "9.74"
+      },
+      {
+        "boundingBox": [
+          0.8907407407592592,
+          0.17901234493827156,
+          0.02777777777777779,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "76"
+      },
+      {
+        "boundingBox": [
+          0.4944444446481481,
+          0.09876543253086423,
+          0.020370370370370372,
+          0.08024691358024683
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.6944444443148148,
+          0.09876543129629634,
+          0.03888888888888897,
+          0.08024691358024694
+        ],
+        "confidence": 1,
+        "text": "2.48"
+      },
+      {
+        "boundingBox": [
+          0.8925925924074074,
+          0.10493827234567887,
+          0.025925925925925908,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "59"
+      },
+      {
+        "boundingBox": [
+          0.009259260722222199,
+          0.09876543141975302,
+          0.2574074074074074,
+          0.06790123456790131
+        ],
+        "confidence": 0.3,
+        "text": "MiniMax-M2.7（MiniMax,2026b）"
+      },
+      {
+        "boundingBox": [
+          0.4925925927777777,
+          0.030864197942386817,
+          0.0222222222222222,
+          0.07407407407407407
+        ],
+        "confidence": 1,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.6944444446875,
+          0.030864197878086252,
+          0.03888888888888886,
+          0.0679012345679012
+        ],
+        "confidence": 1,
+        "text": "2.29"
+      },
+      {
+        "boundingBox": [
+          0.892592592808642,
+          0.03086419789094652,
+          0.025925925925925908,
+          0.06790123456790131
+        ],
+        "confidence": 1,
+        "text": "54"
+      },
+      {
+        "boundingBox": [
+          0.009259261404320936,
+          0.024691358333333357,
+          0.2574074074074074,
+          0.06172839506172845
+        ],
+        "confidence": 0.3,
+        "text": "Mini Max-M2.5（MiniMax,2026a）"
+      }
+    ],
+    "ocr_text": "Reasoning Source LoHoSearch Score （%） Calibration Error （%）\nModel\nClosed\nGPT-5.5 （OpenAL,2026）\nN\n34.74\n48\nDeepSeek-V4-Pro* （DeepSeek-AI, 2026）\nOpen\nY\n15.99\n35\nClaude-Opus-4.6 （Anthropic, 2026b）\nN\nClosed\n15.62\n31\nKimi-K2.6* （Moonshot-AI,2026）\nOpen\n15.53\nY\n56\nY\nClosed\n13.32\n72\nGemini-3.1-Pro （DeepMind, 2026）\nGLM-5.1 （Zhipu-AI, 2026）\nY\nOpen\n12.77\n58\nClosed\nClaude-Opus-4.7 （Anthropic, 2026c）\nN\n10.29\n35\nDeepSeek-V4-Flash （DeepSeek-Al, 2026）\nY\n10.02\n48\nY\nLongCat-Flash-Thinking-2601 （LongCat-Team et al.， 2026）\n9.74\n76\nY\n2.48\n59\nMiniMax-M2.7（MiniMax,2026b）\nY\n2.29\n54\nMini Max-M2.5（MiniMax,2026a）",
+    "description": "文章中的配图，包含文字：Reasoning Source LoHoSearch Score （%） Calibration Error （%）；Model；Closed；GPT-5.5 （OpenAL,2026）；N；34.74；48；DeepSeek-V4-Pro* （DeepSeek-AI, 2026）；Open；Y；15.99；35；Claude-Opus-4.6 （Anthropic, 2026b）；N；Closed；15.62；31；Kimi-K2.6* （Moonshot-AI,2026）；Open；15.53；Y；56；Y；Closed；13.32；72；Gemini-3.1-Pro （DeepMind, 2026）；GLM-5.1 （Zhipu-AI, 2026）；Y；Open",
+    "entities": [
+      "Reasoning Source LoHoSearch Score （%） Calibration Error （%）",
+      "Model",
+      "Closed",
+      "GPT-5.5 （OpenAL,2026）",
+      "N",
+      "34.74",
+      "48",
+      "DeepSeek-V4-Pro* （DeepSeek-AI, 2026）",
+      "Open",
+      "Y",
+      "15.99",
+      "35",
+      "Claude-Opus-4.6 （Anthropic, 2026b）",
+      "15.62",
+      "31",
+      "Kimi-K2.6* （Moonshot-AI,2026）",
+      "15.53",
+      "56",
+      "13.32",
+      "72",
+      "Gemini-3.1-Pro （DeepMind, 2026）",
+      "GLM-5.1 （Zhipu-AI, 2026）",
+      "12.77",
+      "58",
+      "Claude-Opus-4.7 （Anthropic, 2026c）",
+      "10.29",
+      "DeepSeek-V4-Flash （DeepSeek-Al, 2026）",
+      "10.02",
+      "LongCat-Flash-Thinking-2601 （LongCat-Team et al.， 2026）",
+      "9.74",
+      "76",
+      "2.48",
+      "59",
+      "MiniMax-M2.7（MiniMax,2026b）",
+      "2.29",
+      "54",
+      "Mini Max-M2.5（MiniMax,2026a）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d5c150bba7149f820cdc380a82fc77ad3e05e69cab745786ac31c76131ab8fec"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-008",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 8,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=c574c059&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FJhVy5CXYiaohok1hibcOT1IibcUqibY3ctSCv0f8wPL3EHzfUjf4byl0XKZhsHjQhAiaHWWLeIxXWFfCF407rictdHr8IpdsUgJPj69FMxmj247ag%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D12",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-008.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.027777777555555563,
+          0.878289473486842,
+          0.02222222222222222,
+          0.026315789473684292
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.8259259258240741,
+          0.8684210528289473,
+          0.02777777777777779,
+          0.03947368421052633
+        ],
+        "confidence": 0.5,
+        "text": "口"
+      },
+      {
+        "boundingBox": [
+          0.8629629645987654,
+          0.8750000001096491,
+          0.0981481481481481,
+          0.026315789473684292
+        ],
+        "confidence": 0.5,
+        "text": "BrowseComp"
+      },
+      {
+        "boundingBox": [
+          0.8296296280324075,
+          0.838815789350329,
+          0.12777777777777777,
+          0.023026315789473673
+        ],
+        "confidence": 0.3,
+        "text": "一- Median = 26"
+      },
+      {
+        "boundingBox": [
+          0.849999998425926,
+          0.8026315787828947,
+          0.09444444444444444,
+          0.023026315789473784
+        ],
+        "confidence": 0.5,
+        "text": "Mean = 35"
+      },
+      {
+        "boundingBox": [
+          0.8314130628387627,
+          0.7427952153895281,
+          0.12235905682599102,
+          0.04401483347541413
+        ],
+        "confidence": 0.3,
+        "text": "• LoHosearch"
+      },
+      {
+        "boundingBox": [
+          0.027777778055555553,
+          0.7171052633223685,
+          0.033333333333333326,
+          0.02631578947368418
+        ],
+        "confidence": 0.5,
+        "text": "20-"
+      },
+      {
+        "boundingBox": [
+          0.8296296279012345,
+          0.7269736845942982,
+          0.125925925925926,
+          0.023026315789473673
+        ],
+        "confidence": 0.3,
+        "text": "-- Median = 59"
+      },
+      {
+        "boundingBox": [
+          0.853703702191358,
+          0.684210526260965,
+          0.09074074074074068,
+          0.023026315789473673
+        ],
+        "confidence": 0.5,
+        "text": "Mean = 61"
+      },
+      {
+        "boundingBox": [
+          0.007407401115073879,
+          0.3947368444407895,
+          0.018518529997931587,
+          0.23355263157894735
+        ],
+        "confidence": 0.5,
+        "text": "Proportion （%）"
+      },
+      {
+        "boundingBox": [
+          0.02777777763888889,
+          0.5526315792214913,
+          0.027777777777777776,
+          0.0328947368421052
+        ],
+        "confidence": 0.3,
+        "text": "15"
+      },
+      {
+        "boundingBox": [
+          0.025925925864197525,
+          0.3947368423519737,
+          0.03333333333333334,
+          0.02960526315789469
+        ],
+        "confidence": 0.5,
+        "text": "10-"
+      },
+      {
+        "boundingBox": [
+          0.03703703696296296,
+          0.2368421055263158,
+          0.014814814814814815,
+          0.02631578947368418
+        ],
+        "confidence": 1,
+        "text": "5"
+      },
+      {
+        "boundingBox": [
+          0.8166666665925926,
+          0.04605263207236843,
+          0.033333333333333326,
+          0.049342105263157854
+        ],
+        "confidence": 0.3,
+        "text": "175"
+      },
+      {
+        "boundingBox": [
+          0.1944444444259259,
+          0.04605263187499986,
+          0.020370370370370372,
+          0.02960526315789469
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.29814814805555556,
+          0.04605263169856466,
+          0.020370370370370372,
+          0.02631578947368418
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.4018518518981482,
+          0.04605263194901321,
+          0.0222222222222222,
+          0.02960526315789469
+        ],
+        "confidence": 1,
+        "text": "75"
+      },
+      {
+        "boundingBox": [
+          0.5018518513271606,
+          0.052631578782894595,
+          0.031481481481481444,
+          0.023026315789473673
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.6074074075000001,
+          0.04605263128289483,
+          0.031481481481481444,
+          0.0296052631578948
+        ],
+        "confidence": 1,
+        "text": "125"
+      },
+      {
+        "boundingBox": [
+          0.712962963287037,
+          0.04605263120888159,
+          0.02962962962962956,
+          0.02960526315789469
+        ],
+        "confidence": 1,
+        "text": "150"
+      },
+      {
+        "boundingBox": [
+          0.9222222224845679,
+          0.04605263171600882,
+          0.031481481481481444,
+          0.02960526315789469
+        ],
+        "confidence": 1,
+        "text": "200"
+      },
+      {
+        "boundingBox": [
+          0.3333333290046297,
+          0.006578947162828919,
+          0.34629629629629627,
+          0.03618421052631571
+        ],
+        "confidence": 0.5,
+        "text": "Number of Tool Calls （Correct Answers）"
+      }
+    ],
+    "ocr_text": "25\n口\nBrowseComp\n一- Median = 26\nMean = 35\n• LoHosearch\n20-\n-- Median = 59\nMean = 61\nProportion （%）\n15\n10-\n5\n175\n25\n50\n75\n100\n125\n150\n200\nNumber of Tool Calls （Correct Answers）",
+    "description": "文章中的配图，包含文字：25；口；BrowseComp；一- Median = 26；Mean = 35；• LoHosearch；20-；-- Median = 59；Mean = 61；Proportion （%）；15；10-；5；175；25；50；75；100；125；150；200；Number of Tool Calls （Correct Answers）",
+    "entities": [
+      "25",
+      "口",
+      "BrowseComp",
+      "一- Median = 26",
+      "Mean = 35",
+      "• LoHosearch",
+      "20-",
+      "-- Median = 59",
+      "Mean = 61",
+      "Proportion （%）",
+      "15",
+      "10-",
+      "5",
+      "175",
+      "50",
+      "75",
+      "100",
+      "125",
+      "150",
+      "200",
+      "Number of Tool Calls （Correct Answers）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "75e37d9654ce3c2bf9bb29eb83a43536d516208f163754bf0f36324d38aee561"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-009",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 9,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=e9dd616c&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FJhVy5CXYiaoiaOiccmRj3dZXqct4zAWV0rG8yClZdeQaze6JnLcU6IAUEFIfpSPPdiciapaCxBeBfzEU67AAc79RftZvVvuZebd4YKvmWVFRia4Gc%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D14",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-009.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.03698646608447523,
+          0.8854894260979579,
+          0.03343447579277886,
+          0.02267194172692677
+        ],
+        "confidence": 0.5,
+        "text": "40%"
+      },
+      {
+        "boundingBox": [
+          0.9166666660185185,
+          0.8857142855026455,
+          0.03888888888888897,
+          0.01904761904761909
+        ],
+        "confidence": 1,
+        "text": "38.3%"
+      },
+      {
+        "boundingBox": [
+          0.7870370366358025,
+          0.8476190473015873,
+          0.03888888888888886,
+          0.01904761904761898
+        ],
+        "confidence": 1,
+        "text": "36.8%"
+      },
+      {
+        "boundingBox": [
+          0.6796296302777778,
+          0.8063492064550265,
+          0.03888888888888886,
+          0.01904761904761898
+        ],
+        "confidence": 1,
+        "text": "35.0%"
+      },
+      {
+        "boundingBox": [
+          0.03703703737037037,
+          0.7650793652063492,
+          0.03333333333333334,
+          0.025396825396825418
+        ],
+        "confidence": 1,
+        "text": "35%"
+      },
+      {
+        "boundingBox": [
+          0.5703703708796297,
+          0.7587301588888888,
+          0.040740740740740744,
+          0.01904761904761909
+        ],
+        "confidence": 0.5,
+        "text": "33.0%"
+      },
+      {
+        "boundingBox": [
+          0.46292616594226915,
+          0.6950041264802642,
+          0.04081433614095048,
+          0.019515556759304387
+        ],
+        "confidence": 0.5,
+        "text": "30.3%"
+      },
+      {
+        "boundingBox": [
+          0.037037037314814815,
+          0.6476190477513227,
+          0.03333333333333333,
+          0.022222222222222254
+        ],
+        "confidence": 0.5,
+        "text": "30%"
+      },
+      {
+        "boundingBox": [
+          0.35555555604166666,
+          0.6126984128571429,
+          0.03888888888888892,
+          0.01904761904761898
+        ],
+        "confidence": 0.5,
+        "text": "26.9%"
+      },
+      {
+        "boundingBox": [
+          0.008602831133942515,
+          0.4721974653165102,
+          0.0178582474037453,
+          0.12852524045913938
+        ],
+        "confidence": 0.5,
+        "text": "AccuraCy"
+      },
+      {
+        "boundingBox": [
+          0.037037036875000005,
+          0.5269841266666666,
+          0.03148148148148148,
+          0.02539682539682553
+        ],
+        "confidence": 1,
+        "text": "25%"
+      },
+      {
+        "boundingBox": [
+          0.2462772746045135,
+          0.49198177882807603,
+          0.0463343408372667,
+          0.031909455193413594
+        ],
+        "confidence": 0.5,
+        "text": "22.3%"
+      },
+      {
+        "boundingBox": [
+          0.4646573407150132,
+          0.47519769076444884,
+          0.03920383806581851,
+          0.02103319016713945
+        ],
+        "confidence": 1,
+        "text": "21.5%"
+      },
+      {
+        "boundingBox": [
+          0.3555555561111111,
+          0.43809523825396823,
+          0.04444444444444445,
+          0.01904761904761898
+        ],
+        "confidence": 1,
+        "text": "19.8%"
+      },
+      {
+        "boundingBox": [
+          0.03509080454448859,
+          0.4091346148668109,
+          0.03537394558941876,
+          0.026175214373876154
+        ],
+        "confidence": 1,
+        "text": "20%"
+      },
+      {
+        "boundingBox": [
+          0.907407407191358,
+          0.3777777775132275,
+          0.04814814814814805,
+          0.031746031746031744
+        ],
+        "confidence": 0.3,
+        "text": "220,2%"
+      },
+      {
+        "boundingBox": [
+          0.2481481477777778,
+          0.3777777776507937,
+          0.03703703703703706,
+          0.01904761904761909
+        ],
+        "confidence": 1,
+        "text": "17.4%"
+      },
+      {
+        "boundingBox": [
+          0.7814814823456789,
+          0.37460317476190474,
+          0.051851851851851816,
+          0.022222222222222143
+        ],
+        "confidence": 0.5,
+        "text": "19.7%_"
+      },
+      {
+        "boundingBox": [
+          0.5611111138648289,
+          0.3523809525396825,
+          0.0592592557271322,
+          0.022222222222222254
+        ],
+        "confidence": 0.3,
+        "text": "18.7%一"
+      },
+      {
+        "boundingBox": [
+          0.6722222227407407,
+          0.35555555577777775,
+          0.051851851851851816,
+          0.02857142857142858
+        ],
+        "confidence": 0.3,
+        "text": "-19,1%-"
+      },
+      {
+        "boundingBox": [
+          0.14074074145061724,
+          0.33015873037037025,
+          0.0425925925925926,
+          0.01904761904761909
+        ],
+        "confidence": 0.3,
+        "text": "15.0%，"
+      },
+      {
+        "boundingBox": [
+          0.4574074082407408,
+          0.33968253989417996,
+          0.050000000000000044,
+          0.01904761904761898
+        ],
+        "confidence": 0.3,
+        "text": "-18.1%-"
+      },
+      {
+        "boundingBox": [
+          0.46292614358337447,
+          0.3140623893417427,
+          0.038962526674623854,
+          0.01949426862928605
+        ],
+        "confidence": 1,
+        "text": "16.9%"
+      },
+      {
+        "boundingBox": [
+          0.5648148155864198,
+          0.3238095239153439,
+          0.04629629629629628,
+          0.01904761904761898
+        ],
+        "confidence": 0.5,
+        "text": "17.3%"
+      },
+      {
+        "boundingBox": [
+          0.677777778287037,
+          0.32380952392857143,
+          0.040740740740740744,
+          0.022222222222222254
+        ],
+        "confidence": 1,
+        "text": "17.5%"
+      },
+      {
+        "boundingBox": [
+          0.787037036550926,
+          0.3365079363492064,
+          0.03888888888888886,
+          0.01904761904761909
+        ],
+        "confidence": 1,
+        "text": "17.9%"
+      },
+      {
+        "boundingBox": [
+          0.9166666661805556,
+          0.34920634908730164,
+          0.03888888888888897,
+          0.015873015873015817
+        ],
+        "confidence": 1,
+        "text": "18.4%"
+      },
+      {
+        "boundingBox": [
+          0.035185184745370385,
+          0.2888888888095239,
+          0.035185185185185194,
+          0.025396825396825418
+        ],
+        "confidence": 1,
+        "text": "15%"
+      },
+      {
+        "boundingBox": [
+          0.2481481487962963,
+          0.2984126985185185,
+          0.03888888888888889,
+          0.01904761904761909
+        ],
+        "confidence": 1,
+        "text": "16.3%"
+      },
+      {
+        "boundingBox": [
+          0.3555248353659674,
+          0.2823536798015508,
+          0.03895033023975514,
+          0.019419623178149048
+        ],
+        "confidence": 1,
+        "text": "16.6%"
+      },
+      {
+        "boundingBox": [
+          0.09259259324074073,
+          0.2603174604232804,
+          0.03888888888888889,
+          0.01904761904761898
+        ],
+        "confidence": 1,
+        "text": "12.9%"
+      },
+      {
+        "boundingBox": [
+          0.18333333289351852,
+          0.2603174605952381,
+          0.0425925925925926,
+          0.022222222222222143
+        ],
+        "confidence": 1,
+        "text": "13.0%"
+      },
+      {
+        "boundingBox": [
+          0.24814814863425927,
+          0.2634920636507936,
+          0.03888888888888892,
+          0.01904761904761909
+        ],
+        "confidence": 0.5,
+        "text": "15.9%"
+      },
+      {
+        "boundingBox": [
+          0.8036156471835949,
+          0.2343742459734941,
+          0.05943537111635566,
+          0.029664204612610767
+        ],
+        "confidence": 1,
+        "text": "Pass@N"
+      },
+      {
+        "boundingBox": [
+          0.8055430577785951,
+          0.20623845735819646,
+          0.06669165999801063,
+          0.022443719894166936
+        ],
+        "confidence": 0.5,
+        "text": "Best of N"
+      },
+      {
+        "boundingBox": [
+          0.08888888836419755,
+          0.19682539661375664,
+          0.031481481481481485,
+          0.01904761904761898
+        ],
+        "confidence": 0.5,
+        "text": "9.3%"
+      },
+      {
+        "boundingBox": [
+          0.1388888884027778,
+          0.1936507934920636,
+          0.03888888888888889,
+          0.01904761904761898
+        ],
+        "confidence": 1,
+        "text": "13.0%"
+      },
+      {
+        "boundingBox": [
+          0.035185184833333334,
+          0.17142857130158717,
+          0.0351851851851852,
+          0.025396825396825418
+        ],
+        "confidence": 1,
+        "text": "10%"
+      },
+      {
+        "boundingBox": [
+          0.764814812824074,
+          0.1650793650000001,
+          0.15925925925925932,
+          0.025396825396825418
+        ],
+        "confidence": 0.3,
+        "text": "-一 Weighted Voting"
+      },
+      {
+        "boundingBox": [
+          0.7777777794117569,
+          0.12698412686507932,
+          0.13518518165305804,
+          0.02857142857142858
+        ],
+        "confidence": 0.3,
+        "text": "-— Majority Voting"
+      },
+      {
+        "boundingBox": [
+          0.15370370388888888,
+          0.06349206365079374,
+          0.0111111111111111,
+          0.022222222222222254
+        ],
+        "confidence": 1,
+        "text": "2"
+      },
+      {
+        "boundingBox": [
+          0.2629629630555555,
+          0.06349206312169309,
+          0.0092592592592593,
+          0.022222222222222254
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.3703703702777778,
+          0.06349206386243389,
+          0.009259259259259245,
+          0.022222222222222254
+        ],
+        "confidence": 1,
+        "text": "6"
+      },
+      {
+        "boundingBox": [
+          0.5796296294598765,
+          0.060317460158730074,
+          0.020370370370370372,
+          0.025396825396825307
+        ],
+        "confidence": 1,
+        "text": "10"
+      },
+      {
+        "boundingBox": [
+          0.6870370367824074,
+          0.060317460158730074,
+          0.020370370370370372,
+          0.025396825396825307
+        ],
+        "confidence": 1,
+        "text": "12"
+      },
+      {
+        "boundingBox": [
+          0.7944444442222223,
+          0.060317460190476124,
+          0.022222222222222254,
+          0.025396825396825418
+        ],
+        "confidence": 1,
+        "text": "14"
+      },
+      {
+        "boundingBox": [
+          0.9037037038734568,
+          0.060317460476190576,
+          0.020370370370370372,
+          0.025396825396825418
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "boundingBox": [
+          0.4296296309567901,
+          0.012698412830687844,
+          0.15925925925925932,
+          0.02857142857142858
+        ],
+        "confidence": 1,
+        "text": "Number of samples"
+      }
+    ],
+    "ocr_text": "40%\n38.3%\n36.8%\n35.0%\n35%\n33.0%\n30.3%\n30%\n26.9%\nAccuraCy\n25%\n22.3%\n21.5%\n19.8%\n20%\n220,2%\n17.4%\n19.7%_\n18.7%一\n-19,1%-\n15.0%，\n-18.1%-\n16.9%\n17.3%\n17.5%\n17.9%\n18.4%\n15%\n16.3%\n16.6%\n12.9%\n13.0%\n15.9%\nPass@N\nBest of N\n9.3%\n13.0%\n10%\n-一 Weighted Voting\n-— Majority Voting\n2\n4\n6\n10\n12\n14\n16\nNumber of samples",
+    "description": "文章中的配图，包含文字：40%；38.3%；36.8%；35.0%；35%；33.0%；30.3%；30%；26.9%；AccuraCy；25%；22.3%；21.5%；19.8%；20%；220,2%；17.4%；19.7%_；18.7%一；-19,1%-；15.0%，；-18.1%-；16.9%；17.3%；17.5%；17.9%；18.4%；15%；16.3%；16.6%",
+    "entities": [
+      "40%",
+      "38.3%",
+      "36.8%",
+      "35.0%",
+      "35%",
+      "33.0%",
+      "30.3%",
+      "30%",
+      "26.9%",
+      "AccuraCy",
+      "25%",
+      "22.3%",
+      "21.5%",
+      "19.8%",
+      "20%",
+      "220,2%",
+      "17.4%",
+      "19.7%_",
+      "18.7%一",
+      "-19,1%-",
+      "15.0%，",
+      "-18.1%-",
+      "16.9%",
+      "17.3%",
+      "17.5%",
+      "17.9%",
+      "18.4%",
+      "15%",
+      "16.3%",
+      "16.6%",
+      "12.9%",
+      "13.0%",
+      "15.9%",
+      "Pass@N",
+      "Best of N",
+      "9.3%",
+      "10%",
+      "-一 Weighted Voting",
+      "-— Majority Voting",
+      "2",
+      "4",
+      "6",
+      "10",
+      "12",
+      "14",
+      "16",
+      "Number of samples"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "88def59c781dc8e7ffb534b6a36ce73a25e365181d67cee6ab87fcd8d340994b"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-010",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 10,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=fbaf0b25&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_png%2FJhVy5CXYiaogQbOBzapcuXoic2xdOVzrmH0L2LldU2qpLghpjsicVmibhJAFXERMLzEia782vUDfiavpibsCNgua2TsD7XWCRITnff4Mk7Kbtb6CrA%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D16",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-010.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.45416666958333324,
+          0.8191489358957389,
+          0.5249999999999999,
+          0.12871836260031744
+        ],
+        "confidence": 1,
+        "text": "BrowseComp LoHoSearch"
+      },
+      {
+        "boundingBox": [
+          0.025070009976148982,
+          0.8351248438918533,
+          0.15538708722149883,
+          0.09173536074670008
+        ],
+        "confidence": 1,
+        "text": "Strategy"
+      },
+      {
+        "boundingBox": [
+          0.025752131884310792,
+          0.6520059686630736,
+          0.14849573771158853,
+          0.08935299190864743
+        ],
+        "confidence": 1,
+        "text": "Baseline"
+      },
+      {
+        "boundingBox": [
+          0.5294551461619358,
+          0.6386837930156335,
+          0.10220081894486044,
+          0.10651866858604397
+        ],
+        "confidence": 1,
+        "text": "58.84"
+      },
+      {
+        "boundingBox": [
+          0.8109575908435319,
+          0.6388384510432944,
+          0.10030704074435759,
+          0.1062093481633336
+        ],
+        "confidence": 1,
+        "text": "10.02"
+      },
+      {
+        "boundingBox": [
+          0.025751975080263396,
+          0.44305438516700124,
+          0.21886641890914352,
+          0.1091518899275793
+        ],
+        "confidence": 0.5,
+        "text": "W/ Summary"
+      },
+      {
+        "boundingBox": [
+          0.5296296291255144,
+          0.45023696743022645,
+          0.10185185185185186,
+          0.1090047393364929
+        ],
+        "confidence": 1,
+        "text": "63.90"
+      },
+      {
+        "boundingBox": [
+          0.8109720725770738,
+          0.44936642869267496,
+          0.09472252174660012,
+          0.1012671366687069
+        ],
+        "confidence": 1,
+        "text": "11.31"
+      },
+      {
+        "boundingBox": [
+          0.027777779567901197,
+          0.3317535552132702,
+          0.24074074074074073,
+          0.08530805687203791
+        ],
+        "confidence": 0.5,
+        "text": "w/ Discard-all"
+      },
+      {
+        "boundingBox": [
+          0.5294162397886343,
+          0.316154827484764,
+          0.10227863170482498,
+          0.10702683688340031
+        ],
+        "confidence": 1,
+        "text": "67.10"
+      },
+      {
+        "boundingBox": [
+          0.8111111117245371,
+          0.31753554537914697,
+          0.0981481481481481,
+          0.10426540284360186
+        ],
+        "confidence": 1,
+        "text": "12.41"
+      },
+      {
+        "boundingBox": [
+          0.02592592645061726,
+          0.17535545084254878,
+          0.3685185185185185,
+          0.1090047393364928
+        ],
+        "confidence": 0.5,
+        "text": "w/ Summary + Verify"
+      },
+      {
+        "boundingBox": [
+          0.5296296297427984,
+          0.18009478612427587,
+          0.0981481481481481,
+          0.1090047393364929
+        ],
+        "confidence": 1,
+        "text": "67.81"
+      },
+      {
+        "boundingBox": [
+          0.8129629623958334,
+          0.18483412387440756,
+          0.0981481481481482,
+          0.10426540284360186
+        ],
+        "confidence": 0.5,
+        "text": "15.35"
+      },
+      {
+        "boundingBox": [
+          0.025925928034979402,
+          0.04265402785676675,
+          0.38703703703703707,
+          0.10426540284360186
+        ],
+        "confidence": 0.5,
+        "text": "w/ Discard-all + Verify"
+      },
+      {
+        "boundingBox": [
+          0.5295824546321782,
+          0.042376797843673764,
+          0.10194620203088833,
+          0.11429853574924564
+        ],
+        "confidence": 1,
+        "text": "72.87"
+      },
+      {
+        "boundingBox": [
+          0.8106093542356992,
+          0.044385540156309244,
+          0.10285536448160804,
+          0.1197597268633368
+        ],
+        "confidence": 1,
+        "text": "16.82"
+      }
+    ],
+    "ocr_text": "BrowseComp LoHoSearch\nStrategy\nBaseline\n58.84\n10.02\nW/ Summary\n63.90\n11.31\nw/ Discard-all\n67.10\n12.41\nw/ Summary + Verify\n67.81\n15.35\nw/ Discard-all + Verify\n72.87\n16.82",
+    "description": "文章中的配图，包含文字：BrowseComp LoHoSearch；Strategy；Baseline；58.84；10.02；W/ Summary；63.90；11.31；w/ Discard-all；67.10；12.41；w/ Summary + Verify；67.81；15.35；w/ Discard-all + Verify；72.87；16.82",
+    "entities": [
+      "BrowseComp LoHoSearch",
+      "Strategy",
+      "Baseline",
+      "58.84",
+      "10.02",
+      "W/ Summary",
+      "63.90",
+      "11.31",
+      "w/ Discard-all",
+      "67.10",
+      "12.41",
+      "w/ Summary + Verify",
+      "67.81",
+      "15.35",
+      "w/ Discard-all + Verify",
+      "72.87",
+      "16.82"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "17b231f84ae4c606b8f745a646afa15064a36e9cbd61ab92af915fec962b3940"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-011",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 11,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=cec416b0&u=https%3A%2F%2Fmmbiz.qpic.cn%2Fsz_mmbiz_png%2FJhVy5CXYiaoh5DghtHP9FicAmlJRQZT38XVaMxVysQwPSfNPHDc8T2HutHR0IFBN49WHHErSU1491Cia7fjblNgibvibkEob4hpNhlKicgHHDe7SE%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg%23imgIndex%3D18",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-011.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7555555554115226,
+          0.9222222219444445,
+          0.025925925925925908,
+          0.061111111111111116
+        ],
+        "confidence": 1,
+        "text": "（b）"
+      },
+      {
+        "boundingBox": [
+          0.253703703462963,
+          0.9277777775555556,
+          0.024074074074074026,
+          0.0444444444444444
+        ],
+        "confidence": 1,
+        "text": "（a）"
+      },
+      {
+        "boundingBox": [
+          0.4444444447222222,
+          0.8888888893518518,
+          0.0314814814814815,
+          0.02777777777777779
+        ],
+        "confidence": 1,
+        "text": "54.6%"
+      },
+      {
+        "boundingBox": [
+          0.5203703705092593,
+          0.8777777783333334,
+          0.025925925925925908,
+          0.0444444444444444
+        ],
+        "confidence": 0.3,
+        "text": "351"
+      },
+      {
+        "boundingBox": [
+          0.5888888892824075,
+          0.8888888890972222,
+          0.031481481481481444,
+          0.02777777777777779
+        ],
+        "confidence": 1,
+        "text": "34.0%"
+      },
+      {
+        "boundingBox": [
+          0.07584564698327474,
+          0.8487307518444744,
+          0.07608648229528357,
+          0.04698294003804526
+        ],
+        "confidence": 1,
+        "text": "LoHoSearch"
+      },
+      {
+        "boundingBox": [
+          0.892592593425926,
+          0.8444444446666667,
+          0.08333333333333326,
+          0.0444444444444444
+        ],
+        "confidence": 1,
+        "text": "LoHoSearch"
+      },
+      {
+        "boundingBox": [
+          0.01851851840740741,
+          0.7833333339444445,
+          0.02962962962962963,
+          0.061111111111111116
+        ],
+        "confidence": 0.3,
+        "text": "50-"
+      },
+      {
+        "boundingBox": [
+          0.07941068975898374,
+          0.7911739243527353,
+          0.07821565557409216,
+          0.05654104020860462
+        ],
+        "confidence": 1,
+        "text": "BrowseComp"
+      },
+      {
+        "boundingBox": [
+          0.8999085780265167,
+          0.7875116061890868,
+          0.08166432557282621,
+          0.05275456640455456
+        ],
+        "confidence": 1,
+        "text": "BrowseComp"
+      },
+      {
+        "boundingBox": [
+          0.5203703705026456,
+          0.7666666669047619,
+          0.01851851851851849,
+          0.0444444444444444
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.7739105510303402,
+          0.6818878931332129,
+          0.03180852819372104,
+          0.03622421158684619
+        ],
+        "confidence": 0.5,
+        "text": "25.0%"
+      },
+      {
+        "boundingBox": [
+          0.0037037040740740654,
+          0.5888888896296296,
+          0.04444444444444444,
+          0.11111111111111116
+        ],
+        "confidence": 0.3,
+        "text": "M901"
+      },
+      {
+        "boundingBox": [
+          0.6555555559259258,
+          0.6555555557222222,
+          0.03703703703703698,
+          0.03888888888888886
+        ],
+        "confidence": 1,
+        "text": "24.0%"
+      },
+      {
+        "boundingBox": [
+          0.26666666708333336,
+          0.6388888890972222,
+          0.033333333333333326,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "36.8%"
+      },
+      {
+        "boundingBox": [
+          0.3203703702777778,
+          0.6055555556372549,
+          0.0314814814814815,
+          0.02777777777777768
+        ],
+        "confidence": 1,
+        "text": "34.6%"
+      },
+      {
+        "boundingBox": [
+          0.6296296291898148,
+          0.5833333330555556,
+          0.03518518518518521,
+          0.0444444444444444
+        ],
+        "confidence": 0.5,
+        "text": "21.0%"
+      },
+      {
+        "boundingBox": [
+          0.7277777771913582,
+          0.5944444441666668,
+          0.0351851851851851,
+          0.02777777777777768
+        ],
+        "confidence": 0.5,
+        "text": "21.0%"
+      },
+      {
+        "boundingBox": [
+          0.0037037000789840154,
+          0.36111111296296294,
+          0.014814821879069011,
+          0.2222222222222222
+        ],
+        "confidence": 1,
+        "text": "Proportion"
+      },
+      {
+        "boundingBox": [
+          0.503703703968254,
+          0.4777777784920635,
+          0.03703703703703698,
+          0.11111111111111105
+        ],
+        "confidence": 0.3,
+        "text": "喜20"
+      },
+      {
+        "boundingBox": [
+          0.7018518519629631,
+          0.5222222226111111,
+          0.033333333333333326,
+          0.03888888888888897
+        ],
+        "confidence": 0.5,
+        "text": "18.0%"
+      },
+      {
+        "boundingBox": [
+          0.01851851872222222,
+          0.5111111113888889,
+          0.02037037037037037,
+          0.03888888888888886
+        ],
+        "confidence": 1,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.5592592589660493,
+          0.4722222219444444,
+          0.03518518518518521,
+          0.0444444444444444
+        ],
+        "confidence": 1,
+        "text": "16.0%"
+      },
+      {
+        "boundingBox": [
+          0.505555555478395,
+          0.46111111134259253,
+          0.012962962962962954,
+          0.02777777777777779
+        ],
+        "confidence": 0.3,
+        "text": "◎"
+      },
+      {
+        "boundingBox": [
+          0.8425925929861111,
+          0.44999999944444447,
+          0.03518518518518521,
+          0.04444444444444451
+        ],
+        "confidence": 1,
+        "text": "15.0%"
+      },
+      {
+        "boundingBox": [
+          0.518518518425926,
+          0.4277777780246914,
+          0.020370370370370372,
+          0.0444444444444444
+        ],
+        "confidence": 1,
+        "text": "15"
+      },
+      {
+        "boundingBox": [
+          0.5037037018450475,
+          0.3555555561419753,
+          0.016666670198793754,
+          0.10555555555555551
+        ],
+        "confidence": 0.5,
+        "text": "Prop"
+      },
+      {
+        "boundingBox": [
+          0.014814814500000007,
+          0.3666666663888889,
+          0.03148148148148148,
+          0.050000000000000044
+        ],
+        "confidence": 0.3,
+        "text": "：20-"
+      },
+      {
+        "boundingBox": [
+          0.8000000004166666,
+          0.39444444465277784,
+          0.033333333333333326,
+          0.02777777777777768
+        ],
+        "confidence": 0.3,
+        "text": "12.0%"
+      },
+      {
+        "boundingBox": [
+          0.21481481514814815,
+          0.3722222224444445,
+          0.033333333333333326,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "18.1%"
+      },
+      {
+        "boundingBox": [
+          0.5185185187962963,
+          0.3166666668888889,
+          0.02777777777777779,
+          0.04444444444444451
+        ],
+        "confidence": 0.5,
+        "text": "10-"
+      },
+      {
+        "boundingBox": [
+          0.8740740743333333,
+          0.3000000002222223,
+          0.02592592592592602,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "8.0%"
+      },
+      {
+        "boundingBox": [
+          0.3925925922777778,
+          0.26111111088888883,
+          0.031481481481481444,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "10.1%"
+      },
+      {
+        "boundingBox": [
+          0.018518518730158726,
+          0.2222222224999999,
+          0.029629629629629627,
+          0.061111111111111116
+        ],
+        "confidence": 1,
+        "text": "10-"
+      },
+      {
+        "boundingBox": [
+          0.2888019256897877,
+          0.23822550889777572,
+          0.02795170324820062,
+          0.03466009298960371
+        ],
+        "confidence": 0.5,
+        "text": "8.6%"
+      },
+      {
+        "boundingBox": [
+          0.342592593259575,
+          0.24444444388888897,
+          0.027777776011714217,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "9.1%"
+      },
+      {
+        "boundingBox": [
+          0.9185185187777778,
+          0.23333333355555552,
+          0.025925925925925908,
+          0.03333333333333344
+        ],
+        "confidence": 0.5,
+        "text": "5.0%"
+      },
+      {
+        "boundingBox": [
+          0.16666666699074073,
+          0.21666666687500002,
+          0.025925925925925936,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "6.7%"
+      },
+      {
+        "boundingBox": [
+          0.5296296297685186,
+          0.2055555558333333,
+          0.011111111111111072,
+          0.0444444444444444
+        ],
+        "confidence": 0.3,
+        "text": "5"
+      },
+      {
+        "boundingBox": [
+          0.23888888921296295,
+          0.2055555558333333,
+          0.025925925925925936,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "6.2%"
+      },
+      {
+        "boundingBox": [
+          0.07774559760993653,
+          0.14956226124539052,
+          0.08339769575330945,
+          0.05643103387620707
+        ],
+        "confidence": 0.3,
+        "text": "3.5% 2.60.7%"
+      },
+      {
+        "boundingBox": [
+          0.1833333337037037,
+          0.1777777780555555,
+          0.029629629629629617,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "4.1%"
+      },
+      {
+        "boundingBox": [
+          0.05925925957407406,
+          0.127777778,
+          0.031481481481481485,
+          0.04444444444444451
+        ],
+        "confidence": 0.5,
+        "text": "1.3%"
+      },
+      {
+        "boundingBox": [
+          0.9388888886851853,
+          0.13333333377777778,
+          0.031481481481481444,
+          0.04444444444444451
+        ],
+        "confidence": 0.5,
+        "text": "1.0%"
+      },
+      {
+        "boundingBox": [
+          0.1703703702777778,
+          0.050000000611111095,
+          0.03518518518518518,
+          0.061111111111111116
+        ],
+        "confidence": 0.3,
+        "text": "［4,8）"
+      },
+      {
+        "boundingBox": [
+          0.06851851842592593,
+          0.04999999955555556,
+          0.031481481481481485,
+          0.0444444444444444
+        ],
+        "confidence": 0.5,
+        "text": "［1,2）"
+      },
+      {
+        "boundingBox": [
+          0.11666666650462963,
+          0.04444444381944446,
+          0.035185185185185194,
+          0.04999999999999993
+        ],
+        "confidence": 0.3,
+        "text": "［2.4）"
+      },
+      {
+        "boundingBox": [
+          0.22037036942592592,
+          0.049999999722222355,
+          0.09444444444444444,
+          0.04999999999999993
+        ],
+        "confidence": 0.3,
+        "text": "［8,16） ［16,32）"
+      },
+      {
+        "boundingBox": [
+          0.31481481529629624,
+          0.050000000500000086,
+          0.10740740740740745,
+          0.050000000000000044
+        ],
+        "confidence": 0.5,
+        "text": "［32,64） ［64,128）"
+      },
+      {
+        "boundingBox": [
+          0.4333333332671958,
+          0.05555555569444459,
+          0.033333333333333326,
+          0.03888888888888886
+        ],
+        "confidence": 0.5,
+        "text": "≥128"
+      },
+      {
+        "boundingBox": [
+          0.5759259258333332,
+          0.04999999955555556,
+          0.031481481481481555,
+          0.0444444444444444
+        ],
+        "confidence": 0.5,
+        "text": "［1,2）"
+      },
+      {
+        "boundingBox": [
+          0.646296296558642,
+          0.050000000277777734,
+          0.031481481481481444,
+          0.0444444444444444
+        ],
+        "confidence": 0.3,
+        "text": "［2,4）"
+      },
+      {
+        "boundingBox": [
+          0.7148148151666668,
+          0.050000000333333294,
+          0.0351851851851851,
+          0.0444444444444444
+        ],
+        "confidence": 0.5,
+        "text": "［4,8）"
+      },
+      {
+        "boundingBox": [
+          0.7796296292037037,
+          0.05555555527777767,
+          0.042592592592592515,
+          0.03888888888888897
+        ],
+        "confidence": 0.5,
+        "text": "［8,16）"
+      },
+      {
+        "boundingBox": [
+          0.84814814875,
+          0.050000000208333395,
+          0.04814814814814805,
+          0.04999999999999993
+        ],
+        "confidence": 0.5,
+        "text": "［16,32）"
+      },
+      {
+        "boundingBox": [
+          0.9203434012766037,
+          0.049745861916556056,
+          0.0463502354092068,
+          0.04495272106594517
+        ],
+        "confidence": 0.5,
+        "text": "［32,64）"
+      },
+      {
+        "boundingBox": [
+          0.22942634924974709,
+          0.0023612608511437427,
+          0.07262878417968749,
+          0.050833034515380904
+        ],
+        "confidence": 1,
+        "text": "In Degree"
+      },
+      {
+        "boundingBox": [
+          0.6907407396428572,
+          0.005555555277777846,
+          0.15370370370370368,
+          0.050000000000000044
+        ],
+        "confidence": 0.5,
+        "text": "Matching Entity Count"
+      }
+    ],
+    "ocr_text": "（b）\n（a）\n54.6%\n351\n34.0%\nLoHoSearch\nLoHoSearch\n50-\nBrowseComp\nBrowseComp\n30\n25.0%\nM901\n24.0%\n36.8%\n34.6%\n21.0%\n21.0%\nProportion\n喜20\n18.0%\n30\n16.0%\n◎\n15.0%\n15\nProp\n：20-\n12.0%\n18.1%\n10-\n8.0%\n10.1%\n10-\n8.6%\n9.1%\n5.0%\n6.7%\n5\n6.2%\n3.5% 2.60.7%\n4.1%\n1.3%\n1.0%\n［4,8）\n［1,2）\n［2.4）\n［8,16） ［16,32）\n［32,64） ［64,128）\n≥128\n［1,2）\n［2,4）\n［4,8）\n［8,16）\n［16,32）\n［32,64）\nIn Degree\nMatching Entity Count",
+    "description": "文章中的配图，包含文字：（b）；（a）；54.6%；351；34.0%；LoHoSearch；LoHoSearch；50-；BrowseComp；BrowseComp；30；25.0%；M901；24.0%；36.8%；34.6%；21.0%；21.0%；Proportion；喜20；18.0%；30；16.0%；◎；15.0%；15；Prop；：20-；12.0%；18.1%",
+    "entities": [
+      "（b）",
+      "（a）",
+      "54.6%",
+      "351",
+      "34.0%",
+      "LoHoSearch",
+      "50-",
+      "BrowseComp",
+      "30",
+      "25.0%",
+      "M901",
+      "24.0%",
+      "36.8%",
+      "34.6%",
+      "21.0%",
+      "Proportion",
+      "喜20",
+      "18.0%",
+      "16.0%",
+      "◎",
+      "15.0%",
+      "15",
+      "Prop",
+      "：20-",
+      "12.0%",
+      "18.1%",
+      "10-",
+      "8.0%",
+      "10.1%",
+      "8.6%",
+      "9.1%",
+      "5.0%",
+      "6.7%",
+      "5",
+      "6.2%",
+      "3.5% 2.60.7%",
+      "4.1%",
+      "1.3%",
+      "1.0%",
+      "［4,8）",
+      "［1,2）",
+      "［2.4）",
+      "［8,16） ［16,32）",
+      "［32,64） ［64,128）",
+      "≥128",
+      "［2,4）",
+      "［8,16）",
+      "［16,32）",
+      "［32,64）",
+      "In Degree",
+      "Matching Entity Count"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "34d36a54567e9cad22178f5aa08e34d0286f71f3ef283e09957c5d0556c90524"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-012",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 12,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=1b8b710e&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_gif%2FV95GN2mm0DyAv1GPbCKwzRn0FJLRg6hMwq7qEUtdWnOMxdHjoRVxgQB2EqUGHykTxwxq8JRtdPbQmWvkUSNsLxxDNbqqibcq6Tyibp3cTrDmU%2F640%3Fwx_fmt%3Dgif%26from%3Dappmsg",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-012.gif",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.8899698325237735,
+          0.05997769173041234,
+          0.10206033325195307,
+          0.06094913386819356
+        ],
+        "confidence": 1,
+        "text": "code better"
+      }
+    ],
+    "ocr_text": "code better",
+    "description": "文章中的配图，包含文字：code better",
+    "entities": [
+      "code better"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9cea1906d7eeab92d5500822bf76298501a325f20d17451031eb217325597b41"
+  },
+  {
+    "figure_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0-fig-013",
+    "doc_id": "2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0",
+    "seq": 13,
+    "source_url": "https://wechat2rss.xlab.app/img-proxy/?k=e30fb858&u=https%3A%2F%2Fmmecoa.qpic.cn%2Fsz_mmecoa_png%2FV95GN2mm0DwViajPwVeb1YTd0gEctbhDToJficJotF8KF03eqrlZgcoDNpLic0OGQIAd5ibZsxzL4Yf2FJ7iaMZFg5gMt0bN4uVOQ7c9wpuItPIA%2F640%3Fwx_fmt%3Dpng%26from%3Dappmsg",
+    "image_path": "images/2365-下一代搜索智能体评测基准-美团开源LoHoSearch-用知识图谱校准AI能力认知-ac10bcb0/figure-013.png",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2555555560016835,
+          0.4745762720338983,
+          0.09814814814814815,
+          0.35593220338983045
+        ],
+        "confidence": 1,
+        "text": "小红书"
+      },
+      {
+        "boundingBox": [
+          0.6907407406216931,
+          0.4745762737288135,
+          0.03888888888888897,
+          0.35593220338983056
+        ],
+        "confidence": 1,
+        "text": "知"
+      },
+      {
+        "boundingBox": [
+          0.8925925926851852,
+          0.45762711657250477,
+          0.03888888888888897,
+          0.3728813559322034
+        ],
+        "confidence": 0.5,
+        "text": "X"
+      },
+      {
+        "boundingBox": [
+          0.06481481526455025,
+          0.47457626876513315,
+          0.07407407407407408,
+          0.3389830508474576
+        ],
+        "confidence": 1,
+        "text": "Blog"
+      },
+      {
+        "boundingBox": [
+          0.4681933373264167,
+          0.484445556360114,
+          0.07842814127604164,
+          0.31924448174945375
+        ],
+        "confidence": 0.3,
+        "text": "bililbili"
+      },
+      {
+        "boundingBox": [
+          0.44071637718308415,
+          0.1514063390300081,
+          0.13153021070692278,
+          0.23956020807815814
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.8387662667296923,
+          0.14612127703583333,
+          0.14468968709309882,
+          0.25013033010191843
+        ],
+        "confidence": 1,
+        "text": "@Meituan_Tech"
+      },
+      {
+        "boundingBox": [
+          0.23888888816358023,
+          0.15254237471751408,
+          0.13148148148148148,
+          0.22033898305084743
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.6444444453835979,
+          0.1525423738498789,
+          0.13148148148148153,
+          0.2033898305084746
+        ],
+        "confidence": 1,
+        "text": "@美团技术团队"
+      },
+      {
+        "boundingBox": [
+          0.016666665462962995,
+          0.13559322266949148,
+          0.16666666666666669,
+          0.18644067796610164
+        ],
+        "confidence": 1,
+        "text": "tech.meituan.com"
+      }
+    ],
+    "ocr_text": "小红书\n知\nX\nBlog\nbililbili\n@美团技术团队\n@Meituan_Tech\n@美团技术团队\n@美团技术团队\ntech.meituan.com",
+    "description": "文章中的配图，包含文字：小红书；知；X；Blog；bililbili；@美团技术团队；@Meituan_Tech；@美团技术团队；@美团技术团队；tech.meituan.com",
+    "entities": [
+      "小红书",
+      "知",
+      "X",
+      "Blog",
+      "bililbili",
+      "@美团技术团队",
+      "@Meituan_Tech",
+      "tech.meituan.com"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "713898f6ed0b38773e8d10c5cabcad44f0bda56a4c7bdf0f209fb818c2df5c1f"
+  }
+]

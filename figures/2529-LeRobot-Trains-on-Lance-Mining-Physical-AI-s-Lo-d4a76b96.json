@@ -1,0 +1,594 @@
+[
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-001",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6ddca8580edea17fa1de7_september%20hero.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-001.png",
+    "section": "🤖 LeRobot Trains on Lance, ⛏️ Mining Physical AI's Long Tail, 🔍 Vector Search at 10B Scale",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.024709293757854134,
+          0.5090439242248973,
+          0.8851744333902994,
+          0.16795866224500877
+        ],
+        "confidence": 0.5,
+        "text": "•September 2026"
+      },
+      {
+        "boundingBox": [
+          0.3212209353372162,
+          0.29166666734509417,
+          0.3924418449401855,
+          0.0778423768502694
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "•September 2026\n•LanceDB Newsletter",
+    "description": "🤖 LeRobot Trains on Lance, ⛏️ Mining Physical AI's Long Tail, 🔍 Vector Search at 10B Scale中的配图，包含文字：•September 2026；•LanceDB Newsletter",
+    "entities": [
+      "•September 2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ef0234216549825063cea122648d9f15b4352f59691cfa2fd409de62fdcefef6"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-002",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6dde8de4976940f9d7823_lerobot%20lancedb.jpeg",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-002.jpg",
+    "section": "🤖 How To Train Your Robot: The LanceDB Edition",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.12916666488425926,
+          0.10370370444444443,
+          0.7458333333333333,
+          0.1333333333333333
+        ],
+        "confidence": 0.5,
+        "text": "LeRobot LanceDB"
+      }
+    ],
+    "ocr_text": "LeRobot LanceDB",
+    "description": "🤖 How To Train Your Robot: The LanceDB Edition中的配图，包含文字：LeRobot LanceDB",
+    "entities": [
+      "LeRobot LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d49b86eae39fd7a3d93bbe2036a0734f8a08127ff51d73662a9ca2aa4d3cb181"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-003",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6ddf8114b73f6b0749297_physical%20ai%20hero.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-003.png",
+    "section": "⛏️ Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07700627552214694,
+          0.9041498330912595,
+          0.11052233378092448,
+          0.041829533047146206
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.024709299781418417,
+          0.17312661567278398,
+          0.8633721033732096,
+          0.08798449480975112
+        ],
+        "confidence": 0.5,
+        "text": "Turning Fleet Data Into Better Models："
+      },
+      {
+        "boundingBox": [
+          0.02470931378817293,
+          0.0694444437614028,
+          0.9273255666097004,
+          0.0881782955593533
+        ],
+        "confidence": 0.5,
+        "text": "The Data Mining Challenge in Physical AI"
+      }
+    ],
+    "ocr_text": "LanceDB\nTurning Fleet Data Into Better Models：\nThe Data Mining Challenge in Physical AI",
+    "description": "⛏️ Turning Fleet Data Into Better Models: The Data Mining Challenge in Physical AI中的配图，包含文字：LanceDB；Turning Fleet Data Into Better Models：；The Data Mining Challenge in Physical AI",
+    "entities": [
+      "LanceDB",
+      "Turning Fleet Data Into Better Models：",
+      "The Data Mining Challenge in Physical AI"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ea8a8a102e3a9a42a28437625f6e86a9e9127ef63ed33458dd591779784deb49"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-004",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6de0568660e1fe56c844c_vector%20search%20hero.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-004.png",
+    "section": "🔍 From 10 Million to 10 Billion: Vector Search Built to Grow",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10315648127780032,
+          0.8756040115008327,
+          0.1367102940877279,
+          0.049825569435402284
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.025000003541666576,
+          0.1703703692592593,
+          0.9500000000000001,
+          0.0888888888888889
+        ],
+        "confidence": 0.5,
+        "text": "From 10 Million to 10 Billion: Vector Search"
+      },
+      {
+        "boundingBox": [
+          0.027616278302413585,
+          0.08518518415052001,
+          0.29215116500854493,
+          0.07243755481861258
+        ],
+        "confidence": 0.5,
+        "text": "Built to Grow"
+      }
+    ],
+    "ocr_text": "LanceDB\nFrom 10 Million to 10 Billion: Vector Search\nBuilt to Grow",
+    "description": "🔍 From 10 Million to 10 Billion: Vector Search Built to Grow中的配图，包含文字：LanceDB；From 10 Million to 10 Billion: Vector Search；Built to Grow",
+    "entities": [
+      "LanceDB",
+      "From 10 Million to 10 Billion: Vector Search",
+      "Built to Grow"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "868a3d6d31fe8ba35a6434b02f6fa551b341e6d0740674e91fe40447a2ae794f"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-005",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6de19fb672e32357a0e16_open%20intelligence%20summit.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-005.png",
+    "section": "📅 Upcoming Events",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11241218107552567,
+          0.7870370364537037,
+          0.37470725377400715,
+          0.1171296296296297
+        ],
+        "confidence": 0.5,
+        "text": "Open IntelLigence Summit"
+      },
+      {
+        "boundingBox": [
+          0.1583333368229166,
+          0.6907407402533504,
+          0.2791666666666667,
+          0.07407407407407407
+        ],
+        "confidence": 0.3,
+        "text": "By S DigitalOcean & @ nVIDIA"
+      },
+      {
+        "boundingBox": [
+          0.20960187494832622,
+          0.5666666672395833,
+          0.18149882952372232,
+          0.04629629629629639
+        ],
+        "confidence": 0.5,
+        "text": "October 12-13• San Francisco"
+      },
+      {
+        "boundingBox": [
+          0.821955148237255,
+          0.49928656697901563,
+          0.09145270188649501,
+          0.09726019965277777
+        ],
+        "confidence": 0.5,
+        "text": "Lei Xu"
+      },
+      {
+        "boundingBox": [
+          0.8219533813092923,
+          0.35708982970780356,
+          0.160542885462443,
+          0.1024870060108326
+        ],
+        "confidence": 1,
+        "text": "CTO,LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.018735349442902973,
+          0.249999999296875,
+          0.5644028345743816,
+          0.11296296296296293
+        ],
+        "confidence": 0.5,
+        "text": "Build an Open Multimodal Data Stack"
+      },
+      {
+        "boundingBox": [
+          0.7306791569692922,
+          0.22499999972222218,
+          0.0163934419552485,
+          0.025000000000000022
+        ],
+        "confidence": 0.5,
+        "text": "nceDB"
+      },
+      {
+        "boundingBox": [
+          0.04566745328683683,
+          0.09999999930555548,
+          0.5070257504781087,
+          0.125
+        ],
+        "confidence": 0.5,
+        "text": "for Search, Curation, and Training"
+      }
+    ],
+    "ocr_text": "Open IntelLigence Summit\nBy S DigitalOcean & @ nVIDIA\nOctober 12-13• San Francisco\nLei Xu\nCTO,LanceDB\nBuild an Open Multimodal Data Stack\nnceDB\nfor Search, Curation, and Training",
+    "description": "📅 Upcoming Events中的配图，包含文字：Open IntelLigence Summit；By S DigitalOcean & @ nVIDIA；October 12-13• San Francisco；Lei Xu；CTO,LanceDB；Build an Open Multimodal Data Stack；nceDB；for Search, Curation, and Training",
+    "entities": [
+      "Open IntelLigence Summit",
+      "By S DigitalOcean & @ nVIDIA",
+      "October 12-13• San Francisco",
+      "Lei Xu",
+      "CTO,LanceDB",
+      "Build an Open Multimodal Data Stack",
+      "nceDB",
+      "for Search, Curation, and Training"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fbf07aa0995038fcdd0ebce862e14a85504f0eb772427649965a42ea54f37a57"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-006",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6de36a6de229ff01a6314_long%20horizon.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-006.png",
+    "section": "📅 Upcoming Events",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3231850102297447,
+          0.7833333340364583,
+          0.3524590174357097,
+          0.11296296296296293
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB is sponsoring"
+      },
+      {
+        "boundingBox": [
+          0.19086651464737886,
+          0.4291666675277779,
+          0.6229508082071942,
+          0.2583333333333333
+        ],
+        "confidence": 0.5,
+        "text": "LONG HORIZON"
+      },
+      {
+        "boundingBox": [
+          0.3372365348685448,
+          0.2250000001893938,
+          0.33138173421223965,
+          0.13333333333333341
+        ],
+        "confidence": 0.5,
+        "text": "Presented by S eNCORD"
+      },
+      {
+        "boundingBox": [
+          0.2599531634080564,
+          0.07499999999999996,
+          0.4754098256429037,
+          0.09166666666666667
+        ],
+        "confidence": 0.5,
+        "text": "October 20-21, 2026•San Francisco, CA"
+      }
+    ],
+    "ocr_text": "LanceDB is sponsoring\nLONG HORIZON\nPresented by S eNCORD\nOctober 20-21, 2026•San Francisco, CA",
+    "description": "📅 Upcoming Events中的配图，包含文字：LanceDB is sponsoring；LONG HORIZON；Presented by S eNCORD；October 20-21, 2026•San Francisco, CA",
+    "entities": [
+      "LanceDB is sponsoring",
+      "LONG HORIZON",
+      "Presented by S eNCORD",
+      "October 20-21, 2026•San Francisco, CA"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9b6059dfb73913217e8f22f1a5d576622a90c1b327719909020308604f8aed26"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-007",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6de67497e0e99b99f2e72_reverie-newsletter-v10.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-007.png",
+    "section": "📅 Upcoming Events",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05787112290510519,
+          0.8199344377994205,
+          0.170594965616862,
+          0.07957556900704743
+        ],
+        "confidence": 0.5,
+        "text": "Reverie"
+      },
+      {
+        "boundingBox": [
+          0.05416666171875013,
+          0.6265923572070474,
+          0.3958333333333333,
+          0.09562986215968039
+        ],
+        "confidence": 0.5,
+        "text": "The summitfor"
+      },
+      {
+        "boundingBox": [
+          0.0608095917275008,
+          0.5085096135988407,
+          0.28535756429036463,
+          0.10242521686918415
+        ],
+        "confidence": 0.5,
+        "text": "Al builders."
+      },
+      {
+        "boundingBox": [
+          0.05959302376413275,
+          0.3666666667687465,
+          0.07994185765584311,
+          0.022222221277321985
+        ],
+        "confidence": 1,
+        "text": "Speakersfrom"
+      },
+      {
+        "boundingBox": [
+          0.08994311068345306,
+          0.3013410327515198,
+          0.07302075703938801,
+          0.03620682248644003
+        ],
+        "confidence": 1,
+        "text": "nVIDIA."
+      },
+      {
+        "boundingBox": [
+          0.1816860413479591,
+          0.3000000003904558,
+          0.3357558186848958,
+          0.04166666565427346
+        ],
+        "confidence": 0.3,
+        "text": "MAI runway Adobe •Luma"
+      },
+      {
+        "boundingBox": [
+          0.0595930218302882,
+          0.1194267517870291,
+          0.14389535268147788,
+          0.03343949044585992
+        ],
+        "confidence": 0.5,
+        "text": "November 5,2026"
+      },
+      {
+        "boundingBox": [
+          0.05959302280429571,
+          0.07484076461763478,
+          0.1409883753458659,
+          0.03349256819220858
+        ],
+        "confidence": 0.5,
+        "text": "San FrancisCo, CA"
+      },
+      {
+        "boundingBox": [
+          0.7180059328559967,
+          0.08035341535532647,
+          0.11486022949218755,
+          0.036515392315615514
+        ],
+        "confidence": 0.5,
+        "text": "Presented by"
+      },
+      {
+        "boundingBox": [
+          0.8807598069101026,
+          0.08840898498462946,
+          0.05970131556193026,
+          0.02595980759638894
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "Reverie\nThe summitfor\nAl builders.\nSpeakersfrom\nnVIDIA.\nMAI runway Adobe •Luma\nNovember 5,2026\nSan FrancisCo, CA\nPresented by\nLanceDB",
+    "description": "📅 Upcoming Events中的配图，包含文字：Reverie；The summitfor；Al builders.；Speakersfrom；nVIDIA.；MAI runway Adobe •Luma；November 5,2026；San FrancisCo, CA；Presented by；LanceDB",
+    "entities": [
+      "Reverie",
+      "The summitfor",
+      "Al builders.",
+      "Speakersfrom",
+      "nVIDIA.",
+      "MAI runway Adobe •Luma",
+      "November 5,2026",
+      "San FrancisCo, CA",
+      "Presented by",
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "706b497d689d64cc2df38856de918ee6799c01a0ce0197cd1c7a38861f7ab6f3"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-008",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11763d_chanchan-mao.avif",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-008.avif",
+    "section": "🤝 Lance Community Sync Recap",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "🤝 Lance Community Sync Recap中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4427c54502be9dac51e1f7f09515bd847ed8788d47febe5bb03200f41d71a8c2"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-009",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6abd16b19757616117af7138_6abd15abfbf8354a3a591588_6ab6e826f1de06999f9d869a_rerank_hero-p-1080.png",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-009.png",
+    "section": "🤝 Lance Community Sync Recap",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09812294176249628,
+          0.8780706586256534,
+          0.13523559570312502,
+          0.04977973354490173
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "🤝 Lance Community Sync Recap中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a76f0516f86d5e9df4a7ec0e6efd2588788c771d44379fbb2abfdff15ab656c"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-010",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19ba7029b7b371ee6cd31_10m%20to%2010b%20hero%20compressed.avif",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-010.avif",
+    "section": "How Jev Compares to Other Rerankers",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.10290883365232312,
+          0.8736139123673776,
+          0.13720558933093788,
+          0.05431856774980093
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "How Jev Compares to Other Rerankers中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "6bb5e3ba49a1c6734f519f0f7c5b66fbc350ebeb777db61e4d100a483a869d93"
+  },
+  {
+    "figure_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96-fig-011",
+    "doc_id": "2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab19b007eb4bab4e23c5b8f_Pretraining%20hero%20compressed.avif",
+    "image_path": "images/2529-LeRobot-Trains-on-Lance-Mining-Physical-AI-s-Lo-d4a76b96/figure-011.avif",
+    "section": "From 10 Million to 10 Billion: Vector Search Built to Grow",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08284883620343861,
+          0.8917197447737097,
+          0.10465116363963442,
+          0.038692626224202
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "From 10 Million to 10 Billion: Vector Search Built to Grow中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1421c30ab4b30eafff08b18ddb714875c0da5004b7cfc56d45368ccf9b4f445e"
+  }
+]

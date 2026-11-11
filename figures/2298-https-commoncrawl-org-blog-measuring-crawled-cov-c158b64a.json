@@ -1,0 +1,892 @@
+[
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-001",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-002",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/65550ad52e2cbe00ff53493a_greg.webp",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-002.webp",
+    "section": "Measuring Crawled Coverage of a Website in Common Crawl",
+    "alt": "Greg Lindahl",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Measuring Crawled Coverage of a Website in Common Crawl中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "43c3b9d5cf00b381b50b6db4d68c0b96c5d373467e1e1556b1e0e7d85ecd0260"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-003",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-003.webp",
+    "section": "Measuring Crawled Coverage of a Website in Common Crawl",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Measuring Crawled Coverage of a Website in Common Crawl中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-004",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a5c963a70221493ca02f660_612e4315.png",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-004.png",
+    "section": "**A glimpse inside the CrawlDB**",
+    "alt": "A diagram of the states in the Nutch CrawlDB",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.37910934596966855,
+          0.9101486236735769,
+          0.0967998930069594,
+          0.03142689014303279
+        ],
+        "confidence": 0.5,
+        "text": "outinks"
+      },
+      {
+        "boundingBox": [
+          0.3790336511113734,
+          0.8786702088752734,
+          0.15271336438487454,
+          0.032314754354542785
+        ],
+        "confidence": 0.5,
+        "text": "from parsing"
+      },
+      {
+        "boundingBox": [
+          0.3048327135780669,
+          0.7931034483448276,
+          0.07806691449814124,
+          0.02758620689655178
+        ],
+        "confidence": 0.5,
+        "text": "linked"
+      },
+      {
+        "boundingBox": [
+          0.4756468957806025,
+          0.7510082019319222,
+          0.16394784636657034,
+          0.03936290740966797
+        ],
+        "confidence": 0.3,
+        "text": "！updatedbi"
+      },
+      {
+        "boundingBox": [
+          0.6877323413011153,
+          0.7344827584137932,
+          0.07063197026022305,
+          0.027586206896551668
+        ],
+        "confidence": 1,
+        "text": "gone"
+      },
+      {
+        "boundingBox": [
+          0.6354348428973223,
+          0.7057580236416415,
+          0.1752269702329955,
+          0.03675981225638558
+        ],
+        "confidence": 0.5,
+        "text": "Tobots denied"
+      },
+      {
+        "boundingBox": [
+          0.23048327221189588,
+          0.6586206897413793,
+          0.06691449814126396,
+          0.020689655172413723
+        ],
+        "confidence": 1,
+        "text": "fetch"
+      },
+      {
+        "boundingBox": [
+          0.5055762064436184,
+          0.5862068963218391,
+          0.10408921933085502,
+          0.020689655172413723
+        ],
+        "confidence": 0.3,
+        "text": "suCCeSS"
+      },
+      {
+        "boundingBox": [
+          0.47955390511152407,
+          0.5517241382327586,
+          0.1412639405204461,
+          0.03103448275862075
+        ],
+        "confidence": 0.3,
+        "text": "1--t 一"
+      },
+      {
+        "boundingBox": [
+          0.189157012023616,
+          0.5123701000982135,
+          0.12726218638366926,
+          0.0373287677764893
+        ],
+        "confidence": 1,
+        "text": "generated"
+      },
+      {
+        "boundingBox": [
+          0.5164734394701862,
+          0.4992101140919333,
+          0.09716464329829455,
+          0.029165978267275072
+        ],
+        "confidence": 1,
+        "text": "fetched"
+      },
+      {
+        "boundingBox": [
+          0.7955390326394052,
+          0.4896551722758621,
+          0.08178438661710041,
+          0.03448275862068961
+        ],
+        "confidence": 0.5,
+        "text": "failed"
+      },
+      {
+        "boundingBox": [
+          0.3940520453531598,
+          0.4862068966896552,
+          0.07434944237918217,
+          0.020689655172413723
+        ],
+        "confidence": 0.5,
+        "text": "linked"
+      },
+      {
+        "boundingBox": [
+          0.47955390178438667,
+          0.4103448274137932,
+          0.15613382899628253,
+          0.03103448275862064
+        ],
+        "confidence": 1,
+        "text": "fetchlnterval"
+      },
+      {
+        "boundingBox": [
+          0.5092936804832713,
+          0.3793103445172413,
+          0.1003717472118959,
+          0.03103448275862064
+        ],
+        "confidence": 0.5,
+        "text": "timeout"
+      },
+      {
+        "boundingBox": [
+          0.1968455260750586,
+          0.3029047492621172,
+          0.11932010012488384,
+          0.03556981251157554
+        ],
+        "confidence": 0.5,
+        "text": "generate"
+      },
+      {
+        "boundingBox": [
+          0.5055762094423791,
+          0.2896551725862069,
+          0.12639405204460963,
+          0.03103448275862064
+        ],
+        "confidence": 1,
+        "text": "unfetched"
+      },
+      {
+        "boundingBox": [
+          0.10037174895910782,
+          0.27586206931034485,
+          0.32342007434944237,
+          0.03448275862068961
+        ],
+        "confidence": 0.5,
+        "text": "（generator.update.db=true）"
+      },
+      {
+        "boundingBox": [
+          0.7249070613011153,
+          0.29655172399999996,
+          0.18959107806691444,
+          0.020689655172413834
+        ],
+        "confidence": 0.5,
+        "text": "failed retries >3"
+      },
+      {
+        "boundingBox": [
+          0.4832713760488581,
+          0.2172413795073892,
+          0.08178438661710036,
+          0.06206896551724139
+        ],
+        "confidence": 0.5,
+        "text": "个个"
+      },
+      {
+        "boundingBox": [
+          0.2527881026022305,
+          0.2206896550287356,
+          0.1784386617100372,
+          0.03103448275862064
+        ],
+        "confidence": 0.5,
+        "text": "timeout 7 days"
+      },
+      {
+        "boundingBox": [
+          0.5092936808859976,
+          0.16551724158045977,
+          0.07063197026022305,
+          0.03103448275862075
+        ],
+        "confidence": 1,
+        "text": "inject"
+      },
+      {
+        "boundingBox": [
+          0.8550185874535315,
+          0.1655172418534483,
+          0.052044609665427566,
+          0.037931034482758585
+        ],
+        "confidence": 0.3,
+        "text": "Y"
+      },
+      {
+        "boundingBox": [
+          0.5762081776022304,
+          0.13448275853448277,
+          0.06691449814126393,
+          0.02758620689655178
+        ],
+        "confidence": 0.3,
+        "text": "meX"
+      },
+      {
+        "boundingBox": [
+          0.5314281211001534,
+          0.10612289196408997,
+          0.1601920854646477,
+          0.03258180125006305
+        ],
+        "confidence": 0.5,
+        "text": "fetchinterval"
+      },
+      {
+        "boundingBox": [
+          0.8104089212639404,
+          0.11724137913793109,
+          0.06691449814126393,
+          0.03103448275862064
+        ],
+        "confidence": 1,
+        "text": "gone"
+      },
+      {
+        "boundingBox": [
+          0.5648716009643583,
+          0.07534180687557834,
+          0.10074007112297434,
+          0.03207500720846246
+        ],
+        "confidence": 1,
+        "text": "timeout"
+      }
+    ],
+    "ocr_text": "outinks\nfrom parsing\nlinked\n！updatedbi\ngone\nTobots denied\nfetch\nsuCCeSS\n1--t 一\ngenerated\nfetched\nfailed\nlinked\nfetchlnterval\ntimeout\ngenerate\nunfetched\n（generator.update.db=true）\nfailed retries >3\n个个\ntimeout 7 days\ninject\nY\nmeX\nfetchinterval\ngone\ntimeout",
+    "description": "**A glimpse inside the CrawlDB**中的配图，包含文字：outinks；from parsing；linked；！updatedbi；gone；Tobots denied；fetch；suCCeSS；1--t 一；generated；fetched；failed；linked；fetchlnterval；timeout；generate；unfetched；（generator.update.db=true）；failed retries >3；个个；timeout 7 days；inject；Y；meX；fetchinterval；gone；timeout",
+    "entities": [
+      "outinks",
+      "from parsing",
+      "linked",
+      "！updatedbi",
+      "gone",
+      "Tobots denied",
+      "fetch",
+      "suCCeSS",
+      "1--t 一",
+      "generated",
+      "fetched",
+      "failed",
+      "fetchlnterval",
+      "timeout",
+      "generate",
+      "unfetched",
+      "（generator.update.db=true）",
+      "failed retries >3",
+      "个个",
+      "timeout 7 days",
+      "inject",
+      "Y",
+      "meX",
+      "fetchinterval"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fa9f1ff5731d41c9a6affacdd1723a4a601e7b7b00893f99c3601b91f2a6e967"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-005",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/6a5c963a70221493ca02f663_06a526de.png",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-005.png",
+    "section": "**A glimpse inside the CrawlDB**",
+    "alt": "A graph of the number of crawled pages per crawl, and the number of pages in the “fetched” state in CrawlDB",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.38570461514519977,
+          0.9336909360038137,
+          0.30079345703125,
+          0.03837325286865245
+        ],
+        "confidence": 0.5,
+        "text": "commoncrawl.org"
+      },
+      {
+        "boundingBox": [
+          0.16586595023913037,
+          0.8853478049318727,
+          0.1042680969238281,
+          0.02330438995361328
+        ],
+        "confidence": 1,
+        "text": "fetch_200"
+      },
+      {
+        "boundingBox": [
+          0.17200000202499996,
+          0.856000000125,
+          0.162,
+          0.02200000000000002
+        ],
+        "confidence": 0.5,
+        "text": "crawldb_fetched"
+      },
+      {
+        "boundingBox": [
+          0.025999999316666675,
+          0.7879999999,
+          0.082,
+          0.03200000000000003
+        ],
+        "confidence": 0.5,
+        "text": "500-"
+      },
+      {
+        "boundingBox": [
+          0.025999999636363638,
+          0.6679999998909091,
+          0.08,
+          0.03199999999999992
+        ],
+        "confidence": 0.5,
+        "text": "400-"
+      },
+      {
+        "boundingBox": [
+          0.028000000342857136,
+          0.5460000002571428,
+          0.07999999999999999,
+          0.03600000000000003
+        ],
+        "confidence": 0.5,
+        "text": "300-"
+      },
+      {
+        "boundingBox": [
+          0.5399999921831055,
+          0.03400000108750001,
+          0.03400001525878904,
+          0.17399999999999993
+        ],
+        "confidence": 0.5,
+        "text": "M 2024-18-"
+      },
+      {
+        "boundingBox": [
+          0.12799999323427977,
+          0.06400000059,
+          0.026000012397766115,
+          0.118
+        ],
+        "confidence": 1,
+        "text": "2021-49"
+      },
+      {
+        "boundingBox": [
+          0.16199999322427977,
+          0.06400000120000005,
+          0.02600001144409178,
+          0.12
+        ],
+        "confidence": 1,
+        "text": "2022-05"
+      },
+      {
+        "boundingBox": [
+          0.19599999322427977,
+          0.06600000087142843,
+          0.026000012397766115,
+          0.122
+        ],
+        "confidence": 1,
+        "text": "2022-21"
+      },
+      {
+        "boundingBox": [
+          0.2299999932042798,
+          0.06400000125999994,
+          0.02800001239776609,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2022-33"
+      },
+      {
+        "boundingBox": [
+          0.2630297252123987,
+          0.06351367683779763,
+          0.030624260902404776,
+          0.1249405517578126
+        ],
+        "confidence": 1,
+        "text": "2022-40"
+      },
+      {
+        "boundingBox": [
+          0.29721906236122037,
+          0.06556111094222095,
+          0.029014603614807122,
+          0.12278861999511714
+        ],
+        "confidence": 1,
+        "text": "2022-49"
+      },
+      {
+        "boundingBox": [
+          0.3319999932409464,
+          0.06600000103333337,
+          0.026000012397766115,
+          0.124
+        ],
+        "confidence": 1,
+        "text": "2023-06"
+      },
+      {
+        "boundingBox": [
+          0.3679999932409464,
+          0.06400000105000003,
+          0.026000012397766115,
+          0.126
+        ],
+        "confidence": 0.5,
+        "text": "2023-14"
+      },
+      {
+        "boundingBox": [
+          0.4019999932242798,
+          0.06400000164999997,
+          0.024000012397766113,
+          0.132
+        ],
+        "confidence": 0.3,
+        "text": "2023-23•"
+      },
+      {
+        "boundingBox": [
+          0.43599999322427985,
+          0.06400000127999994,
+          0.02600001239776606,
+          0.128
+        ],
+        "confidence": 1,
+        "text": "2023-40"
+      },
+      {
+        "boundingBox": [
+          0.4699999932042798,
+          0.06400000125999994,
+          0.028000012397766116,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2023-50"
+      },
+      {
+        "boundingBox": [
+          0.5059999932242798,
+          0.04800000182499997,
+          0.02400001239776617,
+          0.14600000000000002
+        ],
+        "confidence": 0.5,
+        "text": "： 2024-10"
+      },
+      {
+        "boundingBox": [
+          0.5739999932242797,
+          0.0640000011666666,
+          0.024000012397766057,
+          0.14
+        ],
+        "confidence": 0.5,
+        "text": "2024-22-"
+      },
+      {
+        "boundingBox": [
+          0.6079999932242797,
+          0.0640000011166667,
+          0.028000012397766172,
+          0.134
+        ],
+        "confidence": 0.5,
+        "text": "2024-26•"
+      },
+      {
+        "boundingBox": [
+          0.6419999932242798,
+          0.0640000010285714,
+          0.02600001239776617,
+          0.14400000000000002
+        ],
+        "confidence": 0.5,
+        "text": "2024-30 -"
+      },
+      {
+        "boundingBox": [
+          0.8819999932076131,
+          0.06400000120000005,
+          0.02600001239776606,
+          0.14400000000000002
+        ],
+        "confidence": 0.5,
+        "text": "2025-08 -"
+      },
+      {
+        "boundingBox": [
+          0.6759999932409464,
+          0.06600000106666659,
+          0.02600001239776617,
+          0.128
+        ],
+        "confidence": 1,
+        "text": "2024-33"
+      },
+      {
+        "boundingBox": [
+          0.71045401157769,
+          0.06385028100994916,
+          0.026583137512206978,
+          0.12625024414062502
+        ],
+        "confidence": 1,
+        "text": "2024-38"
+      },
+      {
+        "boundingBox": [
+          0.7459999932242797,
+          0.06400000105000003,
+          0.02400001239776617,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2024-42"
+      },
+      {
+        "boundingBox": [
+          0.7799999932242798,
+          0.06600000125999994,
+          0.02600001239776606,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2024-46"
+      },
+      {
+        "boundingBox": [
+          0.8139999932076131,
+          0.06400000105000003,
+          0.02600001239776617,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2024-51"
+      },
+      {
+        "boundingBox": [
+          0.8479999932242798,
+          0.06400000090000002,
+          0.02600001239776617,
+          0.126
+        ],
+        "confidence": 1,
+        "text": "2025-05"
+      },
+      {
+        "boundingBox": [
+          0.9159999932042798,
+          0.06400000127999994,
+          0.02800001239776606,
+          0.128
+        ],
+        "confidence": 1,
+        "text": "2025-13"
+      }
+    ],
+    "ocr_text": "commoncrawl.org\nfetch_200\ncrawldb_fetched\n500-\n400-\n300-\nM 2024-18-\n2021-49\n2022-05\n2022-21\n2022-33\n2022-40\n2022-49\n2023-06\n2023-14\n2023-23•\n2023-40\n2023-50\n： 2024-10\n2024-22-\n2024-26•\n2024-30 -\n2025-08 -\n2024-33\n2024-38\n2024-42\n2024-46\n2024-51\n2025-05\n2025-13",
+    "description": "**A glimpse inside the CrawlDB**中的配图，包含文字：commoncrawl.org；fetch_200；crawldb_fetched；500-；400-；300-；M 2024-18-；2021-49；2022-05；2022-21；2022-33；2022-40；2022-49；2023-06；2023-14；2023-23•；2023-40；2023-50；： 2024-10；2024-22-；2024-26•；2024-30 -；2025-08 -；2024-33；2024-38；2024-42；2024-46；2024-51；2025-05；2025-13",
+    "entities": [
+      "commoncrawl.org",
+      "fetch_200",
+      "crawldb_fetched",
+      "500-",
+      "400-",
+      "300-",
+      "M 2024-18-",
+      "2021-49",
+      "2022-05",
+      "2022-21",
+      "2022-33",
+      "2022-40",
+      "2022-49",
+      "2023-06",
+      "2023-14",
+      "2023-23•",
+      "2023-40",
+      "2023-50",
+      "： 2024-10",
+      "2024-22-",
+      "2024-26•",
+      "2024-30 -",
+      "2025-08 -",
+      "2024-33",
+      "2024-38",
+      "2024-42",
+      "2024-46",
+      "2024-51",
+      "2025-05",
+      "2025-13"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "adb5f7b6e6079bd4205c55abe6d87eb63866bae55f587c8fc556e2ede0d6136c"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-006",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/65550ad52e2cbe00ff53493a_greg.webp",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-006.webp",
+    "section": "Abstract:",
+    "alt": "Greg is Chief Technology Officer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Abstract:中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "43c3b9d5cf00b381b50b6db4d68c0b96c5d373467e1e1556b1e0e7d85ecd0260"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-007",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-007.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-008",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-008.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-009",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a-fig-010",
+    "doc_id": "2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2298-https-commoncrawl-org-blog-measuring-crawled-cov-c158b64a/figure-010.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

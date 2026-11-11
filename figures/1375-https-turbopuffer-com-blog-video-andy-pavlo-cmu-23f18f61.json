@@ -1,0 +1,20 @@
+[
+  {
+    "figure_id": "1375-https-turbopuffer-com-blog-video-andy-pavlo-cmu-23f18f61-fig-001",
+    "doc_id": "1375-https-turbopuffer-com-blog-video-andy-pavlo-cmu-23f18f61",
+    "seq": 1,
+    "source_url": "https://px.ads.linkedin.com/collect/?pid=8553810&fmt=gif",
+    "image_path": "images/1375-https-turbopuffer-com-blog-video-andy-pavlo-cmu-23f18f61/figure-001.gif",
+    "section": "API Docs",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "CalledProcessError: Command '['/Users/lcy/Desktop/Project/sgt-kb/cache/bin/vision_ocr', '/Users/lcy/Desktop/Project/sgt-kb/images/1375-https-turbopuffer-com-blog-video-andy-pavlo-cmu-23f18f61/figure-001.gif']' returned non-zero exit status 4.",
+    "content_hash": "89fe0ee6020314794fc2cfeacf3d10c31050cfe56f8ebddf1ed0a33fbe941fa7"
+  }
+]

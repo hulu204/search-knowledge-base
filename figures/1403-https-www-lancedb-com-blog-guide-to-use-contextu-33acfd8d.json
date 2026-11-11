@@ -1,0 +1,2164 @@
+[
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-001",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca1e5035e332a0e8d5fa2f_preview-image.avif",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-001.avif",
+    "section": "Implement Contextual Retrieval and Prompt Caching with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2859375005078125,
+          0.9611111108333333,
+          0.06406249999999997,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "SINGER"
+      },
+      {
+        "boundingBox": [
+          0.3749373708741565,
+          0.9718044199152319,
+          0.05793775916099547,
+          0.028613380591074766
+        ],
+        "confidence": 0.3,
+        "text": "MADAME"
+      },
+      {
+        "boundingBox": [
+          0.03749999994140625,
+          0.9555555552083334,
+          0.0234375,
+          0.02777777777777779
+        ],
+        "confidence": 0.3,
+        "text": "OF"
+      },
+      {
+        "boundingBox": [
+          0.46705432242480194,
+          0.943951925013523,
+          0.05182885527610781,
+          0.04542948404947911
+        ],
+        "confidence": 0.3,
+        "text": "of tha"
+      },
+      {
+        "boundingBox": [
+          0.6718749999511718,
+          0.9638888890972223,
+          0.020312500000000067,
+          0.033333333333333326
+        ],
+        "confidence": 0.5,
+        "text": "of"
+      },
+      {
+        "boundingBox": [
+          0.7453124996527778,
+          0.9722222220987654,
+          0.06249999999999989,
+          0.02777777777777779
+        ],
+        "confidence": 0.3,
+        "text": "SUNDRY"
+      },
+      {
+        "boundingBox": [
+          0.5687499995833334,
+          0.9555555554861112,
+          0.050000000000000044,
+          0.030555555555555558
+        ],
+        "confidence": 0.3,
+        "text": "INGED"
+      },
+      {
+        "boundingBox": [
+          0.8545007703383648,
+          0.9573974520074695,
+          0.05193595886230473,
+          0.035205096668667224
+        ],
+        "confidence": 0.5,
+        "text": "YEARS"
+      },
+      {
+        "boundingBox": [
+          0.9374549236061938,
+          0.9719063241274377,
+          0.06102765202522287,
+          0.028409572442372744
+        ],
+        "confidence": 0.3,
+        "text": "KINGHISHE"
+      },
+      {
+        "boundingBox": [
+          0.09928892678376297,
+          0.9319271396288232,
+          0.08120390176773071,
+          0.04219126171535914
+        ],
+        "confidence": 1,
+        "text": "THURSDAY"
+      },
+      {
+        "boundingBox": [
+          0.21250000037760416,
+          0.9472222223148148,
+          0.045312500000000006,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "FOR A"
+      },
+      {
+        "boundingBox": [
+          0.2906250006640625,
+          0.9361111107291666,
+          0.05625000000000002,
+          0.030555555555555558
+        ],
+        "confidence": 0.3,
+        "text": "NOTTHE"
+      },
+      {
+        "boundingBox": [
+          0.39218749984375006,
+          0.9416666665277778,
+          0.021874999999999978,
+          0.030555555555555558
+        ],
+        "confidence": 0.5,
+        "text": "DE"
+      },
+      {
+        "boundingBox": [
+          0.5608714068580947,
+          0.9191348737369207,
+          0.05325718522071832,
+          0.03673025237189398
+        ],
+        "confidence": 0.3,
+        "text": "HORSE"
+      },
+      {
+        "boundingBox": [
+          0.6359112446141572,
+          0.9248087446645222,
+          0.08286501169204707,
+          0.036493620607587984
+        ],
+        "confidence": 1,
+        "text": "INNOCENCE"
+      },
+      {
+        "boundingBox": [
+          0.7359134967666185,
+          0.9331510423091008,
+          0.07973550558090214,
+          0.033697913752661846
+        ],
+        "confidence": 1,
+        "text": "CREDITORS"
+      },
+      {
+        "boundingBox": [
+          0.8718749998437498,
+          0.9333333331944444,
+          0.018750000000000044,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "IN"
+      },
+      {
+        "boundingBox": [
+          0.9405729088101069,
+          0.9330455608920392,
+          0.05791668295860286,
+          0.03390887710783208
+        ],
+        "confidence": 0.3,
+        "text": "CATCH FI"
+      },
+      {
+        "boundingBox": [
+          0.09687499860677087,
+          0.8833333331712963,
+          0.16718750000000002,
+          0.05833333333333335
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB™"
+      },
+      {
+        "boundingBox": [
+          0.29374999956250003,
+          0.9111111114166667,
+          0.04999999999999999,
+          0.030555555555555558
+        ],
+        "confidence": 1,
+        "text": "SONG"
+      },
+      {
+        "boundingBox": [
+          0.3671686267878732,
+          0.9054208368575047,
+          0.07503774762153625,
+          0.033602770169576024
+        ],
+        "confidence": 1,
+        "text": "POMPADOUR"
+      },
+      {
+        "boundingBox": [
+          0.4639993730618633,
+          0.9162686322909127,
+          0.054813754558563244,
+          0.02857384681701658
+        ],
+        "confidence": 1,
+        "text": "REALM"
+      },
+      {
+        "boundingBox": [
+          0.8578125002832031,
+          0.9027777779340278,
+          0.04531250000000009,
+          0.030555555555555558
+        ],
+        "confidence": 0.3,
+        "text": "TIBET"
+      },
+      {
+        "boundingBox": [
+          0.032812500328124994,
+          0.7999999997222222,
+          0.0359375,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "ERIC"
+      },
+      {
+        "boundingBox": [
+          0.11718750045312501,
+          0.8055555556944445,
+          0.047265625000000006,
+          0.030555555555555447
+        ],
+        "confidence": 0.3,
+        "text": "JOHN."
+      },
+      {
+        "boundingBox": [
+          0.2921231624196217,
+          0.8023720042088144,
+          0.0548161745071411,
+          0.028589325480990913
+        ],
+        "confidence": 1,
+        "text": "AUDREY"
+      },
+      {
+        "boundingBox": [
+          0.5578124995982143,
+          0.8055555554365079,
+          0.05624999999999991,
+          0.02777777777777779
+        ],
+        "confidence": 0.5,
+        "text": "PAMELA"
+      },
+      {
+        "boundingBox": [
+          0.6497316961026284,
+          0.8092265020513689,
+          0.058349108695983865,
+          0.03154699537489147
+        ],
+        "confidence": 0.5,
+        "text": "WILLIAM"
+      },
+      {
+        "boundingBox": [
+          0.2013950938366178,
+          0.7901571139939648,
+          0.06752231121063235,
+          0.028019105063544325
+        ],
+        "confidence": 0.5,
+        "text": "VAUGHAN"
+      },
+      {
+        "boundingBox": [
+          0.3827945833713026,
+          0.7888026543501072,
+          0.042223334312438965,
+          0.027950247128804562
+        ],
+        "confidence": 0.3,
+        "text": "NANCY"
+      },
+      {
+        "boundingBox": [
+          0.4624777580390818,
+          0.7915196362283247,
+          0.05785698294639591,
+          0.02807183663050339
+        ],
+        "confidence": 1,
+        "text": "ARTHUR"
+      },
+      {
+        "boundingBox": [
+          0.7546874996354166,
+          0.7972222220833334,
+          0.04375000000000007,
+          0.02777777777777768
+        ],
+        "confidence": 0.5,
+        "text": "NIGEL"
+      },
+      {
+        "boundingBox": [
+          0.8468388402020672,
+          0.8052895915112946,
+          0.06413481831550594,
+          0.028309705522325257
+        ],
+        "confidence": 1,
+        "text": "HEINRICH"
+      },
+      {
+        "boundingBox": [
+          0.9545763549994017,
+          0.7995336014954915,
+          0.04397228956222532,
+          0.0342661301294962
+        ],
+        "confidence": 1,
+        "text": "RUMER"
+      },
+      {
+        "boundingBox": [
+          0.014014019840761938,
+          0.766220191759194,
+          0.07978445887565613,
+          0.028670725557539245
+        ],
+        "confidence": 1,
+        "text": "LINKLATER"
+      },
+      {
+        "boundingBox": [
+          0.10142494241748631,
+          0.7682672037765352,
+          0.07996261715888978,
+          0.03291003439161522
+        ],
+        "confidence": 1,
+        "text": "STEINBECK"
+      },
+      {
+        "boundingBox": [
+          0.2906249995182292,
+          0.7722222221527778,
+          0.057812500000000044,
+          0.030555555555555558
+        ],
+        "confidence": 0.3,
+        "text": "FRSKINE"
+      },
+      {
+        "boundingBox": [
+          0.5546615564375312,
+          0.7720318978614136,
+          0.06411438584327689,
+          0.028158424960242456
+        ],
+        "confidence": 1,
+        "text": "FRANKAU"
+      },
+      {
+        "boundingBox": [
+          0.6483027065799647,
+          0.7796151742763251,
+          0.05964458584785459,
+          0.02965854008992519
+        ],
+        "confidence": 1,
+        "text": "SANSOM"
+      },
+      {
+        "boundingBox": [
+          0.851447289768134,
+          0.768740676380208,
+          0.058042919635772794,
+          0.03196309010187781
+        ],
+        "confidence": 1,
+        "text": "HARRER"
+      },
+      {
+        "boundingBox": [
+          0.20295910185673635,
+          0.7542919978977718,
+          0.06439429521560672,
+          0.030304892857869525
+        ],
+        "confidence": 0.5,
+        "text": "WILKINS"
+      },
+      {
+        "boundingBox": [
+          0.3765430096129929,
+          0.7582150579902515,
+          0.05316398143768308,
+          0.028014328744676353
+        ],
+        "confidence": 1,
+        "text": "MITFORD"
+      },
+      {
+        "boundingBox": [
+          0.4639474425242972,
+          0.7575779254065481,
+          0.05648011565208433,
+          0.02928859392801919
+        ],
+        "confidence": 1,
+        "text": "BRYANT"
+      },
+      {
+        "boundingBox": [
+          0.745151368482309,
+          0.7599794026449298,
+          0.05969726443290724,
+          0.03004119528664484
+        ],
+        "confidence": 1,
+        "text": "BALCHIN"
+      },
+      {
+        "boundingBox": [
+          0.9515625003645833,
+          0.7666666663888889,
+          0.046875,
+          0.033333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "GODDE！"
+      },
+      {
+        "boundingBox": [
+          0.2937084261282325,
+          0.7497262213996412,
+          0.05164564847946168,
+          0.025547557406955357
+        ],
+        "confidence": 1,
+        "text": "LINDOP"
+      }
+    ],
+    "ocr_text": "SINGER\nMADAME\nOF\nof tha\nof\nSUNDRY\nINGED\nYEARS\nKINGHISHE\nTHURSDAY\nFOR A\nNOTTHE\nDE\nHORSE\nINNOCENCE\nCREDITORS\nIN\nCATCH FI\nLanceDB™\nSONG\nPOMPADOUR\nREALM\nTIBET\nERIC\nJOHN.\nAUDREY\nPAMELA\nWILLIAM\nVAUGHAN\nNANCY\nARTHUR\nNIGEL\nHEINRICH\nRUMER\nLINKLATER\nSTEINBECK\nFRSKINE\nFRANKAU\nSANSOM\nHARRER\nWILKINS\nMITFORD\nBRYANT\nBALCHIN\nGODDE！\nLINDOP",
+    "description": "Implement Contextual Retrieval and Prompt Caching with LanceDB中的配图，包含文字：SINGER；MADAME；OF；of tha；of；SUNDRY；INGED；YEARS；KINGHISHE；THURSDAY；FOR A；NOTTHE；DE；HORSE；INNOCENCE；CREDITORS；IN；CATCH FI；LanceDB™；SONG；POMPADOUR；REALM；TIBET；ERIC；JOHN.；AUDREY；PAMELA；WILLIAM；VAUGHAN；NANCY",
+    "entities": [
+      "SINGER",
+      "MADAME",
+      "OF",
+      "of tha",
+      "of",
+      "SUNDRY",
+      "INGED",
+      "YEARS",
+      "KINGHISHE",
+      "THURSDAY",
+      "FOR A",
+      "NOTTHE",
+      "DE",
+      "HORSE",
+      "INNOCENCE",
+      "CREDITORS",
+      "IN",
+      "CATCH FI",
+      "LanceDB™",
+      "SONG",
+      "POMPADOUR",
+      "REALM",
+      "TIBET",
+      "ERIC",
+      "JOHN.",
+      "AUDREY",
+      "PAMELA",
+      "WILLIAM",
+      "VAUGHAN",
+      "NANCY",
+      "ARTHUR",
+      "NIGEL",
+      "HEINRICH",
+      "RUMER",
+      "LINKLATER",
+      "STEINBECK",
+      "FRSKINE",
+      "FRANKAU",
+      "SANSOM",
+      "HARRER",
+      "WILKINS",
+      "MITFORD",
+      "BRYANT",
+      "BALCHIN",
+      "GODDE！",
+      "LINDOP"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "744deeb64a65b19c0807e56d03a351c2f423339dd12920a0928151b3f97e1719"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-002",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029940065f57b2bfa9e56_linus.avif",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-002.avif",
+    "section": "Decrease chunk retrieval failure rate by 35% to 50%",
+    "alt": "Linus quote",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1249999945833334,
+          0.8444444491617566,
+          0.75,
+          0.1198412634077527
+        ],
+        "confidence": 0.5,
+        "text": "Talk is cheap. Show me the code."
+      },
+      {
+        "boundingBox": [
+          0.803333335625,
+          0.02380952403273806,
+          0.18333333333333335,
+          0.029761904761904767
+        ],
+        "confidence": 0.3,
+        "text": "meme.generator.com"
+      }
+    ],
+    "ocr_text": "Talk is cheap. Show me the code.\nmeme.generator.com",
+    "description": "Decrease chunk retrieval failure rate by 35% to 50%中的配图，包含文字：Talk is cheap. Show me the code.；meme.generator.com",
+    "entities": [
+      "Talk is cheap. Show me the code.",
+      "meme.generator.com"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "258cf2173101f44d53993a4d3b9ca5eb4cdd51bc2575ffe0b78d0cf1e4355ca7"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-003",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029940065f57b2bfa9e69_Screenshot-2024-10-07-at-12.52.08-PM.avif",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-003.avif",
+    "section": "IMPORT",
+    "alt": "Hybrid search results",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.22238372248760133,
+          0.9573333344616046,
+          0.13517441749572748,
+          0.034666665103457395
+        ],
+        "confidence": 0.5,
+        "text": "raw_chunk doc_id"
+      },
+      {
+        "boundingBox": [
+          0.39825582165303075,
+          0.9573333342482713,
+          0.1933139419555664,
+          0.034666665103457395
+        ],
+        "confidence": 0.5,
+        "text": "chunk_id original_index"
+      },
+      {
+        "boundingBox": [
+          0.7877907008618306,
+          0.9573333338783028,
+          0.207848834991455,
+          0.03234556508720465
+        ],
+        "confidence": 0.5,
+        "text": "full_doc _relevance_score"
+      },
+      {
+        "boundingBox": [
+          0.1686046553250619,
+          0.9036697243465177,
+          0.12790697097778322,
+          0.02752293577981646
+        ],
+        "confidence": 0.5,
+        "text": "#［cfg（windows）Inuse"
+      },
+      {
+        "boundingBox": [
+          0.7252907016235115,
+          0.9036697243731843,
+          0.12790697097778314,
+          0.02752293577981657
+        ],
+        "confidence": 0.5,
+        "text": "#［cfg（windows）nuse"
+      },
+      {
+        "boundingBox": [
+          0.10319767857405793,
+          0.8746666672186956,
+          0.1933139419555664,
+          0.02670948002316542
+        ],
+        "confidence": 0.5,
+        "text": "std：：ptr:write_volatile；\\use std：："
+      },
+      {
+        "boundingBox": [
+          0.6569767413366984,
+          0.8746666672453622,
+          0.19622093200683588,
+          0.02670948002316542
+        ],
+        "confidence": 0.5,
+        "text": "std：：ptr:write_volatile;nuse std：："
+      },
+      {
+        "boundingBox": [
+          0.042151161275180586,
+          0.8426666670216676,
+          0.25436046600341794,
+          0.02933333335666477
+        ],
+        "confidence": 0.5,
+        "text": "｛path:PathBuf, ptr:write｝；nin#fcfg（feature"
+      },
+      {
+        "boundingBox": [
+          0.5988372056792504,
+          0.8426666669183027,
+          0.254360466003418,
+          0.03233333355789891
+        ],
+        "confidence": 0.3,
+        "text": "｛path：：PathBuf, ptr: write｝；\\nin#jcfg（feature"
+      },
+      {
+        "boundingBox": [
+          0.04069768338268183,
+          0.8130733942683422,
+          0.25581394195556645,
+          0.026926604979628732
+        ],
+        "confidence": 0.3,
+        "text": "= \"tui\"）nuse libafl: monitors:tui：｛ui：：TuiUl，"
+      },
+      {
+        "boundingBox": [
+          0.6511627947937721,
+          0.8130733947649774,
+          0.20348836898803713,
+          0.029816513761467878
+        ],
+        "confidence": 0.3,
+        "text": "= \"tui ）Inuse libafl:monitors:tui：："
+      },
+      {
+        "boundingBox": [
+          0.1030674743059842,
+          0.7797444762054696,
+          0.19353874206542968,
+          0.031050138517257353
+        ],
+        "confidence": 0.5,
+        "text": "TuiMonitor｝； #［cfg（not（feature ="
+      },
+      {
+        "boundingBox": [
+          0.6090116301366194,
+          0.7809633029352211,
+          0.24418603897094726,
+          0.032370030333142785
+        ],
+        "confidence": 0.3,
+        "text": "｛ui:TuiUl, TuiMonitor｝；in#［cfg（not（feature"
+      },
+      {
+        "boundingBox": [
+          0.22230764024697286,
+          0.7539354660234672,
+          0.07428006649017332,
+          0.028129067989664303
+        ],
+        "confidence": 0.3,
+        "text": "\"tui\"）） use"
+      },
+      {
+        "boundingBox": [
+          0.7703488374897376,
+          0.7545871564132565,
+          0.08284883499145501,
+          0.0240825688073395
+        ],
+        "confidence": 0.3,
+        "text": "=tui））nuse"
+      },
+      {
+        "boundingBox": [
+          0.014534883873209838,
+          0.7440000007224532,
+          0.008720930218696596,
+          0.01866666548842688
+        ],
+        "confidence": 0.3,
+        "text": "O"
+      },
+      {
+        "boundingBox": [
+          0.31831395457087325,
+          0.7359999999083343,
+          0.1468023204803467,
+          0.02933333335666477
+        ],
+        "confidence": 0.5,
+        "text": "doc_2 doc_2_chunk_0"
+      },
+      {
+        "boundingBox": [
+          0.579941860731179,
+          0.7386666670853623,
+          0.01162790656089785,
+          0.026666665295942082
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.9375000001528718,
+          0.7385321100500608,
+          0.058139533996582005,
+          0.024134556087878734
+        ],
+        "confidence": 1,
+        "text": "0.032002"
+      },
+      {
+        "boundingBox": [
+          0.03924418844980639,
+          0.7224770642079446,
+          0.2572674369812012,
+          0.02685626821780429
+        ],
+        "confidence": 0.5,
+        "text": "libafl: monitors: SimpleMonitor;nuse libafl：："
+      },
+      {
+        "boundingBox": [
+          0.6337209351665172,
+          0.7224770638442499,
+          0.21947673797607425,
+          0.029816513761467878
+        ],
+        "confidence": 0.5,
+        "text": "libafl:monitors:SimpleMonitor；\\nuse"
+      },
+      {
+        "boundingBox": [
+          0.11627906913013547,
+          0.6933333336487271,
+          0.1802325630187988,
+          0.024556574471499948
+        ],
+        "confidence": 0.5,
+        "text": "｛n corpus：：｛InMemoryCorpus，"
+      },
+      {
+        "boundingBox": [
+          0.6366279160974545,
+          0.6903669719470772,
+          0.2180232429504395,
+          0.029816513761467878
+        ],
+        "confidence": 0.3,
+        "text": "libafl： ｛n corpus： ｛InMemoryCorpus，"
+      },
+      {
+        "boundingBox": [
+          0.18750000367009365,
+          0.6613333336853622,
+          0.10901162147521973,
+          0.02674006103375648
+        ],
+        "confidence": 0.5,
+        "text": "OnDiskCorpus｝，n"
+      },
+      {
+        "boundingBox": [
+          0.74563953773358,
+          0.6613333341786956,
+          0.10755813598632813,
+          0.026740059940093097
+        ],
+        "confidence": 0.5,
+        "text": "OnDiskCorpus｝， n"
+      },
+      {
+        "boundingBox": [
+          0.03633721679327913,
+          0.6318807335649949,
+          0.2601744079589844,
+          0.026785932549642788
+        ],
+        "confidence": 0.5,
+        "text": "events：：Simple EventManager，\\ executors：："
+      },
+      {
+        "boundingBox": [
+          0.6627907021443449,
+          0.6318807335649949,
+          0.19040697097778314,
+          0.026785932549642788
+        ],
+        "confidence": 0.5,
+        "text": "events：：SimpleEventManager,M"
+      },
+      {
+        "boundingBox": [
+          0.036337217226903105,
+          0.5997706421189333,
+          0.2601744079589844,
+          0.026896023969037897
+        ],
+        "confidence": 0.5,
+        "text": "｛inprocess：：InProcessExecutor,Exitkind｝，i"
+      },
+      {
+        "boundingBox": [
+          0.6017441910210188,
+          0.5997706427022351,
+          0.2514534759521484,
+          0.029816513761467878
+        ],
+        "confidence": 0.5,
+        "text": "executors： ｛inprocess:InProcessExecutor，"
+      },
+      {
+        "boundingBox": [
+          0.23971478322402312,
+          0.572419365831611,
+          0.05690764427185058,
+          0.025827934982579737
+        ],
+        "confidence": 0.5,
+        "text": "feedba.."
+      },
+      {
+        "boundingBox": [
+          0.7281976756686046,
+          0.5733333336487271,
+          0.125,
+          0.024143730828521393
+        ],
+        "confidence": 0.3,
+        "text": "ExitKind｝， Mn feedba.."
+      },
+      {
+        "boundingBox": [
+          0.6177325647592233,
+          0.5172018353690224,
+          0.23546510696411138,
+          0.02679816407894864
+        ],
+        "confidence": 0.5,
+        "text": "use core：：｛ffi：：c_void, fmt: Debug｝；nuse"
+      },
+      {
+        "boundingBox": [
+          0.06104651864003735,
+          0.4850917428826308,
+          0.23546510696411133,
+          0.026908256592006796
+        ],
+        "confidence": 0.3,
+        "text": "use core：｛ffi：：c_void, fmt：：Debugk nuse"
+      },
+      {
+        "boundingBox": [
+          0.6671511646656976,
+          0.4850917427759641,
+          0.1875,
+          0.026908256592006796
+        ],
+        "confidence": 0.5,
+        "text": "std：：sync：：atomic：｛AtomicBool，"
+      },
+      {
+        "boundingBox": [
+          0.110465121931422,
+          0.4560000006186956,
+          0.18604650497436526,
+          0.02679816407894864
+        ],
+        "confidence": 0.5,
+        "text": "std：：sync：：atomic：｛AtomicBool，"
+      },
+      {
+        "boundingBox": [
+          0.6119186045208598,
+          0.4529816516965063,
+          0.241279067993164,
+          0.03235168085185758
+        ],
+        "confidence": 0.3,
+        "text": "AtomicUsize, Ordering｝；niuse libafl: An"
+      },
+      {
+        "boundingBox": [
+          0.05523256406648454,
+          0.42400000083774325,
+          0.23982557296752932,
+          0.026688072659553752
+        ],
+        "confidence": 0.3,
+        "text": "AtomicUsize, Ordering｝ \\ninuse libafl:0n"
+      },
+      {
+        "boundingBox": [
+          0.7296511671494453,
+          0.42660550469421166,
+          0.12354650497436515,
+          0.0240825688073395
+        ],
+        "confidence": 0.5,
+        "text": "events：：EventFirer,n"
+      },
+      {
+        "boundingBox": [
+          0.03924418968113159,
+          0.3967889910405198,
+          0.2558139419555664,
+          0.024544341848530937
+        ],
+        "confidence": 0.3,
+        "text": "events：：EventFirer，\\ executors：：ExitKind,un"
+      },
+      {
+        "boundingBox": [
+          0.7223837233090776,
+          0.39678899089607533,
+          0.13081395149230957,
+          0.024544341848530937
+        ],
+        "confidence": 0.5,
+        "text": "executors：：ExitKind, in"
+      },
+      {
+        "boundingBox": [
+          0.14970930671113475,
+          0.36800000038872704,
+          0.1468023204803467,
+          0.024201834967377045
+        ],
+        "confidence": 1,
+        "text": "feedbacks：：Feedback，\\n"
+      },
+      {
+        "boundingBox": [
+          0.7078488395294662,
+          0.36800000039983827,
+          0.145348834991455,
+          0.024201834967376934
+        ],
+        "confidence": 0.5,
+        "text": "feedbacks：：Feedback，\\"
+      },
+      {
+        "boundingBox": [
+          0.014534883630961781,
+          0.3573333342335643,
+          0.008720930218696594,
+          0.01866666548842688
+        ],
+        "confidence": 1,
+        "text": "1"
+      },
+      {
+        "boundingBox": [
+          0.31831395561738485,
+          0.34933333361500085,
+          0.14680232048034664,
+          0.02933333335666488
+        ],
+        "confidence": 0.5,
+        "text": "doc_3 doc_3_chunk_0"
+      },
+      {
+        "boundingBox": [
+          0.5799418610860647,
+          0.3520000006853622,
+          0.013081394433975158,
+          0.026666665295942193
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.9374732122168641,
+          0.3517796568333259,
+          0.05819311141967776,
+          0.024440687730771682
+        ],
+        "confidence": 1,
+        "text": "0.016393"
+      },
+      {
+        "boundingBox": [
+          0.04215116552663396,
+          0.3333333340186956,
+          0.254360466003418,
+          0.026758409421378304
+        ],
+        "confidence": 0.5,
+        "text": "inputs：：Useslnput, Mn observers：｛Observer，"
+      },
+      {
+        "boundingBox": [
+          0.6613372073471282,
+          0.33333333302833434,
+          0.191860466003418,
+          0.02933333335666477
+        ],
+        "confidence": 0.5,
+        "text": "inputs：：UsesInput，\\n observers：："
+      },
+      {
+        "boundingBox": [
+          0.09156976863098144,
+          0.3038990825796135,
+          0.20348836898803713,
+          0.026767583068357692
+        ],
+        "confidence": 0.3,
+        "text": "ObserversTuple｝，i state：：State,Mn"
+      },
+      {
+        "boundingBox": [
+          0.6686046555089198,
+          0.3038990827796134,
+          0.1845930099487304,
+          0.026767583068357692
+        ],
+        "confidence": 0.5,
+        "text": "｛Observer,Observers Tuple｝，Mn"
+      },
+      {
+        "boundingBox": [
+          0.05668605272408417,
+          0.27466666744091794,
+          0.23982557296752932,
+          0.026938837602597854
+        ],
+        "confidence": 0.3,
+        "text": "Error， \\n｝； nuse libafl_bolts：：Named；\\nuse"
+      },
+      {
+        "boundingBox": [
+          0.680232561067363,
+          0.2746666671920289,
+          0.17296510696411138,
+          0.026938837602597854
+        ],
+        "confidence": 0.3,
+        "text": "state：：State，\\ Error， \\n｝；nuse"
+      },
+      {
+        "boundingBox": [
+          0.053779069350581174,
+          0.24266666739647347,
+          0.2427325630187988,
+          0.026828745089539696
+        ],
+        "confidence": 0.5,
+        "text": "libc:SIGABRT;nuse serde：｛Deserialize，"
+      },
+      {
+        "boundingBox": [
+          0.7020348857794354,
+          0.25066666691431416,
+          0.1511627864837647,
+          0.021333333549149458
+        ],
+        "confidence": 0.5,
+        "text": "libafl bolts：：Named \\use"
+      },
+      {
+        "boundingBox": [
+          0.12209302676675485,
+          0.21330275191444148,
+          0.1744186019897461,
+          0.0266972474001963
+        ],
+        "confidence": 0.3,
+        "text": "Serialize｝；\\inextern \"C\" ｛n.."
+      },
+      {
+        "boundingBox": [
+          0.6104651169970846,
+          0.21330275221107675,
+          0.24418603897094726,
+          0.02981651376146799
+        ],
+        "confidence": 0.5,
+        "text": "libc：：SIGABRT；\\nuse serde：｛Deserialize，"
+      },
+      {
+        "boundingBox": [
+          0.6802325607057083,
+          0.18348623893960692,
+          0.17441860198974612,
+          0.029847094772058824
+        ],
+        "confidence": 0.3,
+        "text": "Serialize｝；\\nextern \"C\" ｛.."
+      },
+      {
+        "boundingBox": [
+          0.7252907016235115,
+          0.12800000081869567,
+          0.12790697097778314,
+          0.026816512466570686
+        ],
+        "confidence": 0.5,
+        "text": "#［cfg（windows）Inuse"
+      },
+      {
+        "boundingBox": [
+          0.0552325607500957,
+          0.1009174311364256,
+          0.24127906799316406,
+          0.024415902041514004
+        ],
+        "confidence": 0.5,
+        "text": "I/ The Monitor trait define how the fuzzer"
+      },
+      {
+        "boundingBox": [
+          0.6569767514856241,
+          0.098623853455167,
+          0.1976744079589844,
+          0.0240825688073395
+        ],
+        "confidence": 0.5,
+        "text": "std：：ptr:write_volatile; nuse std：："
+      },
+      {
+        "boundingBox": [
+          0.0901162834327875,
+          0.06651376196574077,
+          0.20639533996582032,
+          0.026819570348897037
+        ],
+        "confidence": 0.5,
+        "text": "stats are displayed to the userin #"
+      },
+      {
+        "boundingBox": [
+          0.6002906988715736,
+          0.06651376122501795,
+          0.25290697097778325,
+          0.03215290537667925
+        ],
+        "confidence": 0.3,
+        "text": "｛path: PathBuf, ptr:write｝；nin#［cfg （feature"
+      },
+      {
+        "boundingBox": [
+          0.0799418606687324,
+          0.03733333368833425,
+          0.21656976699829103,
+          0.02933333335666488
+        ],
+        "confidence": 0.3,
+        "text": "［cfg（not（feature = \"tui\"））In let mon ="
+      },
+      {
+        "boundingBox": [
+          0.6482558204531363,
+          0.04000000079202892,
+          0.20639533996582038,
+          0.026666665295942082
+        ],
+        "confidence": 0.3,
+        "text": "= \"tui\"）Jnuse libafl：：monitors:tui：："
+      },
+      {
+        "boundingBox": [
+          0.608333343788384,
+          0.007633589637287885,
+          0.24583332061767582,
+          0.038237969809715944
+        ],
+        "confidence": 0.3,
+        "text": "｛ui:TuiUI, TuiMonitoryi#lcfg（not（feature"
+      },
+      {
+        "boundingBox": [
+          0.05087209522139336,
+          0.008000000837743215,
+          0.24563953399658206,
+          0.026666665295942082
+        ],
+        "confidence": 0.5,
+        "text": "SimpleMonitor:new（Isl println！（\"｛s｝\"））；\\n#"
+      }
+    ],
+    "ocr_text": "raw_chunk doc_id\nchunk_id original_index\nfull_doc _relevance_score\n#［cfg（windows）Inuse\n#［cfg（windows）nuse\nstd：：ptr:write_volatile；\\use std：：\nstd：：ptr:write_volatile;nuse std：：\n｛path:PathBuf, ptr:write｝；nin#fcfg（feature\n｛path：：PathBuf, ptr: write｝；\\nin#jcfg（feature\n= \"tui\"）nuse libafl: monitors:tui：｛ui：：TuiUl，\n= \"tui ）Inuse libafl:monitors:tui：：\nTuiMonitor｝； #［cfg（not（feature =\n｛ui:TuiUl, TuiMonitor｝；in#［cfg（not（feature\n\"tui\"）） use\n=tui））nuse\nO\ndoc_2 doc_2_chunk_0\n0\n0.032002\nlibafl: monitors: SimpleMonitor;nuse libafl：：\nlibafl:monitors:SimpleMonitor；\\nuse\n｛n corpus：：｛InMemoryCorpus，\nlibafl： ｛n corpus： ｛InMemoryCorpus，\nOnDiskCorpus｝，n\nOnDiskCorpus｝， n\nevents：：Simple EventManager，\\ executors：：\nevents：：SimpleEventManager,M\n｛inprocess：：InProcessExecutor,Exitkind｝，i\nexecutors： ｛inprocess:InProcessExecutor，\nfeedba..\nExitKind｝， Mn feedba..\nuse core：：｛ffi：：c_void, fmt: Debug｝；nuse\nuse core：｛ffi：：c_void, fmt：：Debugk nuse\nstd：：sync：：atomic：｛AtomicBool，\nstd：：sync：：atomic：｛AtomicBool，\nAtomicUsize, Ordering｝；niuse libafl: An\nAtomicUsize, Ordering｝ \\ninuse libafl:0n\nevents：：EventFirer,n\nevents：：EventFirer，\\ executors：：ExitKind,un\nexecutors：：ExitKind, in\nfeedbacks：：Feedback，\\n\nfeedbacks：：Feedback，\\\n1\ndoc_3 doc_3_chunk_0\n0\n0.016393\ninputs：：Useslnput, Mn observers：｛Observer，\ninputs：：UsesInput，\\n observers：：\nObserversTuple｝，i state：：State,Mn\n｛Observer,Observers Tuple｝，Mn\nError， \\n｝； nuse libafl_bolts：：Named；\\nuse\nstate：：State，\\ Error， \\n｝；nuse\nlibc:SIGABRT;nuse serde：｛Deserialize，\nlibafl bolts：：Named \\use\nSerialize｝；\\inextern \"C\" ｛n..\nlibc：：SIGABRT；\\nuse serde：｛Deserialize，\nSerialize｝；\\nextern \"C\" ｛..\n#［cfg（windows）Inuse\nI/ The Monitor trait define how the fuzzer\nstd：：ptr:write_volatile; nuse std：：\nstats are displayed to the userin #\n｛path: PathBuf, ptr:write｝；nin#［cfg （feature\n［cfg（not（feature = \"tui\"））In let mon =\n= \"tui\"）Jnuse libafl：：monitors:tui：：\n｛ui:TuiUI, TuiMonitoryi#lcfg（not（feature\nSimpleMonitor:new（Isl println！（\"｛s｝\"））；\\n#",
+    "description": "IMPORT中的配图，包含文字：raw_chunk doc_id；chunk_id original_index；full_doc _relevance_score；#［cfg（windows）Inuse；#［cfg（windows）nuse；std：：ptr:write_volatile；\\use std：：；std：：ptr:write_volatile;nuse std：：；｛path:PathBuf, ptr:write｝；nin#fcfg（feature；｛path：：PathBuf, ptr: write｝；\\nin#jcfg（feature；= \"tui\"）nuse libafl: monitors:tui：｛ui：：TuiUl，；= \"tui ）Inuse libafl:monitors:tui：：；TuiMonitor｝； #［cfg（not（feature =；｛ui:TuiUl, TuiMonitor｝；in#［cfg（not（feature；\"tui\"）） use；=tui））nuse；O；doc_2 doc_2_chunk_0；0；0.032002；libafl: monitors: SimpleMonitor;nuse libafl：：；libafl:monitors:SimpleMonitor；\\nuse；｛n corpus：：｛InMemoryCorpus，；libafl： ｛n corpus： ｛InMemoryCorpus，；OnDiskCorpus｝，n；OnDiskCorpus｝， n；events：：Simple EventManager，\\ executors：：；events：：SimpleEventManager,M；｛inprocess：：InProcessExecutor,Exitkind｝，i；executors： ｛inprocess:InProcessExecutor，；feedba..",
+    "entities": [
+      "raw_chunk doc_id",
+      "chunk_id original_index",
+      "full_doc _relevance_score",
+      "#［cfg（windows）Inuse",
+      "#［cfg（windows）nuse",
+      "std：：ptr:write_volatile；\\use std：：",
+      "std：：ptr:write_volatile;nuse std：：",
+      "｛path:PathBuf, ptr:write｝；nin#fcfg（feature",
+      "｛path：：PathBuf, ptr: write｝；\\nin#jcfg（feature",
+      "= \"tui\"）nuse libafl: monitors:tui：｛ui：：TuiUl，",
+      "= \"tui ）Inuse libafl:monitors:tui：：",
+      "TuiMonitor｝； #［cfg（not（feature =",
+      "｛ui:TuiUl, TuiMonitor｝；in#［cfg（not（feature",
+      "\"tui\"）） use",
+      "=tui））nuse",
+      "O",
+      "doc_2 doc_2_chunk_0",
+      "0",
+      "0.032002",
+      "libafl: monitors: SimpleMonitor;nuse libafl：：",
+      "libafl:monitors:SimpleMonitor；\\nuse",
+      "｛n corpus：：｛InMemoryCorpus，",
+      "libafl： ｛n corpus： ｛InMemoryCorpus，",
+      "OnDiskCorpus｝，n",
+      "OnDiskCorpus｝， n",
+      "events：：Simple EventManager，\\ executors：：",
+      "events：：SimpleEventManager,M",
+      "｛inprocess：：InProcessExecutor,Exitkind｝，i",
+      "executors： ｛inprocess:InProcessExecutor，",
+      "feedba..",
+      "ExitKind｝， Mn feedba..",
+      "use core：：｛ffi：：c_void, fmt: Debug｝；nuse",
+      "use core：｛ffi：：c_void, fmt：：Debugk nuse",
+      "std：：sync：：atomic：｛AtomicBool，",
+      "AtomicUsize, Ordering｝；niuse libafl: An",
+      "AtomicUsize, Ordering｝ \\ninuse libafl:0n",
+      "events：：EventFirer,n",
+      "events：：EventFirer，\\ executors：：ExitKind,un",
+      "executors：：ExitKind, in",
+      "feedbacks：：Feedback，\\n",
+      "feedbacks：：Feedback，\\",
+      "1",
+      "doc_3 doc_3_chunk_0",
+      "0.016393",
+      "inputs：：Useslnput, Mn observers：｛Observer，",
+      "inputs：：UsesInput，\\n observers：：",
+      "ObserversTuple｝，i state：：State,Mn",
+      "｛Observer,Observers Tuple｝，Mn",
+      "Error， \\n｝； nuse libafl_bolts：：Named；\\nuse",
+      "state：：State，\\ Error， \\n｝；nuse",
+      "libc:SIGABRT;nuse serde：｛Deserialize，",
+      "libafl bolts：：Named \\use",
+      "Serialize｝；\\inextern \"C\" ｛n..",
+      "libc：：SIGABRT；\\nuse serde：｛Deserialize，",
+      "Serialize｝；\\nextern \"C\" ｛..",
+      "I/ The Monitor trait define how the fuzzer",
+      "std：：ptr:write_volatile; nuse std：：",
+      "stats are displayed to the userin #",
+      "｛path: PathBuf, ptr:write｝；nin#［cfg （feature",
+      "［cfg（not（feature = \"tui\"））In let mon =",
+      "= \"tui\"）Jnuse libafl：：monitors:tui：：",
+      "｛ui:TuiUI, TuiMonitoryi#lcfg（not（feature",
+      "SimpleMonitor:new（Isl println！（\"｛s｝\"））；\\n#"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "778fa9584a114a4ed8794e45ad5004e071566eb2baec0a5bf1b2570f5e903a05"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-004",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029940065f57b2bfa9e66_Screenshot-2024-10-08-at-8.21.21-PM.avif",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-004.avif",
+    "section": "Solution? Contextual Retrieval!",
+    "alt": "Contextual retrieval diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.002906976720487626,
+          0.9615384615391466,
+          0.05087209224700928,
+          0.019292208519610665
+        ],
+        "confidence": 0.5,
+        "text": "Flip horizontal"
+      },
+      {
+        "boundingBox": [
+          0.3531976783294779,
+          0.9134615380841595,
+          0.1976744079589844,
+          0.03571428571428581
+        ],
+        "confidence": 0.5,
+        "text": "PREPROCESSING （new）"
+      },
+      {
+        "boundingBox": [
+          0.07959101711849201,
+          0.7987597040383132,
+          0.051500000953674324,
+          0.03279797192458267
+        ],
+        "confidence": 1,
+        "text": "Corpus"
+      },
+      {
+        "boundingBox": [
+          0.28630645849015157,
+          0.7569298098851684,
+          0.05529406070709231,
+          0.032466259631481864
+        ],
+        "confidence": 0.5,
+        "text": "Chunk1"
+      },
+      {
+        "boundingBox": [
+          0.4563953506904424,
+          0.7087912094205654,
+          0.10901162147521976,
+          0.0357142857142857
+        ],
+        "confidence": 0.5,
+        "text": "Run prompt for"
+      },
+      {
+        "boundingBox": [
+          0.459302326030607,
+          0.6675824176997626,
+          0.10174418449401862,
+          0.0357142857142857
+        ],
+        "confidence": 0.5,
+        "text": "every chunk to"
+      },
+      {
+        "boundingBox": [
+          0.2848584925083148,
+          0.6515396475795365,
+          0.05673650264739988,
+          0.03238396461193371
+        ],
+        "confidence": 0.5,
+        "text": "Chunk2"
+      },
+      {
+        "boundingBox": [
+          0.4549418592495728,
+          0.6357827475476028,
+          0.1104651165008545,
+          0.02905241735688935
+        ],
+        "confidence": 0.5,
+        "text": "situate it within"
+      },
+      {
+        "boundingBox": [
+          0.943313953275991,
+          0.623003195555203,
+          0.04360465049743645,
+          0.03514376839438638
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.46220930284979944,
+          0.5974440894645358,
+          0.09738371849060057,
+          0.028929537469214117
+        ],
+        "confidence": 0.5,
+        "text": "the document"
+      },
+      {
+        "boundingBox": [
+          0.28334519116982115,
+          0.5487365989575821,
+          0.05976310729980466,
+          0.03351721789810691
+        ],
+        "confidence": 0.5,
+        "text": "ChunkX"
+      },
+      {
+        "boundingBox": [
+          0.7061823731601035,
+          0.3461645257012328,
+          0.08036781311035157,
+          0.04569011730152173
+        ],
+        "confidence": 1,
+        "text": "Embedding"
+      },
+      {
+        "boundingBox": [
+          0.8820944088745379,
+          0.35648290854481623,
+          0.04976467132568363,
+          0.03463801708850234
+        ],
+        "confidence": 1,
+        "text": "Vector"
+      },
+      {
+        "boundingBox": [
+          0.443313954887674,
+          0.32907348273530246,
+          0.13517441749572756,
+          0.02875399327540129
+        ],
+        "confidence": 0.5,
+        "text": "Context 1+ Chunk1"
+      },
+      {
+        "boundingBox": [
+          0.7237310451885722,
+          0.31246811659842755,
+          0.046723957061767574,
+          0.03960050855364117
+        ],
+        "confidence": 1,
+        "text": "model"
+      },
+      {
+        "boundingBox": [
+          0.7933152497215699,
+          0.3151738933764229,
+          0.06747001171112055,
+          0.028981997416569594
+        ],
+        "confidence": 1,
+        "text": "Embeddings"
+      },
+      {
+        "boundingBox": [
+          0.8734714120052733,
+          0.31872915375285316,
+          0.06555717468261713,
+          0.0334682097801795
+        ],
+        "confidence": 1,
+        "text": "database"
+      },
+      {
+        "boundingBox": [
+          0.23982558724067154,
+          0.2715654955747593,
+          0.14825580596923826,
+          0.029258680867624842
+        ],
+        "confidence": 0.5,
+        "text": "For every prompt, Claude"
+      },
+      {
+        "boundingBox": [
+          0.21802325679308518,
+          0.2428115012634513,
+          0.19040697097778317,
+          0.025559105715908803
+        ],
+        "confidence": 0.5,
+        "text": "responds with 50-100 tokens of"
+      },
+      {
+        "boundingBox": [
+          0.44040697930373895,
+          0.2236421728511172,
+          0.14098836898803713,
+          0.029105080353034718
+        ],
+        "confidence": 0.5,
+        "text": "Context 2+ Chunk 2"
+      },
+      {
+        "boundingBox": [
+          0.21656977562468768,
+          0.20447284389744302,
+          0.19331394195556642,
+          0.029043639099204932
+        ],
+        "confidence": 0.5,
+        "text": "context, which is then prepended"
+      },
+      {
+        "boundingBox": [
+          0.2325581432319109,
+          0.17252396146932802,
+          0.16133720397949217,
+          0.02939911596067668
+        ],
+        "confidence": 0.5,
+        "text": "to the corresponding chunk"
+      },
+      {
+        "boundingBox": [
+          0.8806490621518881,
+          0.12653559464744202,
+          0.05410885334014892,
+          0.03766363531678596
+        ],
+        "confidence": 1,
+        "text": "TF-IDF"
+      },
+      {
+        "boundingBox": [
+          0.437500000818226,
+          0.11813186790598873,
+          0.14534883499145507,
+          0.03571428571428581
+        ],
+        "confidence": 0.3,
+        "text": "Context X + ChunkX"
+      },
+      {
+        "boundingBox": [
+          0.7194545664538035,
+          0.1084355261368819,
+          0.050916447639465345,
+          0.029135337242713333
+        ],
+        "confidence": 1,
+        "text": "TF-IDF"
+      },
+      {
+        "boundingBox": [
+          0.8850654157631607,
+          0.08877352810159211,
+          0.04091567993164058,
+          0.03331556424989812
+        ],
+        "confidence": 1,
+        "text": "index"
+      },
+      {
+        "boundingBox": [
+          0.806686046635987,
+          0.07967032976310973,
+          0.04069767475128172,
+          0.02895586831229069
+        ],
+        "confidence": 1,
+        "text": "TF-IDF"
+      },
+      {
+        "boundingBox": [
+          0.8052325591137174,
+          0.04792332269137267,
+          0.04215116024017329,
+          0.02899975436074398
+        ],
+        "confidence": 1,
+        "text": "vectors"
+      }
+    ],
+    "ocr_text": "Flip horizontal\nPREPROCESSING （new）\nCorpus\nChunk1\nRun prompt for\nevery chunk to\nChunk2\nsituate it within\nQuery\nthe document\nChunkX\nEmbedding\nVector\nContext 1+ Chunk1\nmodel\nEmbeddings\ndatabase\nFor every prompt, Claude\nresponds with 50-100 tokens of\nContext 2+ Chunk 2\ncontext, which is then prepended\nto the corresponding chunk\nTF-IDF\nContext X + ChunkX\nTF-IDF\nindex\nTF-IDF\nvectors",
+    "description": "Solution? Contextual Retrieval!中的配图，包含文字：Flip horizontal；PREPROCESSING （new）；Corpus；Chunk1；Run prompt for；every chunk to；Chunk2；situate it within；Query；the document；ChunkX；Embedding；Vector；Context 1+ Chunk1；model；Embeddings；database；For every prompt, Claude；responds with 50-100 tokens of；Context 2+ Chunk 2；context, which is then prepended；to the corresponding chunk；TF-IDF；Context X + ChunkX；TF-IDF；index；TF-IDF；vectors",
+    "entities": [
+      "Flip horizontal",
+      "PREPROCESSING （new）",
+      "Corpus",
+      "Chunk1",
+      "Run prompt for",
+      "every chunk to",
+      "Chunk2",
+      "situate it within",
+      "Query",
+      "the document",
+      "ChunkX",
+      "Embedding",
+      "Vector",
+      "Context 1+ Chunk1",
+      "model",
+      "Embeddings",
+      "database",
+      "For every prompt, Claude",
+      "responds with 50-100 tokens of",
+      "Context 2+ Chunk 2",
+      "context, which is then prepended",
+      "to the corresponding chunk",
+      "TF-IDF",
+      "Context X + ChunkX",
+      "index",
+      "vectors"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "42f48b40f2a8d9090227850f1f197b3be134aebca9145dc0348dc71b6e641de1"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-005",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029940065f57b2bfa9e62_prompt-1.avif",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-005.avif",
+    "section": "What does the above code portion do?",
+    "alt": "Prompt caching diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7020348853229572,
+          0.8913649021037147,
+          0.13808139070744463,
+          0.0417827310757648
+        ],
+        "confidence": 0.3,
+        "text": "v Cache hit"
+      },
+      {
+        "boundingBox": [
+          0.659883718621825,
+          0.71866295182923,
+          0.302325580973404,
+          0.04456824648081581
+        ],
+        "confidence": 0.3,
+        "text": "AO OOAOL"
+      },
+      {
+        "boundingBox": [
+          0.1409883765899734,
+          0.6406685232039933,
+          0.15988371460106085,
+          0.0417827310757648
+        ],
+        "confidence": 1,
+        "text": "Original prompt"
+      },
+      {
+        "boundingBox": [
+          0.662790700918906,
+          0.6321184499687795,
+          0.2979651053085055,
+          0.059225512528473745
+        ],
+        "confidence": 0.3,
+        "text": "•OAIOAOLO"
+      },
+      {
+        "boundingBox": [
+          0.6264534885030695,
+          0.5738161549728048,
+          0.03924418573005306,
+          0.04735376188586671
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.6598837229263367,
+          0.5682451269438187,
+          0.10029069535372226,
+          0.05020589763319849
+        ],
+        "confidence": 0.3,
+        "text": "•A〇"
+      },
+      {
+        "boundingBox": [
+          0.7585948208506414,
+          0.5696276328698268,
+          0.1397871001580383,
+          0.05015977803015226
+        ],
+        "confidence": 0.3,
+        "text": "•OL"
+      },
+      {
+        "boundingBox": [
+          0.07122093266130079,
+          0.46796657335914027,
+          0.17005813362765682,
+          0.04735376188586682
+        ],
+        "confidence": 0.3,
+        "text": "•O"
+      },
+      {
+        "boundingBox": [
+          0.03488372265287753,
+          0.3952164013573054,
+          0.06395348584042435,
+          0.044895020052621026
+        ],
+        "confidence": 0.3,
+        "text": "LA"
+      },
+      {
+        "boundingBox": [
+          0.7005813949643126,
+          0.3895216409056588,
+          0.15697674292021213,
+          0.04555808656036453
+        ],
+        "confidence": 0.3,
+        "text": "x Cache miss"
+      },
+      {
+        "boundingBox": [
+          0.03343023274945134,
+          0.32311977675959225,
+          0.06831395243351014,
+          0.044761772850922865
+        ],
+        "confidence": 0.3,
+        "text": "AO"
+      },
+      {
+        "boundingBox": [
+          0.10174418670954236,
+          0.3259052922615605,
+          0.03343023102858972,
+          0.0417827310757648
+        ],
+        "confidence": 0.3,
+        "text": "•"
+      },
+      {
+        "boundingBox": [
+          0.5916666654476064,
+          0.15034168664206615,
+          0.09166666727145423,
+          0.04807101186695839
+        ],
+        "confidence": 0.3,
+        "text": "AO"
+      }
+    ],
+    "ocr_text": "v Cache hit\nAO OOAOL\nOriginal prompt\n•OAIOAOLO\n•\n•A〇\n•OL\n•O\nLA\nx Cache miss\nAO\n•\nAO",
+    "description": "What does the above code portion do?中的配图，包含文字：v Cache hit；AO OOAOL；Original prompt；•OAIOAOLO；•；•A〇；•OL；•O；LA；x Cache miss；AO；•；AO",
+    "entities": [
+      "v Cache hit",
+      "AO OOAOL",
+      "Original prompt",
+      "•OAIOAOLO",
+      "•",
+      "•A〇",
+      "•OL",
+      "•O",
+      "LA",
+      "x Cache miss",
+      "AO"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "66b6695d1b7d68581f89c51ab4e54b20569c0e9fb9c1202e4609c7cf7927ff51"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-006",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175fc_lancedb.jpeg",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-006.jpg",
+    "section": "**Conclusion**",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "**Conclusion**中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "8066d0289f34f86e4b7ab9954d4886e37463cbfa209f158f0551f4de7063c216"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-007",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-007.png",
+    "section": "**Conclusion**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "**Conclusion**中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-008",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-008.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d-fig-009",
+    "doc_id": "1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1403-https-www-lancedb-com-blog-guide-to-use-contextu-33acfd8d/figure-009.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

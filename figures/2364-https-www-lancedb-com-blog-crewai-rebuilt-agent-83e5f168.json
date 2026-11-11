@@ -1,0 +1,1017 @@
+[
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-001",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a62eab8242ca13118f189e5_crewai_hero2.png",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-001.png",
+    "section": "Why CrewAI Rebuilt Agent Memory on LanceDB, Powering 2B+ Agent Executions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.079941861429704,
+          0.899150742652913,
+          0.25,
+          0.0673441026367706
+        ],
+        "confidence": 0.3,
+        "text": "LanceDB| oxewai"
+      }
+    ],
+    "ocr_text": "LanceDB| oxewai",
+    "description": "Why CrewAI Rebuilt Agent Memory on LanceDB, Powering 2B+ Agent Executions中的配图，包含文字：LanceDB| oxewai",
+    "entities": [
+      "LanceDB| oxewai"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dcec169d625e1851f3f6c69b6a9de695d4ea8a67683ce0171f7c3bc61fd528a7"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-002",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a6276ab47b72efcfcc522ef_875b7917.jpeg",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-002.jpg",
+    "section": "The Turn: From Storage To Cognition",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.14200000067499996,
+          0.853046595609319,
+          0.23399999999999999,
+          0.05017921146953408
+        ],
+        "confidence": 0.5,
+        "text": "Memory as Storage"
+      },
+      {
+        "boundingBox": [
+          0.6160000018,
+          0.8530465951356887,
+          0.252,
+          0.05017921146953397
+        ],
+        "confidence": 0.5,
+        "text": "Memory as Cognition"
+      },
+      {
+        "boundingBox": [
+          0.22392788357596055,
+          0.7163533396943003,
+          0.06014423370361327,
+          0.029658912330545295
+        ],
+        "confidence": 0.5,
+        "text": "Data In"
+      },
+      {
+        "boundingBox": [
+          0.5739716939389302,
+          0.6162567967659274,
+          0.054056613922119134,
+          0.021966691512788072
+        ],
+        "confidence": 0.5,
+        "text": "anaiyzes，"
+      },
+      {
+        "boundingBox": [
+          0.859985838836557,
+          0.619956887439443,
+          0.05402832412719727,
+          0.021734970872120174
+        ],
+        "confidence": 0.5,
+        "text": "detects +"
+      },
+      {
+        "boundingBox": [
+          0.5858487403237789,
+          0.5939910445684995,
+          0.042302520751953177,
+          0.023487444846860717
+        ],
+        "confidence": 1,
+        "text": "places，"
+      },
+      {
+        "boundingBox": [
+          0.6458182205685222,
+          0.5866920051873408,
+          0.060363559722900306,
+          0.03450129450862982
+        ],
+        "confidence": 1,
+        "text": "Encode"
+      },
+      {
+        "boundingBox": [
+          0.769958206275339,
+          0.5945578505835654,
+          0.07808358764648438,
+          0.025938063966757907
+        ],
+        "confidence": 1,
+        "text": "Consolidate"
+      },
+      {
+        "boundingBox": [
+          0.8579889830290206,
+          0.5948994991292995,
+          0.05002203369140623,
+          0.021670534619293802
+        ],
+        "confidence": 1,
+        "text": "resolves"
+      },
+      {
+        "boundingBox": [
+          0.2240000005,
+          0.5698924733273596,
+          0.060000000000000026,
+          0.032258064516129004
+        ],
+        "confidence": 1,
+        "text": "Embed"
+      },
+      {
+        "boundingBox": [
+          0.5880000004666667,
+          0.5698924728195938,
+          0.039999999999999925,
+          0.017921146953405076
+        ],
+        "confidence": 0.3,
+        "text": "scoreS"
+      },
+      {
+        "boundingBox": [
+          0.8579673487231948,
+          0.5696459860929262,
+          0.0500653038024903,
+          0.021998350765542796
+        ],
+        "confidence": 0.5,
+        "text": "conflicts"
+      },
+      {
+        "boundingBox": [
+          0.22999999956,
+          0.4265232978136201,
+          0.04799999999999999,
+          0.032258064516129115
+        ],
+        "confidence": 1,
+        "text": "Store"
+      },
+      {
+        "boundingBox": [
+          0.5478013497729268,
+          0.370562259166603,
+          0.04239730072021486,
+          0.018732113650195448
+        ],
+        "confidence": 1,
+        "text": "prunes"
+      },
+      {
+        "boundingBox": [
+          0.6060000007,
+          0.3476702510752687,
+          0.05599999999999994,
+          0.03584229390681004
+        ],
+        "confidence": 1,
+        "text": "Forget"
+      },
+      {
+        "boundingBox": [
+          0.82600000014,
+          0.3512544799641577,
+          0.050000000000000044,
+          0.032258064516129004
+        ],
+        "confidence": 1,
+        "text": "Recall"
+      },
+      {
+        "boundingBox": [
+          0.8979999999038462,
+          0.3727598566652882,
+          0.05400000000000005,
+          0.017921146953404965
+        ],
+        "confidence": 1,
+        "text": "evaluates"
+      },
+      {
+        "boundingBox": [
+          0.5199999998333332,
+          0.34408602192353654,
+          0.07000000000000006,
+          0.02508960573476693
+        ],
+        "confidence": 0.5,
+        "text": "intentionally"
+      },
+      {
+        "boundingBox": [
+          0.8959355953979883,
+          0.34703662553153014,
+          0.06412880706787116,
+          0.022772626637557858
+        ],
+        "confidence": 1,
+        "text": "confidence"
+      },
+      {
+        "boundingBox": [
+          0.21596052254898546,
+          0.27928453323750024,
+          0.07207895660400393,
+          0.032828782194404105
+        ],
+        "confidence": 1,
+        "text": "Retrieve"
+      },
+      {
+        "boundingBox": [
+          0.711974992191575,
+          0.21490374634702358,
+          0.06005001449584957,
+          0.03255809934335796
+        ],
+        "confidence": 0.5,
+        "text": "Extract"
+      },
+      {
+        "boundingBox": [
+          0.17799999875000003,
+          0.1362007166367981,
+          0.15,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "Stuff into Context"
+      },
+      {
+        "boundingBox": [
+          0.7179811178738166,
+          0.12527726982852272,
+          0.05003776550292971,
+          0.018262664904303838
+        ],
+        "confidence": 1,
+        "text": "atomizes"
+      },
+      {
+        "boundingBox": [
+          0.7220000007,
+          0.09677419366786133,
+          0.041999999999999926,
+          0.021505376344086113
+        ],
+        "confidence": 1,
+        "text": "output"
+      }
+    ],
+    "ocr_text": "Memory as Storage\nMemory as Cognition\nData In\nanaiyzes，\ndetects +\nplaces，\nEncode\nConsolidate\nresolves\nEmbed\nscoreS\nconflicts\nStore\nprunes\nForget\nRecall\nevaluates\nintentionally\nconfidence\nRetrieve\nExtract\nStuff into Context\natomizes\noutput",
+    "description": "The Turn: From Storage To Cognition中的配图，包含文字：Memory as Storage；Memory as Cognition；Data In；anaiyzes，；detects +；places，；Encode；Consolidate；resolves；Embed；scoreS；conflicts；Store；prunes；Forget；Recall；evaluates；intentionally；confidence；Retrieve；Extract；Stuff into Context；atomizes；output",
+    "entities": [
+      "Memory as Storage",
+      "Memory as Cognition",
+      "Data In",
+      "anaiyzes，",
+      "detects +",
+      "places，",
+      "Encode",
+      "Consolidate",
+      "resolves",
+      "Embed",
+      "scoreS",
+      "conflicts",
+      "Store",
+      "prunes",
+      "Forget",
+      "Recall",
+      "evaluates",
+      "intentionally",
+      "confidence",
+      "Retrieve",
+      "Extract",
+      "Stuff into Context",
+      "atomizes",
+      "output"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c1cfeb506a73f6b30f06d25ac54f4e6edc1ee89c328370c44c322d2b121401ab"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-003",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a6276ab47b72efcfcc522e9_bd1cc6e1.jpeg",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-003.jpg",
+    "section": "Encode and consolidate",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.40399999753333343,
+          0.8207885302270013,
+          0.14800000000000008,
+          0.021505376344086002
+        ],
+        "confidence": 0.5,
+        "text": "most writes resolve here"
+      },
+      {
+        "boundingBox": [
+          0.43310600687333395,
+          0.7070732107283764,
+          0.09212132263183598,
+          0.0410774600121282
+        ],
+        "confidence": 0.5,
+        "text": "Fast Insert"
+      },
+      {
+        "boundingBox": [
+          0.44200000094999997,
+          0.6810035844086022,
+          0.07600000000000001,
+          0.021505376344086002
+        ],
+        "confidence": 0.3,
+        "text": "no LLM cost"
+      },
+      {
+        "boundingBox": [
+          0.333999999775,
+          0.6738351253136201,
+          0.018000000000000016,
+          0.017921146953404965
+        ],
+        "confidence": 0.3,
+        "text": "nO"
+      },
+      {
+        "boundingBox": [
+          0.31588215546951515,
+          0.6477512542144469,
+          0.05423568725585942,
+          0.023493906075809146
+        ],
+        "confidence": 1,
+        "text": "matches"
+      },
+      {
+        "boundingBox": [
+          0.048000000957142845,
+          0.4946236560931899,
+          0.13399999999999998,
+          0.032258064516129004
+        ],
+        "confidence": 0.5,
+        "text": "Similarity Search"
+      },
+      {
+        "boundingBox": [
+          0.27576471184877277,
+          0.49684384744908794,
+          0.056470577239990216,
+          0.034986138771084585
+        ],
+        "confidence": 1,
+        "text": "Similar"
+      },
+      {
+        "boundingBox": [
+          0.8220000001000001,
+          0.4910394261648746,
+          0.122,
+          0.03584229390681004
+        ],
+        "confidence": 1,
+        "text": "Memory Stored"
+      },
+      {
+        "boundingBox": [
+          0.047871519618289796,
+          0.46571957265640784,
+          0.1342902526855469,
+          0.02566476022043529
+        ],
+        "confidence": 0.5,
+        "text": "find related memories"
+      },
+      {
+        "boundingBox": [
+          0.2758481574180381,
+          0.4683969634434161,
+          0.05630368423461918,
+          0.02736377801519141
+        ],
+        "confidence": 0.5,
+        "text": "found？"
+      },
+      {
+        "boundingBox": [
+          0.8138774239400233,
+          0.46071426645778824,
+          0.14031898498535156,
+          0.03054482791586166
+        ],
+        "confidence": 1,
+        "text": "coherent,deduplicated"
+      },
+      {
+        "boundingBox": [
+          0.395833335850152,
+          0.2831541212865941,
+          0.15416665649414063,
+          0.037741399580432544
+        ],
+        "confidence": 0.5,
+        "text": "Consolidation Plan"
+      },
+      {
+        "boundingBox": [
+          0.6240000010399999,
+          0.28315412193548395,
+          0.10400000000000009,
+          0.028673835125447966
+        ],
+        "confidence": 0.5,
+        "text": "Execute Plan"
+      },
+      {
+        "boundingBox": [
+          0.31995933475147526,
+          0.2434447604683322,
+          0.04608132934570314,
+          0.02207105048668434
+        ],
+        "confidence": 1,
+        "text": "overlap"
+      },
+      {
+        "boundingBox": [
+          0.40600000174999995,
+          0.2473118281810036,
+          0.14,
+          0.02508960573476704
+        ],
+        "confidence": 0.5,
+        "text": "update mergexdelete"
+      },
+      {
+        "boundingBox": [
+          0.6080000017,
+          0.2508960574820789,
+          0.136,
+          0.02508960573476704
+        ],
+        "confidence": 1,
+        "text": "resolve contradictions"
+      },
+      {
+        "boundingBox": [
+          0.31600000063333333,
+          0.21863799318996413,
+          0.05399999999999999,
+          0.021505376344086002
+        ],
+        "confidence": 1,
+        "text": "detected"
+      },
+      {
+        "boundingBox": [
+          0.40800000172499995,
+          0.1505376346326166,
+          0.138,
+          0.02508960573476704
+        ],
+        "confidence": 0.5,
+        "text": "LLM only when needed"
+      }
+    ],
+    "ocr_text": "most writes resolve here\nFast Insert\nno LLM cost\nnO\nmatches\nSimilarity Search\nSimilar\nMemory Stored\nfind related memories\nfound？\ncoherent,deduplicated\nConsolidation Plan\nExecute Plan\noverlap\nupdate mergexdelete\nresolve contradictions\ndetected\nLLM only when needed",
+    "description": "Encode and consolidate中的配图，包含文字：most writes resolve here；Fast Insert；no LLM cost；nO；matches；Similarity Search；Similar；Memory Stored；find related memories；found？；coherent,deduplicated；Consolidation Plan；Execute Plan；overlap；update mergexdelete；resolve contradictions；detected；LLM only when needed",
+    "entities": [
+      "most writes resolve here",
+      "Fast Insert",
+      "no LLM cost",
+      "nO",
+      "matches",
+      "Similarity Search",
+      "Similar",
+      "Memory Stored",
+      "find related memories",
+      "found？",
+      "coherent,deduplicated",
+      "Consolidation Plan",
+      "Execute Plan",
+      "overlap",
+      "update mergexdelete",
+      "resolve contradictions",
+      "detected",
+      "LLM only when needed"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "18851a9fa37b96272b558e3836751724aabf9d02f645dfe34d9211994e8d51c4"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-004",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a6276ab47b72efcfcc522ec_854725ab.jpeg",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-004.jpg",
+    "section": "Recall",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6782841818393622,
+          0.8245341616394928,
+          0.09651474761962886,
+          0.03796583821314459
+        ],
+        "confidence": 0.5,
+        "text": "Return Results"
+      },
+      {
+        "boundingBox": [
+          0.6876675611015258,
+          0.7748447206694723,
+          0.07774798583984377,
+          0.03765527950310554
+        ],
+        "confidence": 0.5,
+        "text": "fast, single pass"
+      },
+      {
+        "boundingBox": [
+          0.5174262733390992,
+          0.7374999999836722,
+          0.022788204193115225,
+          0.03749999940765569
+        ],
+        "confidence": 1,
+        "text": "High"
+      },
+      {
+        "boundingBox": [
+          0.48791085276369345,
+          0.7078990056860596,
+          0.052328430175781315,
+          0.030035321016489314
+        ],
+        "confidence": 1,
+        "text": "confidence"
+      },
+      {
+        "boundingBox": [
+          0.5549597856352859,
+          0.7166666674261462,
+          0.034852546691894526,
+          0.02916666587687433
+        ],
+        "confidence": 1,
+        "text": "routine"
+      },
+      {
+        "boundingBox": [
+          0.5535497708944092,
+          0.6782142442048604,
+          0.0403535423278808,
+          0.03107151185503665
+        ],
+        "confidence": 1,
+        "text": "lookups"
+      },
+      {
+        "boundingBox": [
+          0.18356096446066275,
+          0.5193324417389948,
+          0.09668504333496089,
+          0.05716845115519453
+        ],
+        "confidence": 1,
+        "text": "QueryAnalysis"
+      },
+      {
+        "boundingBox": [
+          0.34316353720820947,
+          0.5248447199457482,
+          0.10053619384765622,
+          0.04658385093167694
+        ],
+        "confidence": 0.5,
+        "text": "Search + Score"
+      },
+      {
+        "boundingBox": [
+          0.5093249668437997,
+          0.5114427761066735,
+          0.07652433013916016,
+          0.04378111614203606
+        ],
+        "confidence": 1,
+        "text": "Confidence"
+      },
+      {
+        "boundingBox": [
+          0.8538874026956866,
+          0.5124223595975437,
+          0.10187667083740237,
+          0.04192546583850931
+        ],
+        "confidence": 1,
+        "text": "Ranked Results"
+      },
+      {
+        "boundingBox": [
+          0.060321716052188806,
+          0.4916666671190888,
+          0.04289544296264648,
+          0.03783643912084356
+        ],
+        "confidence": 1,
+        "text": "Recall"
+      },
+      {
+        "boundingBox": [
+          0.19705093943411084,
+          0.48291925465838514,
+          0.06970509338378905,
+          0.03416149068322971
+        ],
+        "confidence": 0.5,
+        "text": "analyze intent，"
+      },
+      {
+        "boundingBox": [
+          0.3485254705848565,
+          0.48291925451949613,
+          0.09115280914306645,
+          0.03416149068322982
+        ],
+        "confidence": 0.5,
+        "text": "Similarity x recency"
+      },
+      {
+        "boundingBox": [
+          0.5280627104322304,
+          0.45352816990670763,
+          0.03770835876464851,
+          0.051276994788128416
+        ],
+        "confidence": 0.5,
+        "text": "high？"
+      },
+      {
+        "boundingBox": [
+          0.8498659552494653,
+          0.4666666681692978,
+          0.11126004791259769,
+          0.033333331161404356
+        ],
+        "confidence": 0.5,
+        "text": "results + what's missing"
+      },
+      {
+        "boundingBox": [
+          0.1997319046298128,
+          0.45000000060322953,
+          0.06434316253662106,
+          0.029813664300101128
+        ],
+        "confidence": 0.5,
+        "text": "select scopes"
+      },
+      {
+        "boundingBox": [
+          0.36327077821619275,
+          0.4500000002386463,
+          0.06300267791748049,
+          0.029813664300101128
+        ],
+        "confidence": 0.5,
+        "text": "x importance"
+      },
+      {
+        "boundingBox": [
+          0.5562700073446681,
+          0.31202264698581705,
+          0.04027499771118159,
+          0.025954705587825422
+        ],
+        "confidence": 1,
+        "text": "complex"
+      },
+      {
+        "boundingBox": [
+          0.5201072382336436,
+          0.28260869574338887,
+          0.020107238769531244,
+          0.029891304347826053
+        ],
+        "confidence": 1,
+        "text": "Low"
+      },
+      {
+        "boundingBox": [
+          0.5562319236930363,
+          0.2700263588954299,
+          0.03498923492431638,
+          0.030780614533039374
+        ],
+        "confidence": 0.5,
+        "text": "queries"
+      },
+      {
+        "boundingBox": [
+          0.48788721394557194,
+          0.2449728207183467,
+          0.05237570571899414,
+          0.03088769261141
+        ],
+        "confidence": 1,
+        "text": "confidence"
+      },
+      {
+        "boundingBox": [
+          0.615246249828009,
+          0.19931763604209685,
+          0.09926621246337886,
+          0.05136472690179483
+        ],
+        "confidence": 0.5,
+        "text": "Expand Search"
+      },
+      {
+        "boundingBox": [
+          0.7707774802629206,
+          0.18749999987006705,
+          0.07506702423095701,
+          0.045833332938437166
+        ],
+        "confidence": 0.5,
+        "text": "Track Gaps"
+      },
+      {
+        "boundingBox": [
+          0.6273458475179691,
+          0.16250000094707573,
+          0.07774798583984377,
+          0.033333331161404245
+        ],
+        "confidence": 1,
+        "text": "broader scopes，"
+      },
+      {
+        "boundingBox": [
+          0.7707774825827591,
+          0.1413043479877797,
+          0.07774798583984377,
+          0.03786231864313161
+        ],
+        "confidence": 1,
+        "text": "evidence_gaps"
+      },
+      {
+        "boundingBox": [
+          0.6313672933215103,
+          0.1250000006553128,
+          0.06970509338378905,
+          0.02916666587687433
+        ],
+        "confidence": 0.5,
+        "text": "new Strategies"
+      }
+    ],
+    "ocr_text": "Return Results\nfast, single pass\nHigh\nconfidence\nroutine\nlookups\nQueryAnalysis\nSearch + Score\nConfidence\nRanked Results\nRecall\nanalyze intent，\nSimilarity x recency\nhigh？\nresults + what's missing\nselect scopes\nx importance\ncomplex\nLow\nqueries\nconfidence\nExpand Search\nTrack Gaps\nbroader scopes，\nevidence_gaps\nnew Strategies",
+    "description": "Recall中的配图，包含文字：Return Results；fast, single pass；High；confidence；routine；lookups；QueryAnalysis；Search + Score；Confidence；Ranked Results；Recall；analyze intent，；Similarity x recency；high？；results + what's missing；select scopes；x importance；complex；Low；queries；confidence；Expand Search；Track Gaps；broader scopes，；evidence_gaps；new Strategies",
+    "entities": [
+      "Return Results",
+      "fast, single pass",
+      "High",
+      "confidence",
+      "routine",
+      "lookups",
+      "QueryAnalysis",
+      "Search + Score",
+      "Confidence",
+      "Ranked Results",
+      "Recall",
+      "analyze intent，",
+      "Similarity x recency",
+      "high？",
+      "results + what's missing",
+      "select scopes",
+      "x importance",
+      "complex",
+      "Low",
+      "queries",
+      "Expand Search",
+      "Track Gaps",
+      "broader scopes，",
+      "evidence_gaps",
+      "new Strategies"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "aed3ebb5f7158cfe172532c8241cfa7fc30e42b15ff9d938aacb76ce87474f87"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-005",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a6275c547b72efcfcc49b58_crewai.svg",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-005.svg",
+    "section": "What it unlocked",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "What it unlocked中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5df03afe6705d61bdae8d1e9371c2b470a65cb9c7ceaf3fddc7cbcffcca5dd0a"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-006",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a7a382205f14767ae1150a4_preview-image.png",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-006.png",
+    "section": "What it unlocked",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09633862586042517,
+          0.880116941864258,
+          0.14407238045688253,
+          0.05747444927692413
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "What it unlocked中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4b2c23630390e391ebb96beda8df1dcff0b3b665931fb728ab5630842aab5310"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-007",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a7b2c638f8bcabc3dca80e6_LanceDB_Blog%20Header%201672x941px_Portal.jpg",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-007.jpg",
+    "section": "Data Loading for AI/ML: A Comprehensive Guide",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.041998604894868174,
+          0.8029154400613037,
+          0.2895493028266578,
+          0.11839592887084693
+        ],
+        "confidence": 1,
+        "text": "Reverie"
+      },
+      {
+        "boundingBox": [
+          0.04505814344255727,
+          0.7473460722458374,
+          0.2848837090451181,
+          0.03873640210258977
+        ],
+        "confidence": 0.5,
+        "text": "The Summit for Al Builders"
+      },
+      {
+        "boundingBox": [
+          0.045058146373758746,
+          0.5923566896763603,
+          0.28488370904511806,
+          0.07259176136834866
+        ],
+        "confidence": 0.5,
+        "text": "November 5,2026"
+      },
+      {
+        "boundingBox": [
+          0.04360465213851303,
+          0.5254777051004396,
+          0.27906976362164515,
+          0.07246043778275735
+        ],
+        "confidence": 0.5,
+        "text": "San Francisco, CA"
+      },
+      {
+        "boundingBox": [
+          0.04764676529224052,
+          0.0841140364966092,
+          0.12859568071137206,
+          0.04100062133400306
+        ],
+        "confidence": 0.5,
+        "text": "Presented by"
+      },
+      {
+        "boundingBox": [
+          0.2354651174971677,
+          0.0876288672611506,
+          0.09302325454054838,
+          0.03657495494607654
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "Reverie\nThe Summit for Al Builders\nNovember 5,2026\nSan Francisco, CA\nPresented by\nLanceDB",
+    "description": "Data Loading for AI/ML: A Comprehensive Guide中的配图，包含文字：Reverie；The Summit for Al Builders；November 5,2026；San Francisco, CA；Presented by；LanceDB",
+    "entities": [
+      "Reverie",
+      "The Summit for Al Builders",
+      "November 5,2026",
+      "San Francisco, CA",
+      "Presented by",
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e082e33bc27ecc9c81bda19981123bfc102eee329e85909c212a591ea544d069"
+  },
+  {
+    "figure_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168-fig-008",
+    "doc_id": "2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a74cad2eb2d6fbd8877d0b0_july%20hero.png",
+    "image_path": "images/2364-https-www-lancedb-com-blog-crewai-rebuilt-agent-83e5f168/figure-008.png",
+    "section": "Announcing Reverie Summit: What AI’s Next Breakthroughs Are Made On",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2655514832362685,
+          0.5076652942748814,
+          0.4645365715026855,
+          0.17329990245677807
+        ],
+        "confidence": 0.5,
+        "text": "July 2026"
+      },
+      {
+        "boundingBox": [
+          0.3203947589767732,
+          0.2783249676514358,
+          0.3936623891194661,
+          0.08895462530630605
+        ],
+        "confidence": 0.5,
+        "text": "LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "July 2026\nLanceDB Newsletter",
+    "description": "Announcing Reverie Summit: What AI’s Next Breakthroughs Are Made On中的配图，包含文字：July 2026；LanceDB Newsletter",
+    "entities": [
+      "July 2026",
+      "LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d9f67f169bbcb537f1fcdb90b00af6cce78e5460b1b26dd3d935db55931f88c9"
+  }
+]

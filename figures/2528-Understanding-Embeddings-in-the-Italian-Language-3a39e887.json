@@ -1,0 +1,1182 @@
+[
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-001",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 1,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-16.33.22.png?fit=191%2C68&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-001.webp",
+    "section": "Main Evaluation Metric",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.5725734297955074,
+          0.5554457724890045,
+          0.3236031333605448,
+          0.27146137461942776
+        ],
+        "confidence": 1,
+        "text": "DCG@k"
+      },
+      {
+        "boundingBox": [
+          0.10333975258181256,
+          0.22281253191270622,
+          0.8141538302103679,
+          0.4661396671743955
+        ],
+        "confidence": 0.3,
+        "text": "nDCGek ==DCG@k"
+      }
+    ],
+    "ocr_text": "DCG@k\nnDCGek ==DCG@k",
+    "description": "Main Evaluation Metric中的配图，包含文字：DCG@k；nDCGek ==DCG@k",
+    "entities": [
+      "DCG@k",
+      "nDCGek ==DCG@k"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9f79ba311231afa9bb8a3fc55009dc6eddec27a2d40d86502c2af58b1494ffa6"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-002",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 2,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-16.33.29.png?fit=206%2C69&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-002.webp",
+    "section": "Main Evaluation Metric",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.46601941707119743,
+          0.6571428588095237,
+          0.06796116504854366,
+          0.20000000000000007
+        ],
+        "confidence": 0.3,
+        "text": "K"
+      },
+      {
+        "boundingBox": [
+          0.6407766974110033,
+          0.5142857126190477,
+          0.1941747572815533,
+          0.2571428571428571
+        ],
+        "confidence": 0.5,
+        "text": "rel（i）"
+      },
+      {
+        "boundingBox": [
+          0.04854369660194166,
+          0.142857143095238,
+          0.8737864077669903,
+          0.5428571428571428
+        ],
+        "confidence": 0.3,
+        "text": "DCC@k=召10g.（+ ）"
+      }
+    ],
+    "ocr_text": "K\nrel（i）\nDCC@k=召10g.（+ ）",
+    "description": "Main Evaluation Metric中的配图，包含文字：K；rel（i）；DCC@k=召10g.（+ ）",
+    "entities": [
+      "K",
+      "rel（i）",
+      "DCC@k=召10g.（+ ）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d966d1e27e37d89f0e361b1e4e0e659710fd397ac539c38dee72afc00adb86c1"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-003",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 3,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2025/09/uml_diagram.png?fit=573%2C424&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-003.webp",
+    "section": "Relational Database Dbpedia-Entity-v2",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6898954700348432,
+          0.9292452833894879,
+          0.06271777003484325,
+          0.05188679245283023
+        ],
+        "confidence": 1,
+        "text": "Doc"
+      },
+      {
+        "boundingBox": [
+          0.45985695093385703,
+          0.8486564266640786,
+          0.15345683081224815,
+          0.052687143379787194
+        ],
+        "confidence": 0.3,
+        "text": "id: str （PK）"
+      },
+      {
+        "boundingBox": [
+          0.1602787463165754,
+          0.8301886794811321,
+          0.09407665505226481,
+          0.05188679245283023
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.46341463301393737,
+          0.8066037741745283,
+          0.1045296167247387,
+          0.047169811320754707
+        ],
+        "confidence": 0.5,
+        "text": "title: str"
+      },
+      {
+        "boundingBox": [
+          0.02081155391541389,
+          0.7588653143079264,
+          0.1534988456486825,
+          0.048307108429242906
+        ],
+        "confidence": 0.5,
+        "text": "id: str （PK）"
+      },
+      {
+        "boundingBox": [
+          0.45984727991624585,
+          0.7590562148261099,
+          0.10469568232626036,
+          0.043208324684287036
+        ],
+        "confidence": 0.5,
+        "text": "text:str"
+      },
+      {
+        "boundingBox": [
+          0.020734372971794972,
+          0.7113431537266109,
+          0.10835704072427252,
+          0.03957784400795994
+        ],
+        "confidence": 0.5,
+        "text": "text:Str"
+      },
+      {
+        "boundingBox": [
+          0.45993030766550536,
+          0.7075471695165094,
+          0.4738675958188152,
+          0.05188679245283023
+        ],
+        "confidence": 1,
+        "text": "is_subsampled: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.02090592238675959,
+          0.6603773591391509,
+          0.3693379790940767,
+          0.05188679245283023
+        ],
+        "confidence": 0.5,
+        "text": "is_test: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.45993030932055756,
+          0.6603773582940251,
+          0.5121951219512194,
+          0.05188679245283023
+        ],
+        "confidence": 0.5,
+        "text": "has_labse_chunks: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.20209059216027875,
+          0.613207547439353,
+          0.024390243902439046,
+          0.037735849056603876
+        ],
+        "confidence": 0.3,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.4599303107142858,
+          0.6179245277712264,
+          0.5017421602787456,
+          0.04245283018867929
+        ],
+        "confidence": 0.5,
+        "text": "has_me5_chunks: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.463414630313589,
+          0.5707547163915094,
+          0.4878048780487805,
+          0.047169811320754707
+        ],
+        "confidence": 0.5,
+        "text": "has_bge_chunks: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.7035578274696007,
+          0.4474857762909913,
+          0.1468913114860083,
+          0.1191793927606547
+        ],
+        "confidence": 0.3,
+        "text": "Topus j"
+      },
+      {
+        "boundingBox": [
+          0.4737299447460063,
+          0.44770975332011775,
+          0.09783627845684412,
+          0.06212766215486343
+        ],
+        "confidence": 0.5,
+        "text": "doc_id"
+      },
+      {
+        "boundingBox": [
+          0.21938213091313563,
+          0.44748935190051997,
+          0.1222113499658033,
+          0.04841752322214954
+        ],
+        "confidence": 0.3,
+        "text": "query_id"
+      },
+      {
+        "boundingBox": [
+          0.6724738671428572,
+          0.3349056598584905,
+          0.09407665505226481,
+          0.05188679245283023
+        ],
+        "confidence": 0.5,
+        "text": "Chunk"
+      },
+      {
+        "boundingBox": [
+          0.20557491246889,
+          0.31132075448113217,
+          0.0592334494773519,
+          0.04245283018867918
+        ],
+        "confidence": 1,
+        "text": "Qrel"
+      },
+      {
+        "boundingBox": [
+          0.5226480849593497,
+          0.25943396246069184,
+          0.16027874564459932,
+          0.05188679245283023
+        ],
+        "confidence": 0.5,
+        "text": "id: int （PK）"
+      },
+      {
+        "boundingBox": [
+          0.045080658097314416,
+          0.23449934891908564,
+          0.15722544600323934,
+          0.04986922471028454
+        ],
+        "confidence": 0.5,
+        "text": "id: int （PK）"
+      },
+      {
+        "boundingBox": [
+          0.5261324011324043,
+          0.20283018797169805,
+          0.3623693379790941,
+          0.05660377358490565
+        ],
+        "confidence": 0.3,
+        "text": "corpus_id: str （FK-Doc.id）"
+      },
+      {
+        "boundingBox": [
+          0.05574912633150823,
+          0.18867924504716993,
+          0.36236933797909404,
+          0.04245283018867918
+        ],
+        "confidence": 0.3,
+        "text": "query_id: str （FK - Query.id）"
+      },
+      {
+        "boundingBox": [
+          0.5226480844367015,
+          0.16509433919025163,
+          0.11149825783972123,
+          0.05188679245283012
+        ],
+        "confidence": 0.5,
+        "text": "text: str"
+      },
+      {
+        "boundingBox": [
+          0.05574912710801398,
+          0.14622641551886795,
+          0.313588850174216,
+          0.04245283018867929
+        ],
+        "confidence": 0.3,
+        "text": "doc_id: str （FK - Doc.id）"
+      },
+      {
+        "boundingBox": [
+          0.522648080836237,
+          0.11792452803234499,
+          0.3902439024390244,
+          0.05660377358490565
+        ],
+        "confidence": 0.5,
+        "text": "is_labse: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.048694597592989323,
+          0.09393503799309466,
+          0.13257596218627504,
+          0.05269596261798215
+        ],
+        "confidence": 0.5,
+        "text": "score:int"
+      },
+      {
+        "boundingBox": [
+          0.522648080910901,
+          0.07075471671159028,
+          0.3797909407665504,
+          0.05660377358490565
+        ],
+        "confidence": 0.5,
+        "text": "is_me5: bool （defauilt=False）"
+      },
+      {
+        "boundingBox": [
+          0.0452961718641114,
+          0.047169811556603713,
+          0.3693379790940767,
+          0.047169811320754707
+        ],
+        "confidence": 0.5,
+        "text": "is_test: bool （default=False）"
+      },
+      {
+        "boundingBox": [
+          0.522648088240418,
+          0.023584905778301968,
+          0.36933797909407673,
+          0.05660377358490565
+        ],
+        "confidence": 0.5,
+        "text": "is_bge: bool （default=False）"
+      }
+    ],
+    "ocr_text": "Doc\nid: str （PK）\nQuery\ntitle: str\nid: str （PK）\ntext:str\ntext:Str\nis_subsampled: bool （default=False）\nis_test: bool （default=False）\nhas_labse_chunks: bool （default=False）\n4\nhas_me5_chunks: bool （default=False）\nhas_bge_chunks: bool （default=False）\nTopus j\ndoc_id\nquery_id\nChunk\nQrel\nid: int （PK）\nid: int （PK）\ncorpus_id: str （FK-Doc.id）\nquery_id: str （FK - Query.id）\ntext: str\ndoc_id: str （FK - Doc.id）\nis_labse: bool （default=False）\nscore:int\nis_me5: bool （defauilt=False）\nis_test: bool （default=False）\nis_bge: bool （default=False）",
+    "description": "Relational Database Dbpedia-Entity-v2中的配图，包含文字：Doc；id: str （PK）；Query；title: str；id: str （PK）；text:str；text:Str；is_subsampled: bool （default=False）；is_test: bool （default=False）；has_labse_chunks: bool （default=False）；4；has_me5_chunks: bool （default=False）；has_bge_chunks: bool （default=False）；Topus j；doc_id；query_id；Chunk；Qrel；id: int （PK）；id: int （PK）；corpus_id: str （FK-Doc.id）；query_id: str （FK - Query.id）；text: str；doc_id: str （FK - Doc.id）；is_labse: bool （default=False）；score:int；is_me5: bool （defauilt=False）；is_test: bool （default=False）；is_bge: bool （default=False）",
+    "entities": [
+      "Doc",
+      "id: str （PK）",
+      "Query",
+      "title: str",
+      "text:str",
+      "text:Str",
+      "is_subsampled: bool （default=False）",
+      "is_test: bool （default=False）",
+      "has_labse_chunks: bool （default=False）",
+      "4",
+      "has_me5_chunks: bool （default=False）",
+      "has_bge_chunks: bool （default=False）",
+      "Topus j",
+      "doc_id",
+      "query_id",
+      "Chunk",
+      "Qrel",
+      "id: int （PK）",
+      "corpus_id: str （FK-Doc.id）",
+      "query_id: str （FK - Query.id）",
+      "text: str",
+      "doc_id: str （FK - Doc.id）",
+      "is_labse: bool （default=False）",
+      "score:int",
+      "is_me5: bool （defauilt=False）",
+      "is_bge: bool （default=False）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a5d62522f43e3b5889808529ffe354ce0a6b5f14467ee382ffc7108004265866"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-004",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 4,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.04.07.png?fit=529%2C66&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-004.webp",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.13584906324528287,
+          0.515151516969697,
+          0.6641509433962265,
+          0.303030303030303
+        ],
+        "confidence": 0.5,
+        "text": "Number of times term t appears in the document d"
+      },
+      {
+        "boundingBox": [
+          0.03773584911051213,
+          0.30303030064935066,
+          0.10566037735849058,
+          0.33333333333333326
+        ],
+        "confidence": 0.3,
+        "text": "TFd="
+      },
+      {
+        "boundingBox": [
+          0.7885759151049314,
+          0.359139499218436,
+          0.1813387312979069,
+          0.28172099951541785
+        ],
+        "confidence": 0.5,
+        "text": "• = count（t,d）"
+      },
+      {
+        "boundingBox": [
+          0.2000000067452829,
+          0.2121212136363635,
+          0.5396226415094341,
+          0.3030303030303031
+        ],
+        "confidence": 0.5,
+        "text": "Total number of terms in the document d"
+      }
+    ],
+    "ocr_text": "Number of times term t appears in the document d\nTFd=\n• = count（t,d）\nTotal number of terms in the document d",
+    "description": "TF-IDF中的配图，包含文字：Number of times term t appears in the document d；TFd=；• = count（t,d）；Total number of terms in the document d",
+    "entities": [
+      "Number of times term t appears in the document d",
+      "TFd=",
+      "• = count（t,d）",
+      "Total number of terms in the document d"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "0a8f56d8698456088b70acaaa29b02db3f4349d6c1a50a6f2792aef1ea791623"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-005",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 5,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.04.53.png?fit=230%2C51&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-005.webp",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08695652788819866,
+          0.2692307717032967,
+          0.8608695652173913,
+          0.42307692307692313
+        ],
+        "confidence": 0.3,
+        "text": "TF.d = 10gio（count（t,d） + 1）"
+      }
+    ],
+    "ocr_text": "TF.d = 10gio（count（t,d） + 1）",
+    "description": "TF-IDF中的配图，包含文字：TF.d = 10gio（count（t,d） + 1）",
+    "entities": [
+      "TF.d = 10gio（count（t,d） + 1）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1171ccdda1fe208bdab7e31e0c0a0da6d6104c2bbc9dee8349942b865dd40b49"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-006",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 6,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.06.59.png?fit=435%2C66&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-006.webp",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.371559627408257,
+          0.5151515143939394,
+          0.4495412844036697,
+          0.3030303030303031
+        ],
+        "confidence": 1,
+        "text": "Total number of documents"
+      },
+      {
+        "boundingBox": [
+          0.032110087712975105,
+          0.18181818593073584,
+          0.9403669724770642,
+          0.5757575757575758
+        ],
+        "confidence": 0.3,
+        "text": "IDF， =105o（ Kumber &aocuim ensSCGiainfg ihe lem.z）"
+      }
+    ],
+    "ocr_text": "Total number of documents\nIDF， =105o（ Kumber &aocuim ensSCGiainfg ihe lem.z）",
+    "description": "TF-IDF中的配图，包含文字：Total number of documents；IDF， =105o（ Kumber &aocuim ensSCGiainfg ihe lem.z）",
+    "entities": [
+      "Total number of documents",
+      "IDF， =105o（ Kumber &aocuim ensSCGiainfg ihe lem.z）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "715ba4ec7492839f5f21d7cf8e81f9371713737760bd84f63970ffbf3775b8df"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-007",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 7,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.07.51.png?fit=193%2C41&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-007.webp",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11340206898625418,
+          0.23809523888888884,
+          0.8556701030927836,
+          0.4761904761904763
+        ],
+        "confidence": 0.3,
+        "text": "TF-IDF.d= TF.d•IDF."
+      }
+    ],
+    "ocr_text": "TF-IDF.d= TF.d•IDF.",
+    "description": "TF-IDF中的配图，包含文字：TF-IDF.d= TF.d•IDF.",
+    "entities": [
+      "TF-IDF.d= TF.d•IDF."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "b64fd2af6f35c62712564e90246f9d66fca2b6f5046cc4ffe8214d7b2d7ae78a"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-008",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 8,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.08.42.png?fit=253%2C60&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-008.webp",
+    "section": "TF-IDF",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4645669257592801,
+          0.3000000028571428,
+          0.4881889763779527,
+          0.40000000000000013
+        ],
+        "confidence": 0.3,
+        "text": "L TF.d•IDF（）"
+      },
+      {
+        "boundingBox": [
+          0.031034638424324728,
+          0.35633980620478667,
+          0.3631275807778666,
+          0.3206537246704101
+        ],
+        "confidence": 0.3,
+        "text": "Score（9,d） ="
+      },
+      {
+        "boundingBox": [
+          0.40944882217847756,
+          0.10000000277777765,
+          0.19685039370078738,
+          0.23333333333333328
+        ],
+        "confidence": 0.3,
+        "text": "rEqnd"
+      }
+    ],
+    "ocr_text": "L TF.d•IDF（）\nScore（9,d） =\nrEqnd",
+    "description": "TF-IDF中的配图，包含文字：L TF.d•IDF（）；Score（9,d） =；rEqnd",
+    "entities": [
+      "L TF.d•IDF（）",
+      "Score（9,d） =",
+      "rEqnd"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "36b36b34e3e3fbf0277b7578babdd26005084a0fe85763699cfc98a065ebf1b3"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-009",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 9,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.14.22.png?fit=419%2C85&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-009.webp",
+    "section": "BM25",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6380952375595238,
+          0.6511627936046511,
+          0.09999999999999998,
+          0.2325581395348837
+        ],
+        "confidence": 0.3,
+        "text": "1Fgd"
+      },
+      {
+        "boundingBox": [
+          0.042597912047338884,
+          0.3662897835682851,
+          0.4100422813778832,
+          0.45346694768861284
+        ],
+        "confidence": 0.3,
+        "text": "BM25（a.d）=2四R"
+      },
+      {
+        "boundingBox": [
+          0.6999999989047618,
+          0.18604650767441877,
+          0.2238095238095238,
+          0.39534883720930225
+        ],
+        "confidence": 0.3,
+        "text": "N）+TFg.d"
+      },
+      {
+        "boundingBox": [
+          0.44285714738095217,
+          0.34883721007751944,
+          0.27142857142857146,
+          0.18604651162790697
+        ],
+        "confidence": 0.3,
+        "text": "k1•（1-b+b."
+      }
+    ],
+    "ocr_text": "1Fgd\nBM25（a.d）=2四R\nN）+TFg.d\nk1•（1-b+b.",
+    "description": "BM25中的配图，包含文字：1Fgd；BM25（a.d）=2四R；N）+TFg.d；k1•（1-b+b.",
+    "entities": [
+      "1Fgd",
+      "BM25（a.d）=2四R",
+      "N）+TFg.d",
+      "k1•（1-b+b."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "339e372330e8ae90b7d792ee8418dd0380852e7d775d05e93aca5b46dc178375"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-010",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 10,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2025/09/data_types.png?fit=800%2C226&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-010.webp",
+    "section": "Virtual Machines and Data Types",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.302499999875,
+          0.6902654873893805,
+          0.015000000000000013,
+          0.053097345132743334
+        ],
+        "confidence": 1,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.42749999987500004,
+          0.6725663719174042,
+          0.03750000000000003,
+          0.07079646017699104
+        ],
+        "confidence": 0.3,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.479999999875,
+          0.6814159300884955,
+          0.015000000000000013,
+          0.07079646017699115
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.51749999984375,
+          0.6814159300884955,
+          0.012499999999999956,
+          0.07079646017699115
+        ],
+        "confidence": 1,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.5849999998750001,
+          0.6814159296460176,
+          0.01749999999999996,
+          0.06194690265486735
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.65250000028125,
+          0.6725663721238937,
+          0.022499999999999964,
+          0.07079646017699126
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.72750000025,
+          0.6814159295353983,
+          0.020000000000000018,
+          0.06194690265486713
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.7625000002499999,
+          0.6814159295353983,
+          0.020000000000000018,
+          0.06194690265486713
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.30499999984375,
+          0.40707964668141594,
+          0.012500000000000011,
+          0.053097345132743334
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.37499999984375004,
+          0.39823008926991144,
+          0.012499999999999956,
+          0.06194690265486735
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.409999999875,
+          0.3982300891150442,
+          0.012500000000000011,
+          0.06194690265486724
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.44499999987500005,
+          0.40707964654867257,
+          0.012500000000000011,
+          0.053097345132743445
+        ],
+        "confidence": 1,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.479999999875,
+          0.39823008938053095,
+          0.015000000000000013,
+          0.07079646017699115
+        ],
+        "confidence": 0.3,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.517499999875,
+          0.39823009178541513,
+          0.012500000000000067,
+          0.0707964559571933
+        ],
+        "confidence": 1,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.6549999998571429,
+          0.3982300889380531,
+          0.020000000000000018,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.9250000002000001,
+          0.3982300887610619,
+          0.019999999999999907,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.9599999998,
+          0.39823008805309734,
+          0.020000000000000018,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.30499999984375,
+          0.12389380597345134,
+          0.012500000000000011,
+          0.053097345132743334
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.33999999984375,
+          0.11504424856194684,
+          0.012500000000000011,
+          0.06194690265486735
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.37499999984375004,
+          0.11504424856194684,
+          0.012499999999999956,
+          0.06194690265486735
+        ],
+        "confidence": 0.5,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.409999999875,
+          0.11504424840707961,
+          0.012500000000000011,
+          0.06194690265486724
+        ],
+        "confidence": 0.3,
+        "text": "E"
+      },
+      {
+        "boundingBox": [
+          0.474999999875,
+          0.11504424823008852,
+          0.02250000000000002,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.5849999998750001,
+          0.11504424823008852,
+          0.01749999999999996,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      },
+      {
+        "boundingBox": [
+          0.7625000002,
+          0.11504424805309732,
+          0.020000000000000018,
+          0.06194690265486724
+        ],
+        "confidence": 1,
+        "text": "M"
+      }
+    ],
+    "ocr_text": "E\nE\nE\nE\nM\nM\nM\nM\nE\nE\nE\nE\nE\nE\nM\nM\nM\nE\nE\nE\nE\nM\nM\nM",
+    "description": "Virtual Machines and Data Types中的配图，包含文字：E；E；E；E；M；M；M；M；E；E；E；E；E；E；M；M；M；E；E；E；E；M；M；M",
+    "entities": [
+      "E",
+      "M"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c33b7cf79b2a05991781ab37bda1d882239d438352c9f8b4b25cd8b2301bd5a6"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-011",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 11,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.20.01.png?fit=387%2C31&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-011.webp",
+    "section": "Fine-Tuning",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02577318704896925,
+          0.12500000859374982,
+          0.9536082474226805,
+          0.6875
+        ],
+        "confidence": 0.3,
+        "text": "embedding_dimension x（embedding_dimension +1）"
+      }
+    ],
+    "ocr_text": "embedding_dimension x（embedding_dimension +1）",
+    "description": "Fine-Tuning中的配图，包含文字：embedding_dimension x（embedding_dimension +1）",
+    "entities": [
+      "embedding_dimension x（embedding_dimension +1）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f19a6c7e3aacc41c307447f49a7b0aece56c5bfd4186eb0be879bc988943e101"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-012",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 12,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2027/01/Screenshot-2026-09-21-alle-17.23.35.png?fit=693%2C33&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-012.webp",
+    "section": "Fine-Tuning",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          -1.2889896878331526e-08,
+          0.08333334869949649,
+          0.9958333391964608,
+          0.8333332959343405
+        ],
+        "confidence": 0.5,
+        "text": "inner_dimension x （embedding_dimension + 1） + embedding_dimension × （inner_dimension +1）"
+      }
+    ],
+    "ocr_text": "inner_dimension x （embedding_dimension + 1） + embedding_dimension × （inner_dimension +1）",
+    "description": "Fine-Tuning中的配图，包含文字：inner_dimension x （embedding_dimension + 1） + embedding_dimension × （inner_dimension +1）",
+    "entities": [
+      "inner_dimension x （embedding_dimension + 1） + embedding_dimension × （inner_dimension +1）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d50719a3874b6761203f2a90706588cbba11b497d1283caf2da823c42c6bc974"
+  },
+  {
+    "figure_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887-fig-013",
+    "doc_id": "2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887",
+    "seq": 13,
+    "source_url": "https://i0.wp.com/sease.io/wp-content/uploads/2025/09/plot_learning_rate.png?fit=640%2C480&ssl=1",
+    "image_path": "images/2528-Understanding-Embeddings-in-the-Italian-Language-3a39e887/figure-013.webp",
+    "section": "Fine-Tuning",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.0624999995,
+          0.8249999998333333,
+          0.05,
+          0.03333333333333344
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.07812499964285716,
+          0.6791666664880953,
+          0.04999999999999999,
+          0.033333333333333215
+        ],
+        "confidence": 0.3,
+        "text": "80-"
+      },
+      {
+        "boundingBox": [
+          0.03437498121729851,
+          0.2916666695238095,
+          0.02187503203749657,
+          0.4
+        ],
+        "confidence": 0.5,
+        "text": "Initial learning Rate % used"
+      },
+      {
+        "boundingBox": [
+          0.08125000046875,
+          0.5416666668333334,
+          0.046875,
+          0.02499999999999991
+        ],
+        "confidence": 0.3,
+        "text": "60 -"
+      },
+      {
+        "boundingBox": [
+          0.07812499986111111,
+          0.3958333334953703,
+          0.031249999999999986,
+          0.029166666666666674
+        ],
+        "confidence": 1,
+        "text": "40"
+      },
+      {
+        "boundingBox": [
+          0.081250000390625,
+          0.2541666668402779,
+          0.046875,
+          0.029166666666666563
+        ],
+        "confidence": 0.3,
+        "text": "20"
+      },
+      {
+        "boundingBox": [
+          0.5656249984161339,
+          0.058333331888178463,
+          0.040625002980232194,
+          0.054166670640309666
+        ],
+        "confidence": 0.5,
+        "text": "-60"
+      },
+      {
+        "boundingBox": [
+          0.7093750003906251,
+          0.05833333336805557,
+          0.046875,
+          0.054166666666666585
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.15312500031249998,
+          0.06250000020833324,
+          0.01874999999999999,
+          0.029166666666666674
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.8468750003906249,
+          0.05833333354166659,
+          0.046875,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.4623184942261219,
+          0.015815321383910175,
+          0.09723801016807554,
+          0.03920269012451172
+        ],
+        "confidence": 0.5,
+        "text": "nteration"
+      }
+    ],
+    "ocr_text": "100\n80-\nInitial learning Rate % used\n60 -\n40\n20\n-60\n80\n0\n100\nnteration",
+    "description": "Fine-Tuning中的配图，包含文字：100；80-；Initial learning Rate % used；60 -；40；20；-60；80；0；100；nteration",
+    "entities": [
+      "100",
+      "80-",
+      "Initial learning Rate % used",
+      "60 -",
+      "40",
+      "20",
+      "-60",
+      "80",
+      "0",
+      "nteration"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e2a39bd21edecc033d8da7ea1f77f51887e2c3b4a3a7a8ed84e0bf867f513a4f"
+  }
+]

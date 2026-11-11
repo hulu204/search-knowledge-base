@@ -1,0 +1,181 @@
+---
+title: '百度feed图模型演进'
+company: 百度
+tag: 推荐
+date: 2024-01-11
+url: https://mp.weixin.qq.com/s/k78RRpvDrP3GlsdBV3B3sg
+account: DataFunTalk
+origin: readme
+---
+![](https://mmbiz.qpic.cn/mmbiz_png/zHbzQPKIBPhlaUHIqJNZPg7JDND9IHUia9ibQWcpcpsCNgbzwkPH9nLgAX4qFtLiawiaOsFP1icKBaQpMOibXPrvTAFQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1 "三步设置公众号为星标.png")
+
+![](https://mmbiz.qpic.cn/mmbiz_png/zHbzQPKIBPiaozKmgMctXzdicnib7P45m9uF10HDoyIDNUYsWQvZSTia7oOUjALmzrMMe7GtAmicvzXLDHKeeWN9AxA/640?wx_fmt=png&from=appmsg)
+
+**导读** 本次分享主要包括三部分内容，介绍图模型在百度推荐系统的实践与应用推广：
+
+1. 图背景介绍
+
+2. 常用图模型算法
+
+3. Feed 图模型演进历史
+
+分享嘉宾｜牛化康 百度 资深研发工程师
+
+编辑整理｜王雨润
+
+内容校对｜李瑶
+
+出品社区｜DataFun
+
+---
+
+**01**
+
+**图背景介绍**
+
+图是一种描述复杂数据的常用语言。常见的图结构包括：社交网络、分子结构、知识图谱、商业广告、地图等，其中推荐系统和商业广告是大家更为熟悉的场景。基于图的典型任务包括：
+
+* 节点分类（node classification），如对于某些节点用户是否会点击或购买
+* 边预测（link prediction），如用户与用户是否相似、用户与 item 之间是否存在连接关系
+* 社区发现（community detection），如特定热门社区挖掘
+* 网络相似度判定（network similarity），如一种分子与另一种分子结构是否相似
+* 图分类（graph similarity），如分子类型判定
+
+结合推荐场景，本次介绍将集中在节点分类与边预测任务中。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNj6QhwJRvbicDk57mRicmAcwyL3LgP0rvoXvSfU5dhTFbjbj3o3ruyKpPg/640?wx_fmt=png)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNj8cwq3ZibFLkqT7rCpfALGmyS66xfLt2AWibAj7a6VOyyib6qRkFoHkMdw/640?wx_fmt=png)
+
+**02**
+
+**常用图模型算法**
+
+图模型的整体思路是通过机器学习算法，将现实中高维的节点投影到一个低维空间中，并尽量保留节点之间在高维空间中的关系。目前主流算法可大致分为两类：walk-based 的图嵌入算法（GE）和 message-passing-based 的图神经网络算法（GNN）。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjRpB8rYgv1JichQY1euiaeRyibBaicB1qkgU03B0ExIs2D20bzUrQprO6RA/640?wx_fmt=png)
+
+**1.****图嵌入算法（GE）**
+
+图嵌入算法是一种 walk-based 的方法，核心思想是通过某种游走策略生成一系列游走路径，使用 shallow encoder 将路径中的每一个节点投影为低维节点中的 embedding 表示，使低维空间中节点的共现概率与游走路径中节点的共现概率尽可能相近。该方法借鉴语言学经典 word2vec 模型思想。
+
+根据游走策略的不同，图嵌入算法有多种变种，常用算法包括 DeepWalk、Node2Vec、Metapath2Vec 等。其中 DeepWalk 采用完全随机的游走策略，从上一节点向下一节点的游走过程中无偏。通过调整游走策略，可以产生多种衍生算法以提升最终模型效果。Node2Vec 通过预设的 p、q 两个参数以调节深度优先遍历与广度优先遍历，从而在训练中强调同质性或结构相似。当异构图中包含两种及以上节点时，Metapath2Vec 可以通过预先设定的多种元路径，消除游走过程中节点的 bias。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNj3Zvj2TbXjgQX3CkOLStNHNCOibks8O5LwV9yScDe7z59nj5uV6wCdIQ/640?wx_fmt=png)
+
+**2. 图神经网络（GNN）**
+
+GNN 是一种基于消息传递（massage-passing-based）的算法，核心思路是在生成节点表示时使用 deep encoder。deep encoder 在建模节点时不仅考虑节点自身信息，同时考虑节点多阶邻域的信息，将邻域信息传递至当前节点的表示之中。GNN 的核心问题在于，如何对邻域及自身的信息进行传递及汇聚，最终得到节点自身的表示。如图所示，使用节点A和它的邻居 B、C、D，以及更高阶的邻域去生成节点A的向量表示。
+
+基础做法是将邻域进行平均后通过非线性传递函数，节点自身也通过非线性传递函数，最终通过累加得到节点表示。根据如何汇聚邻域信息与自身表示，GNN存在多种变种，如 GraphSAGE、GCN、GAT 等。GraghSAGE 对邻域进行采样，信息汇聚过程被抽象为一个通用的汇聚函数，可以为取均值（mean pooling）、取最小值（min pooling）、取最大值（max pooling）或 LSTM 等，邻域表示与自身表示进行concat操作后得到最终向量表示。GCN 在邻域汇聚时通过减少度数较大节点的权重进行消偏，邻域节点和节点本身共享非线性传递函数层。GAT 引入 attention 机制，计算复杂度更高，模型精度也更高。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjuW1hGqibnqqraaalqkcicCJ1Zaw8fF35jmYvkibWMvkzDrONz8vrp0I4w/640?wx_fmt=png)
+
+**3.****算法比较**
+
+图嵌入算法与图神经网络算法各有自己的优劣势。图嵌入算法使用浅编码器（shallow encoder），建模效率高、偏精准记忆，但 encoder 的表达能力有限，泛化性差。图神经网络使用深编码器（deep encoder），表达能力强、泛化性好，但卷积+FC的模式计算效率低，在海量数据下效果不如精准记忆。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjN8NGiaFWHvxZQl6ERlnl4hVT7FsySwQpGANicSY1QGwtJnsQAakagdrA/640?wx_fmt=png)
+
+**03**
+
+**Feed 图模型演进历史**
+
+**1.****模型演进**
+
+Feed 图模型共经历三个阶段。在 Item2Vec/User2Vec 第一阶段，用户表示为其一阶邻居，即用户点击过的 item 近邻的聚类中心。孪生网络第二阶段在第一阶段基础上引入度量学习，有监督地学习用户相似度，但其本质仍是使用用户的一阶邻居，尚未扩展到高阶。第三阶段使用基于图嵌入模型，在链接预测任务中注入高阶连接关系，提升整体连通性。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjGNTRRz6hHHeL82goJQeDwWAo6kQ7AssU1CrfTouPPeG01SFiabiaHibPA/640?wx_fmt=png)
+
+传统表示学习以原始数据作为输入，通过特征工程得到结构化数据，并通过启发式学习任务获取节点的向量表示，最后进行后续的应用。主要存在以下两点问题：
+
+①建模多种关系需要多种启发式学习任务：以 User2Vec 和孪生网络为例， Item2Vec 通过学习用户的点击共现得到 item 的向量表示，user 的表示则需要将用户的点击进行汇聚，孪生网络 UCF 将用户点击随机划分构建正负样本学习用户表示。孪生网络的核心思想在于认为用户与自身相似，与其他用户不相似，因此可将用户的 readlist 切分两部分并输入左右两侧，认为左右两侧输出相似作为正样本；将其他用户的 readlist 作为当前用户的负样本。左右塔参数共享故称孪生网络模型。
+
+②局部信息建模，高阶信息丢失：上述方法只使用用户的一阶邻居信息进行学习，样本为完整点击二部图的局部采样，在采样过程中仅保留低阶信息，高阶关系丢失。
+
+因此，是否存在一种算法可以一次建模多种关系，并包含更全面的高阶信息？
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjJGvRTibLpMic8CLwVsYFOnIEgyBBW75khMHzxibW71aKRr6nwRAPP7RHg/640?wx_fmt=png)
+
+Feed 图模型于2019年在 Feed 召回完成的首次落地，并在后续相继推广的不同任务中均取得了很好的效果。图模型采用多任务学习的方式，统一学习多个场景和多个模态。多个场景包括单列、双列、视频沉浸式，不同资源类型拆开进行分别构图，如图文、动态、视频、小程序等，可更好地建模用户在各个场景、各个资源类型的行为，并将不同资源类型映射至同一个向量空间，为图模型应用打开更大的想象空间。
+
+为了解决资源冷启动和低频资源冷启的问题，在资源侧引入 SideInfo 特征。由于推荐系统存在马太效应，部分节点占据大部分分发，导致一些节点频繁与其他节点共现并使推荐相关性变差。而另一部分节点出现频次过低，导致训练不充分，进一步降低后续曝光度。为解决该问题，引入流行度 Debias 策略，根据节点的流行度，决定游走概率。最后，图模型将多种节点类型，包括用户、item、query 等，映射至同一向量空间，很好地统一了多种召回模式，包括 UserCF、ItemCF、User2Item 等召回模式。Lookalike 召回关注在资源分发初期，根据点击该内容的用户，生成该资源的向量表示，在预热节点快速分发并匹配有需求的用户。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNj8aRCFNKztf0h7vTwRv1g5BOnicFJWm4PrRk9gwewJuSR1m0dVia1qtAA/640?wx_fmt=png)
+
+**2. 模型推广**
+
+后续该模型进一步推广至原生广告、贴吧等产品线。
+
+图模型推广至原生广告共经历四期阶段。
+
+* 第一期使用“好看”用户的资讯与广告的点击数据构建异构图网络，通过高阶联通图结构隐式刻画用户和广告的关系，并使用 skip-gram 模式学习用户和广告的向量表达，最终使用 user 的向量直接召回广告。在现实世界中，用户对资源的点击数远远大于广告点击数，将导致网络中广告节点非常稀疏；同时网络中存在大量没有商业价值的资讯，对模型训练造成干扰。
+* 第二期将用户点击资讯行为迁移到广告点击上，并丢弃无法迁移的资讯，使广告行为大为丰富，得到仅包含用户与广告的图网络，提升了训练样本的纯净度，使模型学习的 embedding 更精准，进而提升广告系统整体变现能力。
+* 第三期将图网络应用于“好看”视频广告的召回上，即将用户侧行为直接用于召回广告。为进一步丰富用户行为、提升网络表达能力，将数据进一步扩充，在原有“好看”资讯与广告数据的基础上增加用户搜索行为数据、用户资讯点击数据、用户广告点击数据等。通过构建基于全局用户行为的图网络，进一步提升图模型对用户潜在兴趣和意图的提取能力。
+* 第四期中为应对模型特征较单一、泛化性差，使得新用户和新广告无法生成向量表示的问题，在图模型中引入用户、广告、资讯的泛化式属性特征，使用图模型同步学习图节点的 id 和属性的 embedding 表示。聚合节点以上的属性表示，得到最终的向量表示。通过引入节点的属性特征，图模型的表达能力和泛化能力都得到进一步提升。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjr1UpGhPz6STnvqXibQ2yZRSiaicIc1GPHRYPQQVMtxVNicc6K2828rapUA/640?wx_fmt=png)
+
+在贴吧应用场景中，除用户资源以外，贴吧节点类型同样重要。Metapath2vec方法在游走过程中可以比较好地消除节点类型的bias，所以为了更充分地利用节点类型信息，设计多种游走策略的metapath，包括：贴子-贴吧-贴子、用户-贴子-贴吧-贴子-用户等。通过离线测试，发现引入更多合理的metapath，可带来准确率和召回率的提升。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjPm1AEFAuqfvg3YK2A5Tnwib0gTfQkO8EOlmjgT6hPAzJHqAjdVuz9iaw/640?wx_fmt=png)
+
+****以上就是本次分享的内容，谢谢大家。****
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/zHbzQPKIBPhicpqz2Vfic9DAvxCqibFaVIaFr4ichoB7GRMjZ8RBYyGgMBGfauQlKd2y5NE3zRIibpib8dkpyiaTOMMTA/640?wx_fmt=gif)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/EBaibcQicPxgyIte8tOtgoYic8X9glrTxNjqEeeHQq2dyZMTwpEmHK6QdDcDCYRvicyHpOKBEfHM9B4I6pETPNI2cQ/640?wx_fmt=jpeg)
+
+分享嘉宾
+
+INTRODUCTION
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/zHbzQPKIBPhicpqz2Vfic9DAvxCqibFaVIaziaE9icicZxZUBnMAibCRs0aJxjMZISEUyVFhqPkcDqDUcgicPHnSIRsricw/640?wx_fmt=gif)
+
+牛化康
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/zHbzQPKIBPhicpqz2Vfic9DAvxCqibFaVIaziaE9icicZxZUBnMAibCRs0aJxjMZISEUyVFhqPkcDqDUcgicPHnSIRsricw/640?wx_fmt=gif)
+
+百度
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/zHbzQPKIBPhicpqz2Vfic9DAvxCqibFaVIaziaE9icicZxZUBnMAibCRs0aJxjMZISEUyVFhqPkcDqDUcgicPHnSIRsricw/640?wx_fmt=gif)
+
+资深研发工程师
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/zHbzQPKIBPhicpqz2Vfic9DAvxCqibFaVIaziaE9icicZxZUBnMAibCRs0aJxjMZISEUyVFhqPkcDqDUcgicPHnSIRsricw/640?wx_fmt=gif)
+
+四川大学硕士，百度资深推荐算法工程师，参与了百度 Feed 流从0->1的建设，完成了图模型在 Feed 首次落地（百度最高奖 top10），目前是召回方向负责人。
+
+![](https://mmbiz.qpic.cn/mmbiz_png/qUHbQA24dsYibd4TezZOtaQzm7tkSHbYZpx4KDE4C2fgEF0wVf6YeicAubkTA6Zt9sicoYrUoEhicrCfMYwGOxOusg/640?wx_fmt=png)
+
+往期文章阅读
+
+往期推荐
+
+[百度推荐排序技术的思考与实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247702263&idx=1&sn=7378ae0412e88210e9f17b3be93fe812&chksm=fbd8649bccafed8d6b059e6c9b12eabafce6f0a5bdedcb37c88be8673bfebc4aa55b021bd815&scene=21#wechat_redirect)
+
+[肖仰华：走向千行百业的大模型](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247701883&idx=1&sn=54006cda4ecd7ca063a3e4c71e6db890&chksm=fbd86717ccafee01c132c5915dd3d0a38db215c6e7c8fe08ea4660db4abcdd0adf2b07f839ec&scene=21#wechat_redirect)
+
+[蚂蚁营销推荐场景上的因果纠偏方法](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247702137&idx=1&sn=49955e2983631aaec85f906c3c322c29&chksm=fbd86415ccafed036cc98e51a1e6914e46bd076d3ead46e95caf514273b48dbca609b61fedcd&scene=21#wechat_redirect)
+
+[OPPO 广告召回算法实践与探索](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247701728&idx=1&sn=0f274eb676f453132f50c1eb3da8c3fb&chksm=fbd8668cccafef9a5cae696607876a9aaa5698b69e3358557f8c987864457394e775b5d15899&scene=21#wechat_redirect)
+
+[使用 OpenLLM 构建和部署大模型应用](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247701948&idx=1&sn=9284ae9ed4000909be5a8860268d483b&chksm=fbd867d0ccafeec652f3fa2c9e8b38b0bb0c2d6c321806f1ff28bb67ee3fd92bfc8148865400&scene=21#wechat_redirect)
+
+[滴滴大数据成本治理实践](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247703298&idx=1&sn=4c93dd9460b2af16fd5da8556387f540&chksm=fbd8696eccafe078de38bbd8b05b6b6affb09419319e07f616fd4eeaebdbc42e36bc30ee3272&scene=21#wechat_redirect)
+
+[OLAP 的技术研发与思考--ClickHouse 2023 总结和 2024 展望](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247701908&idx=1&sn=473d0d2992507e502fa3238d2b9048c3&chksm=fbd867f8ccafeeeebac7653e06ed3693fc03bc658da4b98c7b2667eadcc50af3bacdd7ca6bb4&scene=21#wechat_redirect)
+
+[重新定义流计算：第三代流处理系统 RisingWave 的 2024 年展望](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247703401&idx=1&sn=08d595fb59a31bf014bd0efd0eb23ade&chksm=fbd86905ccafe013c80bc7fa25e6c3c7a3a4065111d270957fab2fb9916230464af22d5396e4&scene=21#wechat_redirect)
+
+[阿里云湖仓存储系统设计剖析和性能优化](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247703376&idx=1&sn=a155a814f1cf126d9f30ae93ca1fe377&chksm=fbd8693cccafe02afec76214b7d28a315312044bdaca71aab3173fb9f1866c6480096131fe9a&scene=21#wechat_redirect)
+
+[数据产品经理应对B端用户增长方法论](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247701999&idx=2&sn=018ddc929b0a3d6371acbc42e9a17f45&chksm=fbd86783ccafee952f0ac62b26ed8c6a9f456eda64d08e4755892e9ae7a35672680df4cd45fd&scene=21#wechat_redirect)
+
+![](https://mmbiz.qpic.cn/mmbiz_gif/GFLQELzeHYjlPKyibC4DhCSLcOTB16IMjSHK1axEly55sBJ2ZL8gEY8SHnGEVq5ZiaksWtsT7easUBBoRcjib8DlQ/640?wx_fmt=gif)
+
+![](https://mmbiz.qpic.cn/mmbiz_png/PekErwtg4WKmwH3eibyzzq6s8Y3mAfMqgg4oMDqNdgewSt6icvABmJGpFQ45Bic3oZZx5iaVXrYiasFZttZOx1ticcRg/640?wx_fmt=png)
+
+点个在看你最好看
+
+![](https://mmbiz.qpic.cn/mmbiz_png/lNwjBmeZOpwtYL4m6wWia6fPCyrOZiaygfADsajMnp7pkAQE6vg8w3bG9iae1AribdH3EQkrcO6ziaDhcBpl7ksCEkA/640?wx_fmt=png)

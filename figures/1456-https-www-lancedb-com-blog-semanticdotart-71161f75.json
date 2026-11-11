@@ -1,0 +1,1388 @@
+[
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-001",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bccd7afa8742f0042f1_sda_hero.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-001.avif",
+    "section": "SemanticDotArt: Rethinking Art Discovery with LanceDB",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2010170508114318,
+          0.6952477225548352,
+          0.6031611644438584,
+          0.2132100831119681
+        ],
+        "confidence": 0.5,
+        "text": "semantic.art"
+      }
+    ],
+    "ocr_text": "semantic.art",
+    "description": "SemanticDotArt: Rethinking Art Discovery with LanceDB中的配图，包含文字：semantic.art",
+    "entities": [
+      "semantic.art"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3b68d510204d94ab137aef5b58c4ada6e4b6d53fe9c027fa962f3eaa0c00dee1"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-002",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bdab5b1fd77511851ac_sda_2.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-002.avif",
+    "section": "The Vision",
+    "alt": "LanceDB table overview",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2238372060631916,
+          0.8048128347744361,
+          0.15552325840414008,
+          0.02148275045881798
+        ],
+        "confidence": 0.5,
+        "text": "William Merritt Chase / A Sunny"
+      },
+      {
+        "boundingBox": [
+          0.2252907013232437,
+          0.7780748670605323,
+          0.1438953451369428,
+          0.0213903730981867
+        ],
+        "confidence": 0.5,
+        "text": "Afternoon, Shinnecock Hills/"
+      },
+      {
+        "boundingBox": [
+          0.22383721188436895,
+          0.7513368991728318,
+          0.1656976725684714,
+          0.0213903730981867
+        ],
+        "confidence": 0.5,
+        "text": "Impressionism /landscape /1898"
+      },
+      {
+        "boundingBox": [
+          0.2238372083045845,
+          0.7299465242323138,
+          0.08430232743152863,
+          0.01381547208482159
+        ],
+        "confidence": 0.5,
+        "text": "by William Merritt Chase"
+      },
+      {
+        "boundingBox": [
+          0.22383721229861314,
+          0.6898395722642525,
+          0.1656976725684714,
+          0.01649440044176098
+        ],
+        "confidence": 0.5,
+        "text": "path, landscape, field, sunlight, sky, clouds，"
+      },
+      {
+        "boundingBox": [
+          0.22238372346344737,
+          0.6657754008961599,
+          0.13662789735605124,
+          0.01604278073887444
+        ],
+        "confidence": 0.5,
+        "text": "nature, tranquility, serenity, journey"
+      },
+      {
+        "boundingBox": [
+          0.021802327114212688,
+          0.6122840692782552,
+          0.11627906902738856,
+          0.016314779270633295
+        ],
+        "confidence": 0.5,
+        "text": "William Merritt Chase / A Sunny"
+      },
+      {
+        "boundingBox": [
+          0.22383720977474217,
+          0.6149732622889706,
+          0.01744185995632963,
+          0.01362558610150999
+        ],
+        "confidence": 1,
+        "text": "Date："
+      },
+      {
+        "boundingBox": [
+          0.3837209303102071,
+          0.6149732619658868,
+          0.01598837179237661,
+          0.013625586559127267
+        ],
+        "confidence": 1,
+        "text": "1898"
+      },
+      {
+        "boundingBox": [
+          0.020348837651871933,
+          0.595969289997833,
+          0.10901162920207003,
+          0.01633017534486625
+        ],
+        "confidence": 0.5,
+        "text": "Afternoon, Shinnecock Hills/"
+      },
+      {
+        "boundingBox": [
+          0.1642375698323722,
+          0.5962029175011594,
+          0.031989977680480786,
+          0.013476518202651722
+        ],
+        "confidence": 0.3,
+        "text": "Q Similar"
+      },
+      {
+        "boundingBox": [
+          0.22383720949718933,
+          0.5959692896852548,
+          0.037790698229458575,
+          0.013656378707592842
+        ],
+        "confidence": 1,
+        "text": "Dimensions："
+      },
+      {
+        "boundingBox": [
+          0.3590116293407643,
+          0.5959692896852548,
+          0.0406976725684714,
+          0.013656378707592842
+        ],
+        "confidence": 0.3,
+        "text": "320 × 220 px"
+      },
+      {
+        "boundingBox": [
+          0.021802326830432484,
+          0.5775401068230761,
+          0.12209301770541417,
+          0.016509797431228268
+        ],
+        "confidence": 0.5,
+        "text": "Impressionism / landscape /1898"
+      },
+      {
+        "boundingBox": [
+          0.22383721039250756,
+          0.5775401072421791,
+          0.03488371991265929,
+          0.013630718278793363
+        ],
+        "confidence": 1,
+        "text": "Collection："
+      },
+      {
+        "boundingBox": [
+          0.37790697702726245,
+          0.5775401069747994,
+          0.02325581261214177,
+          0.013630718278793363
+        ],
+        "confidence": 0.5,
+        "text": "wikiart"
+      }
+    ],
+    "ocr_text": "William Merritt Chase / A Sunny\nAfternoon, Shinnecock Hills/\nImpressionism /landscape /1898\nby William Merritt Chase\npath, landscape, field, sunlight, sky, clouds，\nnature, tranquility, serenity, journey\nWilliam Merritt Chase / A Sunny\nDate：\n1898\nAfternoon, Shinnecock Hills/\nQ Similar\nDimensions：\n320 × 220 px\nImpressionism / landscape /1898\nCollection：\nwikiart",
+    "description": "The Vision中的配图，包含文字：William Merritt Chase / A Sunny；Afternoon, Shinnecock Hills/；Impressionism /landscape /1898；by William Merritt Chase；path, landscape, field, sunlight, sky, clouds，；nature, tranquility, serenity, journey；William Merritt Chase / A Sunny；Date：；1898；Afternoon, Shinnecock Hills/；Q Similar；Dimensions：；320 × 220 px；Impressionism / landscape /1898；Collection：；wikiart",
+    "entities": [
+      "William Merritt Chase / A Sunny",
+      "Afternoon, Shinnecock Hills/",
+      "Impressionism /landscape /1898",
+      "by William Merritt Chase",
+      "path, landscape, field, sunlight, sky, clouds，",
+      "nature, tranquility, serenity, journey",
+      "Date：",
+      "1898",
+      "Q Similar",
+      "Dimensions：",
+      "320 × 220 px",
+      "Impressionism / landscape /1898",
+      "Collection：",
+      "wikiart"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7c2390d528e06c7fd6ad9bd73e1c180edd89edb3e417657f0bc433005813864a"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-003",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bdab5b1fd77511851a9_sda_van_gogh.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-003.avif",
+    "section": "A single painting, many views",
+    "alt": "van gogh painting",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "A single painting, many views中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1fb1285d2d784717a0eaa04c2509bf6c31420e9c3378897564e3f64547d6add8"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-004",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bdab5b1fd775118519c_sda_3.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-004.avif",
+    "section": "A single painting, many views",
+    "alt": "Ingestion workflow diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.30208333101615653,
+          0.9036458337425595,
+          0.431547619047619,
+          0.05729166666666674
+        ],
+        "confidence": 1,
+        "text": "LLMs as semantic routers"
+      },
+      {
+        "boundingBox": [
+          0.03869047606292514,
+          0.6848958329427084,
+          0.32142857142857145,
+          0.0546875
+        ],
+        "confidence": 1,
+        "text": "Multiple representations"
+      },
+      {
+        "boundingBox": [
+          0.03708726534197955,
+          0.6344551272117371,
+          0.1326707090650286,
+          0.05140224347511935
+        ],
+        "confidence": 1,
+        "text": "（Ingestion）"
+      },
+      {
+        "boundingBox": [
+          0.21567753372478243,
+          0.5537050097626477,
+          0.1445377894810268,
+          0.046235814690589905
+        ],
+        "confidence": 1,
+        "text": "Literal desc"
+      },
+      {
+        "boundingBox": [
+          0.18750000155519525,
+          0.4671532842030428,
+          0.17916665758405415,
+          0.043795620401700264
+        ],
+        "confidence": 0.3,
+        "text": "- Artistic desc"
+      },
+      {
+        "boundingBox": [
+          0.61590858981232,
+          0.4308930536912118,
+          0.11342091787429087,
+          0.04446389277776075
+        ],
+        "confidence": 0.5,
+        "text": "LLM as a"
+      },
+      {
+        "boundingBox": [
+          0.8258041301442183,
+          0.3976152737147235,
+          0.14749888011387413,
+          0.051123616596062904
+        ],
+        "confidence": 0.5,
+        "text": "- User query"
+      },
+      {
+        "boundingBox": [
+          0.20227741090627982,
+          0.36876639679990986,
+          0.16538565499441965,
+          0.05413386970758438
+        ],
+        "confidence": 0.5,
+        "text": "• Color profile"
+      },
+      {
+        "boundingBox": [
+          0.6160049331736707,
+          0.3744948631607755,
+          0.10876394453502836,
+          0.04528110722700751
+        ],
+        "confidence": 1,
+        "text": "classifier"
+      },
+      {
+        "boundingBox": [
+          0.19642856933035718,
+          0.2838541667708334,
+          0.20982142857142855,
+          0.05208333333333337
+        ],
+        "confidence": 0.5,
+        "text": "*Image features^"
+      },
+      {
+        "boundingBox": [
+          0.17083332814601357,
+          0.2043795623876251,
+          0.23333333787463958,
+          0.051094889640808105
+        ],
+        "confidence": 0.3,
+        "text": "* Desc features •"
+      }
+    ],
+    "ocr_text": "LLMs as semantic routers\nMultiple representations\n（Ingestion）\nLiteral desc\n- Artistic desc\nLLM as a\n- User query\n• Color profile\nclassifier\n*Image features^\n* Desc features •",
+    "description": "A single painting, many views中的配图，包含文字：LLMs as semantic routers；Multiple representations；（Ingestion）；Literal desc；- Artistic desc；LLM as a；- User query；• Color profile；classifier；*Image features^；* Desc features •",
+    "entities": [
+      "LLMs as semantic routers",
+      "Multiple representations",
+      "（Ingestion）",
+      "Literal desc",
+      "- Artistic desc",
+      "LLM as a",
+      "- User query",
+      "• Color profile",
+      "classifier",
+      "*Image features^",
+      "* Desc features •"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "615a26b1d684fd093d85fd7a85705c94f1123183241eaf6d5d7fdc3410934d28"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-005",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bdab5b1fd77511851a2_sda_4.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-005.avif",
+    "section": "Semantic Routing: Matching Feelings with Features dynamically",
+    "alt": "Semantic routing paths",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.018300654397337798,
+          0.9249605055868998,
+          0.027450979702056396,
+          0.02087282795476686
+        ],
+        "confidence": 0.3,
+        "text": "J INPUTS"
+      },
+      {
+        "boundingBox": [
+          0.298039216107395,
+          0.9041666674540967,
+          0.061437905780852786,
+          0.029482621528902686
+        ],
+        "confidence": 0.5,
+        "text": "许 QUERY PROCESSING"
+      },
+      {
+        "boundingBox": [
+          0.03660130801790399,
+          0.8458333336228816,
+          0.048366013027372805,
+          0.024999999698681163
+        ],
+        "confidence": 1,
+        "text": "User Text and"
+      },
+      {
+        "boundingBox": [
+          0.31895425234930735,
+          0.8372827802483125,
+          0.06535947133624365,
+          0.025276461295418606
+        ],
+        "confidence": 0.5,
+        "text": "T TEXT QUERY BRANCH"
+      },
+      {
+        "boundingBox": [
+          0.03921568793944355,
+          0.808056872246248,
+          0.04183006286621094,
+          0.0294431276607664
+        ],
+        "confidence": 1,
+        "text": "Image Input"
+      },
+      {
+        "boundingBox": [
+          0.3372549023247302,
+          0.7958333333429856,
+          0.010457515716552734,
+          0.029166666064028846
+        ],
+        "confidence": 0.5,
+        "text": "口"
+      },
+      {
+        "boundingBox": [
+          0.16078431362466833,
+          0.78749999984375,
+          0.007843137260467287,
+          0.02083333333333337
+        ],
+        "confidence": 0.3,
+        "text": "③"
+      },
+      {
+        "boundingBox": [
+          0.2339869292716044,
+          0.7914691943822406,
+          0.03529411648947098,
+          0.021327014218009532
+        ],
+        "confidence": 0.5,
+        "text": "-Text Query-"
+      },
+      {
+        "boundingBox": [
+          0.16732026232266295,
+          0.7666666670256594,
+          0.02091503143310547,
+          0.024999999698681163
+        ],
+        "confidence": 0.3,
+        "text": "-nput"
+      },
+      {
+        "boundingBox": [
+          0.3398517345776461,
+          0.7538528058673282,
+          0.05101548679291257,
+          0.029794388661075755
+        ],
+        "confidence": 0.5,
+        "text": "Classify Query"
+      },
+      {
+        "boundingBox": [
+          0.1660130722824137,
+          0.7375000005673261,
+          0.026143789291381836,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Format"
+      },
+      {
+        "boundingBox": [
+          0.228758169615915,
+          0.7375000005673261,
+          0.044444443687560065,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Text and Image"
+      },
+      {
+        "boundingBox": [
+          0.5058823542315788,
+          0.7416666670256595,
+          0.06405228660220186,
+          0.025315955916852095
+        ],
+        "confidence": 0.5,
+        "text": "囚 IMAGE INPUT BRANCH"
+      },
+      {
+        "boundingBox": [
+          0.3555555558721994,
+          0.7249999999423261,
+          0.018300652503967285,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Style"
+      },
+      {
+        "boundingBox": [
+          0.9137254916584261,
+          0.7250000003589928,
+          0.04575163220602374,
+          0.024999999698681052
+        ],
+        "confidence": 0.5,
+        "text": "Extract Mood"
+      },
+      {
+        "boundingBox": [
+          0.16336836869251223,
+          0.7037756057615935,
+          0.0314331962948754,
+          0.0257821226195325
+        ],
+        "confidence": 1,
+        "text": "Decision"
+      },
+      {
+        "boundingBox": [
+          0.24313725483103596,
+          0.7124802523994401,
+          0.0156862745209346,
+          0.020853081020698716
+        ],
+        "confidence": 1,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.42870243321120083,
+          0.6989789335182859,
+          0.05109186399550669,
+          0.031208800666893466
+        ],
+        "confidence": 0.3,
+        "text": "\\ Text and Image"
+      },
+      {
+        "boundingBox": [
+          0.9189542488576334,
+          0.6916666670256595,
+          0.03398692797100733,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Keywords"
+      },
+      {
+        "boundingBox": [
+          0.032679738565917466,
+          0.6750000001450689,
+          0.0549019594041128,
+          0.029166666064028846
+        ],
+        "confidence": 0.5,
+        "text": "User Text Query"
+      },
+      {
+        "boundingBox": [
+          0.44967320275670347,
+          0.6791666670138888,
+          0.016993463985503665,
+          0.02083333333333337
+        ],
+        "confidence": 1,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.6169934654286626,
+          0.6625000003589928,
+          0.0549019594041128,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Generate Image"
+      },
+      {
+        "boundingBox": [
+          0.776470590278531,
+          0.6706161137205346,
+          0.0745098023187547,
+          0.025276461295418717
+        ],
+        "confidence": 0.5,
+        "text": "K TEXT AND IMAGE BRANCH"
+      },
+      {
+        "boundingBox": [
+          0.23006535904614248,
+          0.6333333333451039,
+          0.039215685829283725,
+          0.024999999698681052
+        ],
+        "confidence": 0.5,
+        "text": "-Image Input-"
+      },
+      {
+        "boundingBox": [
+          0.5241830067903183,
+          0.624802526926965,
+          0.0549019594041128,
+          0.029364139924493826
+        ],
+        "confidence": 0.5,
+        "text": "Set Query Style"
+      },
+      {
+        "boundingBox": [
+          0.6300653601653116,
+          0.6291666670256595,
+          0.027450979702056455,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Caption"
+      },
+      {
+        "boundingBox": [
+          0.032679738939109255,
+          0.5791666668005545,
+          0.010457515716552734,
+          0.03749999879472432
+        ],
+        "confidence": 0.5,
+        "text": "囚"
+      },
+      {
+        "boundingBox": [
+          0.5346405226266692,
+          0.5955766198246206,
+          0.032679739452543766,
+          0.025276460542121404
+        ],
+        "confidence": 0.5,
+        "text": "to Natural"
+      },
+      {
+        "boundingBox": [
+          0.715032680857745,
+          0.5916271723347815,
+          0.044444443687560065,
+          0.025276461295418717
+        ],
+        "confidence": 0.5,
+        "text": "Text and Image"
+      },
+      {
+        "boundingBox": [
+          0.7986928116127027,
+          0.5750000003589928,
+          0.04967320154583643,
+          0.025315955916852095
+        ],
+        "confidence": 0.5,
+        "text": "Query Rewrite"
+      },
+      {
+        "boundingBox": [
+          0.7281045749571392,
+          0.5624012636370936,
+          0.01699346398550372,
+          0.025276461295418606
+        ],
+        "confidence": 1,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.04049191669616355,
+          0.5412247371072333,
+          0.040584795058719696,
+          0.03005052479145831
+        ],
+        "confidence": 0.5,
+        "text": "User Image"
+      },
+      {
+        "boundingBox": [
+          0.05228758247350655,
+          0.5125000003589928,
+          0.018300652503967285,
+          0.024999999698681052
+        ],
+        "confidence": 1,
+        "text": "Input"
+      },
+      {
+        "boundingBox": [
+          0.4915032695714198,
+          0.2083333336923261,
+          0.06013071726238911,
+          0.024999999698681163
+        ],
+        "confidence": 0.5,
+        "text": "Q SEARCH ARTWORKS"
+      },
+      {
+        "boundingBox": [
+          0.3320261444790372,
+          0.12916666702565938,
+          0.0274509797020564,
+          0.024999999698681163
+        ],
+        "confidence": 1,
+        "text": "Prefilter"
+      },
+      {
+        "boundingBox": [
+          0.5098039229450025,
+          0.12916666702565938,
+          0.0549019594041128,
+          0.024999999698681163
+        ],
+        "confidence": 0.5,
+        "text": "Choose Feature"
+      },
+      {
+        "boundingBox": [
+          0.5986928110843529,
+          0.12916666702565938,
+          0.048366013027372756,
+          0.024999999698681163
+        ],
+        "confidence": 0.5,
+        "text": "Select Search"
+      },
+      {
+        "boundingBox": [
+          0.6901960784219313,
+          0.12916666667843735,
+          0.035294116489470895,
+          0.024999999698681163
+        ],
+        "confidence": 1,
+        "text": "Overfetch"
+      },
+      {
+        "boundingBox": [
+          0.8745098061334547,
+          0.12916666702565938,
+          0.05228757858276367,
+          0.024999999698681163
+        ],
+        "confidence": 0.5,
+        "text": "Final Reranked"
+      },
+      {
+        "boundingBox": [
+          0.403921569475476,
+          0.11216429720675358,
+          0.05359477088564918,
+          0.02533570285092035
+        ],
+        "confidence": 1,
+        "text": "LanceDB Table"
+      },
+      {
+        "boundingBox": [
+          0.7882352963295332,
+          0.11216429720675358,
+          0.05228757858276367,
+          0.02533570285092035
+        ],
+        "confidence": 1,
+        "text": "Rerank Results"
+      },
+      {
+        "boundingBox": [
+          0.3294117666975295,
+          0.09557661971350939,
+          0.03267973566812182,
+          0.025276460542121404
+        ],
+        "confidence": 1,
+        "text": "Artworks"
+      },
+      {
+        "boundingBox": [
+          0.5241724279872355,
+          0.09571519401148354,
+          0.02747213840484619,
+          0.025236278913597365
+        ],
+        "confidence": 1,
+        "text": "Column"
+      },
+      {
+        "boundingBox": [
+          0.6143790851706469,
+          0.0955766197412874,
+          0.01699346398550361,
+          0.025276460542121404
+        ],
+        "confidence": 1,
+        "text": "Type"
+      },
+      {
+        "boundingBox": [
+          0.6953939748000979,
+          0.09550252848706897,
+          0.026205515104626875,
+          0.025661610125742085
+        ],
+        "confidence": 1,
+        "text": "Results"
+      },
+      {
+        "boundingBox": [
+          0.8862636124176685,
+          0.0957116120829482,
+          0.027472776079934702,
+          0.025243442770429114
+        ],
+        "confidence": 1,
+        "text": "Results"
+      }
+    ],
+    "ocr_text": "J INPUTS\n许 QUERY PROCESSING\nUser Text and\nT TEXT QUERY BRANCH\nImage Input\n口\n③\n-Text Query-\n-nput\nClassify Query\nFormat\nText and Image\n囚 IMAGE INPUT BRANCH\nStyle\nExtract Mood\nDecision\nInput\n\\ Text and Image\nKeywords\nUser Text Query\nInput\nGenerate Image\nK TEXT AND IMAGE BRANCH\n-Image Input-\nSet Query Style\nCaption\n囚\nto Natural\nText and Image\nQuery Rewrite\nInput\nUser Image\nInput\nQ SEARCH ARTWORKS\nPrefilter\nChoose Feature\nSelect Search\nOverfetch\nFinal Reranked\nLanceDB Table\nRerank Results\nArtworks\nColumn\nType\nResults\nResults",
+    "description": "Semantic Routing: Matching Feelings with Features dynamically中的配图，包含文字：J INPUTS；许 QUERY PROCESSING；User Text and；T TEXT QUERY BRANCH；Image Input；口；③；-Text Query-；-nput；Classify Query；Format；Text and Image；囚 IMAGE INPUT BRANCH；Style；Extract Mood；Decision；Input；\\ Text and Image；Keywords；User Text Query；Input；Generate Image；K TEXT AND IMAGE BRANCH；-Image Input-；Set Query Style；Caption；囚；to Natural；Text and Image；Query Rewrite",
+    "entities": [
+      "J INPUTS",
+      "许 QUERY PROCESSING",
+      "User Text and",
+      "T TEXT QUERY BRANCH",
+      "Image Input",
+      "口",
+      "③",
+      "-Text Query-",
+      "-nput",
+      "Classify Query",
+      "Format",
+      "Text and Image",
+      "囚 IMAGE INPUT BRANCH",
+      "Style",
+      "Extract Mood",
+      "Decision",
+      "Input",
+      "\\ Text and Image",
+      "Keywords",
+      "User Text Query",
+      "Generate Image",
+      "K TEXT AND IMAGE BRANCH",
+      "-Image Input-",
+      "Set Query Style",
+      "Caption",
+      "囚",
+      "to Natural",
+      "Query Rewrite",
+      "User Image",
+      "Q SEARCH ARTWORKS",
+      "Prefilter",
+      "Choose Feature",
+      "Select Search",
+      "Overfetch",
+      "Final Reranked",
+      "LanceDB Table",
+      "Rerank Results",
+      "Artworks",
+      "Column",
+      "Type",
+      "Results"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "893a9896bad4ce5f20a4b3c71f6e2cb4a16e671e841912075aab2f49051696b1"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-006",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c02bdab5b1fd77511851a5_sda_5.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-006.avif",
+    "section": "Conclusion",
+    "alt": "A quiet optimism",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.02761627793454906,
+          0.9274193548524884,
+          0.13517441749572753,
+          0.021520915058996004
+        ],
+        "confidence": 0.5,
+        "text": "a quiet optimism painted in the sky"
+      },
+      {
+        "boundingBox": [
+          0.029069769048746957,
+          0.8545279385218321,
+          0.046511626243591314,
+          0.013751631297587386
+        ],
+        "confidence": 0.3,
+        "text": "四 Add Image"
+      },
+      {
+        "boundingBox": [
+          0.08866279208586049,
+          0.8545279384882298,
+          0.03343023061752319,
+          0.013751631297587497
+        ],
+        "confidence": 0.3,
+        "text": "Gallery"
+      },
+      {
+        "boundingBox": [
+          0.27470930239198665,
+          0.857418111705991,
+          0.03488372166951498,
+          0.013549630122837053
+        ],
+        "confidence": 0.3,
+        "text": "epter.woorid"
+      }
+    ],
+    "ocr_text": "a quiet optimism painted in the sky\n四 Add Image\nGallery\nepter.woorid",
+    "description": "Conclusion中的配图，包含文字：a quiet optimism painted in the sky；四 Add Image；Gallery；epter.woorid",
+    "entities": [
+      "a quiet optimism painted in the sky",
+      "四 Add Image",
+      "Gallery",
+      "epter.woorid"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "565bbc79dafd890902ba41590d956606b083d9a27254eb239bfae22c6759075a"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-007",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c72f25e7e9f123333f501a_tools-used.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-007.avif",
+    "section": "Tools used",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.37645348623658764,
+          0.3060344753070644,
+          0.18459302772502756,
+          0.3672328488580112
+        ],
+        "confidence": 0.5,
+        "text": "Gemini"
+      },
+      {
+        "boundingBox": [
+          0.7630814012454581,
+          0.34482758409938596,
+          0.18168603623243662,
+          0.3383407263920225
+        ],
+        "confidence": 1,
+        "text": "Modal"
+      },
+      {
+        "boundingBox": [
+          0.16265002256592884,
+          0.4010940397197743,
+          0.1732464653418707,
+          0.24731687019611226
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "Gemini\nModal\nLanceDB",
+    "description": "Tools used中的配图，包含文字：Gemini；Modal；LanceDB",
+    "entities": [
+      "Gemini",
+      "Modal",
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9d4355a9783822e0b4c9b092cb99aed6db75da09095949da00e5c9dc2509868c"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-008",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-008.avif",
+    "section": "Credits",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Credits中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-009",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-009.png",
+    "section": "Credits",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Credits中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-010",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-010.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75-fig-011",
+    "doc_id": "1456-https-www-lancedb-com-blog-semanticdotart-71161f75",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1456-https-www-lancedb-com-blog-semanticdotart-71161f75/figure-011.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,908 @@
+[
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-001",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aeec6ce1424a648b12418b5_Order%20in%20the%20Dark%20Archive.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-001.png",
+    "section": "Table Formats in Depth: What is a Table Format?",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09707260657302529,
+          0.8811340142708759,
+          0.14451757914711982,
+          0.05731960061755659
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Table Formats in Depth: What is a Table Format?中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d002e1ccb5f57776cba5f4bee896d5c070d5f8be6c702d5fcdf59ab5515238dd"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-002",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ae9f641fdbf79cf1d160bc5_b4z34s.jpg",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-002.jpg",
+    "section": "Table Formats in Depth: What is a Table Format?",
+    "alt": "A man's overly confident face and the text \"scan mulitple files and merge in deletions, how hard can it be?\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1677419327150538,
+          0.8643216077889447,
+          0.664516129032258,
+          0.12060301507537685
+        ],
+        "confidence": 1,
+        "text": "SCAN MULTIPLE FILES"
+      },
+      {
+        "boundingBox": [
+          0.10322581156682033,
+          0.7336683425699928,
+          0.7935483870967742,
+          0.12060301507537685
+        ],
+        "confidence": 0.5,
+        "text": "AND MERGE IN DELETIONS"
+      },
+      {
+        "boundingBox": [
+          0.14516129303970213,
+          0.005025125860069535,
+          0.7064516129032258,
+          0.12060301507537696
+        ],
+        "confidence": 0.3,
+        "text": "HOW HARD CAN IT BEP"
+      }
+    ],
+    "ocr_text": "SCAN MULTIPLE FILES\nAND MERGE IN DELETIONS\nHOW HARD CAN IT BEP",
+    "description": "Table Formats in Depth: What is a Table Format?中的配图，包含文字：SCAN MULTIPLE FILES；AND MERGE IN DELETIONS；HOW HARD CAN IT BEP",
+    "entities": [
+      "SCAN MULTIPLE FILES",
+      "AND MERGE IN DELETIONS",
+      "HOW HARD CAN IT BEP"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "126bcfcae6f59e663fefee6cdaf0b1aeaac577981a66081a8a1bc15fd26175e1"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-003",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aeb9adb27cf3c851422da0a_dosomething.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-003.png",
+    "section": "What Is a Table Format and Why Do We Need One?",
+    "alt": "A stick person pokes a Parquet file with a stick and the caption \"C'mon, do something...\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.43438402867091597,
+          0.6081981409720572,
+          0.13702504158020024,
+          0.06274547576904288
+        ],
+        "confidence": 1,
+        "text": "C'mon，"
+      },
+      {
+        "boundingBox": [
+          0.4350000025,
+          0.528888888888889,
+          0.3,
+          0.06222222222222218
+        ],
+        "confidence": 0.5,
+        "text": "do something..."
+      },
+      {
+        "boundingBox": [
+          0.4598257733596604,
+          0.003122943632762998,
+          0.12534845352172858,
+          0.05597633149888781
+        ],
+        "confidence": 1,
+        "text": "Parquet"
+      }
+    ],
+    "ocr_text": "C'mon，\ndo something...\nParquet",
+    "description": "What Is a Table Format and Why Do We Need One?中的配图，包含文字：C'mon，；do something...；Parquet",
+    "entities": [
+      "C'mon，",
+      "do something...",
+      "Parquet"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "3d1e6a3c43b220aac7bcd9bba4426ebe518f48ab7d2871901765aec564f464eb"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-004",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aeba73fbed5841baae06598_Straight%20to%20Jail.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-004.png",
+    "section": "What Is a Table Format and Why Do We Need One?",
+    "alt": "A man in uniform stands at an assembly and says \"Modifying your data? Write new files\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.21802324137599746,
+          0.8083333350675719,
+          0.561046536763509,
+          0.09351851851851856
+        ],
+        "confidence": 0.5,
+        "text": "MODIFYING YOUR DATAE"
+      },
+      {
+        "boundingBox": [
+          0.33575581417378747,
+          0.1472222229144481,
+          0.3255813916524251,
+          0.07241601943969733
+        ],
+        "confidence": 0.5,
+        "text": "WRITE NEW FILES"
+      }
+    ],
+    "ocr_text": "MODIFYING YOUR DATAE\nWRITE NEW FILES",
+    "description": "What Is a Table Format and Why Do We Need One?中的配图，包含文字：MODIFYING YOUR DATAE；WRITE NEW FILES",
+    "entities": [
+      "MODIFYING YOUR DATAE",
+      "WRITE NEW FILES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4ebcca0d2b2d5bdcb7d8f6de42e7d1dc5fd27cb019c9e031d86590e7eae12896"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-005",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6aebb1610634f72131c6aa6b_Table%20Manifest.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-005.png",
+    "section": "The Manifest (snapshot, timeline, delta log, ...)",
+    "alt": "A diagram showing a manifest file pointing to some (but not all) files and resolving a table.",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.27913948733093685,
+          0.9210684225758182,
+          0.10838769561615746,
+          0.05550095037365632
+        ],
+        "confidence": 1,
+        "text": "Deletion"
+      },
+      {
+        "boundingBox": [
+          0.06831395461053626,
+          0.9171270719198564,
+          0.06395348506187325,
+          0.04150176893734758
+        ],
+        "confidence": 1,
+        "text": "Data"
+      },
+      {
+        "boundingBox": [
+          0.7921511606341842,
+          0.9113475180237666,
+          0.18459302987625348,
+          0.044917257683215084
+        ],
+        "confidence": 1,
+        "text": "Resolved Table"
+      },
+      {
+        "boundingBox": [
+          0.30523255853432363,
+          0.8674033150255143,
+          0.05668604551856199,
+          0.04749030255256814
+        ],
+        "confidence": 0.5,
+        "text": "Files"
+      },
+      {
+        "boundingBox": [
+          0.07267441899943995,
+          0.8557919627691148,
+          0.056686045518561975,
+          0.047522955188796345
+        ],
+        "confidence": 0.5,
+        "text": "Files"
+      },
+      {
+        "boundingBox": [
+          0.2920708880139724,
+          0.7727934740682711,
+          0.1033582260359579,
+          0.045573272885442107
+        ],
+        "confidence": 0.5,
+        "text": "Deletion"
+      },
+      {
+        "boundingBox": [
+          0.07558139536227866,
+          0.7430939229455213,
+          0.09593023233745822,
+          0.044198895177097186
+        ],
+        "confidence": 0.3,
+        "text": "to be个"
+      },
+      {
+        "boundingBox": [
+          0.7223837215078597,
+          0.7234042548395141,
+          0.07122092934983282,
+          0.0614657210401891
+        ],
+        "confidence": 0.3,
+        "text": "—>"
+      },
+      {
+        "boundingBox": [
+          0.2875000036339704,
+          0.7086614165817231,
+          0.11249999620428136,
+          0.05511810988117327
+        ],
+        "confidence": 0.5,
+        "text": "MarkerX"
+      },
+      {
+        "boundingBox": [
+          0.03908467418135002,
+          0.6251526182116541,
+          0.14130739430289957,
+          0.04803730579132737
+        ],
+        "confidence": 0.5,
+        "text": "kill claudius"
+      },
+      {
+        "boundingBox": [
+          0.2965116295781861,
+          0.5992907798356482,
+          0.1017441820742479,
+          0.047281323877068626
+        ],
+        "confidence": 1,
+        "text": "Deletion"
+      },
+      {
+        "boundingBox": [
+          0.8648255813867726,
+          0.5966850831438764,
+          0.06831395448143796,
+          0.04161278970416271
+        ],
+        "confidence": 0.5,
+        "text": "to be"
+      },
+      {
+        "boundingBox": [
+          0.29503437571297575,
+          0.5384793100181414,
+          0.10615217863623772,
+          0.047350773010975344
+        ],
+        "confidence": 0.5,
+        "text": "Marker Y"
+      },
+      {
+        "boundingBox": [
+          0.07703488424176355,
+          0.4940898342692416,
+          0.0625,
+          0.05839635294379908
+        ],
+        "confidence": 0.5,
+        "text": "feign"
+      },
+      {
+        "boundingBox": [
+          0.866279069319283,
+          0.46685082996007154,
+          0.0625,
+          0.05801104822902814
+        ],
+        "confidence": 0.5,
+        "text": "feign"
+      },
+      {
+        "boundingBox": [
+          0.05959302337789699,
+          0.4475138123562028,
+          0.10029069701237467,
+          0.0442119557806786
+        ],
+        "confidence": 0.5,
+        "text": "madness"
+      },
+      {
+        "boundingBox": [
+          0.5564449985430447,
+          0.44819419172636743,
+          0.10804023552889841,
+          0.051125429482606566
+        ],
+        "confidence": 1,
+        "text": "Manifest"
+      },
+      {
+        "boundingBox": [
+          0.8488134508163543,
+          0.4196910933755259,
+          0.10179170447202468,
+          0.04459571612923985
+        ],
+        "confidence": 0.5,
+        "text": "madness"
+      },
+      {
+        "boundingBox": [
+          0.8327997269106063,
+          0.2896226853923687,
+          0.13381915305977432,
+          0.05611374812205072
+        ],
+        "confidence": 1,
+        "text": "need proof"
+      },
+      {
+        "boundingBox": [
+          0.049307488303521815,
+          0.27788253362645965,
+          0.12086176516404794,
+          0.046444877101456394
+        ],
+        "confidence": 0.5,
+        "text": "not to be"
+      },
+      {
+        "boundingBox": [
+          0.04501692812628225,
+          0.10186482094479865,
+          0.13380335338080107,
+          0.05870129650648037
+        ],
+        "confidence": 0.5,
+        "text": "need proof"
+      },
+      {
+        "boundingBox": [
+          0.30000001847048907,
+          0.0862884151664618,
+          0.42499997722568794,
+          0.06382978723404253
+        ],
+        "confidence": 0.5,
+        "text": "•Not part of current table version"
+      },
+      {
+        "boundingBox": [
+          0.20058141313705846,
+          0.02482269557945238,
+          0.636627880494986,
+          0.05555555555555558
+        ],
+        "confidence": 0.5,
+        "text": "（reverted, overwritten, abandoned, failed commit，...）"
+      }
+    ],
+    "ocr_text": "Deletion\nData\nResolved Table\nFiles\nFiles\nDeletion\nto be个\n—>\nMarkerX\nkill claudius\nDeletion\nto be\nMarker Y\nfeign\nfeign\nmadness\nManifest\nmadness\nneed proof\nnot to be\nneed proof\n•Not part of current table version\n（reverted, overwritten, abandoned, failed commit，...）",
+    "description": "The Manifest (snapshot, timeline, delta log, ...)中的配图，包含文字：Deletion；Data；Resolved Table；Files；Files；Deletion；to be个；—>；MarkerX；kill claudius；Deletion；to be；Marker Y；feign；feign；madness；Manifest；madness；need proof；not to be；need proof；•Not part of current table version；（reverted, overwritten, abandoned, failed commit，...）",
+    "entities": [
+      "Deletion",
+      "Data",
+      "Resolved Table",
+      "Files",
+      "to be个",
+      "—>",
+      "MarkerX",
+      "kill claudius",
+      "to be",
+      "Marker Y",
+      "feign",
+      "madness",
+      "Manifest",
+      "need proof",
+      "not to be",
+      "•Not part of current table version",
+      "（reverted, overwritten, abandoned, failed commit，...）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "bc2895f40a2df21fb2fc197456f5927aee2cd2cce6e9c3d2d9ff5118650754f4"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-006",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6af1d03fc8b439195087f28c_Untitled%20scene.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-006.png",
+    "section": "The Timeline (less line and more wibbly-wobbly, timey-wimey stuff)",
+    "alt": "A diagram showing three different ways to record a table timeline",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.06098271652662036,
+          0.8761743273480701,
+          0.11467578878232845,
+          0.0322667305286114
+        ],
+        "confidence": 0.5,
+        "text": "12.manifest"
+      },
+      {
+        "boundingBox": [
+          0.3001531778515147,
+          0.8722767076196687,
+          0.1172508938621929,
+          0.03621581334334156
+        ],
+        "confidence": 1,
+        "text": "13.manifest"
+      },
+      {
+        "boundingBox": [
+          0.5571769785463173,
+          0.8762874130316514,
+          0.11210914786535364,
+          0.03204055932851935
+        ],
+        "confidence": 0.5,
+        "text": "14.manifest"
+      },
+      {
+        "boundingBox": [
+          0.8116397569949831,
+          0.8802059342523516,
+          0.11463397271153886,
+          0.031895824579092236
+        ],
+        "confidence": 1,
+        "text": "15.manifest"
+      },
+      {
+        "boundingBox": [
+          0.10941476397673564,
+          0.730769230989011,
+          0.7989821882951654,
+          0.0461538461538461
+        ],
+        "confidence": 0.5,
+        "text": "one simple approach is for each manifest to be self contained and the greatest"
+      },
+      {
+        "boundingBox": [
+          0.19166668345973115,
+          0.6980769228994483,
+          0.6333333178027593,
+          0.044230769230769296
+        ],
+        "confidence": 0.5,
+        "text": "manifest （when sorted numerically） is the most recent manifest"
+      },
+      {
+        "boundingBox": [
+          0.2849872772264631,
+          0.5846153846945701,
+          0.04325699745547079,
+          0.02692307692307694
+        ],
+        "confidence": 1,
+        "text": "12.1"
+      },
+      {
+        "boundingBox": [
+          0.4122137398536896,
+          0.5807692305769231,
+          0.048346055979643754,
+          0.03076923076923077
+        ],
+        "confidence": 1,
+        "text": "12.2"
+      },
+      {
+        "boundingBox": [
+          0.5419847332824427,
+          0.5807692309999999,
+          0.04580152671755722,
+          0.030769230769230882
+        ],
+        "confidence": 0.5,
+        "text": "12.3"
+      },
+      {
+        "boundingBox": [
+          0.893129771331637,
+          0.5923076924679487,
+          0.040712468193384255,
+          0.02692307692307694
+        ],
+        "confidence": 0.5,
+        "text": "13.1"
+      },
+      {
+        "boundingBox": [
+          0.060911436243531736,
+          0.5601068428368183,
+          0.11736287900813056,
+          0.03363246917724605
+        ],
+        "confidence": 1,
+        "text": "12.manifest"
+      },
+      {
+        "boundingBox": [
+          0.679102444095262,
+          0.5665670874703236,
+          0.11507755502793027,
+          0.03609659488384542
+        ],
+        "confidence": 1,
+        "text": "13.manifest"
+      },
+      {
+        "boundingBox": [
+          0.2798982195292621,
+          0.5423076923557693,
+          0.05597964376590331,
+          0.0346153846153846
+        ],
+        "confidence": 1,
+        "text": "delta"
+      },
+      {
+        "boundingBox": [
+          0.40966921062340966,
+          0.5384615389423077,
+          0.05597964376590331,
+          0.038461538461538325
+        ],
+        "confidence": 0.5,
+        "text": "delta"
+      },
+      {
+        "boundingBox": [
+          0.5366370678447752,
+          0.5413289068010145,
+          0.05649685556348649,
+          0.036572955204890345
+        ],
+        "confidence": 1,
+        "text": "delta"
+      },
+      {
+        "boundingBox": [
+          0.8854123209985825,
+          0.5496877818020839,
+          0.05614736911298057,
+          0.03523982121394231
+        ],
+        "confidence": 0.5,
+        "text": "delta"
+      },
+      {
+        "boundingBox": [
+          0.12722646444020352,
+          0.4192307686538461,
+          0.7633587786259544,
+          0.04615384615384621
+        ],
+        "confidence": 0.5,
+        "text": "Another approach creates small delta changes which are periodically updated"
+      },
+      {
+        "boundingBox": [
+          0.10941475424088226,
+          0.3923076917307692,
+          0.8015267175572518,
+          0.0346153846153846
+        ],
+        "confidence": 0.5,
+        "text": "into a Summarized manifest. This allows for Smaller writes as deltas are not an"
+      },
+      {
+        "boundingBox": [
+          0.14758270937234902,
+          0.34615384621794865,
+          0.7302798982188294,
+          0.04230769230769238
+        ],
+        "confidence": 0.5,
+        "text": "entire manifest, though more files must be read to get the latest state."
+      },
+      {
+        "boundingBox": [
+          0.0356234157947802,
+          0.20000000057692313,
+          0.16284986306692806,
+          0.0346153846153846
+        ],
+        "confidence": 1,
+        "text": "main.12.manifest"
+      },
+      {
+        "boundingBox": [
+          0.25190839936386755,
+          0.20000000057692313,
+          0.2315521628498728,
+          0.0346153846153846
+        ],
+        "confidence": 1,
+        "text": "dev-weston.13.manifest"
+      },
+      {
+        "boundingBox": [
+          0.536895674961832,
+          0.21153846184615388,
+          0.15776081424936383,
+          0.03076923076923077
+        ],
+        "confidence": 0.5,
+        "text": "main.13.manifest"
+      },
+      {
+        "boundingBox": [
+          0.7506361341603052,
+          0.2076923078525642,
+          0.22137404580152675,
+          0.0346153846153846
+        ],
+        "confidence": 1,
+        "text": "dev-claude.14.manifest"
+      },
+      {
+        "boundingBox": [
+          0.08396947409669202,
+          0.050000000230769226,
+          0.8447837150127226,
+          0.0461538461538461
+        ],
+        "confidence": 0.5,
+        "text": "Branching strategies allow for non-linear manifest trees. This has become a popular"
+      },
+      {
+        "boundingBox": [
+          0.06666669308265719,
+          0.018867924856427076,
+          0.8708333022721851,
+          0.044593612964336726
+        ],
+        "confidence": 0.5,
+        "text": "strategy to prototype config changes and workflow alterations before publishing them."
+      }
+    ],
+    "ocr_text": "12.manifest\n13.manifest\n14.manifest\n15.manifest\none simple approach is for each manifest to be self contained and the greatest\nmanifest （when sorted numerically） is the most recent manifest\n12.1\n12.2\n12.3\n13.1\n12.manifest\n13.manifest\ndelta\ndelta\ndelta\ndelta\nAnother approach creates small delta changes which are periodically updated\ninto a Summarized manifest. This allows for Smaller writes as deltas are not an\nentire manifest, though more files must be read to get the latest state.\nmain.12.manifest\ndev-weston.13.manifest\nmain.13.manifest\ndev-claude.14.manifest\nBranching strategies allow for non-linear manifest trees. This has become a popular\nstrategy to prototype config changes and workflow alterations before publishing them.",
+    "description": "The Timeline (less line and more wibbly-wobbly, timey-wimey stuff)中的配图，包含文字：12.manifest；13.manifest；14.manifest；15.manifest；one simple approach is for each manifest to be self contained and the greatest；manifest （when sorted numerically） is the most recent manifest；12.1；12.2；12.3；13.1；12.manifest；13.manifest；delta；delta；delta；delta；Another approach creates small delta changes which are periodically updated；into a Summarized manifest. This allows for Smaller writes as deltas are not an；entire manifest, though more files must be read to get the latest state.；main.12.manifest；dev-weston.13.manifest；main.13.manifest；dev-claude.14.manifest；Branching strategies allow for non-linear manifest trees. This has become a popular；strategy to prototype config changes and workflow alterations before publishing them.",
+    "entities": [
+      "12.manifest",
+      "13.manifest",
+      "14.manifest",
+      "15.manifest",
+      "one simple approach is for each manifest to be self contained and the greatest",
+      "manifest （when sorted numerically） is the most recent manifest",
+      "12.1",
+      "12.2",
+      "12.3",
+      "13.1",
+      "delta",
+      "Another approach creates small delta changes which are periodically updated",
+      "into a Summarized manifest. This allows for Smaller writes as deltas are not an",
+      "entire manifest, though more files must be read to get the latest state.",
+      "main.12.manifest",
+      "dev-weston.13.manifest",
+      "main.13.manifest",
+      "dev-claude.14.manifest",
+      "Branching strategies allow for non-linear manifest trees. This has become a popular",
+      "strategy to prototype config changes and workflow alterations before publishing them."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a6a7758e2cd5aa215c1cfb1990753c23c467a6d75642c709b18005dc5922e6a"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-007",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6af1d26b69503ac71b013b97_Untitled%20scene(1",
+    "image_path": "",
+    "section": "Zero Infrastructure Atomics",
+    "alt": "A sequence diagram demonstrating a commit conflict detected by a \"put if not exists\" operation",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6af1d26b69503ac71b013b97_Untitled%20scene(1"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-008",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6af1d6c88fe89976764e4706_why-not-both.webp",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-008.webp",
+    "section": "Don't Go Alone",
+    "alt": "A little girl with the caption \"Why don't we have both?\"",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.30859374880859375,
+          0.093750000703125,
+          0.38085937499999994,
+          0.0703125
+        ],
+        "confidence": 0.5,
+        "text": "Why don't we have both？"
+      }
+    ],
+    "ocr_text": "Why don't we have both？",
+    "description": "Don't Go Alone中的配图，包含文字：Why don't we have both？",
+    "entities": [
+      "Why don't we have both？"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e2afafc1760645888e46ff975133e9f8513abd7d0e0df48c1da19cf9d6d7704c"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-009",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da58e972a1401f760bdc_weston-pace.avif",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-009.avif",
+    "section": "Don't Go Alone",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Don't Go Alone中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d540d318fb6247a94b5cc1d00a9feb5f06da70d5118d4e27cae4c86018cf400"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-010",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ac6ddca8580edea17fa1de7_september%20hero.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-010.png",
+    "section": "Don't Go Alone",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.024709293757854134,
+          0.5090439242248973,
+          0.8851744333902994,
+          0.16795866224500877
+        ],
+        "confidence": 0.5,
+        "text": "•September 2026"
+      },
+      {
+        "boundingBox": [
+          0.3212209353372162,
+          0.29166666734509417,
+          0.3924418449401855,
+          0.0778423768502694
+        ],
+        "confidence": 0.5,
+        "text": "•LanceDB Newsletter"
+      }
+    ],
+    "ocr_text": "•September 2026\n•LanceDB Newsletter",
+    "description": "Don't Go Alone中的配图，包含文字：•September 2026；•LanceDB Newsletter",
+    "entities": [
+      "•September 2026",
+      "•LanceDB Newsletter"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ef0234216549825063cea122648d9f15b4352f59691cfa2fd409de62fdcefef6"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-011",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6ab18a205900641b8224400f_AsOf%20Hero.avif",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-011.avif",
+    "section": "🤖 LeRobot Trains on Lance, 🦾 Mining Robot Fleet Data Demo, 🔍 Vector Search at 10B Scale",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11046511903861099,
+          0.868365179552253,
+          0.1380813908919193,
+          0.0491605928749036
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "🤖 LeRobot Trains on Lance, 🦾 Mining Robot Fleet Data Demo, 🔍 Vector Search at 10B Scale中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f27ef154b85dd1e0e0f5b54ad97a51acdf8118c3d6fc8734e20005d99d7aa63a"
+  },
+  {
+    "figure_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337-fig-012",
+    "doc_id": "2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6abd16b19757616117af7138_6abd15abfbf8354a3a591588_6ab6e826f1de06999f9d869a_rerank_hero-p-1080.png",
+    "image_path": "images/2536-Table-Formats-in-Depth-What-is-a-Table-Format-edbd4337/figure-012.png",
+    "section": "Giving Back to the Open Source We Build On",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09812294176249628,
+          0.8780706586256534,
+          0.13523559570312502,
+          0.04977973354490173
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Giving Back to the Open Source We Build On中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5a76f0516f86d5e9df4a7ec0e6efd2588788c771d44379fbb2abfdff15ab656c"
+  }
+]

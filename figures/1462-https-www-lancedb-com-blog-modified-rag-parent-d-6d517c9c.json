@@ -1,0 +1,872 @@
+[
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-001",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69ca0d08c858201c3b081a40_preview-image.avif",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-001.avif",
+    "section": "Modified RAG: Parent Document & Bigger Chunk Retriever",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09711173040104987,
+          0.881062094138431,
+          0.14443933169047038,
+          0.05441327978063515
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.8430232573522325,
+          0.7620370370136964,
+          0.07412790457407636,
+          0.04674849333586517
+        ],
+        "confidence": 0.3,
+        "text": "ARROW〉"
+      },
+      {
+        "boundingBox": [
+          0.052325579846385424,
+          0.7467700252011458,
+          0.21511627833048502,
+          0.03100775259512445
+        ],
+        "confidence": 0.5,
+        "text": "P PYTHON DATA ECOSYSTEM"
+      },
+      {
+        "boundingBox": [
+          0.8428837685266231,
+          0.703831764720243,
+          0.07876734733581547,
+          0.0264449993769329
+        ],
+        "confidence": 1,
+        "text": "Pyarrow Table"
+      },
+      {
+        "boundingBox": [
+          0.06682212539315066,
+          0.6587409365689362,
+          0.04804179668426513,
+          0.03393931565461339
+        ],
+        "confidence": 0.3,
+        "text": "ARROW"
+      },
+      {
+        "boundingBox": [
+          0.17587209267135384,
+          0.650925925662905,
+          0.08139534791310626,
+          0.038996555187084
+        ],
+        "confidence": 0.3,
+        "text": "尚pandas"
+      },
+      {
+        "boundingBox": [
+          0.0697674436261672,
+          0.6098191215927729,
+          0.07267441749572755,
+          0.01808785509180133
+        ],
+        "confidence": 1,
+        "text": "Arrow Tables"
+      },
+      {
+        "boundingBox": [
+          0.19618087074827145,
+          0.6069248959529987,
+          0.04368476867675783,
+          0.018708347391199087
+        ],
+        "confidence": 1,
+        "text": "Pandas"
+      },
+      {
+        "boundingBox": [
+          0.7819506208236475,
+          0.5838191236392128,
+          0.07999410629272463,
+          0.041664077617504014
+        ],
+        "confidence": 0.3,
+        "text": "倒pandas"
+      },
+      {
+        "boundingBox": [
+          0.0753821005023925,
+          0.5771648247056631,
+          0.05708463589350382,
+          0.026548903076736963
+        ],
+        "confidence": 0.5,
+        "text": "（Pyarrow）"
+      },
+      {
+        "boundingBox": [
+          0.18604651110707368,
+          0.578703703451291,
+          0.0625,
+          0.0207795001842358
+        ],
+        "confidence": 1,
+        "text": "DataFrame"
+      },
+      {
+        "boundingBox": [
+          0.9126807073856912,
+          0.5315977666361826,
+          0.05109207232793167,
+          0.027243743119416464
+        ],
+        "confidence": 0.5,
+        "text": "Pydantic"
+      },
+      {
+        "boundingBox": [
+          0.7965116287859776,
+          0.5193798455009454,
+          0.0479651133219402,
+          0.023255812680279875
+        ],
+        "confidence": 1,
+        "text": "Pandas"
+      },
+      {
+        "boundingBox": [
+          0.9171511627646927,
+          0.5090439284143822,
+          0.04360465208689368,
+          0.023363478978474905
+        ],
+        "confidence": 0.5,
+        "text": "Models"
+      },
+      {
+        "boundingBox": [
+          0.7906674314026199,
+          0.49330686099496834,
+          0.06256048679351811,
+          0.026306175302576174
+        ],
+        "confidence": 1,
+        "text": "DataFrame"
+      },
+      {
+        "boundingBox": [
+          0.06392825227909008,
+          0.43653459534963435,
+          0.05092256466547648,
+          0.026155615735937054
+        ],
+        "confidence": 1,
+        "text": "Pydantic"
+      },
+      {
+        "boundingBox": [
+          0.14385315726655482,
+          0.4390409881354289,
+          0.04078205823898315,
+          0.02372680946632666
+        ],
+        "confidence": 0.5,
+        "text": "Python"
+      },
+      {
+        "boundingBox": [
+          0.21213169849187644,
+          0.4362725300664583,
+          0.043759858608245855,
+          0.02667974542688445
+        ],
+        "confidence": 1,
+        "text": "Python"
+      },
+      {
+        "boundingBox": [
+          0.05373920699084754,
+          0.4130362873952427,
+          0.07275414466857909,
+          0.024056623600147486
+        ],
+        "confidence": 0.5,
+        "text": "Data Objects"
+      },
+      {
+        "boundingBox": [
+          0.14825581424192238,
+          0.415740740470785,
+          0.030523254474004086,
+          0.021296296296296258
+        ],
+        "confidence": 0.5,
+        "text": "Lists"
+      },
+      {
+        "boundingBox": [
+          0.20200049808305598,
+          0.4157040634821587,
+          0.06692923704783121,
+          0.02388903123361097
+        ],
+        "confidence": 1,
+        "text": "Dictionaries"
+      },
+      {
+        "boundingBox": [
+          0.43747159669032276,
+          0.38993840309256866,
+          0.12505680720011392,
+          0.04699657934683332
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.43604651155964463,
+          0.3126614986814895,
+          0.14825580914815267,
+          0.01808785509180133
+        ],
+        "confidence": 1,
+        "text": "SUPPORTED OPERATIONS"
+      },
+      {
+        "boundingBox": [
+          0.873546512117456,
+          0.2944444439437762,
+          0.03197674353917446,
+          0.04166666666666674
+        ],
+        "confidence": 1,
+        "text": "JS"
+      },
+      {
+        "boundingBox": [
+          0.07558139963105669,
+          0.273901809187058,
+          0.17441859245300295,
+          0.03359172962330004
+        ],
+        "confidence": 0.5,
+        "text": "Js JAVASCRIPT OBJECTS"
+      },
+      {
+        "boundingBox": [
+          0.8328488403283824,
+          0.24031007844668184,
+          0.10465115706125894,
+          0.02357881069183343
+        ],
+        "confidence": 1,
+        "text": "Javascript Objects"
+      },
+      {
+        "boundingBox": [
+          0.11337209120732389,
+          0.1860465116229193,
+          0.09593023459116617,
+          0.01808785509180144
+        ],
+        "confidence": 0.5,
+        "text": "INPUT FORMATS"
+      },
+      {
+        "boundingBox": [
+          0.7732558133700366,
+          0.18333333353062564,
+          0.10755813916524248,
+          0.020801032914055773
+        ],
+        "confidence": 1,
+        "text": "OUTPUT FORMATS"
+      },
+      {
+        "boundingBox": [
+          0.3415697693688705,
+          0.15245478059363415,
+          0.10029069582621258,
+          0.01808785509180133
+        ],
+        "confidence": 0.5,
+        "text": "Semantic / Vector"
+      },
+      {
+        "boundingBox": [
+          0.47962251830576885,
+          0.1496521996994845,
+          0.04947589238484695,
+          0.02110903704607925
+        ],
+        "confidence": 0.5,
+        "text": "Run SQL"
+      },
+      {
+        "boundingBox": [
+          0.5712209317891381,
+          0.14444444427716685,
+          0.10465115706125894,
+          0.026098191296612838
+        ],
+        "confidence": 1,
+        "text": "Persistent Storage"
+      },
+      {
+        "boundingBox": [
+          0.37206453817307644,
+          0.12641764825010626,
+          0.039301156997680664,
+          0.018482533207646146
+        ],
+        "confidence": 0.5,
+        "text": "Search"
+      },
+      {
+        "boundingBox": [
+          0.48255814017028575,
+          0.1240310082249384,
+          0.04505813916524248,
+          0.020671833886040547
+        ],
+        "confidence": 1,
+        "text": "Queries"
+      },
+      {
+        "boundingBox": [
+          0.5697674447198439,
+          0.1266149870450174,
+          0.11046511332194009,
+          0.015503876297562114
+        ],
+        "confidence": 0.5,
+        "text": "（Uses HDD instead of RAM）"
+      }
+    ],
+    "ocr_text": "LanceDB\nARROW〉\nP PYTHON DATA ECOSYSTEM\nPyarrow Table\nARROW\n尚pandas\nArrow Tables\nPandas\n倒pandas\n（Pyarrow）\nDataFrame\nPydantic\nPandas\nModels\nDataFrame\nPydantic\nPython\nPython\nData Objects\nLists\nDictionaries\nLanceDB\nSUPPORTED OPERATIONS\nJS\nJs JAVASCRIPT OBJECTS\nJavascript Objects\nINPUT FORMATS\nOUTPUT FORMATS\nSemantic / Vector\nRun SQL\nPersistent Storage\nSearch\nQueries\n（Uses HDD instead of RAM）",
+    "description": "Modified RAG: Parent Document & Bigger Chunk Retriever中的配图，包含文字：LanceDB；ARROW〉；P PYTHON DATA ECOSYSTEM；Pyarrow Table；ARROW；尚pandas；Arrow Tables；Pandas；倒pandas；（Pyarrow）；DataFrame；Pydantic；Pandas；Models；DataFrame；Pydantic；Python；Python；Data Objects；Lists；Dictionaries；LanceDB；SUPPORTED OPERATIONS；JS；Js JAVASCRIPT OBJECTS；Javascript Objects；INPUT FORMATS；OUTPUT FORMATS；Semantic / Vector；Run SQL",
+    "entities": [
+      "LanceDB",
+      "ARROW〉",
+      "P PYTHON DATA ECOSYSTEM",
+      "Pyarrow Table",
+      "ARROW",
+      "尚pandas",
+      "Arrow Tables",
+      "Pandas",
+      "倒pandas",
+      "（Pyarrow）",
+      "DataFrame",
+      "Pydantic",
+      "Models",
+      "Python",
+      "Data Objects",
+      "Lists",
+      "Dictionaries",
+      "SUPPORTED OPERATIONS",
+      "JS",
+      "Js JAVASCRIPT OBJECTS",
+      "Javascript Objects",
+      "INPUT FORMATS",
+      "OUTPUT FORMATS",
+      "Semantic / Vector",
+      "Run SQL",
+      "Persistent Storage",
+      "Search",
+      "Queries",
+      "（Uses HDD instead of RAM）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "420dfb2b70f436b64c8309857b29a549e4f741d6b2ae289b00b0d1b7d60bd275"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-002",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b6d7afa8742fff299d_1*0JHJPrAuvalxOsywuNxJqg.avif",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-002.avif",
+    "section": "Solution?",
+    "alt": "Parent Document retriever diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.7438168270315719,
+          0.40612305850534436,
+          0.14036634826660155,
+          0.047050365850554
+        ],
+        "confidence": 0.5,
+        "text": "Duke,lam"
+      },
+      {
+        "boundingBox": [
+          0.7317484067918834,
+          0.36016382298501515,
+          0.16050318908691408,
+          0.04349144978738906
+        ],
+        "confidence": 1,
+        "text": "your father."
+      },
+      {
+        "boundingBox": [
+          4.049999887456579e-09,
+          0.005025125816582876,
+          0.324,
+          0.025125628140703515
+        ],
+        "confidence": 0.3,
+        "text": "ICANHASCHEEZBURGER BOM FAS"
+      }
+    ],
+    "ocr_text": "Duke,lam\nyour father.\nICANHASCHEEZBURGER BOM FAS",
+    "description": "Solution?中的配图，包含文字：Duke,lam；your father.；ICANHASCHEEZBURGER BOM FAS",
+    "entities": [
+      "Duke,lam",
+      "your father.",
+      "ICANHASCHEEZBURGER BOM FAS"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "513dc974f21fe3aa75f6e2b4e91220dd40562c7271250f19e1f11b528f0d5570"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-003",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b6d7afa8742fff29a0_1*lkDfUDQXYMUsnje8fM331Q.avif",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-003.avif",
+    "section": "Using it with OpenAI",
+    "alt": "Bigger chunk retriever diagram",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.027999996900000042,
+          0.8764478757480695,
+          0.9440000000000001,
+          0.11196911196911197
+        ],
+        "confidence": 0.5,
+        "text": "LUKE IAM YOUR FATHER"
+      },
+      {
+        "boundingBox": [
+          0.20759817866860858,
+          0.09828258871406237,
+          0.5968036499023437,
+          0.11231513004965765
+        ],
+        "confidence": 0.3,
+        "text": "DAD, NOT NOW，"
+      },
+      {
+        "boundingBox": [
+          0.28391455163017604,
+          0.018918592837107395,
+          0.44817089843749996,
+          0.09343694075654374
+        ],
+        "confidence": 0.3,
+        "text": "TM POSING"
+      },
+      {
+        "boundingBox": [
+          -0.00010938075059917907,
+          0.003339423822155241,
+          0.11621875762939453,
+          0.024209181774537125
+        ],
+        "confidence": 0.3,
+        "text": "imgfip.com"
+      }
+    ],
+    "ocr_text": "LUKE IAM YOUR FATHER\nDAD, NOT NOW，\nTM POSING\nimgfip.com",
+    "description": "Using it with OpenAI中的配图，包含文字：LUKE IAM YOUR FATHER；DAD, NOT NOW，；TM POSING；imgfip.com",
+    "entities": [
+      "LUKE IAM YOUR FATHER",
+      "DAD, NOT NOW，",
+      "TM POSING",
+      "imgfip.com"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "08de9fe599a3281e810acb9e612bea925b59d9770ef15d797a6b69d9151a7f9d"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-004",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da56256db3a1ce11762f_mahesh-deshwal.avif",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-004.avif",
+    "section": "Using it with OpenAI",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Using it with OpenAI中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "e95afcae1c30392b76147f07769a96314e02e86a600d8efe8f0fbad25e721afd"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-005",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-005.png",
+    "section": "Using it with OpenAI",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Using it with OpenAI中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-006",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-006.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c-fig-007",
+    "doc_id": "1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1462-https-www-lancedb-com-blog-modified-rag-parent-d-6d517c9c/figure-007.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

@@ -1,0 +1,527 @@
+[
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-001",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-002",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/683610a5f112a5d4bbaf1ec8_6815de466a4de56d01e5a887_laurie2-p-800.webp",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-002.webp",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "Laurie Burchell",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d7a6e8c7de6acd5db525799560dc317e9ac6396ffb6fb2f10138513d40af8e40"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-003",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-003.webp",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-004",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68360e823c93faf5bdb7550f_logo.png",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-004.png",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "WMDQS Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.08269635018737678,
+          0.39781285193290983,
+          0.8538380717183207,
+          0.3558894456034959
+        ],
+        "confidence": 1,
+        "text": "WMDOS"
+      }
+    ],
+    "ocr_text": "WMDOS",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，包含文字：WMDOS",
+    "entities": [
+      "WMDOS"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d13d70b597d5ca8c5e64d2a79e3516899005ca554099e08d43254969ef5d3a79"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-005",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68360f112fe9839d357ce2b5_masthead.webp",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-005.webp",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.040697669603006546,
+          0.9302832252549779,
+          0.22383721669514975,
+          0.032679736614227295
+        ],
+        "confidence": 1,
+        "text": "0110110110010"
+      },
+      {
+        "boundingBox": [
+          0.706395347247172,
+          0.912854030810136,
+          0.2718023260434469,
+          0.03485838696360588
+        ],
+        "confidence": 1,
+        "text": "000100101101010"
+      },
+      {
+        "boundingBox": [
+          0.039244187719620106,
+          0.8710937499681705,
+          0.17587208747863772,
+          0.03125
+        ],
+        "confidence": 0.5,
+        "text": "01010111011"
+      },
+      {
+        "boundingBox": [
+          0.7049418581674667,
+          0.8496093756620972,
+          0.27470930417378747,
+          0.03515625
+        ],
+        "confidence": 1,
+        "text": "101010100010100"
+      },
+      {
+        "boundingBox": [
+          0.4389534932555206,
+          0.8191721128511382,
+          0.21366278330485022,
+          0.04606226272881031
+        ],
+        "confidence": 0.5,
+        "text": "111111011"
+      },
+      {
+        "boundingBox": [
+          0.7078488370463539,
+          0.7886710240345369,
+          0.2688953479131063,
+          0.03485838696360588
+        ],
+        "confidence": 1,
+        "text": "010010101001011"
+      },
+      {
+        "boundingBox": [
+          0.05416666545004164,
+          0.4750000008928571,
+          0.15416666865348816,
+          0.25
+        ],
+        "confidence": 1,
+        "text": "A"
+      },
+      {
+        "boundingBox": [
+          0.34738372095141234,
+          0.7167755992335205,
+          0.008720930044849695,
+          0.010893246158957481
+        ],
+        "confidence": 0.3,
+        "text": "C"
+      },
+      {
+        "boundingBox": [
+          0.35465116248527356,
+          0.6840958613468865,
+          0.03633720924456918,
+          0.02000570110976696
+        ],
+        "confidence": 0.3,
+        "text": "0ii0"
+      },
+      {
+        "boundingBox": [
+          0.4869186052384171,
+          0.5163398692733233,
+          0.10174418489138282,
+          0.18736383318901062
+        ],
+        "confidence": 0.3,
+        "text": "a"
+      },
+      {
+        "boundingBox": [
+          0.8197674410623311,
+          0.5337690602282454,
+          0.08720930417378736,
+          0.16993464529514313
+        ],
+        "confidence": 0.3,
+        "text": "B"
+      },
+      {
+        "boundingBox": [
+          0.7020348852695889,
+          0.35729847521764957,
+          0.09738371769587195,
+          0.16775599122047424
+        ],
+        "confidence": 1,
+        "text": "語"
+      },
+      {
+        "boundingBox": [
+          0.8502906992124233,
+          0.2265795192732849,
+          0.07703488071759546,
+          0.13507625460624695
+        ],
+        "confidence": 1,
+        "text": "C"
+      },
+      {
+        "boundingBox": [
+          3.28639330563855e-09,
+          0.2919389985879137,
+          0.15843022863070172,
+          0.03520943969488144
+        ],
+        "confidence": 1,
+        "text": "11110010"
+      },
+      {
+        "boundingBox": [
+          0.5610465121971223,
+          0.2897603485548368,
+          0.03488372017939878,
+          0.037388088181614876
+        ],
+        "confidence": 0.3,
+        "text": "11"
+      },
+      {
+        "boundingBox": [
+          3.535390443361782e-09,
+          0.22222222177560647,
+          0.17587208747863767,
+          0.03703703731298447
+        ],
+        "confidence": 1,
+        "text": "010101010"
+      },
+      {
+        "boundingBox": [
+          0.6307374504773967,
+          0.223707614060491,
+          0.16439719001452135,
+          0.04278085008263588
+        ],
+        "confidence": 1,
+        "text": "01011011"
+      },
+      {
+        "boundingBox": [
+          0.6290040654767255,
+          0.14852294291623602,
+          0.17115853230158484,
+          0.046704113483428955
+        ],
+        "confidence": 1,
+        "text": "10010110"
+      },
+      {
+        "boundingBox": [
+          0.28474164273044256,
+          0.12736512803376,
+          0.16452834010124207,
+          0.048101987689733505
+        ],
+        "confidence": 1,
+        "text": "0111001"
+      },
+      {
+        "boundingBox": [
+          0.6291666696410201,
+          0.08105468745586242,
+          0.17916665474573767,
+          0.0380859375
+        ],
+        "confidence": 1,
+        "text": "01010100"
+      },
+      {
+        "boundingBox": [
+          0.8313953519455751,
+          0.08691406289624148,
+          0.13662790258725488,
+          0.03515625
+        ],
+        "confidence": 1,
+        "text": "11101010"
+      }
+    ],
+    "ocr_text": "0110110110010\n000100101101010\n01010111011\n101010100010100\n111111011\n010010101001011\nA\nC\n0ii0\na\nB\n語\nC\n11110010\n11\n010101010\n01011011\n10010110\n0111001\n01010100\n11101010",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，包含文字：0110110110010；000100101101010；01010111011；101010100010100；111111011；010010101001011；A；C；0ii0；a；B；語；C；11110010；11；010101010；01011011；10010110；0111001；01010100；11101010",
+    "entities": [
+      "0110110110010",
+      "000100101101010",
+      "01010111011",
+      "101010100010100",
+      "111111011",
+      "010010101001011",
+      "A",
+      "C",
+      "0ii0",
+      "a",
+      "B",
+      "語",
+      "11110010",
+      "11",
+      "010101010",
+      "01011011",
+      "10010110",
+      "0111001",
+      "01010100",
+      "11101010"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "616e5361affe9d48a2155636707e141c4a89230dbff505608d7894a73c25b779"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-006",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/683610a5f112a5d4bbaf1ec8_6815de466a4de56d01e5a887_laurie2-p-800.webp",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-006.webp",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "Laurie is a Principal Research Engineer at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d7a6e8c7de6acd5db525799560dc317e9ac6396ffb6fb2f10138513d40af8e40"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-007",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/68ade5c6ef12425101705c61_pedro.webp",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-007.webp",
+    "section": "Announcing the First Workshop on Multilingual Data Quality Signals",
+    "alt": "Pedro is a Principal Research Scientist at the Common Crawl Foundation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Announcing the First Workshop on Multilingual Data Quality Signals中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dca3fe13fc8a85ccbda3970b80d634e5705d7b0f3aa527a5d6bfb4d45715c284"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-008",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-008.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-009",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-009.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-010",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532-fig-011",
+    "doc_id": "2345-https-commoncrawl-org-blog-announcing-the-first-930b0532",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2345-https-commoncrawl-org-blog-announcing-the-first-930b0532/figure-011.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

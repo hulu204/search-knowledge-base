@@ -1,0 +1,282 @@
+[
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-001",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-001.svg",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "文章中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-002",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/689206ee93d94f3d5cbc96c6_malte.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-002.webp",
+    "section": "CC-Citations: A Visualization of Research Papers Referencing Common Crawl",
+    "alt": "Malte Ostendorff",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "CC-Citations: A Visualization of Research Papers Referencing Common Crawl中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "52ee7725856d0daa1d3ff362e949f4fcca09b76b44a31f174df1c58375ea8e8c"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-003",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/64eb2e14ae5e8c4c70ec5392_news2.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-003.webp",
+    "section": "CC-Citations: A Visualization of Research Papers Referencing Common Crawl",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6858974352207978,
+          0.5918803416310541,
+          0.08333333333333337,
+          0.014957264957264904
+        ],
+        "confidence": 0.3,
+        "text": "SN AHOE®"
+      },
+      {
+        "boundingBox": [
+          0.3119211003168077,
+          0.47200250721109227,
+          0.06205523319733447,
+          0.01325994322442603
+        ],
+        "confidence": 0.3,
+        "text": "696800.0"
+      },
+      {
+        "boundingBox": [
+          0.5235042718660969,
+          0.2585470084757835,
+          0.09829059829059827,
+          0.012820512820512775
+        ],
+        "confidence": 0.3,
+        "text": "AENPASES"
+      }
+    ],
+    "ocr_text": "SN AHOE®\n696800.0\nAENPASES",
+    "description": "CC-Citations: A Visualization of Research Papers Referencing Common Crawl中的配图，包含文字：SN AHOE®；696800.0；AENPASES",
+    "entities": [
+      "SN AHOE®",
+      "696800.0",
+      "AENPASES"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d0bd20e01f5af42e7de7456e8c41a532269f983ae1033bd6d94a557c4f3be0f0"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-004",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/698bab2cb1c2bd7f7f1dc609_1.png.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-004.webp",
+    "section": "Security & Attack Detection",
+    "alt": "A graph showing nodes representing research papers about security & attack detection in several clusters.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Security & Attack Detection中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "ddaada515350b03e3da5e2e65e832714d7b515df04f71348c5a8c77000420e39"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-005",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/698bac77707b4901ce57a7c6_2.png.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-005.webp",
+    "section": "Machine Translation",
+    "alt": "A graph showing a cluster of research papers about machine translation.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Machine Translation中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c20127a7d6cc9bcef57c9eaac40cdb0a0fbd1510e6e076f243e4645448dd3efd"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-006",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/698bacc08b777ed52fe8f8ab_3.png.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-006.webp",
+    "section": "Ethics & Governance",
+    "alt": "A graph showing a cluster of research papers about ethics and governance.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Ethics & Governance中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "57eec7486b53e0577371e36d82d310def03574152a952b19f6c1c33f80c7fcb2"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-007",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/647b1c7a9990bad2048d3711/698bacfd4056dc2a3e0ba889_4.png.webp",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-007.webp",
+    "section": "Other Topics",
+    "alt": "A graph showing nodes representing research papers with other topics are scattered throughout the map.",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Other Topics中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "69381587be7fe12f9e3073e4eb7eb9d42a60944beb114cfbfad72f6edab5865f"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-008",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/649b5869af56f6df617cfb1f_CC_Logo_Blue_Auto.svg",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-008.svg",
+    "section": "Content is truncated",
+    "alt": "Common Crawl Logo",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2832130936501004,
+          0.5348453268370184,
+          0.7127404746156151,
+          0.4526974044683324
+        ],
+        "confidence": 0.5,
+        "text": "COMMON"
+      },
+      {
+        "boundingBox": [
+          0.30050541004632125,
+          0.026721099855688157,
+          0.49898918241230694,
+          0.421557797730424
+        ],
+        "confidence": 1,
+        "text": "CRAWL"
+      }
+    ],
+    "ocr_text": "COMMON\nCRAWL",
+    "description": "Content is truncated中的配图，包含文字：COMMON；CRAWL",
+    "entities": [
+      "COMMON",
+      "CRAWL"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "f611ac4365d09925704c82154443a674bcde6610c24b6b979415536c6f8808f7"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-009",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6675a2f3394182102f502e32_twitter-x.svg",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-009.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "Twitter Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7194704978d0188254352143f97d57b1d59aa88f304ddd1b2cd4a7c02dea9c3a"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-010",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1",
+    "image_path": "",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "failed",
+    "error": "HTTPError: 403 Client Error: Forbidden for url: https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6493999d57ad8123b314b6cf_linkedin%20(1"
+  },
+  {
+    "figure_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608-fig-011",
+    "doc_id": "2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/6479b8d98bf5dcb4a69c4f31/6602100396780a14617cc8ab_discord.svg",
+    "image_path": "images/2318-https-commoncrawl-org-blog-cc-citations-a-visual-f7a23608/figure-011.svg",
+    "section": "[Terms of Use](/terms-of-use)",
+    "alt": "LinkedIn Logo",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "[Terms of Use](/terms-of-use)中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5d3069ac735a2f1d2485fdeda474ba868de457357c287f67bdf50b77e6798d"
+  }
+]

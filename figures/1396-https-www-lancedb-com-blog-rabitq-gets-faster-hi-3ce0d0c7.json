@@ -1,0 +1,1506 @@
+[
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-001",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a568c92a5d2038ba22d7dab_preview-image.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-001.png",
+    "section": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.11042876222838428,
+          0.8733759221904475,
+          0.13524712557997998,
+          0.047062588345473055
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "127408b411938363ff9a0d4192cb5817182dc4b9da523560f80b8ff3c5669f4b"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-002",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5016f81c538621029bba68_rabitq-p99-latency.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-002.png",
+    "section": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4210545608242308,
+          0.9008155262400578,
+          0.159344368159492,
+          0.06522447188332381
+        ],
+        "confidence": 0.5,
+        "text": "p99 latency"
+      },
+      {
+        "boundingBox": [
+          0.28750001483436516,
+          0.8536585366778207,
+          0.42499998095626945,
+          0.04065040692891153
+        ],
+        "confidence": 0.5,
+        "text": "Lower is better, nprobes=24, top-k=10, no raw-vector refine"
+      },
+      {
+        "boundingBox": [
+          0.052325581338311083,
+          0.7815829523311816,
+          0.040697675041401066,
+          0.025875190258751846
+        ],
+        "confidence": 0.5,
+        "text": "16 ms"
+      },
+      {
+        "boundingBox": [
+          0.19607554951572753,
+          0.7609178242896382,
+          0.07296517858639151,
+          0.03907086678654448
+        ],
+        "confidence": 0.5,
+        "text": "14.72 ms"
+      },
+      {
+        "boundingBox": [
+          0.07412790712825867,
+          0.6373937676752399,
+          0.021802324958598934,
+          0.03399433501779214
+        ],
+        "confidence": 1,
+        "text": "12"
+      },
+      {
+        "boundingBox": [
+          0.08284883720412718,
+          0.49575070840855506,
+          0.010174418760350273,
+          0.02549574981178515
+        ],
+        "confidence": 1,
+        "text": "8"
+      },
+      {
+        "boundingBox": [
+          0.5839404111174263,
+          0.43093975777480176,
+          0.06322382839161222,
+          0.04180320321697073
+        ],
+        "confidence": 0.5,
+        "text": "5.57 ms"
+      },
+      {
+        "boundingBox": [
+          0.776085009382116,
+          0.452622800013999,
+          0.05974858562213581,
+          0.02959859316751834
+        ],
+        "confidence": 0.5,
+        "text": "5.94 ms"
+      },
+      {
+        "boundingBox": [
+          0.39387736804802753,
+          0.40780894498709996,
+          0.06108247396912475,
+          0.0342404671818517
+        ],
+        "confidence": 0.5,
+        "text": "4.74 ms"
+      },
+      {
+        "boundingBox": [
+          0.0813953492489321,
+          0.3512747882335596,
+          0.013081394380042771,
+          0.031161472314750416
+        ],
+        "confidence": 1,
+        "text": "4"
+      },
+      {
+        "boundingBox": [
+          0.08430232588935584,
+          0.21529745111187903,
+          0.008720929834660426,
+          0.019830027308819664
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.20347048691463387,
+          0.15286425592221486,
+          0.059628794606129965,
+          0.03704769244839978
+        ],
+        "confidence": 1,
+        "text": "IVF_PQ"
+      },
+      {
+        "boundingBox": [
+          0.3938953489395891,
+          0.15580736551401286,
+          0.061046511074310195,
+          0.03140724594371691
+        ],
+        "confidence": 0.5,
+        "text": "RQ 3-bit"
+      },
+      {
+        "boundingBox": [
+          0.5856918300154155,
+          0.15532421980618205,
+          0.06117447899209916,
+          0.0321277650342503
+        ],
+        "confidence": 0.5,
+        "text": "RQ 5-bit"
+      },
+      {
+        "boundingBox": [
+          0.7761202721070519,
+          0.15828805763271248,
+          0.061131547282154974,
+          0.029032949624722137
+        ],
+        "confidence": 1,
+        "text": "RQ 7-bit"
+      },
+      {
+        "boundingBox": [
+          0.17083333997552239,
+          0.06468797569934492,
+          0.6583333365072884,
+          0.04946727549467278
+        ],
+        "confidence": 0.5,
+        "text": "5-bit IVF_RQ keeps p99 latency about 2.6x lower than VF_PQ while reaching 96.24% recall."
+      }
+    ],
+    "ocr_text": "p99 latency\nLower is better, nprobes=24, top-k=10, no raw-vector refine\n16 ms\n14.72 ms\n12\n8\n5.57 ms\n5.94 ms\n4.74 ms\n4\n0\nIVF_PQ\nRQ 3-bit\nRQ 5-bit\nRQ 7-bit\n5-bit IVF_RQ keeps p99 latency about 2.6x lower than VF_PQ while reaching 96.24% recall.",
+    "description": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control中的配图，包含文字：p99 latency；Lower is better, nprobes=24, top-k=10, no raw-vector refine；16 ms；14.72 ms；12；8；5.57 ms；5.94 ms；4.74 ms；4；0；IVF_PQ；RQ 3-bit；RQ 5-bit；RQ 7-bit；5-bit IVF_RQ keeps p99 latency about 2.6x lower than VF_PQ while reaching 96.24% recall.",
+    "entities": [
+      "p99 latency",
+      "Lower is better, nprobes=24, top-k=10, no raw-vector refine",
+      "16 ms",
+      "14.72 ms",
+      "12",
+      "8",
+      "5.57 ms",
+      "5.94 ms",
+      "4.74 ms",
+      "4",
+      "0",
+      "IVF_PQ",
+      "RQ 3-bit",
+      "RQ 5-bit",
+      "RQ 7-bit",
+      "5-bit IVF_RQ keeps p99 latency about 2.6x lower than VF_PQ while reaching 96.24% recall."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4368448f5afa98669c913cc349b5d1364e23d102a5eb7cc0f884b663c79653e2"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-003",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5017e433ee73cfddc2e9b1_rabitq-qps-per-core.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-003.png",
+    "section": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.40843023297676956,
+          0.9063926944031907,
+          0.18459302214862033,
+          0.054033485540334825
+        ],
+        "confidence": 1,
+        "text": "QPS per core"
+      },
+      {
+        "boundingBox": [
+          0.283333332528466,
+          0.8536585374179976,
+          0.42916665397084636,
+          0.04065040402579345
+        ],
+        "confidence": 0.5,
+        "text": "Higher is better, nprobes=24, top-k=10, no raw-vector refine"
+      },
+      {
+        "boundingBox": [
+          0.06686046573911787,
+          0.7790368269467899,
+          0.029069766611465236,
+          0.03399433501779214
+        ],
+        "confidence": 1,
+        "text": "280"
+      },
+      {
+        "boundingBox": [
+          0.4024571998817918,
+          0.7668685606620094,
+          0.04246932221649219,
+          0.03283511703235731
+        ],
+        "confidence": 1,
+        "text": "261.0"
+      },
+      {
+        "boundingBox": [
+          0.5943892696850226,
+          0.6794633921858831,
+          0.03941913551175835,
+          0.03200805931149364
+        ],
+        "confidence": 0.5,
+        "text": "218.1"
+      },
+      {
+        "boundingBox": [
+          0.0654069770521589,
+          0.6316590567714607,
+          0.030523255537155083,
+          0.03972904576921399
+        ],
+        "confidence": 1,
+        "text": "210"
+      },
+      {
+        "boundingBox": [
+          0.7862055977071,
+          0.6424520206157974,
+          0.04096089807947789,
+          0.03520927400168039
+        ],
+        "confidence": 1,
+        "text": "200.7"
+      },
+      {
+        "boundingBox": [
+          0.06540697662822478,
+          0.49291784656098114,
+          0.030523255537155083,
+          0.033994335017792254
+        ],
+        "confidence": 1,
+        "text": "140"
+      },
+      {
+        "boundingBox": [
+          0.21357907902887505,
+          0.39066874069970026,
+          0.03795812133693846,
+          0.04585798545152264
+        ],
+        "confidence": 1,
+        "text": "78.0"
+      },
+      {
+        "boundingBox": [
+          0.07267441876844993,
+          0.3484419268121053,
+          0.023255813884288767,
+          0.03682719481771579
+        ],
+        "confidence": 1,
+        "text": "70"
+      },
+      {
+        "boundingBox": [
+          0.08284883720412718,
+          0.20963172823858334,
+          0.010174418760350273,
+          0.02549574981178515
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.20340691318402462,
+          0.15246747908027913,
+          0.05975594126304115,
+          0.037841245282549174
+        ],
+        "confidence": 1,
+        "text": "IVF_PQ"
+      },
+      {
+        "boundingBox": [
+          0.3938736654887251,
+          0.1584616587054808,
+          0.061089877219356326,
+          0.028685749756509726
+        ],
+        "confidence": 0.5,
+        "text": "RQ 3-bit"
+      },
+      {
+        "boundingBox": [
+          0.5856970219746483,
+          0.15815096127860628,
+          0.061164094207811215,
+          0.029307144780500116
+        ],
+        "confidence": 0.5,
+        "text": "RQ 5-bit"
+      },
+      {
+        "boundingBox": [
+          0.7761327070686785,
+          0.1583919253793109,
+          0.06110667736035613,
+          0.028825214101480756
+        ],
+        "confidence": 0.5,
+        "text": "RQ 7-bit"
+      },
+      {
+        "boundingBox": [
+          0.26250000117656724,
+          0.06468797569934492,
+          0.4750000095218653,
+          0.04946727549467278
+        ],
+        "confidence": 0.5,
+        "text": "QPS is reported per core, not as total system or cluster throughput."
+      }
+    ],
+    "ocr_text": "QPS per core\nHigher is better, nprobes=24, top-k=10, no raw-vector refine\n280\n261.0\n218.1\n210\n200.7\n140\n78.0\n70\n0\nIVF_PQ\nRQ 3-bit\nRQ 5-bit\nRQ 7-bit\nQPS is reported per core, not as total system or cluster throughput.",
+    "description": "RaBitQ Gets Faster: Higher Recall, Lower Latency, Query-Time Control中的配图，包含文字：QPS per core；Higher is better, nprobes=24, top-k=10, no raw-vector refine；280；261.0；218.1；210；200.7；140；78.0；70；0；IVF_PQ；RQ 3-bit；RQ 5-bit；RQ 7-bit；QPS is reported per core, not as total system or cluster throughput.",
+    "entities": [
+      "QPS per core",
+      "Higher is better, nprobes=24, top-k=10, no raw-vector refine",
+      "280",
+      "261.0",
+      "218.1",
+      "210",
+      "200.7",
+      "140",
+      "78.0",
+      "70",
+      "0",
+      "IVF_PQ",
+      "RQ 3-bit",
+      "RQ 5-bit",
+      "RQ 7-bit",
+      "QPS is reported per core, not as total system or cluster throughput."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1428b53d82d0444b5640351a30c82d5bd7910341ad46c1e07e6bbc3252e2000e"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-004",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50184b10dcc5bf228cf7ba_rabitq-recall.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-004.png",
+    "section": "Why This Matters",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4272312337928262,
+          0.9027389497428243,
+          0.1469910215476002,
+          0.05854476278412468
+        ],
+        "confidence": 0.5,
+        "text": "Recall@10"
+      },
+      {
+        "boundingBox": [
+          0.2892441858676081,
+          0.8498583565232096,
+          0.42005813289172195,
+          0.033994335017792254
+        ],
+        "confidence": 0.5,
+        "text": "Higher is better, nprobes=24, top-k=10, no raw-vector refine"
+      },
+      {
+        "boundingBox": [
+          0.055232558118834346,
+          0.7790368269467899,
+          0.040697675041401066,
+          0.03399433501779214
+        ],
+        "confidence": 1,
+        "text": "100%"
+      },
+      {
+        "boundingBox": [
+          0.7775036218818594,
+          0.7471284362671344,
+          0.05836485031056515,
+          0.035488169305763595
+        ],
+        "confidence": 1,
+        "text": "96.83%"
+      },
+      {
+        "boundingBox": [
+          0.5872093033643699,
+          0.7365439089338047,
+          0.05523255537155081,
+          0.02832861251482688
+        ],
+        "confidence": 1,
+        "text": "96.24%"
+      },
+      {
+        "boundingBox": [
+          0.396769214570805,
+          0.6824951124794298,
+          0.05529877994436183,
+          0.0316103408325753
+        ],
+        "confidence": 0.5,
+        "text": "93.52%"
+      },
+      {
+        "boundingBox": [
+          0.04651162735676996,
+          0.6316590565241476,
+          0.04796511669426738,
+          0.03972904576921388
+        ],
+        "confidence": 1,
+        "text": "92.5%"
+      },
+      {
+        "boundingBox": [
+          0.06104651093412409,
+          0.49291784656098114,
+          0.03343023338853476,
+          0.033994335017792254
+        ],
+        "confidence": 1,
+        "text": "85%"
+      },
+      {
+        "boundingBox": [
+          0.04651162855738094,
+          0.3424657540962266,
+          0.04941860264437433,
+          0.045662100456621
+        ],
+        "confidence": 1,
+        "text": "77.5%"
+      },
+      {
+        "boundingBox": [
+          0.20337130166912823,
+          0.32235491275869665,
+          0.05982716481510822,
+          0.046508304241766885
+        ],
+        "confidence": 1,
+        "text": "74.83%"
+      },
+      {
+        "boundingBox": [
+          0.05959302434230704,
+          0.20679886681210535,
+          0.03488371933864172,
+          0.03682719481771568
+        ],
+        "confidence": 1,
+        "text": "70%"
+      },
+      {
+        "boundingBox": [
+          0.20344520299265742,
+          0.15270740282024187,
+          0.05967936166177115,
+          0.037361397590811474
+        ],
+        "confidence": 1,
+        "text": "IVF_PQ"
+      },
+      {
+        "boundingBox": [
+          0.39386858918860707,
+          0.15839457380541677,
+          0.061100029908178755,
+          0.025987056110910456
+        ],
+        "confidence": 0.5,
+        "text": "RQ 3-bit"
+      },
+      {
+        "boundingBox": [
+          0.5856858349086861,
+          0.15798775575705137,
+          0.0611864705911479,
+          0.026800692716508534
+        ],
+        "confidence": 0.5,
+        "text": "RQ 5-bit"
+      },
+      {
+        "boundingBox": [
+          0.777616280186591,
+          0.15829528107763868,
+          0.05959302214862039,
+          0.028919330289193357
+        ],
+        "confidence": 0.5,
+        "text": "RQ 7-bit"
+      },
+      {
+        "boundingBox": [
+          0.19040698404324,
+          0.0677321152784508,
+          0.6191860442972407,
+          0.034250887924496265
+        ],
+        "confidence": 0.5,
+        "text": "Multi-bit RaBitQ stores more signal in the index, reducing the need for raw-vector refine."
+      }
+    ],
+    "ocr_text": "Recall@10\nHigher is better, nprobes=24, top-k=10, no raw-vector refine\n100%\n96.83%\n96.24%\n93.52%\n92.5%\n85%\n77.5%\n74.83%\n70%\nIVF_PQ\nRQ 3-bit\nRQ 5-bit\nRQ 7-bit\nMulti-bit RaBitQ stores more signal in the index, reducing the need for raw-vector refine.",
+    "description": "Why This Matters中的配图，包含文字：Recall@10；Higher is better, nprobes=24, top-k=10, no raw-vector refine；100%；96.83%；96.24%；93.52%；92.5%；85%；77.5%；74.83%；70%；IVF_PQ；RQ 3-bit；RQ 5-bit；RQ 7-bit；Multi-bit RaBitQ stores more signal in the index, reducing the need for raw-vector refine.",
+    "entities": [
+      "Recall@10",
+      "Higher is better, nprobes=24, top-k=10, no raw-vector refine",
+      "100%",
+      "96.83%",
+      "96.24%",
+      "93.52%",
+      "92.5%",
+      "85%",
+      "77.5%",
+      "74.83%",
+      "70%",
+      "IVF_PQ",
+      "RQ 3-bit",
+      "RQ 5-bit",
+      "RQ 7-bit",
+      "Multi-bit RaBitQ stores more signal in the index, reducing the need for raw-vector refine."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1ca489511962e39c14b4ae74f4ddf0c62566c0ec9cf4a03851a65d0c10d94446"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-005",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50188e8703c07b07daf5ee_rabitq-hot-memory.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-005.png",
+    "section": "Why This Matters",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2624999986558898,
+          0.8913690480825442,
+          0.4708333242507208,
+          0.07529761677696589
+        ],
+        "confidence": 0.5,
+        "text": "Serving hot memory by query path"
+      },
+      {
+        "boundingBox": [
+          0.3604651165940342,
+          0.8546511633620296,
+          0.28197674524216426,
+          0.03225359888303847
+        ],
+        "confidence": 0.5,
+        "text": "Relative to raw f32 vectors, lower is better"
+      },
+      {
+        "boundingBox": [
+          0.07409323094580285,
+          0.7292748792435215,
+          0.08582516511281331,
+          0.03272931064878182
+        ],
+        "confidence": 0.5,
+        "text": "PQ no refine"
+      },
+      {
+        "boundingBox": [
+          0.28767942888432946,
+          0.7226801386356879,
+          0.07289695739746094,
+          0.03138390893027898
+        ],
+        "confidence": 0.5,
+        "text": "~1/32 raw"
+      },
+      {
+        "boundingBox": [
+          0.07387078337480728,
+          0.5623928122595117,
+          0.05574680510021392,
+          0.04091204915727875
+        ],
+        "confidence": 1,
+        "text": "RQ fast"
+      },
+      {
+        "boundingBox": [
+          0.287763072189128,
+          0.5607733026788201,
+          0.07127618222009569,
+          0.02961618559701107
+        ],
+        "confidence": 1,
+        "text": "~1/32 raw"
+      },
+      {
+        "boundingBox": [
+          0.07395287566724511,
+          0.3995634411959663,
+          0.08319889931451709,
+          0.04098939611798247
+        ],
+        "confidence": 0.5,
+        "text": "RQ full 5-bit"
+      },
+      {
+        "boundingBox": [
+          0.3720218259338887,
+          0.39754123360311133,
+          0.0713633242107573,
+          0.030498927547818133
+        ],
+        "confidence": 0.5,
+        "text": "~5/32 raw"
+      },
+      {
+        "boundingBox": [
+          0.07401983658237452,
+          0.24020287911400606,
+          0.07725102560860769,
+          0.03412912573133198
+        ],
+        "confidence": 0.5,
+        "text": "PQ + refine"
+      },
+      {
+        "boundingBox": [
+          0.7936046525210763,
+          0.23809523766378882,
+          0.0799418574287778,
+          0.02678571428571419
+        ],
+        "confidence": 0.5,
+        "text": "~33/32 raw"
+      },
+      {
+        "boundingBox": [
+          0.25145348837314896,
+          0.11337209347791599,
+          0.008720930133547078,
+          0.020348836978276608
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.406945341600265,
+          0.10738972187637041,
+          0.03494652679988314,
+          0.026499627601532683
+        ],
+        "confidence": 0.3,
+        "text": "0.25×"
+      },
+      {
+        "boundingBox": [
+          0.5755540514974393,
+          0.10741159681584511,
+          0.03493840921492797,
+          0.02645587637310942
+        ],
+        "confidence": 0.3,
+        "text": "0.50×"
+      },
+      {
+        "boundingBox": [
+          0.7441860470584872,
+          0.10755814048018864,
+          0.03488372053418842,
+          0.02637043027650743
+        ],
+        "confidence": 0.3,
+        "text": "0.75×"
+      },
+      {
+        "boundingBox": [
+          0.9069767459998004,
+          0.110119047682943,
+          0.049418602670942,
+          0.023809523809523836
+        ],
+        "confidence": 0.5,
+        "text": "1.0x raw"
+      },
+      {
+        "boundingBox": [
+          0.1831395581371082,
+          0.03488372112825455,
+          0.6351743879772369,
+          0.03505675565628785
+        ],
+        "confidence": 0.5,
+        "text": "A 5-bit RQ index can use the 1-bit fast path for PQ-like hot memory, or full bits for higher recall."
+      }
+    ],
+    "ocr_text": "Serving hot memory by query path\nRelative to raw f32 vectors, lower is better\nPQ no refine\n~1/32 raw\nRQ fast\n~1/32 raw\nRQ full 5-bit\n~5/32 raw\nPQ + refine\n~33/32 raw\n0\n0.25×\n0.50×\n0.75×\n1.0x raw\nA 5-bit RQ index can use the 1-bit fast path for PQ-like hot memory, or full bits for higher recall.",
+    "description": "Why This Matters中的配图，包含文字：Serving hot memory by query path；Relative to raw f32 vectors, lower is better；PQ no refine；~1/32 raw；RQ fast；~1/32 raw；RQ full 5-bit；~5/32 raw；PQ + refine；~33/32 raw；0；0.25×；0.50×；0.75×；1.0x raw；A 5-bit RQ index can use the 1-bit fast path for PQ-like hot memory, or full bits for higher recall.",
+    "entities": [
+      "Serving hot memory by query path",
+      "Relative to raw f32 vectors, lower is better",
+      "PQ no refine",
+      "~1/32 raw",
+      "RQ fast",
+      "RQ full 5-bit",
+      "~5/32 raw",
+      "PQ + refine",
+      "~33/32 raw",
+      "0",
+      "0.25×",
+      "0.50×",
+      "0.75×",
+      "1.0x raw",
+      "A 5-bit RQ index can use the 1-bit fast path for PQ-like hot memory, or full bits for higher recall."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7e3fbe7eab1cf5bff6e6d664771ef121413706c8d7263d2a7a4c1134db09ecf1"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-006",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5019231a76d544a22aa67c_rabitq-approx-mode-latency.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-006.png",
+    "section": "Tune Recall at Query Time",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.34156977798015575,
+          0.8897306382801331,
+          0.3183139377170139,
+          0.060818813465259636
+        ],
+        "confidence": 0.5,
+        "text": "approx_mode latency"
+      },
+      {
+        "boundingBox": [
+          0.33575581284051714,
+          0.8324175828941224,
+          0.3299418674045139,
+          0.04131979091400251
+        ],
+        "confidence": 0.5,
+        "text": "Same 5-bit IVF_RQ index, lower is better"
+      },
+      {
+        "boundingBox": [
+          0.062500000016377,
+          0.7582417577966513,
+          0.0377906968858507,
+          0.027472528142961194
+        ],
+        "confidence": 0.3,
+        "text": "5 ms"
+      },
+      {
+        "boundingBox": [
+          0.6845591102499011,
+          0.7332310351393154,
+          0.07710270860460067,
+          0.033537928905551295
+        ],
+        "confidence": 0.5,
+        "text": "4.508 ms"
+      },
+      {
+        "boundingBox": [
+          0.4651162781585975,
+          0.6565656559596749,
+          0.07703488498263883,
+          0.032994782483136254
+        ],
+        "confidence": 0.5,
+        "text": "3.802 ms"
+      },
+      {
+        "boundingBox": [
+          0.0639534890527578,
+          0.6126373626429451,
+          0.03924418470594618,
+          0.04140304154418528
+        ],
+        "confidence": 1,
+        "text": "3.75"
+      },
+      {
+        "boundingBox": [
+          0.2456395358851391,
+          0.5850168343963913,
+          0.07848836941189236,
+          0.03872053872053871
+        ],
+        "confidence": 0.5,
+        "text": "3.175 ms"
+      },
+      {
+        "boundingBox": [
+          0.06395348928765192,
+          0.4722222229933145,
+          0.03924418470594618,
+          0.047138047138047146
+        ],
+        "confidence": 1,
+        "text": "2.50"
+      },
+      {
+        "boundingBox": [
+          0.06386078872301873,
+          0.33214412450133457,
+          0.04088307359483506,
+          0.04999746618046097
+        ],
+        "confidence": 0.5,
+        "text": "1.25"
+      },
+      {
+        "boundingBox": [
+          0.09011627923366342,
+          0.20879120873071733,
+          0.010174418131510418,
+          0.027472528142961194
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.2659883728652142,
+          0.14814814755635075,
+          0.03779069688585068,
+          0.03317053309996121
+        ],
+        "confidence": 1,
+        "text": "fast"
+      },
+      {
+        "boundingBox": [
+          0.4752906990869014,
+          0.1510989011070908,
+          0.0581395331488716,
+          0.027472528142961194
+        ],
+        "confidence": 1,
+        "text": "normal"
+      },
+      {
+        "boundingBox": [
+          0.6874779108113782,
+          0.14816453697554466,
+          0.07126510959201393,
+          0.03059400372232257
+        ],
+        "confidence": 1,
+        "text": "accurate"
+      }
+    ],
+    "ocr_text": "approx_mode latency\nSame 5-bit IVF_RQ index, lower is better\n5 ms\n4.508 ms\n3.802 ms\n3.75\n3.175 ms\n2.50\n1.25\n0\nfast\nnormal\naccurate",
+    "description": "Tune Recall at Query Time中的配图，包含文字：approx_mode latency；Same 5-bit IVF_RQ index, lower is better；5 ms；4.508 ms；3.802 ms；3.75；3.175 ms；2.50；1.25；0；fast；normal；accurate",
+    "entities": [
+      "approx_mode latency",
+      "Same 5-bit IVF_RQ index, lower is better",
+      "5 ms",
+      "4.508 ms",
+      "3.802 ms",
+      "3.75",
+      "3.175 ms",
+      "2.50",
+      "1.25",
+      "0",
+      "fast",
+      "normal",
+      "accurate"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "62d655ad1e8ce2d969aff879f2c3355cf576a67381066619410bf81983aaf1f3"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-007",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a501931919f7c67f74b7477_rabitq-approx-mode-qps.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-007.png",
+    "section": "Tune Recall at Query Time",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.29941861035509526,
+          0.8897306391028754,
+          0.4026162651909722,
+          0.06397306397306401
+        ],
+        "confidence": 0.5,
+        "text": "approx_mode QPS per core"
+      },
+      {
+        "boundingBox": [
+          0.27083332583333364,
+          0.8346456701040238,
+          0.45833333333333337,
+          0.047509212686557944
+        ],
+        "confidence": 0.5,
+        "text": "Derived from average latency as 1000 / avg_latency_ms"
+      },
+      {
+        "boundingBox": [
+          0.06831395301832253,
+          0.752525252609265,
+          0.03343023342556424,
+          0.044178044354474144
+        ],
+        "confidence": 1,
+        "text": "340"
+      },
+      {
+        "boundingBox": [
+          0.2688953486336326,
+          0.7500000006074243,
+          0.033430233425564226,
+          0.0329670312027337
+        ],
+        "confidence": 1,
+        "text": "315"
+      },
+      {
+        "boundingBox": [
+          0.488372093849082,
+          0.6675084172612902,
+          0.03197674221462676,
+          0.030303030303030276
+        ],
+        "confidence": 1,
+        "text": "263"
+      },
+      {
+        "boundingBox": [
+          0.06831395354868176,
+          0.6153198657042298,
+          0.03488372124565972,
+          0.03872053872053871
+        ],
+        "confidence": 1,
+        "text": "255"
+      },
+      {
+        "boundingBox": [
+          0.7078488369427411,
+          0.5984848483752092,
+          0.03343023342556417,
+          0.03367003367003374
+        ],
+        "confidence": 1,
+        "text": "222"
+      },
+      {
+        "boundingBox": [
+          0.06976744163569171,
+          0.4780219786533444,
+          0.03343023342556424,
+          0.03881303870718078
+        ],
+        "confidence": 1,
+        "text": "170"
+      },
+      {
+        "boundingBox": [
+          0.079941860808657,
+          0.34340659444572885,
+          0.02325581359863281,
+          0.0329670312027337
+        ],
+        "confidence": 1,
+        "text": "85"
+      },
+      {
+        "boundingBox": [
+          0.09011627936689984,
+          0.20879120844402088,
+          0.010174418131510418,
+          0.024725275007562608
+        ],
+        "confidence": 0.3,
+        "text": "O"
+      },
+      {
+        "boundingBox": [
+          0.2659883728652142,
+          0.14814814755635075,
+          0.03779069688585068,
+          0.03317053309996121
+        ],
+        "confidence": 1,
+        "text": "fast"
+      },
+      {
+        "boundingBox": [
+          0.4752906990869014,
+          0.1510989011070908,
+          0.0581395331488716,
+          0.027472528142961194
+        ],
+        "confidence": 1,
+        "text": "normal"
+      },
+      {
+        "boundingBox": [
+          0.6874756999824407,
+          0.14814568986619314,
+          0.07126953125000002,
+          0.030631699546017632
+        ],
+        "confidence": 1,
+        "text": "accurate"
+      }
+    ],
+    "ocr_text": "approx_mode QPS per core\nDerived from average latency as 1000 / avg_latency_ms\n340\n315\n263\n255\n222\n170\n85\nO\nfast\nnormal\naccurate",
+    "description": "Tune Recall at Query Time中的配图，包含文字：approx_mode QPS per core；Derived from average latency as 1000 / avg_latency_ms；340；315；263；255；222；170；85；O；fast；normal；accurate",
+    "entities": [
+      "approx_mode QPS per core",
+      "Derived from average latency as 1000 / avg_latency_ms",
+      "340",
+      "315",
+      "263",
+      "255",
+      "222",
+      "170",
+      "85",
+      "O",
+      "fast",
+      "normal",
+      "accurate"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "5d38e213e1174366d35696270583f2333cc78353b8b57eb01267c5ecbd8a93e9"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-008",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69f22032db0ea99667d6a882_yang-cen.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-008.png",
+    "section": "Connect to a remote table on LanceDB Enterprise",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Connect to a remote table on LanceDB Enterprise中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "1eaee9d3439c4328cfa4b8fc0a9cb2e139bf11fd195b99ae587ceaeec82ca309"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-009",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-009.png",
+    "section": "Connect to a remote table on LanceDB Enterprise",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Connect to a remote table on LanceDB Enterprise中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-010",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-010.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7-fig-011",
+    "doc_id": "1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1396-https-www-lancedb-com-blog-rabitq-gets-faster-hi-3ce0d0c7/figure-011.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

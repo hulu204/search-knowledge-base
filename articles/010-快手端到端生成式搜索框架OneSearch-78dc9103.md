@@ -1,0 +1,288 @@
+---
+title: '快手端到端生成式搜索框架OneSearch'
+company: 快手
+tag: 搜索
+date: 2025-09-18
+url: https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247497540&idx=1&sn=6f1009c426d64d86a3781629a18daadb&chksm=cf08105f18e24b3d44eb63b8e5daa9ae144b6d443c14316a9ea6d8024c04bffe92110dd4e161&mpshare=1&scene=1&srcid=1007bFqBFbe8JiuJwRxyfKFT&sharer_shareinfo=c824fe05a386f48b0e2679b213baeec2&sharer_shareinfo_first=c824fe05a386f48b0e2679b213baeec2#rd
+account: 快手技术
+origin: readme
+---
+![](https://mmbiz.qpic.cn/sz_mmbiz_gif/ZxDY5TMPs0EqL7dlyXD8OFyXn6yNGvQ8uEibL6TkOHqFvaK0bR9GEhZicTHuDtaTficMGS88ecXKIVPnFJCTMz7aQ/640?wx_fmt=gif&from=appmsg)
+
+还有一个月，一年一度的“双十一”就要来了！
+
+作为消费者，你平时是怎样寻找心仪商品的呢？？当你满怀期待在搜索框输入关键词，却发现商品列表并不符合心意——这背后到底是什么原因导致的？
+
+这一切，还要从电商平台常用的传统搜索架构说起。目前主流系统采用召回->粗排->精排”的级联式架构。
+
+* 召回层：比如你搜索“红色连衣裙”，系统会迅速从数亿商品中筛选出上万个包含“红色”“连衣裙”关键词的商品。这步追求快和全，但精度不高——难免会出现一些标题党商品（比如标题强行蹭热点，写“红色连衣裙”但其实卖的是搭配的开衫）
+* 粗排层：系统使用轻量级模型对这上万个商品粗略排序，去掉一些明显不相关的。
+* 精排层：采用更复杂、精细的模型，对几百个剩余商品进行最终排序。它会综合考量点击率、销量、价格、用户历史偏好等多种因素，返回你最终看到的商品列表。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYYxdIDibkj3v4m83TwhSbkKR6gGxJHImVorJKVTSO4ibNESHIvCK4dwrw/640?wx_fmt=png&from=appmsg)
+
+那么，到底是哪些环节导致我们总是看到不满意的商品？
+
+* 商品描述混乱：卖家为增加曝光，常在标题中堆砌大量不相关热词（如“民族风复古流苏酒红色吊带连衣裙云南新疆西藏旅游度假长裙”），严重干扰系统判断。
+* 相关性问题突出：用户搜索词往往很短（例如“夏季阔腿裤”），但只要某一属性不匹配（如商品实际是“裙裤”款式），就不再相关，而系统难以精准捕捉这类差异。
+* 级联结构存在瓶颈：级联式框架如同三道筛子，如果第一层召回效果差，后面再怎么排也难挽回。并且三层目标不一致，整体协同困难。
+* 冷启动难题：新上架商品或搜索量极低的长尾词，因缺乏历史数据，很难被系统正确处理，导致曝光机会匮乏。
+
+**一、OneSearch：电商搜索端到端生成式框架**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/ZqDaDiccbgkjkXh51mrAMoT3ZCACkYnlug8cUETdh9Day9fNPrUxPnf16aImK9XpkTCvMufrR9HiaPqbFKCRMxoMlZmAlwZCog/640?wx_fmt=svg&tp=webp&wxfrom=5&wx_lazy=1)
+
+为解决传统电商搜索系统面临的诸多挑战，工业界通常采用级联式架构，以实现较高的商业效益和系统稳定性。然而，随着大语言模型的兴起，研究者开始探索如何借助其强大的语义理解与世界知识进一步优化搜索体验。在此背景下，快手提出了业界首个工业级部署的电商搜索端到端生成式框架——OneSearch。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYkibVMKyXMu83Ugcmw15JImKh32wZcdXaEesdxRdIruHz2LDUrwSvtAA/640?wx_fmt=png&from=appmsg)
+
+* 论文标题：《OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search》
+* 论文地址：https://arxiv.org/abs/2509.03236
+
+该框架涵盖以下三大创新点：
+
+1. 提出关键词增强层次量化编码（KHQE）模块，能够在保持层次化语义与商品独特属性的同时，强化Query-商品相关性约束；
+
+2. 设计多视角用户行为序列注入策略，构建了行为驱动的用户标识（UID），并融合显式短期行为与隐式长期序列，全面而精准地建模用户偏好；
+
+3. 引入偏好感知奖励系统（PARS），结合多阶段监督微调与自适应奖励强化学习机制，以捕捉细粒度用户偏好信号。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYYYiaGTdQibIc0fMUwwRhibicuJibpFY4hiaBSfkaaC6u2Pwic9gnkCHeAR7hg/640?wx_fmt=png&from=appmsg)
+
+**二、技术实现方案**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/ZqDaDiccbgkjkXh51mrAMoT3ZCACkYnlug8cUETdh9Day9fNPrUxPnf16aImK9XpkTCvMufrR9HiaPqbFKCRMxoMlZmAlwZCog/640?wx_fmt=svg&tp=webp&wxfrom=5&wx_lazy=1)
+
+***关键词增强层次量化编码（KHQE）模块***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMY4wzPy4kQAHUXS4GtNt2perPOVkZFt9Va903syQiaUxwCxtAZSZWBc2Q/640?wx_fmt=png&from=appmsg)
+
+商品语义涵盖标题、关键词、详情页、商家、价格、图片等多维度信息。然而，商家为提升曝光度，常在标题中堆砌大量关键词，导致出现多主体甚至属性冲突的问题，例如：法式挂脖连衣裙女夏宽松显瘦绝美温柔初恋优雅皮靴搭配红色浅蓝色粉色”。此类混杂表述易掩盖商品的核心特征。
+
+为实现多元化搜索意图下query与商品的精准匹配，首先必须对商品的丰富语义进行充分建模。快手团队设计了四个任务来对齐协同和语义表征：
+
+1. Q2Q 和 I2I 对比损失：用于对齐协同相似对的表征；
+
+2. Q2I 对比损失：增强Query-商品对的语义相关性，确保表征模型理解业务特性；
+
+3. Q2I 边际损失：进一步学习具有不同行为级别（如曝光、点击、下单）的<q, i>对的协同信号偏差；
+
+4. 基于LLM的难样本纠偏：保证难样本相关性水位。
+
+第一步：提取核心属性
+
+使用Qwen-VL/AC自动机分别识别出商品/query的关键属性（如品牌、品类、颜色、材质）。例如，从前述混乱标题中精准提取“连衣裙”、“法式”、“挂脖”、“夏季”等核心属性，弱化“绝美”、“皮靴”等无关或冲突词汇。
+
+第二步：生成层次化编码（SID）
+
+传统SID编码方法（如RQ-VAE、RQ-Kmeans）倾向于编码商品间的共性特征，导致语义相近的商品被映射到相同编码中，无法充分保留个性化差异，从而制约生成式检索模型的性能。
+
+为解决该问题，快手搜索技术团队提出RQ-OPQ编码方案，融合RQ（残差量化）和OPQ（优化乘积量化）的优势，从纵向与横向两个维度建模商品特征：
+
+* RQ：负责处理层次化语义特征，通过多层残差量化捕捉从粗粒度到细粒度的商品语义。
+
+* OPQ：负责量化独特特征，专门编码每个商品的差异化属性。
+
+首先使用RQ-Kmeans进行3层层次化编码，构建商品的主体语义表示。可视为从粗到细的分类标签体系。例如：第一层为“服装”，第二层为“连衣裙”，第三层为“法式款式”。经过聚类后所剩余的残差信息，包含商品最独特、最细粒度的属性。进一步对残差向量应用OPQ进行2层编码，以捕获商品的细微差异特征，如“iPhone 17 Pro”的“星宇橙色”、“256GB内存”等关键属性。缺失此类信息将导致模型无法区分同类别商品的细微差别。
+
+最终每个商品由5层SID组成：前3层来自RQ聚类中心，后2层来自OPQ量化结果。该结构相当于为每一个商品生成了一个具备丰富语义层次的“智能身份证”，显著提升了生成式检索的区分能力和准确性。
+
+***多视角用户行为序列***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYq1LPvBLicXI3R2UrcPnjzA9OAHI76ctV8hvEHeZxiccM6GGaZZU2TiaSg/640?wx_fmt=png&from=appmsg)
+
+传统搜索系统往往难以有效捕捉用户的近期偏好与长期兴趣。其核心原因在于传统排序模型中的用户ID仅为一串随机数字（如“12345”），缺乏语义信息。而在OneSearch中，依据用户的长/短期行为序列构建具有区分性的用户标识（distinctive User ID）。例如，若用户近期频繁浏览露营装备，并长期表现出对高性价比商品的偏好，系统会为其生成一个精准描述这些行为的标识，而非无意义的编号。具体而言，采用有序加权方式基于用户的长/短期行为序列计算distinctive User ID：
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYAibgg3hrAKsr4qia9BH7toLgt6oDp4SxI9uKZVxc9eaia6DjHf59GeGyw/640?wx_fmt=png&from=appmsg)
+
+### 1. 显式引入短行为序列
+
+用户最近的搜索Query和点击商品可反映其即时意图。例如，若用户近期频繁搜索“开学必备”、“宿舍神器”，系统可推断其可能为准大学生，进而在搜索结果页中围绕此进行展示。为实现这一目标，系统将用户最近的搜索Query序列和SID形式的点击商品序列直接编码至模型输入（prompt）中，以显式方式强调这些近期行为特征。同时，为缓解新用户行为稀疏性问题并模拟兴趣演化，采用滑动窗口策略进行数据增强。
+
+2. 隐式引入长行为序列
+
+长期行为序列旨在从用户历史行为（如点击、购买等）中提炼稳定的偏好特征，形成整体用户画像。例如，用户长期购买高端电子产品和小众设计师品牌，可体现其消费层次和审美倾向。
+
+在电商场景中，用户行为序列长度常高达~103无法以显式方式完整引入。考虑到BART等模型的最大输入长度限制（如1024）以及长序列对线上推理延迟的影响，可通过嵌入（embedding）方式隐式融合用户个性化信息。与OneRec等方法直接对海量视频ID进行建模（嵌入维度达几十亿）不同，OneSearch提出基于SID维度建模，具有以下优点：
+
+* embedding维度低，仅几千维emb即可表征全量商品
+
+* SID本身已经包含了类目、材质等层级化信息，无需引入额外特征
+
+为进一步降低线上计算复杂度，对用户行为SID序列分层（L1/L2/L3）进行均值池化，并利用QFormer对序列表征进行压缩，最终得到一组（n, 768）维向量，即n个用户序列token。消融实验表明，去除长期行为序列会导致离线性能显著下降，证明了隐式引入长序列的必要性。
+
+该方法使系统能够更全面、深层地理解用户意图，显著提升了个性化搜索的准确性与用户体验。
+
+***引入偏好感知奖励系统（PARS）***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+当然，光能识别商品和理解用户还不够，最终得把所有匹配的商品排好顺序。
+
+相比于推荐系统中的序列一致性，搜索中query和item之间的强相关性约束对生成式模型提出了更大的挑战。对于 GR 模型，不仅需要实现 SID 与query/item之间的语义对齐，还需要根据序列信息直接生成满足相关性约束和用户偏好的item。因此，OneSearch提出了一个偏好感知奖励系统，包括多阶段监督微调（SFT）和自适应奖励系统，以增强模型的个性化排序能力。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYxuPUEKo6lmqLPVVRe4hW5BjIGvqdXpGnZPAqcSScaXIAezSsgcwlAw/640?wx_fmt=png&from=appmsg)
+
+### 1. 监督微调（SFT）阶段
+
+用于搜索的生成式模型，需要同时准确把握〈query, item〉对的相关性以及用户的个性化偏好。OneSearch创新性地设计了三阶段SFT训练任务：分别实现语义内容对齐、协同信息对齐、用户个性化建模。这就类似于“上课”的过程，从易到难，进行课程学习。
+
+第一节课：认识query/item的SID与类目（比如“薄款衬衫”对应哪个SID、哪一类目）；
+
+第二节课：学习query和item的共现关系（比如搜索了“极简风”的用户，常买哪些商品）；
+
+第三节课：结合用户的兴趣档案做练习（比如给 近期看露营+长期爱性价比 的用户，高优展示哪款类型帐篷）。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYTLBNg9OTOZMq4vM4tylxs3xpVC0zFsT549yWEMHXTqqpTjETGPO4Yw/640?wx_fmt=png&from=appmsg)
+
+这一分阶段的学习策略有效提升了模型对相关性约束和用户偏好的联合建模能力。
+
+### 2. 强化排序学习（RL4Ranking）阶段
+
+为了使生成式模型具备排序能力，一种直观的思路是借助强化学习，对用户有交互和无交互行为的区别学习。OneSearch引入了一套自适应的奖励系统，首先通过reward model实现与线上精排模型的分布对齐，再结合用户真实交互行为进行监督训练，进一步激发生成式模型的推理能力。
+
+【样本自适应权重构建】
+
+电商搜索场景中用户意图多样，既包括强购买意图，也包含浏览、比价等弱意图行为。与视频推荐使用时长、次留等指标不同，电商搜索更关注 CTR、CVR、订单量与营收等直接转化指标。因此，如何对不同行为样本赋予合理的奖励权重，就显得非常重要。OneSearch引入规则奖励机制（reward model），将用户行为划分为六个等级，并为每一类设置基础奖励值。在此基础上，进一步引入动态调节因子，基于商品近7天内的CTR、CVR等实时表现动态微调样本权重，缓解新品曝光不足带来的偏差。这种机制使得即使同为高等级样本（如两个成交商品），也会因历史转化效率的不同而在奖励权重上呈现细微差异，从而帮助模型捕捉更细粒度的用户偏好。
+
+【奖励模型（Reward Model）设计】
+
+为了对齐线上精排分布，OneSearch首先设计了一个直观且高效的奖励模型。保持模型结构&损失函数与原精排一致、特征输入与 OneSearch对齐，即用更少的特征拟合线上精排模型的分布，这样可以继承原有精排模型的稳定性。奖励模型训练好后，可以从线上日志中拉取用户真实搜索过的query等信息，使用SFT后的OneSearch模型生成候选item列表，再使用奖励模型进行进一步的排序；可以筛选出顺序发生变化的样本，这些差异样本反映了当前生成模型与线上精排在对用户偏好理解上的差距。利用这批数据进行监督训练，可有效增强模型的偏好学习能力。
+
+【用户交互引导，突破模型推理限制】
+
+在初步获得精排排序能力后，OneSearch 进一步引入用户真实交互数据监督训练，以激发生成模型的深层推理能力。训练中将以有点击、成交等正向反馈的样本作为正例，曝光未点击等作为负例，通过混合排序建模的方式，使模型在提升排序性能的同时，不损害生成多样性，避免“奖励破解”（reward hacking）问题。
+
+总结而言，OneSearch 的强化学习机制分为两步：首先通过奖励模型促使OneSearch拟合线上精排模型分布，学习基础的排序；再通过基于Listwise DPO进一步对齐用户偏好，突破排序性能的上限。
+
+**三、效果评测**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/ZqDaDiccbgkjkXh51mrAMoT3ZCACkYnlug8cUETdh9Day9fNPrUxPnf16aImK9XpkTCvMufrR9HiaPqbFKCRMxoMlZmAlwZCog/640?wx_fmt=svg&tp=webp&wxfrom=5&wx_lazy=1)
+
+***离线效果***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+基于线上真实用户行为日志构建的离线测试集表明，OneSearch提出的 RQ-OPQ 编码与自适应奖励系统相结合的方法效果最优，相比现有级联式系统（OnlineMCA），各项指标均有显著提升。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYxKXaxiapO5LtJBpXJ7ZCtkn6u1SP4mKcg4vRItexhznY19fRQoqP6hw/640?wx_fmt=png&from=appmsg)
+
+***在线结果***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+为了验证RQ-OPQ编码和用户序列引入的有效性，OneSearch先后进行了两版实验，v1版本仅使用RQ编码，取得了和线上级联式系统相近的效果；引入RQ-OPQ编码和用户序列建模后，v2版本在CTR和CVR上有了显著的提升；额外地，在生成式模型的基础上进一步引入奖励系统，能获得转化指标的全面提升，最终版本订单量提升3.22%，买家数提升2.4%。
+
+该实验验证了 OneSearch 模型在真实电商环境中的有效性。这是在大规模工业场景下，生成式模型第一次取代搜索全链路的可落地方案。目前该系统已在快手的多个电商搜索场景中成功部署，每日服务数百万用户，产生数千万PV。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYPmKiccrjZ4vVsr9BMAmnEp6PT1Cq5icmqxlj2SbKvvuMSdkCVhVoHIibg/640?wx_fmt=png&from=appmsg)
+
+***人工评测与在线性能***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+在人工评测中，OneSearch 系列模型不仅在CVR和CTR上表现优异，同时在页面整体满意度、商品质量及query-item相关性方面均显著优于线上级联式系统。此外，在线性能方面，机器计算效率（MFU）提升显著，从 3.26% 提高到 24.06%，相对提升达8倍；线上推理成本（OPEX）降低 75.40%，资源利用效率显著优化。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYP4P8eoXLWcQDSrCGU7Sxf9ib6EYHmK4KCnUWdqoicGibFv3LsZVf91iaUw/640?wx_fmt=png&from=appmsg)
+
+***泛化性和场景分析***
+
+![图片](https://mmbiz.qpic.cn/mmbiz_gif/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpOJU39ibq099jzBQWc58JpZFeNaCMpNorSSGqK5D0LMibVjPgjoPBYSvQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=2)
+
+OneSearch 在绝大多数行业类别中均带来CTR的稳定提升，展现出良好的泛化能力。按Query频次、商品冷启动及用户层级下探表明，OneSearch在高、中、低频 query 上均实现了CTR提升，尤其在中长尾 query 上的改善更为显著。此外，该系统在冷启动（cold-start）场景下表现尤为突出，效果显著优于常规（warm）场景，说明生成式检索模型能够更有效地应对长尾用户和新上架商品的排序挑战。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYadQjA4soY5fEE57GmficWibPVUfCcNZtXlKdLZeEOb48GTQHia75Zibicdg/640?wx_fmt=png&from=appmsg)
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYas0ZRbTiaibChJ6x6IRQ7oLuL8tWIzxnqYgibMz8V6PhRdIZOhpQkUBmw/640?wx_fmt=png&from=appmsg)
+
+**四、始终追踪技术前沿**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/ZqDaDiccbgkjkXh51mrAMoT3ZCACkYnlug8cUETdh9Day9fNPrUxPnf16aImK9XpkTCvMufrR9HiaPqbFKCRMxoMlZmAlwZCog/640?wx_fmt=svg&tp=webp&wxfrom=5&wx_lazy=1)
+
+快手搜索技术部作为公司的核心算法研发部门，始终站在大数据与人工智能技术发展的前沿，致力于将大模型（LLM）技术与海量数据深度融合，打造行业领先的智能搜索平台，持续推动用户体验与技术能力的协同进化。部门业务覆盖视频搜索、电商搜索与AI搜索等多个核心方向，聚焦于构建精准、高效、智能的新一代搜索系统。
+
+其中，OneSearch所属的电商搜索团队以实际业务需求为驱动，坚持“技术‑业务”双轮迭代机制，多项技术突破已发表在RecSys、CIKM、KDD、EMNLP、AAAI、ACM MM等国际顶级会议上，多次引起业界广泛关注。面向未来，团队将持续深耕多模态理解、生成式搜索与AI搜索等关键方向，致力于实现更智能、更流畅、更人性化的搜索交互体验，以技术驱动业务创新，不断攀登智能搜索的新高峰。
+
+**五、未来展望**
+
+![图片](https://mmbiz.qpic.cn/mmbiz_svg/ZqDaDiccbgkjkXh51mrAMoT3ZCACkYnlug8cUETdh9Day9fNPrUxPnf16aImK9XpkTCvMufrR9HiaPqbFKCRMxoMlZmAlwZCog/640?wx_fmt=svg&tp=webp&wxfrom=5&wx_lazy=1)
+
+在后续研究中，快手电商搜索团队将致力于探索在线实时编码方案，缩小预定义编码与流式训练之间的差异。此外，还将引入更强大的强化学习机制以更精准地匹配用户偏好，并结合图像、视频等多模态商品特征，进一步提升模型的推理效果与用户体验。
+
+【END】
+
+【相关阅读】
+
+[![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMYpwat5kckNjKAXcLPGQHnS2IK31bW1zDASvJgbniat4rO7FaQQNicH7iaA/640?wx_fmt=png&from=appmsg)](https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247496537&idx=1&sn=11ddf9ba1427d51a0bb146d51b3591b9&scene=21#wechat_redirect)
+
+[![](https://mmbiz.qpic.cn/sz_mmbiz_png/ZxDY5TMPs0GSQRiacWJDJltgqiaITOiaHMY1LFkTlvs57tChEClTHO4k9cCZVlTtaUblJu6WVfZLXD1iavMOAiacvug/640?wx_fmt=png&from=appmsg)](https://mp.weixin.qq.com/s?__biz=Mzg2NzU4MDM0MQ==&mid=2247497090&idx=1&sn=f7032adf4be00317855eb79c3db301ad&scene=21#wechat_redirect)
+
+”
+
+欢迎加入
+
+![图片](https://mmbiz.qpic.cn/mmbiz_png/kTR2HQBMfv2z7RLABU4sI66ckQLJVCVpF09GTXcEcG4Fy9SdWsPp2icyibcRsickibvTSQXgITrJPOF9bApGEbyZvg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&tp=wxpic#imgIndex=20)
+
+**「我们是谁」**
+
+我们是快手社科线-搜索技术部，作为快手算法核心部门，始终站在大数据与人工智能技术发展的前沿，致力于将大模型（LLM）技术与海量数据深度融合，打造行业领先的智能搜索平台，持续推动用户体验与技术能力的协同进化。部门业务覆盖电商搜索、视频搜索与AI搜索等多个核心方向，聚焦于构建精准、高效、智能的新一代搜索系统。
+
+### **「社招岗位」**
+
+💼 电商搜索算法工程师-北京/杭州  
+  
+职位描述：  
+1、参与亿级用户规模的电商搜索优化，提升电商搜索场景的GMV、购买用户数、点击率、转化率等核心指标，提升用户电商搜索购物体验，促进生态良性发展；  
+2、参与机器学习与深度学习算法的核心研发工作，对搜索全链路进行建模优化，包括但不限于召回、相关性、粗排、精排、机制等，深度进行序列建模、迁移学习、强化学习、对比学习、多模态大模型等的算法和系统研发；  
+3、针对海量用户行为数据，提供基于分布式计算的算法解决方案，大幅提升算法计算规模和性能；  
+4、参与搜索推荐机制的顶层设计，结合业务战略，优化电商流量结构和GMV结构，促进电商生态的健康发展。  
+  
+任职要求：  
+1、硕士及以上学历，计算机、数学或统计学相关专业，出色的分析问题、解决问题的能力，有强烈的技术热情，有皮实乐观、不畏挫折的心态；  
+2、熟悉Linux环境、C++和Python语言，良好的逻辑思维能力，优秀的编码能力，扎实的数据结构和算法功底；  
+3、具有机器学习、数据挖掘、搜索系统、推荐系统或者自然语言理解等相关领域知识；有工业界相关业务与技术方向的实践经验者，或在ACM或数据挖掘/机器学习类竞赛中取得优异名次者优先；  
+4、具备良好的文献阅读能力和快速学习能力，优秀的分析和解决问题的能力，良好的沟通协作能力；  
+5、在SIGIR、SIGKDD、ICML、NIPS、WWW、AAAI KM、ACL、RECSYS、CVPR、ICCV、ECCV、ICLR等顶级计算机学术会议或期刊上发表过论文者优先。
+
+🧑‍💻 搜索推荐算法工程师-北京/杭州  
+  
+职位描述：  
+1、参与亿级用户规模视频推荐和交互产品推荐，提升用户体验、时长、留存等核心指标；  
+2、通过语言模型、相关性建模、序列到序列生成、大模型SFT等手段，优化搜索词补全、搜索词推荐等业务场景，带来快手用户搜索次数和搜索体验的增长；  
+3、基于LLM、多模态生成模型等前沿技术，结合用户行为和视频内容理解，探索为视频看后搜等场景生成优质搜索词；  
+4、在快手海量视频及用户数据下，通过用户/视频表征学习、序列建模等技术创新，挖掘对排序有用的特征信息和迭代模型结构，提升点击与消费时长预估，持续优化大规模推荐系统的召回、排序算法。  
+  
+任职要求：  
+1、具有良好的计算机基础，优秀的编码能力，扎实的数据结构和算法功底；  
+2、有丰富的机器学习、深度学习领域研发经验和项目落地经验，熟悉传统的LR、GBDT等排序模型，以及mlp、deepFM、din、MMoE等深度排序网络；  
+3、掌握NLP，多模态等相关领域的知识，在其中一个或多个方向有深入的研究/项目经历，或发表过顶会论文；  
+4、善于阅读文献，快速学习 ，善于思考，具备优秀的分析和解决问题的能力，良好的沟通协作能力。
+
+### **「校招岗位」**
+
+💻【快Star-X】搜索算法工程师-北京/杭州
+
+职位描述：  
+1、参与综合短视频、直播、电商、本地、社交和多语言等搜索业务，用大规模机器学习、强化学习、多模态预训练等技术提升搜索质量，用户留存和点击率等核心业务指标；  
+2、负责搜索query意图分类、query表征、query推荐、视频内容理解&多模态表征、多模态语义召回和相关性等搜索核心技术，提升搜索用户渗透率和相关性；  
+3、负责搜索用户行为分析、语义和行为混合检索、多序列&多任务粗排、精排、重排等搜索排序技术，提升搜索质量和内容消费指标；  
+4、负责搜索生态和机制，参与搜索混排、多目标优化、异构内容混排、短期和长期目标平衡、冷启动等搜索等机制和算法。  
+  
+任职要求：  
+1、硕士及以上学历；  
+2、熟悉自然语言处理、数据挖掘、机器学习等，有较强数据分析能力；  
+3、熟练使用C/C++或Python。  
+  
+加分项：  
+1、有搜索、推荐、广告、大数据等大型项目经验优先；  
+2、国内和国际顶级会议发表论文的作者优先。
+
+**「欢迎加入」**
+
+投递简历至邮箱：xiaoyubo03@kuaishou.com
+
+”

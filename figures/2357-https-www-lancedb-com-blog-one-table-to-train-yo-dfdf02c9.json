@@ -1,0 +1,2077 @@
+[
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-001",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a56a5b09cab334b080dbc20_hero.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-001.png",
+    "section": "One table to train your robot: LanceDB as the data layer for lerobot",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6438953483704549,
+          0.7619047616933957,
+          0.055232558931623266,
+          0.013492063492063444
+        ],
+        "confidence": 1,
+        "text": "episode 1693"
+      },
+      {
+        "boundingBox": [
+          0.08284883839090038,
+          0.700000000223194,
+          0.08284883499145507,
+          0.015873015873015928
+        ],
+        "confidence": 0.5,
+        "text": "episodes 000.parquet"
+      },
+      {
+        "boundingBox": [
+          0.12936046696868084,
+          0.6563307495507078,
+          0.078488370350429,
+          0.028589885953872907
+        ],
+        "confidence": 0.3,
+        "text": "一—"
+      },
+      {
+        "boundingBox": [
+          0.2936046520106589,
+          0.6587301584717609,
+          0.0625,
+          0.015873015873015817
+        ],
+        "confidence": 0.5,
+        "text": "came_chunke.mp4"
+      },
+      {
+        "boundingBox": [
+          0.5654069768578995,
+          0.6124031006694052,
+          0.036337208747863725,
+          0.015503875792972521
+        ],
+        "confidence": 0.5,
+        "text": "episode"
+      },
+      {
+        "boundingBox": [
+          0.6249999996500947,
+          0.6149870800864419,
+          0.026162791252136164,
+          0.012919896746438675
+        ],
+        "confidence": 1,
+        "text": "state"
+      },
+      {
+        "boundingBox": [
+          0.6845930231662458,
+          0.6149870800909281,
+          0.030523255893162293,
+          0.012919896746438564
+        ],
+        "confidence": 1,
+        "text": "action"
+      },
+      {
+        "boundingBox": [
+          0.7441860472116375,
+          0.6149870801797522,
+          0.021802324908120285,
+          0.012919896746438675
+        ],
+        "confidence": 1,
+        "text": "task"
+      },
+      {
+        "boundingBox": [
+          0.8401162801835116,
+          0.6149870801797522,
+          0.027616277762821828,
+          0.012919896746438675
+        ],
+        "confidence": 1,
+        "text": "video"
+      },
+      {
+        "boundingBox": [
+          0.11773255902390087,
+          0.5813953486668211,
+          0.08139534677777971,
+          0.015503875792972632
+        ],
+        "confidence": 0.5,
+        "text": "episodes_001.parquet"
+      },
+      {
+        "boundingBox": [
+          0.6773255826034825,
+          0.5190476188849165,
+          0.049418602670942,
+          0.049427831740606276
+        ],
+        "confidence": 0.3,
+        "text": "二二"
+      },
+      {
+        "boundingBox": [
+          0.5654069767472544,
+          0.5452196380931889,
+          0.020348836694444872,
+          0.012919896746438675
+        ],
+        "confidence": 1,
+        "text": "1688"
+      },
+      {
+        "boundingBox": [
+          0.7441860455472573,
+          0.5452196380931889,
+          0.05813953535897387,
+          0.012919896746438675
+        ],
+        "confidence": 0.5,
+        "text": "\"put the cream.\""
+      },
+      {
+        "boundingBox": [
+          0.31540697642926363,
+          0.5293650795036642,
+          0.0625,
+          0.01843853753710545
+        ],
+        "confidence": 0.5,
+        "text": "came_chunk1.mp4"
+      },
+      {
+        "boundingBox": [
+          0.09302325830369101,
+          0.46746031780073993,
+          0.08284883499145507,
+          0.013492063492063555
+        ],
+        "confidence": 1,
+        "text": "episodes 002.parquet"
+      },
+      {
+        "boundingBox": [
+          0.565406976856266,
+          0.45994832024304855,
+          0.020348836694444983,
+          0.015503875792972632
+        ],
+        "confidence": 1,
+        "text": "1689"
+      },
+      {
+        "boundingBox": [
+          0.7441860475532945,
+          0.45994832067371183,
+          0.0625,
+          0.015503875792972632
+        ],
+        "confidence": 0.5,
+        "text": "\"open the micro..\""
+      },
+      {
+        "boundingBox": [
+          0.6206395346603243,
+          0.35142118894768004,
+          0.05668604714529846,
+          0.054263566032288546
+        ],
+        "confidence": 0.5,
+        "text": "三三"
+      },
+      {
+        "boundingBox": [
+          0.5654069769289403,
+          0.3769841272238911,
+          0.020348836694444983,
+          0.013492063492063444
+        ],
+        "confidence": 1,
+        "text": "1690"
+      },
+      {
+        "boundingBox": [
+          0.7441860464389535,
+          0.37698412719277175,
+          0.0625,
+          0.013492063492063444
+        ],
+        "confidence": 0.5,
+        "text": "\"pick up the al.\""
+      },
+      {
+        "boundingBox": [
+          0.20348837099637263,
+          0.3253968251268107,
+          0.06104651178632464,
+          0.013492063492063444
+        ],
+        "confidence": 0.5,
+        "text": "manifest.ison"
+      },
+      {
+        "boundingBox": [
+          0.6235465129881961,
+          0.26587301713514455,
+          0.10319766998291013,
+          0.05714285714285705
+        ],
+        "confidence": 0.3,
+        "text": "-三 三"
+      },
+      {
+        "boundingBox": [
+          0.5654069772559752,
+          0.29444444480537313,
+          0.020348836694444872,
+          0.013049095396011512
+        ],
+        "confidence": 0.5,
+        "text": "1691"
+      },
+      {
+        "boundingBox": [
+          0.7441860473594961,
+          0.29444444416692117,
+          0.0625,
+          0.013049096152895956
+        ],
+        "confidence": 0.5,
+        "text": "\"transfer the c..\""
+      },
+      {
+        "boundingBox": [
+          0.5654069767472544,
+          0.20930232543169025,
+          0.020348836694444872,
+          0.012919896746438675
+        ],
+        "confidence": 1,
+        "text": "1692"
+      },
+      {
+        "boundingBox": [
+          0.742732558525938,
+          0.20930232548552308,
+          0.055232555525643434,
+          0.012919896746438675
+        ],
+        "confidence": 0.3,
+        "text": "\"put both the.\""
+      },
+      {
+        "boundingBox": [
+          0.1366279081519649,
+          0.1857142857730768,
+          0.17005814143589565,
+          0.015873015873015817
+        ],
+        "confidence": 0.5,
+        "text": "columnar files + video chunks + glue"
+      },
+      {
+        "boundingBox": [
+          0.6366279119635495,
+          0.08253968282729907,
+          0.21366278784615655,
+          0.01825396825396819
+        ],
+        "confidence": 0.5,
+        "text": "one Lance table: train•stream•search•curate"
+      },
+      {
+        "boundingBox": [
+          0.033430232394702386,
+          0.04651162772497197,
+          0.040697673388889855,
+          0.013012182144891637
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.10029070176650134,
+          0.043650793357545514,
+          0.11191859926496234,
+          0.015873015873015817
+        ],
+        "confidence": 0.5,
+        "text": "• the data layer for robotics"
+      }
+    ],
+    "ocr_text": "episode 1693\nepisodes 000.parquet\n一—\ncame_chunke.mp4\nepisode\nstate\naction\ntask\nvideo\nepisodes_001.parquet\n二二\n1688\n\"put the cream.\"\ncame_chunk1.mp4\nepisodes 002.parquet\n1689\n\"open the micro..\"\n三三\n1690\n\"pick up the al.\"\nmanifest.ison\n-三 三\n1691\n\"transfer the c..\"\n1692\n\"put both the.\"\ncolumnar files + video chunks + glue\none Lance table: train•stream•search•curate\nLanceDB\n• the data layer for robotics",
+    "description": "One table to train your robot: LanceDB as the data layer for lerobot中的配图，包含文字：episode 1693；episodes 000.parquet；一—；came_chunke.mp4；episode；state；action；task；video；episodes_001.parquet；二二；1688；\"put the cream.\"；came_chunk1.mp4；episodes 002.parquet；1689；\"open the micro..\"；三三；1690；\"pick up the al.\"；manifest.ison；-三 三；1691；\"transfer the c..\"；1692；\"put both the.\"；columnar files + video chunks + glue；one Lance table: train•stream•search•curate；LanceDB；• the data layer for robotics",
+    "entities": [
+      "episode 1693",
+      "episodes 000.parquet",
+      "一—",
+      "came_chunke.mp4",
+      "episode",
+      "state",
+      "action",
+      "task",
+      "video",
+      "episodes_001.parquet",
+      "二二",
+      "1688",
+      "\"put the cream.\"",
+      "came_chunk1.mp4",
+      "episodes 002.parquet",
+      "1689",
+      "\"open the micro..\"",
+      "三三",
+      "1690",
+      "\"pick up the al.\"",
+      "manifest.ison",
+      "-三 三",
+      "1691",
+      "\"transfer the c..\"",
+      "1692",
+      "\"put both the.\"",
+      "columnar files + video chunks + glue",
+      "one Lance table: train•stream•search•curate",
+      "LanceDB",
+      "• the data layer for robotics"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "7caca3833ca0d849c5ef1537532a4b1c0f531527decdd07069ca5c1df2397525"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-002",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5619b2b264b602d7686e7b_speed-two-budgets.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-002.png",
+    "section": "LanceDB dataloader for robotics",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.1044776176119403,
+          0.9200000001836734,
+          0.7940298507462688,
+          0.05428571428571427
+        ],
+        "confidence": 0.5,
+        "text": "The same DROID training （ACT, 4×H100）， two CPU budgets"
+      },
+      {
+        "boundingBox": [
+          0.1708333451134304,
+          0.8095238096384201,
+          0.3958333029675839,
+          0.047619048527308805
+        ],
+        "confidence": 1,
+        "text": "LeRobot parquet+mp4 （stock dataloader）"
+      },
+      {
+        "boundingBox": [
+          0.6968928843353825,
+          0.8191986684990481,
+          0.0808410986145931,
+          0.04731694902692529
+        ],
+        "confidence": 0.5,
+        "text": "1.26X"
+      },
+      {
+        "boundingBox": [
+          0.17083333590191144,
+          0.7614285708803692,
+          0.18749998861284398,
+          0.04015872955322264
+        ],
+        "confidence": 0.5,
+        "text": "Lance video format"
+      },
+      {
+        "boundingBox": [
+          0.7670139881150088,
+          0.7592342755344647,
+          0.06298694895274604,
+          0.0472457340785436
+        ],
+        "confidence": 0.5,
+        "text": "3,108"
+      },
+      {
+        "boundingBox": [
+          0.04463767409248289,
+          0.7192529608864653,
+          0.054008233369286375,
+          0.03863693509783073
+        ],
+        "confidence": 0.5,
+        "text": "3000"
+      },
+      {
+        "boundingBox": [
+          0.013071344922411828,
+          0.3196513704254509,
+          0.02335162305120212,
+          0.3748628888811383
+        ],
+        "confidence": 1,
+        "text": "training samples/s"
+      },
+      {
+        "boundingBox": [
+          0.6417910446268658,
+          0.6285714281904762,
+          0.06567164179104479,
+          0.04571428571428582
+        ],
+        "confidence": 1,
+        "text": "2,460"
+      },
+      {
+        "boundingBox": [
+          0.3104477606716418,
+          0.5257142861020407,
+          0.08507462686567163,
+          0.05428571428571438
+        ],
+        "confidence": 1,
+        "text": "2.57×"
+      },
+      {
+        "boundingBox": [
+          0.03870674472075407,
+          0.5165499100056612,
+          0.05989994219879606,
+          0.038328751155308316
+        ],
+        "confidence": 1,
+        "text": "2000"
+      },
+      {
+        "boundingBox": [
+          0.38353893263240274,
+          0.46836169943435235,
+          0.06426541912021921,
+          0.04899088723318912
+        ],
+        "confidence": 1,
+        "text": "1,684"
+      },
+      {
+        "boundingBox": [
+          0.04174376758365271,
+          0.31685407627699436,
+          0.05681097116043318,
+          0.0348632744380406
+        ],
+        "confidence": 1,
+        "text": "1000"
+      },
+      {
+        "boundingBox": [
+          0.2716417914776119,
+          0.27142857154285727,
+          0.04328358208955224,
+          0.039999999999999925
+        ],
+        "confidence": 1,
+        "text": "655"
+      },
+      {
+        "boundingBox": [
+          0.08358208962686567,
+          0.11428571397142862,
+          0.013432835820895522,
+          0.03142857142857147
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.29166666874999997,
+          0.08714285753968254,
+          0.125,
+          0.039999999999999925
+        ],
+        "confidence": 0.5,
+        "text": "4 vCPU/GPU"
+      },
+      {
+        "boundingBox": [
+          0.6701492524328359,
+          0.08285714271428557,
+          0.12985074626865667,
+          0.03142857142857147
+        ],
+        "confidence": 0.5,
+        "text": "26 VCPU/GPU"
+      },
+      {
+        "boundingBox": [
+          0.2416666780775483,
+          0.03968254085535139,
+          0.22916665148379198,
+          0.04761904580252507
+        ],
+        "confidence": 0.5,
+        "text": "（tvpical cloud GPU tier）"
+      },
+      {
+        "boundingBox": [
+          0.6417910432462687,
+          0.03428571419047621,
+          0.18358208955223887,
+          0.03428571428571425
+        ],
+        "confidence": 0.5,
+        "text": "（full 104-core box）"
+      }
+    ],
+    "ocr_text": "The same DROID training （ACT, 4×H100）， two CPU budgets\nLeRobot parquet+mp4 （stock dataloader）\n1.26X\nLance video format\n3,108\n3000\ntraining samples/s\n2,460\n2.57×\n2000\n1,684\n1000\n655\n0\n4 vCPU/GPU\n26 VCPU/GPU\n（tvpical cloud GPU tier）\n（full 104-core box）",
+    "description": "LanceDB dataloader for robotics中的配图，包含文字：The same DROID training （ACT, 4×H100）， two CPU budgets；LeRobot parquet+mp4 （stock dataloader）；1.26X；Lance video format；3,108；3000；training samples/s；2,460；2.57×；2000；1,684；1000；655；0；4 vCPU/GPU；26 VCPU/GPU；（tvpical cloud GPU tier）；（full 104-core box）",
+    "entities": [
+      "The same DROID training （ACT, 4×H100）， two CPU budgets",
+      "LeRobot parquet+mp4 （stock dataloader）",
+      "1.26X",
+      "Lance video format",
+      "3,108",
+      "3000",
+      "training samples/s",
+      "2,460",
+      "2.57×",
+      "2000",
+      "1,684",
+      "1000",
+      "655",
+      "0",
+      "4 vCPU/GPU",
+      "26 VCPU/GPU",
+      "（tvpical cloud GPU tier）",
+      "（full 104-core box）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d6688ba117c7cc20cf29c50c507734ac9c6e3c2fb5515640fd16921ce3447c9"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-003",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a569f5bc483e9d2c5147133_extra-gpu-power.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-003.png",
+    "section": "LanceDB dataloader for robotics",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.17630465466282547,
+          0.9250000006827241,
+          0.19464034195784685,
+          0.04166666563455168
+        ],
+        "confidence": 0.5,
+        "text": "GPUs working vs GPUs waiting"
+      },
+      {
+        "boundingBox": [
+          0.6488011303218305,
+          0.9285714282637043,
+          0.2397743308937157,
+          0.03809523892093025
+        ],
+        "confidence": 0.5,
+        "text": "Time spent waiting for the dataloader"
+      },
+      {
+        "boundingBox": [
+          0.02538787009630979,
+          0.8993506492512585,
+          0.021156558361682263,
+          0.03409090909090906
+        ],
+        "confidence": 1,
+        "text": "500"
+      },
+      {
+        "boundingBox": [
+          0.519040903518266,
+          0.8993506490429252,
+          0.02256699446793442,
+          0.03409090909090906
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.28913963441286433,
+          0.8538961036877706,
+          0.19746120578640108,
+          0.04220779220779214
+        ],
+        "confidence": 0.5,
+        "text": "— LeRobot parquet+mp4 （avg 215 W）"
+      },
+      {
+        "boundingBox": [
+          0.8547249646926518,
+          0.8620129876303457,
+          0.12552890987186638,
+          0.02965367769266103
+        ],
+        "confidence": 0.5,
+        "text": "- LeRobot parquet+mp4"
+      },
+      {
+        "boundingBox": [
+          0.29760225528184203,
+          0.8116883117877025,
+          0.17207334748991243,
+          0.04247835394624
+        ],
+        "confidence": 0.5,
+        "text": "- Lance video format （avg 329 W）"
+      },
+      {
+        "boundingBox": [
+          0.8561354054723823,
+          0.8246753247288408,
+          0.11001410012716772,
+          0.025974025199939632
+        ],
+        "confidence": 0.5,
+        "text": "- Lance video format"
+      },
+      {
+        "boundingBox": [
+          0.025387871266267854,
+          0.7451298698221459,
+          0.022566994467934406,
+          0.029870129250860855
+        ],
+        "confidence": 1,
+        "text": "400"
+      },
+      {
+        "boundingBox": [
+          0.5246826514893136,
+          0.7416666668711793,
+          0.023977432670174048,
+          0.033333332507641256
+        ],
+        "confidence": 0.3,
+        "text": "80-"
+      },
+      {
+        "boundingBox": [
+          0.5049365306794623,
+          0.7249999993153655,
+          0.00987306007972133,
+          0.03798701391591652
+        ],
+        "confidence": 0.5,
+        "text": "ta"
+      },
+      {
+        "boundingBox": [
+          0.011283495490131456,
+          0.6000000000114619,
+          0.009873065319690075,
+          0.15000000247707612
+        ],
+        "confidence": 0.5,
+        "text": "mean （W）"
+      },
+      {
+        "boundingBox": [
+          0.5049365243146119,
+          0.3125000037111205,
+          0.011283509809892345,
+          0.42083333993886973
+        ],
+        "confidence": 0.5,
+        "text": "of step time waiting on da"
+      },
+      {
+        "boundingBox": [
+          0.02679830791365815,
+          0.5909090906708112,
+          0.021156558361682266,
+          0.025974025974025983
+        ],
+        "confidence": 1,
+        "text": "300"
+      },
+      {
+        "boundingBox": [
+          0.5275035271195824,
+          0.58750000134366,
+          0.02256699446793442,
+          0.02938311595421328
+        ],
+        "confidence": 0.3,
+        "text": "60-"
+      },
+      {
+        "boundingBox": [
+          0.026798308640897828,
+          0.43333333385130124,
+          0.02820874308491801,
+          0.024999999380730942
+        ],
+        "confidence": 0.3,
+        "text": "200-"
+      },
+      {
+        "boundingBox": [
+          0.5246826524383031,
+          0.42500000006536554,
+          0.02538786877642618,
+          0.03766233735270308
+        ],
+        "confidence": 0.5,
+        "text": "40-"
+      },
+      {
+        "boundingBox": [
+          0.009873059814825424,
+          0.29583333259670563,
+          0.009873062175708812,
+          0.0708333362232555
+        ],
+        "confidence": 0.5,
+        "text": "GPU"
+      },
+      {
+        "boundingBox": [
+          0.5035260934845679,
+          0.2833333334684015,
+          0.011283497233967155,
+          0.03333333250764137
+        ],
+        "confidence": 0.3,
+        "text": "%6"
+      },
+      {
+        "boundingBox": [
+          0.02679830828828852,
+          0.2743506500431834,
+          0.028208743084918015,
+          0.02981601597426775
+        ],
+        "confidence": 0.3,
+        "text": "100 -"
+      },
+      {
+        "boundingBox": [
+          0.5246826524947206,
+          0.27083333504062146,
+          0.02538786877642618,
+          0.037608224076109975
+        ],
+        "confidence": 0.5,
+        "text": "20-"
+      },
+      {
+        "boundingBox": [
+          0.06346967567106296,
+          0.07916666865329425,
+          0.02115655836168226,
+          0.054166663776744506
+        ],
+        "confidence": 0.3,
+        "text": "o.0"
+      },
+      {
+        "boundingBox": [
+          0.38645980303734495,
+          0.07916666856301657,
+          0.019746120159442604,
+          0.054166663776744506
+        ],
+        "confidence": 0.3,
+        "text": "2.5"
+      },
+      {
+        "boundingBox": [
+          0.4499294781651861,
+          0.07916666632708569,
+          0.021156558361682287,
+          0.058820346733192364
+        ],
+        "confidence": 0.3,
+        "text": "30"
+      },
+      {
+        "boundingBox": [
+          0.5317348381724102,
+          0.11249999999617943,
+          0.00987306007972133,
+          0.033333332507641256
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.6006784699302418,
+          0.07838136816173191,
+          0.03136520385742192,
+          0.05990393130810223
+        ],
+        "confidence": 1,
+        "text": "2500"
+      },
+      {
+        "boundingBox": [
+          0.8504936547373024,
+          0.08279220821269517,
+          0.0916784181699648,
+          0.050541125334702564
+        ],
+        "confidence": 0.5,
+        "text": "15000 17500"
+      },
+      {
+        "boundingBox": [
+          0.12834978830787988,
+          0.07916666690094121,
+          0.01833568405319047,
+          0.03333333250764137
+        ],
+        "confidence": 1,
+        "text": "0.5"
+      },
+      {
+        "boundingBox": [
+          0.1932299011428587,
+          0.07916666690094121,
+          0.01833568405319047,
+          0.03333333250764137
+        ],
+        "confidence": 1,
+        "text": "1.0"
+      },
+      {
+        "boundingBox": [
+          0.25669957760716167,
+          0.07916666674617956,
+          0.019746120159442604,
+          0.033333332507641256
+        ],
+        "confidence": 1,
+        "text": "1.5"
+      },
+      {
+        "boundingBox": [
+          0.321579690437439,
+          0.07916666728784594,
+          0.019746120159442604,
+          0.03333333250764137
+        ],
+        "confidence": 1,
+        "text": "2.0"
+      },
+      {
+        "boundingBox": [
+          0.7037209654345479,
+          0.08261876874413565,
+          0.026972737155117832,
+          0.030595794900671214
+        ],
+        "confidence": 1,
+        "text": "7500"
+      },
+      {
+        "boundingBox": [
+          0.7503526137463893,
+          0.08279220824264155,
+          0.08603666536100618,
+          0.029707790969254133
+        ],
+        "confidence": 0.5,
+        "text": "10000 12500"
+      },
+      {
+        "boundingBox": [
+          0.9492242601405096,
+          0.08279220810375254,
+          0.03667136810638083,
+          0.029707790969254133
+        ],
+        "confidence": 1,
+        "text": "20000"
+      },
+      {
+        "boundingBox": [
+          0.11847672366255736,
+          0.029166666974390743,
+          0.31029619489397325,
+          0.042261903936212764
+        ],
+        "confidence": 0.5,
+        "text": "minutes - identical 600-step DROID segment, 4 vCPU/GPU"
+      },
+      {
+        "boundingBox": [
+          0.6262341427231933,
+          0.03333333483228795,
+          0.2834978711474073,
+          0.03809523582458496
+        ],
+        "confidence": 0.5,
+        "text": "training step — full 20k-step DROID runs, 4 CPU/GPU"
+      }
+    ],
+    "ocr_text": "GPUs working vs GPUs waiting\nTime spent waiting for the dataloader\n500\n100\n— LeRobot parquet+mp4 （avg 215 W）\n- LeRobot parquet+mp4\n- Lance video format （avg 329 W）\n- Lance video format\n400\n80-\nta\nmean （W）\nof step time waiting on da\n300\n60-\n200-\n40-\nGPU\n%6\n100 -\n20-\no.0\n2.5\n30\n0\n2500\n15000 17500\n0.5\n1.0\n1.5\n2.0\n7500\n10000 12500\n20000\nminutes - identical 600-step DROID segment, 4 vCPU/GPU\ntraining step — full 20k-step DROID runs, 4 CPU/GPU",
+    "description": "LanceDB dataloader for robotics中的配图，包含文字：GPUs working vs GPUs waiting；Time spent waiting for the dataloader；500；100；— LeRobot parquet+mp4 （avg 215 W）；- LeRobot parquet+mp4；- Lance video format （avg 329 W）；- Lance video format；400；80-；ta；mean （W）；of step time waiting on da；300；60-；200-；40-；GPU；%6；100 -；20-；o.0；2.5；30；0；2500；15000 17500；0.5；1.0；1.5",
+    "entities": [
+      "GPUs working vs GPUs waiting",
+      "Time spent waiting for the dataloader",
+      "500",
+      "100",
+      "— LeRobot parquet+mp4 （avg 215 W）",
+      "- LeRobot parquet+mp4",
+      "- Lance video format （avg 329 W）",
+      "- Lance video format",
+      "400",
+      "80-",
+      "ta",
+      "mean （W）",
+      "of step time waiting on da",
+      "300",
+      "60-",
+      "200-",
+      "40-",
+      "GPU",
+      "%6",
+      "100 -",
+      "20-",
+      "o.0",
+      "2.5",
+      "30",
+      "0",
+      "2500",
+      "15000 17500",
+      "0.5",
+      "1.0",
+      "1.5",
+      "2.0",
+      "7500",
+      "10000 12500",
+      "20000",
+      "minutes - identical 600-step DROID segment, 4 vCPU/GPU",
+      "training step — full 20k-step DROID runs, 4 CPU/GPU"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dadcbea6e6ebf759f83dc73f6e899dc44f1c014706a3709ebdc546a746221141"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-004",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a568ee68c6cced7d25ca367_libero-per-suite.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-004.png",
+    "section": "Training a VLA: SmolVLA on LIBERO",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07848837492651964,
+          0.9213114754295054,
+          0.9084302416803903,
+          0.04970301752505091
+        ],
+        "confidence": 0.5,
+        "text": "LIBERO success after identical SmolVLA finetunes - the data layer is invisible"
+      },
+      {
+        "boundingBox": [
+          0.007784501619787249,
+          0.4191344502277955,
+          0.024339815644801123,
+          0.43730880073879075
+        ],
+        "confidence": 0.5,
+        "text": "（100 episodes/suite）"
+      },
+      {
+        "boundingBox": [
+          0.03779069849372872,
+          0.8098360665979468,
+          0.034883719789951195,
+          0.03278688347857939
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.33284883782378494,
+          0.7606557375969567,
+          0.026162789842463396,
+          0.03644571166107613
+        ],
+        "confidence": 1,
+        "text": "88"
+      },
+      {
+        "boundingBox": [
+          0.3909883722583147,
+          0.7666666673290766,
+          0.023255814010502474,
+          0.033333333333333326
+        ],
+        "confidence": 1,
+        "text": "89"
+      },
+      {
+        "boundingBox": [
+          0.5116279074285744,
+          0.7275362318720572,
+          0.026162789842463452,
+          0.039676883255226
+        ],
+        "confidence": 1,
+        "text": "83"
+      },
+      {
+        "boundingBox": [
+          0.7485465122735357,
+          0.7213114755284545,
+          0.026162789842463452,
+          0.039558089988819045
+        ],
+        "confidence": 1,
+        "text": "82"
+      },
+      {
+        "boundingBox": [
+          0.15406976808748923,
+          0.7144927541996309,
+          0.026162789842463396,
+          0.03632691839466917
+        ],
+        "confidence": 1,
+        "text": "81"
+      },
+      {
+        "boundingBox": [
+          0.2107558144392334,
+          0.7081967216596021,
+          0.026162789842463396,
+          0.039629365395808525
+        ],
+        "confidence": 1,
+        "text": "80"
+      },
+      {
+        "boundingBox": [
+          0.5697674422417005,
+          0.6884057965243426,
+          0.024709301926482907,
+          0.03946305565212094
+        ],
+        "confidence": 1,
+        "text": "77"
+      },
+      {
+        "boundingBox": [
+          0.049418605027207047,
+          0.6491803279640518,
+          0.02470930192648292,
+          0.03934426238571387
+        ],
+        "confidence": 1,
+        "text": "75"
+      },
+      {
+        "boundingBox": [
+          0.6904069769849144,
+          0.6521739129475178,
+          0.026162789842463452,
+          0.03635067732437791
+        ],
+        "confidence": 1,
+        "text": "71"
+      },
+      {
+        "boundingBox": [
+          0.049418605027207047,
+          0.49130434796736344,
+          0.02470930192648292,
+          0.03656450492748309
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.014534879580834251,
+          0.21311475791204837,
+          0.013081402888947711,
+          0.16065573208573936
+        ],
+        "confidence": 0.5,
+        "text": "suCCeSS"
+      },
+      {
+        "boundingBox": [
+          0.04796511644504738,
+          0.33043478252526415,
+          0.02616278984246339,
+          0.04057971014492756
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.06104651172993253,
+          0.17704918114888468,
+          0.011627907005251223,
+          0.029508195407148774
+        ],
+        "confidence": 0.3,
+        "text": "0"
+      },
+      {
+        "boundingBox": [
+          0.1636211814013652,
+          0.13561305619036101,
+          0.06393232075904512,
+          0.04558881123860681
+        ],
+        "confidence": 0.5,
+        "text": "Spatial"
+      },
+      {
+        "boundingBox": [
+          0.34588672544562515,
+          0.13738395909576173,
+          0.05677306069812921,
+          0.039986179185950266
+        ],
+        "confidence": 0.3,
+        "text": "Object"
+      },
+      {
+        "boundingBox": [
+          0.5322078002832391,
+          0.13556824276538826,
+          0.04185236756783217,
+          0.04302818464196245
+        ],
+        "confidence": 0.3,
+        "text": "9oal"
+      },
+      {
+        "boundingBox": [
+          0.6888917904674977,
+          0.1273603851141728,
+          0.08442572272528714,
+          0.05347595214843748
+        ],
+        "confidence": 0.5,
+        "text": "libero_10"
+      },
+      {
+        "boundingBox": [
+          0.25581395597203854,
+          0.03913043464666077,
+          0.22093022206755097,
+          0.039558089988819156
+        ],
+        "confidence": 0.5,
+        "text": "base LeRobot - 80.8% avg"
+      },
+      {
+        "boundingBox": [
+          0.5537790721499412,
+          0.03913043425321816,
+          0.16133720770593163,
+          0.039558089988819045
+        ],
+        "confidence": 0.5,
+        "text": "Lance - 82.0% avg"
+      }
+    ],
+    "ocr_text": "LIBERO success after identical SmolVLA finetunes - the data layer is invisible\n（100 episodes/suite）\n100\n88\n89\n83\n82\n81\n80\n77\n75\n71\n50\nsuCCeSS\n25\n0\nSpatial\nObject\n9oal\nlibero_10\nbase LeRobot - 80.8% avg\nLance - 82.0% avg",
+    "description": "Training a VLA: SmolVLA on LIBERO中的配图，包含文字：LIBERO success after identical SmolVLA finetunes - the data layer is invisible；（100 episodes/suite）；100；88；89；83；82；81；80；77；75；71；50；suCCeSS；25；0；Spatial；Object；9oal；libero_10；base LeRobot - 80.8% avg；Lance - 82.0% avg",
+    "entities": [
+      "LIBERO success after identical SmolVLA finetunes - the data layer is invisible",
+      "（100 episodes/suite）",
+      "100",
+      "88",
+      "89",
+      "83",
+      "82",
+      "81",
+      "80",
+      "77",
+      "75",
+      "71",
+      "50",
+      "suCCeSS",
+      "25",
+      "0",
+      "Spatial",
+      "Object",
+      "9oal",
+      "libero_10",
+      "base LeRobot - 80.8% avg",
+      "Lance - 82.0% avg"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "bcae97babd747cfd6c3a525bd624e67faff1e59d0732ce083e94f488845825ef"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-005",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a56967f22f9c5fe0e911e28_search-microwave-frames.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-005.png",
+    "section": "**\"The microwave door is open\" top hits across 273k frames**",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.3968023256714687,
+          0.924812029403549,
+          0.20784883287217876,
+          0.06082015476007574
+        ],
+        "confidence": 0.5,
+        "text": "text query： \"the microwave door is open\""
+      },
+      {
+        "boundingBox": [
+          0.05813953629628259,
+          0.8646616549645847,
+          0.05813953399658203,
+          0.03763719536792265
+        ],
+        "confidence": 0.5,
+        "text": "ep 142 t=21.2s"
+      },
+      {
+        "boundingBox": [
+          0.22383721060232706,
+          0.8646616548705996,
+          0.05668604532877605,
+          0.03763719536792276
+        ],
+        "confidence": 0.5,
+        "text": "ep 142 t=25.3s"
+      },
+      {
+        "boundingBox": [
+          0.3895348836582864,
+          0.8563218398121284,
+          0.056686045328776025,
+          0.045977010124031215
+        ],
+        "confidence": 0.5,
+        "text": "ep 142 t=25.5s"
+      },
+      {
+        "boundingBox": [
+          0.5537790709377555,
+          0.8646616548705996,
+          0.058139533996582005,
+          0.03763719536792276
+        ],
+        "confidence": 0.5,
+        "text": "ep 142 t=23.9s"
+      },
+      {
+        "boundingBox": [
+          0.718023257226515,
+          0.8646616549645847,
+          0.058139533996582005,
+          0.03763719536792265
+        ],
+        "confidence": 0.5,
+        "text": "ep 276 t=25.8s"
+      },
+      {
+        "boundingBox": [
+          0.8837209308966585,
+          0.8646616545404473,
+          0.05668604532877597,
+          0.03763719536792276
+        ],
+        "confidence": 0.5,
+        "text": "ep 276 t=23.3s"
+      }
+    ],
+    "ocr_text": "text query： \"the microwave door is open\"\nep 142 t=21.2s\nep 142 t=25.3s\nep 142 t=25.5s\nep 142 t=23.9s\nep 276 t=25.8s\nep 276 t=23.3s",
+    "description": "**\"The microwave door is open\" top hits across 273k frames**中的配图，包含文字：text query： \"the microwave door is open\"；ep 142 t=21.2s；ep 142 t=25.3s；ep 142 t=25.5s；ep 142 t=23.9s；ep 276 t=25.8s；ep 276 t=23.3s",
+    "entities": [
+      "text query： \"the microwave door is open\"",
+      "ep 142 t=21.2s",
+      "ep 142 t=25.3s",
+      "ep 142 t=25.5s",
+      "ep 142 t=23.9s",
+      "ep 276 t=25.8s",
+      "ep 276 t=23.3s"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "de505a318780e847f271a125211ca9e49628edd30853cd9413ca766612dac081"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-006",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a5696f496b854e5ba18664c_near-duplicate-episodes.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-006.png",
+    "section": "Four more things the same table answers",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.21111111047619052,
+          0.9489247307795698,
+          0.5777777777777777,
+          0.032258064516129115
+        ],
+        "confidence": 0.5,
+        "text": "Near-duplicate episodes found by embedding similarity （cosine > 0.995）"
+      },
+      {
+        "boundingBox": [
+          0.10793650617063497,
+          0.9059139783266129,
+          0.14126984126984127,
+          0.018817204301075252
+        ],
+        "confidence": 0.5,
+        "text": "episode 1106•frame O"
+      },
+      {
+        "boundingBox": [
+          0.42539682390476197,
+          0.905913978360215,
+          0.14920634920634923,
+          0.018817204301075252
+        ],
+        "confidence": 0.3,
+        "text": "episode 1106• frame 30"
+      },
+      {
+        "boundingBox": [
+          0.747619049111111,
+          0.9059139786290322,
+          0.14920634920634923,
+          0.018817204301075252
+        ],
+        "confidence": 0.5,
+        "text": "episode 1106 • frame 60"
+      },
+      {
+        "boundingBox": [
+          0.10793650800803449,
+          0.44354838708515876,
+          0.14126984126984127,
+          0.018817204301075252
+        ],
+        "confidence": 0.3,
+        "text": "episode 1210•frame O"
+      },
+      {
+        "boundingBox": [
+          0.4253968254634528,
+          0.44354838708515876,
+          0.14920634920634923,
+          0.018817204301075252
+        ],
+        "confidence": 0.5,
+        "text": "episode 1210•frame 30"
+      },
+      {
+        "boundingBox": [
+          0.7460317435185185,
+          0.44354838696236565,
+          0.1507936507936508,
+          0.018817204301075252
+        ],
+        "confidence": 0.5,
+        "text": "episode 1210•frame 60"
+      }
+    ],
+    "ocr_text": "Near-duplicate episodes found by embedding similarity （cosine > 0.995）\nepisode 1106•frame O\nepisode 1106• frame 30\nepisode 1106 • frame 60\nepisode 1210•frame O\nepisode 1210•frame 30\nepisode 1210•frame 60",
+    "description": "Four more things the same table answers中的配图，包含文字：Near-duplicate episodes found by embedding similarity （cosine > 0.995）；episode 1106•frame O；episode 1106• frame 30；episode 1106 • frame 60；episode 1210•frame O；episode 1210•frame 30；episode 1210•frame 60",
+    "entities": [
+      "Near-duplicate episodes found by embedding similarity （cosine > 0.995）",
+      "episode 1106•frame O",
+      "episode 1106• frame 30",
+      "episode 1106 • frame 60",
+      "episode 1210•frame O",
+      "episode 1210•frame 30",
+      "episode 1210•frame 60"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "06b316ebb4e4ee89ee40d996412a192782d2ea54964b42eb976695710c627d38"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-007",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a56974a8fdfc281022a266f_anomaly-frames.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-007.png",
+    "section": "Four more things the same table answers",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.2819767581038465,
+          0.9249999998842394,
+          0.4360464913504465,
+          0.061486485269334534
+        ],
+        "confidence": 0.5,
+        "text": "Frames farthest from the 'microwave' tasks' visual centroid （anomaly candidates）"
+      },
+      {
+        "boundingBox": [
+          0.06831395535750781,
+          0.8638888880095748,
+          0.07412790570940289,
+          0.048273274633619634
+        ],
+        "confidence": 1,
+        "text": "ep 217 t=19.5s"
+      },
+      {
+        "boundingBox": [
+          0.265988373962159,
+          0.8638888880095748,
+          0.07412790570940286,
+          0.048273274633619634
+        ],
+        "confidence": 0.5,
+        "text": "ep 217 t=13.1s"
+      },
+      {
+        "boundingBox": [
+          0.46947674522771315,
+          0.8638888880095748,
+          0.06250000000000006,
+          0.048273274633619634
+        ],
+        "confidence": 0.3,
+        "text": "ep 3t=12.3s"
+      },
+      {
+        "boundingBox": [
+          0.6642441868744066,
+          0.8638888897296161,
+          0.06686046237037291,
+          0.048273271984524246
+        ],
+        "confidence": 0.5,
+        "text": "ep 34t=12.5s"
+      },
+      {
+        "boundingBox": [
+          0.8619186061065639,
+          0.8716216226702143,
+          0.06831395285470154,
+          0.04054053889380571
+        ],
+        "confidence": 0.5,
+        "text": "ep 99 t=14.2s"
+      }
+    ],
+    "ocr_text": "Frames farthest from the 'microwave' tasks' visual centroid （anomaly candidates）\nep 217 t=19.5s\nep 217 t=13.1s\nep 3t=12.3s\nep 34t=12.5s\nep 99 t=14.2s",
+    "description": "Four more things the same table answers中的配图，包含文字：Frames farthest from the 'microwave' tasks' visual centroid （anomaly candidates）；ep 217 t=19.5s；ep 217 t=13.1s；ep 3t=12.3s；ep 34t=12.5s；ep 99 t=14.2s",
+    "entities": [
+      "Frames farthest from the 'microwave' tasks' visual centroid （anomaly candidates）",
+      "ep 217 t=19.5s",
+      "ep 217 t=13.1s",
+      "ep 3t=12.3s",
+      "ep 34t=12.5s",
+      "ep 99 t=14.2s"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "121349daf198ed972f738a58dfd0918618517d309a6f1fce66832ef5375d2bb4"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-008",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a569854e0f09f12b14640e4_curated-vs-generalist.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-008.png",
+    "section": "→ 454 episodes, 66,984 frames; feed straight into --dataset.episodes",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.266666687752319,
+          0.909677420639185,
+          0.4458333029675839,
+          0.07258064516129026
+        ],
+        "confidence": 0.5,
+        "text": "One SQL query vs the generalist"
+      },
+      {
+        "boundingBox": [
+          0.029180356087043138,
+          0.7344564953378574,
+          0.2899017561727496,
+          0.10310337620396759
+        ],
+        "confidence": 0.3,
+        "text": "Smolvla_base （before）0%"
+      },
+      {
+        "boundingBox": [
+          0.014925373395522383,
+          0.6193548382795699,
+          0.24925373134328357,
+          0.05161290322580647
+        ],
+        "confidence": 0.5,
+        "text": "curated split, 10k steps"
+      },
+      {
+        "boundingBox": [
+          0.8149253734701493,
+          0.6290322582258064,
+          0.05373134328358209,
+          0.05161290322580647
+        ],
+        "confidence": 0.5,
+        "text": "77%"
+      },
+      {
+        "boundingBox": [
+          0.014925373395522383,
+          0.47741935440860217,
+          0.24925373134328357,
+          0.05161290322580647
+        ],
+        "confidence": 0.5,
+        "text": "curated split, 20k steps"
+      },
+      {
+        "boundingBox": [
+          0.8074626862985076,
+          0.48709677403225815,
+          0.05373134328358209,
+          0.05161290322580647
+        ],
+        "confidence": 0.5,
+        "text": "76%"
+      },
+      {
+        "boundingBox": [
+          0.014925373395522383,
+          0.3354838705376344,
+          0.24925373134328357,
+          0.05161290322580647
+        ],
+        "confidence": 0.5,
+        "text": "curated split, 30k steps"
+      },
+      {
+        "boundingBox": [
+          0.7805970152611941,
+          0.3451612904637097,
+          0.05373134328358209,
+          0.048387096774193505
+        ],
+        "confidence": 0.3,
+        "text": "72%"
+      },
+      {
+        "boundingBox": [
+          0.019402986355721335,
+          0.19032258018817216,
+          0.24626865671641793,
+          0.05483870967741933
+        ],
+        "confidence": 0.5,
+        "text": "40-task generalist, 40k"
+      },
+      {
+        "boundingBox": [
+          0.8970149258333332,
+          0.20000000013440855,
+          0.055223880597014996,
+          0.05483870967741933
+        ],
+        "confidence": 0.5,
+        "text": "89%"
+      },
+      {
+        "boundingBox": [
+          0.42985074623134334,
+          0.09677419319892477,
+          0.028358208955223896,
+          0.04193548387096768
+        ],
+        "confidence": 1,
+        "text": "25"
+      },
+      {
+        "boundingBox": [
+          0.6044776121175373,
+          0.10000000016129029,
+          0.028358208955223896,
+          0.03870967741935483
+        ],
+        "confidence": 1,
+        "text": "50"
+      },
+      {
+        "boundingBox": [
+          0.7791044776716418,
+          0.10000000041935475,
+          0.0268656716417911,
+          0.041935483870967794
+        ],
+        "confidence": 1,
+        "text": "75"
+      },
+      {
+        "boundingBox": [
+          0.9432835818731342,
+          0.09032258048387098,
+          0.0432835820895523,
+          0.05161290322580647
+        ],
+        "confidence": 1,
+        "text": "100"
+      },
+      {
+        "boundingBox": [
+          0.33134327889925386,
+          0.02258064588709685,
+          0.5656716417910448,
+          0.058064516129032184
+        ],
+        "confidence": 0.5,
+        "text": "libero_object success % （closed-loop, 100 episodes each）"
+      }
+    ],
+    "ocr_text": "One SQL query vs the generalist\nSmolvla_base （before）0%\ncurated split, 10k steps\n77%\ncurated split, 20k steps\n76%\ncurated split, 30k steps\n72%\n40-task generalist, 40k\n89%\n25\n50\n75\n100\nlibero_object success % （closed-loop, 100 episodes each）",
+    "description": "→ 454 episodes, 66,984 frames; feed straight into --dataset.episodes中的配图，包含文字：One SQL query vs the generalist；Smolvla_base （before）0%；curated split, 10k steps；77%；curated split, 20k steps；76%；curated split, 30k steps；72%；40-task generalist, 40k；89%；25；50；75；100；libero_object success % （closed-loop, 100 episodes each）",
+    "entities": [
+      "One SQL query vs the generalist",
+      "Smolvla_base （before）0%",
+      "curated split, 10k steps",
+      "77%",
+      "curated split, 20k steps",
+      "76%",
+      "curated split, 30k steps",
+      "72%",
+      "40-task generalist, 40k",
+      "89%",
+      "25",
+      "50",
+      "75",
+      "100",
+      "libero_object success % （closed-loop, 100 episodes each）"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "2dd8758a1b3305000043967f571be986f661eefc2ec89973977f1f2aadf9f1a6"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-009",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-009.avif",
+    "section": "The real world is 1000× bigger",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "The real world is 1000× bigger中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-010",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a62eab8242ca13118f189e5_crewai_hero2.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-010.png",
+    "section": "The real world is 1000× bigger",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.079941861429704,
+          0.899150742652913,
+          0.25,
+          0.0673441026367706
+        ],
+        "confidence": 0.3,
+        "text": "LanceDB| oxewai"
+      }
+    ],
+    "ocr_text": "LanceDB| oxewai",
+    "description": "The real world is 1000× bigger中的配图，包含文字：LanceDB| oxewai",
+    "entities": [
+      "LanceDB| oxewai"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "dcec169d625e1851f3f6c69b6a9de695d4ea8a67683ce0171f7c3bc61fd528a7"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-011",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-011.png",
+    "section": "Why CrewAI Rebuilt Agent Memory on LanceDB, Powering 2B+ Agent Executions",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Why CrewAI Rebuilt Agent Memory on LanceDB, Powering 2B+ Agent Executions中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9-fig-012",
+    "doc_id": "2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/2357-https-www-lancedb-com-blog-one-table-to-train-yo-dfdf02c9/figure-012.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  }
+]

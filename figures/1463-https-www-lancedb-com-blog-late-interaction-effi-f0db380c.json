@@ -1,0 +1,2490 @@
+[
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-001",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 1,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b1d7afa8742fff26ef_late-interaction-efficient-multi-modal-retrievers-need-more-than-just-a-vector-index.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-001.avif",
+    "section": "Late Interaction & Efficient Multi-modal Retrievers Need More Than a Vector Index",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Late Interaction & Efficient Multi-modal Retrievers Need More Than a Vector Index中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a2ddcbe31750e4663792add99cc1ec731f971a9af856cb3f50aa3e6da87f58f3"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-002",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 2,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff272e_Screenshot-2024-09-12-at-11.19.05-AM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-002.avif",
+    "section": "Late Interaction",
+    "alt": "Retrieval Architecture",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.30232557729059606,
+          0.3740740753201287,
+          0.014534891128540006,
+          0.21481481539148872
+        ],
+        "confidence": 1,
+        "text": "Document"
+      },
+      {
+        "boundingBox": [
+          0.08284883743784822,
+          0.27380952437326356,
+          0.05232558186848958,
+          0.04841269765581402
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.16715116354452444,
+          0.2814814809719173,
+          0.08430232238769533,
+          0.03333333398209137
+        ],
+        "confidence": 1,
+        "text": "Document"
+      },
+      {
+        "boundingBox": [
+          0.36337209346999527,
+          0.2738095236862703,
+          0.04941860453287761,
+          0.04100529028444866
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.514534883373096,
+          0.27721088382504877,
+          0.04941860453287761,
+          0.0450113387334915
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.598770526846296,
+          0.280469027170863,
+          0.0844356892903646,
+          0.039061946933772296
+        ],
+        "confidence": 1,
+        "text": "Document"
+      },
+      {
+        "boundingBox": [
+          0.7499999995649566,
+          0.2772108835918825,
+          0.04941860453287761,
+          0.041307634236861235
+        ],
+        "confidence": 1,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.8662790720668113,
+          0.28518518501512713,
+          0.0843023223876953,
+          0.03333333398209137
+        ],
+        "confidence": 1,
+        "text": "Document"
+      },
+      {
+        "boundingBox": [
+          0.05668604737123008,
+          0.21088435314431442,
+          0.21511627197265626,
+          0.0374149659863946
+        ],
+        "confidence": 1,
+        "text": "（a） Representation-based Similarity"
+      },
+      {
+        "boundingBox": [
+          0.28488372013346364,
+          0.21428571442490818,
+          0.1962209269205729,
+          0.037566136340705714
+        ],
+        "confidence": 0.5,
+        "text": "（b） Query-Document Interaction"
+      },
+      {
+        "boundingBox": [
+          0.5203488419457062,
+          0.21428571475824143,
+          0.14244185384114583,
+          0.037566136340705714
+        ],
+        "confidence": 1,
+        "text": "（c） All-to-all Interaction"
+      },
+      {
+        "boundingBox": [
+          0.7776162815310457,
+          0.21428571479050718,
+          0.11627906290690104,
+          0.0340136054421768
+        ],
+        "confidence": 0.5,
+        "text": "（d） Late Interaction"
+      },
+      {
+        "boundingBox": [
+          0.11337209359662667,
+          0.17006802754123285,
+          0.10465116373697916,
+          0.0374149659863946
+        ],
+        "confidence": 0.3,
+        "text": "le.g.， DSSM, SNRM）"
+      },
+      {
+        "boundingBox": [
+          0.2936046591115552,
+          0.1734693876982466,
+          0.18168603515625004,
+          0.03401360544217691
+        ],
+        "confidence": 0.5,
+        "text": "（e.g.， DRMM, KNRM, Conv-KNRM）"
+      },
+      {
+        "boundingBox": [
+          0.5595930236373546,
+          0.1734693875332649,
+          0.0625,
+          0.03764172313975633
+        ],
+        "confidence": 0.3,
+        "text": "le.g.， BERT）"
+      },
+      {
+        "boundingBox": [
+          0.7645348866165513,
+          0.1734693877754071,
+          0.14534883626302086,
+          0.03401360544217691
+        ],
+        "confidence": 0.3,
+        "text": "（i.e, the proposed ColBERT）"
+      },
+      {
+        "boundingBox": [
+          0.0595930468492611,
+          0.08503401350229034,
+          0.8982557779947916,
+          0.044595616204398
+        ],
+        "confidence": 0.5,
+        "text": "Figure 2: Schematic diagrams illustrating query-document matching paradigms in neural IR. The figure contrasts existing"
+      },
+      {
+        "boundingBox": [
+          0.05959303871426838,
+          0.03703703720689189,
+          0.7194767252604166,
+          0.044595616204398
+        ],
+        "confidence": 0.5,
+        "text": "approaches （sub-figures （a）， （b）， and （c）） with the proposed late interaction paradigm （sub-fgure （d））."
+      }
+    ],
+    "ocr_text": "Document\nQuery\nDocument\nQuery\nQuery\nDocument\nQuery\nDocument\n（a） Representation-based Similarity\n（b） Query-Document Interaction\n（c） All-to-all Interaction\n（d） Late Interaction\nle.g.， DSSM, SNRM）\n（e.g.， DRMM, KNRM, Conv-KNRM）\nle.g.， BERT）\n（i.e, the proposed ColBERT）\nFigure 2: Schematic diagrams illustrating query-document matching paradigms in neural IR. The figure contrasts existing\napproaches （sub-figures （a）， （b）， and （c）） with the proposed late interaction paradigm （sub-fgure （d））.",
+    "description": "Late Interaction中的配图，包含文字：Document；Query；Document；Query；Query；Document；Query；Document；（a） Representation-based Similarity；（b） Query-Document Interaction；（c） All-to-all Interaction；（d） Late Interaction；le.g.， DSSM, SNRM）；（e.g.， DRMM, KNRM, Conv-KNRM）；le.g.， BERT）；（i.e, the proposed ColBERT）；Figure 2: Schematic diagrams illustrating query-document matching paradigms in neural IR. The figure contrasts existing；approaches （sub-figures （a）， （b）， and （c）） with the proposed late interaction paradigm （sub-fgure （d））.",
+    "entities": [
+      "Document",
+      "Query",
+      "（a） Representation-based Similarity",
+      "（b） Query-Document Interaction",
+      "（c） All-to-all Interaction",
+      "（d） Late Interaction",
+      "le.g.， DSSM, SNRM）",
+      "（e.g.， DRMM, KNRM, Conv-KNRM）",
+      "le.g.， BERT）",
+      "（i.e, the proposed ColBERT）",
+      "Figure 2: Schematic diagrams illustrating query-document matching paradigms in neural IR. The figure contrasts existing",
+      "approaches （sub-figures （a）， （b）， and （c）） with the proposed late interaction paradigm （sub-fgure （d））."
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "c38ab3622437705c91fff0322a42c7bb3fab97a2364178dd2846a7e2f5be1677"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-003",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 3,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff2721_final_architecture.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-003.avif",
+    "section": "Late Interaction + VLMs = Vision Retriever!",
+    "alt": "Final Architecture",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.054166683304230905,
+          0.9312227081083355,
+          0.358333309016538,
+          0.04148471615720528
+        ],
+        "confidence": 0.3,
+        "text": "Standard Retrieval 介h 0.66 NDCG@5"
+      },
+      {
+        "boundingBox": [
+          0.040589221407829584,
+          0.8800249360369993,
+          0.04091458111645216,
+          0.02037972341978911
+        ],
+        "confidence": 0.5,
+        "text": "offline"
+      },
+      {
+        "boundingBox": [
+          0.8894980475952052,
+          0.882818450241127,
+          0.03931785927984033,
+          0.01717932984297965
+        ],
+        "confidence": 1,
+        "text": "online"
+      },
+      {
+        "boundingBox": [
+          0.6409883745349764,
+          0.8253275110495831,
+          0.11046511180214036,
+          0.02670112759785881
+        ],
+        "confidence": 1,
+        "text": "Similarity score"
+      },
+      {
+        "boundingBox": [
+          0.4636627914789245,
+          0.7849344980999067,
+          0.062499999999999944,
+          0.02652134853679544
+        ],
+        "confidence": 0.5,
+        "text": "Captioning"
+      },
+      {
+        "boundingBox": [
+          0.883720930575686,
+          0.7947494032940161,
+          0.03343023120327937,
+          0.016706443769962998
+        ],
+        "confidence": 1,
+        "text": "What"
+      },
+      {
+        "boundingBox": [
+          0.5610465124374825,
+          0.7347161573320263,
+          0.024709301324162936,
+          0.014687183642491441
+        ],
+        "confidence": 1,
+        "text": "Text"
+      },
+      {
+        "boundingBox": [
+          0.8139534891638837,
+          0.7325327511946229,
+          0.026162789637349082,
+          0.01965065502183405
+        ],
+        "confidence": 1,
+        "text": "Text"
+      },
+      {
+        "boundingBox": [
+          0.46654108679060896,
+          0.6967171550533408,
+          0.055289918208027256,
+          0.024226789391196935
+        ],
+        "confidence": 0.5,
+        "text": "Chunking"
+      },
+      {
+        "boundingBox": [
+          0.5523255828983409,
+          0.7106986900258856,
+          0.04069767276920966,
+          0.017467248908296984
+        ],
+        "confidence": 1,
+        "text": "Embed."
+      },
+      {
+        "boundingBox": [
+          0.6409637388576289,
+          0.6991157748555897,
+          0.04801438370865507,
+          0.01942954833851107
+        ],
+        "confidence": 1,
+        "text": "MaxSim"
+      },
+      {
+        "boundingBox": [
+          0.8066860470188603,
+          0.7106986899463312,
+          0.04941860264832598,
+          0.017467248908296873
+        ],
+        "confidence": 0.3,
+        "text": "Embed.^"
+      },
+      {
+        "boundingBox": [
+          0.8895348843702983,
+          0.7106986897872222,
+          0.018895348071418794,
+          0.017467248908296873
+        ],
+        "confidence": 1,
+        "text": "are"
+      },
+      {
+        "boundingBox": [
+          0.5552325575072442,
+          0.6921241049547983,
+          0.034883722049464994,
+          0.01431980924314813
+        ],
+        "confidence": 1,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.8110465122326627,
+          0.6921241049560953,
+          0.03343023120327926,
+          0.014319809243148018
+        ],
+        "confidence": 1,
+        "text": "Model"
+      },
+      {
+        "boundingBox": [
+          0.4534883714295872,
+          0.63961813946115,
+          0.06831395325274425,
+          0.02632072502869187
+        ],
+        "confidence": 0.3,
+        "text": "$ Chunking"
+      },
+      {
+        "boundingBox": [
+          0.6976744198040057,
+          0.6276849650479464,
+          0.042151161082395694,
+          0.02406176000703375
+        ],
+        "confidence": 0.3,
+        "text": "N'ax D"
+      },
+      {
+        "boundingBox": [
+          0.8822674428580463,
+          0.6229116948611575,
+          0.034883719516465406,
+          0.019093078296777977
+        ],
+        "confidence": 0.5,
+        "text": "ViTs？"
+      },
+      {
+        "boundingBox": [
+          0.3415697666655756,
+          0.5489260155449978,
+          0.053779070120883676,
+          0.028639616404037782
+        ],
+        "confidence": 1,
+        "text": "Layout"
+      },
+      {
+        "boundingBox": [
+          0.07693698829884817,
+          0.5289950349214906,
+          0.09612602446658679,
+          0.03270205451932007
+        ],
+        "confidence": 0.5,
+        "text": "7.22s/page"
+      },
+      {
+        "boundingBox": [
+          0.21075581490954137,
+          0.5436681224174068,
+          0.034883719516465406,
+          0.021964335545702318
+        ],
+        "confidence": 1,
+        "text": "OCR"
+      },
+      {
+        "boundingBox": [
+          0.3327605630909837,
+          0.5219566398741387,
+          0.06994398909894273,
+          0.025299131609987424
+        ],
+        "confidence": 1,
+        "text": "detection"
+      },
+      {
+        "boundingBox": [
+          0.825581394908186,
+          0.5250596661664755,
+          0.10755814024176735,
+          0.031026253013111127
+        ],
+        "confidence": 0.5,
+        "text": "22ms / query"
+      },
+      {
+        "boundingBox": [
+          0.06250000291239502,
+          0.4410480347174005,
+          0.138081392285675,
+          0.0338922994105576
+        ],
+        "confidence": 0.5,
+        "text": "ColPali （ours）"
+      },
+      {
+        "boundingBox": [
+          0.2572674457634206,
+          0.44104803589369035,
+          0.15116278457135002,
+          0.0362789328962434
+        ],
+        "confidence": 0.3,
+        "text": "灬1 0.81 NDCG@5"
+      },
+      {
+        "boundingBox": [
+          0.5973837242733484,
+          0.43886462882599186,
+          0.11046511180214036,
+          0.02652916533457661
+        ],
+        "confidence": 1,
+        "text": "Similarity score"
+      },
+      {
+        "boundingBox": [
+          0.052227702304789764,
+          0.3908507547136555,
+          0.03943994479033734,
+          0.020207798637156937
+        ],
+        "confidence": 0.5,
+        "text": "offline"
+      },
+      {
+        "boundingBox": [
+          0.31824263417533294,
+          0.3907213976497893,
+          0.08299147465314521,
+          0.02523978204185784
+        ],
+        "confidence": 0.5,
+        "text": "Vision LLM"
+      },
+      {
+        "boundingBox": [
+          0.8866048101362188,
+          0.3984494450765691,
+          0.04074386708131661,
+          0.0217168622662407
+        ],
+        "confidence": 1,
+        "text": "online"
+      },
+      {
+        "boundingBox": [
+          0.5958776147699164,
+          0.343214715422974,
+          0.04516337623950806,
+          0.015241214281606852
+        ],
+        "confidence": 1,
+        "text": "MaxSim"
+      },
+      {
+        "boundingBox": [
+          0.8764534887709379,
+          0.341288782788845,
+          0.03343023120327937,
+          0.01678981999642981
+        ],
+        "confidence": 0.5,
+        "text": "What"
+      },
+      {
+        "boundingBox": [
+          0.6686046517346395,
+          0.25536992850537765,
+          0.018895348071418683,
+          0.031026253013111127
+        ],
+        "confidence": 0.3,
+        "text": "+"
+      },
+      {
+        "boundingBox": [
+          0.8066860474640696,
+          0.2576419217403433,
+          0.029069766263721153,
+          0.01965065502183405
+        ],
+        "confidence": 1,
+        "text": "LLM"
+      },
+      {
+        "boundingBox": [
+          0.882267442432314,
+          0.2598253273094493,
+          0.018895348071418683,
+          0.014637680032888345
+        ],
+        "confidence": 1,
+        "text": "are"
+      },
+      {
+        "boundingBox": [
+          0.32263382207689506,
+          0.2432092927552898,
+          0.039325379755392464,
+          0.019548001768287082
+        ],
+        "confidence": 0.5,
+        "text": "Vision"
+      },
+      {
+        "boundingBox": [
+          0.3211580866806066,
+          0.2237711775230079,
+          0.04663731345775751,
+          0.015464804578556257
+        ],
+        "confidence": 1,
+        "text": "encoder"
+      },
+      {
+        "boundingBox": [
+          0.4534883725505115,
+          0.23144104829130652,
+          0.026162789637349027,
+          0.01676897554938972
+        ],
+        "confidence": 0.5,
+        "text": "LLM"
+      },
+      {
+        "boundingBox": [
+          0.5929627335710757,
+          0.1666847323502264,
+          0.043725696376278766,
+          0.019852492486545636
+        ],
+        "confidence": 1,
+        "text": "MaxSim"
+      },
+      {
+        "boundingBox": [
+          0.8750000003431277,
+          0.16921397361172386,
+          0.03343023120327926,
+          0.01965065502183405
+        ],
+        "confidence": 1,
+        "text": "ViTs？"
+      },
+      {
+        "boundingBox": [
+          0.38808139592910457,
+          0.09785202892050782,
+          0.023255813010976956,
+          0.016776791826606297
+        ],
+        "confidence": 0.5,
+        "text": "proi."
+      },
+      {
+        "boundingBox": [
+          0.5087209308717324,
+          0.09279475935335502,
+          0.026162789637349082,
+          0.02183406113537112
+        ],
+        "confidence": 0.5,
+        "text": "proj."
+      },
+      {
+        "boundingBox": [
+          0.6540697680647847,
+          0.08830548951095363,
+          0.03343023120327937,
+          0.024139924861458217
+        ],
+        "confidence": 0.3,
+        "text": "Na* D"
+      },
+      {
+        "boundingBox": [
+          0.7456395355592323,
+          0.08830548991875253,
+          0.026162789637349082,
+          0.02195651874792104
+        ],
+        "confidence": 0.5,
+        "text": "proj."
+      },
+      {
+        "boundingBox": [
+          0.07837975978161708,
+          0.06577790932052507,
+          0.09905443533483256,
+          0.03073535111273218
+        ],
+        "confidence": 0.3,
+        "text": "0.39s / page"
+      },
+      {
+        "boundingBox": [
+          0.8240277622026975,
+          0.06352776613575306,
+          0.10194447632646497,
+          0.03284900157212167
+        ],
+        "confidence": 0.3,
+        "text": "30ms / query"
+      }
+    ],
+    "ocr_text": "Standard Retrieval 介h 0.66 NDCG@5\noffline\nonline\nSimilarity score\nCaptioning\nWhat\nText\nText\nChunking\nEmbed.\nMaxSim\nEmbed.^\nare\nModel\nModel\n$ Chunking\nN'ax D\nViTs？\nLayout\n7.22s/page\nOCR\ndetection\n22ms / query\nColPali （ours）\n灬1 0.81 NDCG@5\nSimilarity score\noffline\nVision LLM\nonline\nMaxSim\nWhat\n+\nLLM\nare\nVision\nencoder\nLLM\nMaxSim\nViTs？\nproi.\nproj.\nNa* D\nproj.\n0.39s / page\n30ms / query",
+    "description": "Late Interaction + VLMs = Vision Retriever!中的配图，包含文字：Standard Retrieval 介h 0.66 NDCG@5；offline；online；Similarity score；Captioning；What；Text；Text；Chunking；Embed.；MaxSim；Embed.^；are；Model；Model；$ Chunking；N'ax D；ViTs？；Layout；7.22s/page；OCR；detection；22ms / query；ColPali （ours）；灬1 0.81 NDCG@5；Similarity score；offline；Vision LLM；online；MaxSim",
+    "entities": [
+      "Standard Retrieval 介h 0.66 NDCG@5",
+      "offline",
+      "online",
+      "Similarity score",
+      "Captioning",
+      "What",
+      "Text",
+      "Chunking",
+      "Embed.",
+      "MaxSim",
+      "Embed.^",
+      "are",
+      "Model",
+      "$ Chunking",
+      "N'ax D",
+      "ViTs？",
+      "Layout",
+      "7.22s/page",
+      "OCR",
+      "detection",
+      "22ms / query",
+      "ColPali （ours）",
+      "灬1 0.81 NDCG@5",
+      "Vision LLM",
+      "+",
+      "LLM",
+      "Vision",
+      "encoder",
+      "proi.",
+      "proj.",
+      "Na* D",
+      "0.39s / page",
+      "30ms / query"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "659944a4f00c63dcf4735bf24fc4e7d02f7f64f1d5a82dc263a7a45becda1c02"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-004",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 4,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff2728_Screenshot-2024-09-15-at-10.39.27-PM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-004.avif",
+    "section": "Retrieval",
+    "alt": "Training Costs Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.05087208551215596,
+          0.8278481009429528,
+          0.5029069900512696,
+          0.0708860758862464
+        ],
+        "confidence": 0.5,
+        "text": "Training costs down 10x."
+      },
+      {
+        "boundingBox": [
+          0.05000003662923149,
+          0.7821350769763851,
+          0.8958332824707032,
+          0.043951880178680125
+        ],
+        "confidence": 0.5,
+        "text": "Training costs decreased 10x in less than a year. lt costs $5Ok to train stable diffusion and $200k"
+      },
+      {
+        "boundingBox": [
+          0.05087209512329096,
+          0.7392405062942611,
+          0.254360466003418,
+          0.03544303794312331
+        ],
+        "confidence": 0.5,
+        "text": "to train a high-quality LLM."
+      },
+      {
+        "boundingBox": [
+          0.44622093318715644,
+          0.6350762528156466,
+          0.27470930099487306,
+          0.03376906318082795
+        ],
+        "confidence": 0.5,
+        "text": "Training Cost - Stable Diffusion"
+      },
+      {
+        "boundingBox": [
+          0.12057056785442746,
+          0.5640525199180823,
+          0.08444025993347168,
+          0.03645192356151172
+        ],
+        "confidence": 1,
+        "text": "$600,000"
+      },
+      {
+        "boundingBox": [
+          0.05377906340162588,
+          0.2556962058459886,
+          0.018895361423492428,
+          0.2607594907673356
+        ],
+        "confidence": 0.5,
+        "text": "Training Cost for"
+      },
+      {
+        "boundingBox": [
+          0.07558138910912181,
+          0.26329114403166687,
+          0.015988384485244755,
+          0.24556961558223556
+        ],
+        "confidence": 0.5,
+        "text": "Stable Diffusion"
+      },
+      {
+        "boundingBox": [
+          0.11918604487782325,
+          0.43544303793983086,
+          0.08575581550598144,
+          0.0354430379431232
+        ],
+        "confidence": 0.5,
+        "text": "$400,000"
+      },
+      {
+        "boundingBox": [
+          0.6291666674227906,
+          0.32570806154614473,
+          0.058333330154418994,
+          0.04385715684080438
+        ],
+        "confidence": 0.5,
+        "text": "$160k"
+      },
+      {
+        "boundingBox": [
+          0.12061602803854556,
+          0.30363004324605714,
+          0.0828958511352539,
+          0.0357778877474384
+        ],
+        "confidence": 1,
+        "text": "$200,000"
+      },
+      {
+        "boundingBox": [
+          0.8895348838765108,
+          0.2505446626867176,
+          0.04796511650085444,
+          0.030501089324618702
+        ],
+        "confidence": 0.3,
+        "text": "$50k"
+      },
+      {
+        "boundingBox": [
+          0.21947674367895081,
+          0.13164556928160298,
+          0.0813953495025635,
+          0.0354430379431232
+        ],
+        "confidence": 0.5,
+        "text": "Sep2022"
+      },
+      {
+        "boundingBox": [
+          0.38949583415114347,
+          0.13639400427348736,
+          0.08001996040344239,
+          0.03100946006691796
+        ],
+        "confidence": 0.5,
+        "text": "Nov 2022"
+      },
+      {
+        "boundingBox": [
+          0.5566266205570075,
+          0.1362012526475217,
+          0.07715373516082757,
+          0.028863316787353988
+        ],
+        "confidence": 0.5,
+        "text": "Jan 2023"
+      },
+      {
+        "boundingBox": [
+          0.7194554814862616,
+          0.13652932412712027,
+          0.07707740783691408,
+          0.028207174313613748
+        ],
+        "confidence": 0.5,
+        "text": "Mar 2023"
+      },
+      {
+        "boundingBox": [
+          0.0508720971193535,
+          0.07843137252963539,
+          0.2034883689880371,
+          0.015250544662309351
+        ],
+        "confidence": 0.5,
+        "text": "Source: Unsupervised Leaming Substack; Data as of June 14, 2024"
+      },
+      {
+        "boundingBox": [
+          0.050872107397437104,
+          0.06318082803421898,
+          0.31686044692993165,
+          0.015300184553225349
+        ],
+        "confidence": 0.5,
+        "text": "©2024 Redpoint Ventures. Proprietary and confidential. Do not copy or distribute without permission."
+      },
+      {
+        "boundingBox": [
+          0.9273255813851172,
+          0.06835443028215171,
+          0.014534883499145446,
+          0.0177215189715616
+        ],
+        "confidence": 1,
+        "text": "14"
+      }
+    ],
+    "ocr_text": "Training costs down 10x.\nTraining costs decreased 10x in less than a year. lt costs $5Ok to train stable diffusion and $200k\nto train a high-quality LLM.\nTraining Cost - Stable Diffusion\n$600,000\nTraining Cost for\nStable Diffusion\n$400,000\n$160k\n$200,000\n$50k\nSep2022\nNov 2022\nJan 2023\nMar 2023\nSource: Unsupervised Leaming Substack; Data as of June 14, 2024\n©2024 Redpoint Ventures. Proprietary and confidential. Do not copy or distribute without permission.\n14",
+    "description": "Retrieval中的配图，包含文字：Training costs down 10x.；Training costs decreased 10x in less than a year. lt costs $5Ok to train stable diffusion and $200k；to train a high-quality LLM.；Training Cost - Stable Diffusion；$600,000；Training Cost for；Stable Diffusion；$400,000；$160k；$200,000；$50k；Sep2022；Nov 2022；Jan 2023；Mar 2023；Source: Unsupervised Leaming Substack; Data as of June 14, 2024；©2024 Redpoint Ventures. Proprietary and confidential. Do not copy or distribute without permission.；14",
+    "entities": [
+      "Training costs down 10x.",
+      "Training costs decreased 10x in less than a year. lt costs $5Ok to train stable diffusion and $200k",
+      "to train a high-quality LLM.",
+      "Training Cost - Stable Diffusion",
+      "$600,000",
+      "Training Cost for",
+      "Stable Diffusion",
+      "$400,000",
+      "$160k",
+      "$200,000",
+      "$50k",
+      "Sep2022",
+      "Nov 2022",
+      "Jan 2023",
+      "Mar 2023",
+      "Source: Unsupervised Leaming Substack; Data as of June 14, 2024",
+      "©2024 Redpoint Ventures. Proprietary and confidential. Do not copy or distribute without permission.",
+      "14"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "11f0c8921eaa5c19f885ec56103f64a7085fdc99762e96172d3448850b767699"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-005",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 5,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff272b_Screenshot-2024-09-16-at-12.32.11-AM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-005.avif",
+    "section": "Retrieval",
+    "alt": "Magic Mirror Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.20625905066147404,
+          0.9041942716060555,
+          0.07294701576232909,
+          0.028388316423812454
+        ],
+        "confidence": 0.5,
+        "text": "Par+ One"
+      },
+      {
+        "boundingBox": [
+          0.043604652778779285,
+          0.8303730015815785,
+          0.3197674369812012,
+          0.020866667610290435
+        ],
+        "confidence": 0.5,
+        "text": "Once upon a time there was a little princess..."
+      },
+      {
+        "boundingBox": [
+          0.04360464847293819,
+          0.7975133214418836,
+          0.36918605804443355,
+          0.01687388987566607
+        ],
+        "confidence": 0.5,
+        "text": "She was called Snow White because she was white as"
+      },
+      {
+        "boundingBox": [
+          0.04215116948287619,
+          0.7539964475128249,
+          0.3953488159179687,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "snow. Her lips were red as blood. And her hair was black"
+      },
+      {
+        "boundingBox": [
+          0.04360465028061967,
+          0.7166962699911704,
+          0.36046512603759767,
+          0.02503926715884708
+        ],
+        "confidence": 0.5,
+        "text": "as night. She was a beautiful girl, sweet and gentle."
+      },
+      {
+        "boundingBox": [
+          0.04215115726616446,
+          0.6818181821940705,
+          0.3968023300170898,
+          0.022727271803319016
+        ],
+        "confidence": 0.5,
+        "text": "She lived in a palace with her father and her stepmother："
+      },
+      {
+        "boundingBox": [
+          0.0436046548755025,
+          0.6446280992567428,
+          0.17296510696411133,
+          0.022727271803318905
+        ],
+        "confidence": 0.5,
+        "text": "the King and the Queen."
+      },
+      {
+        "boundingBox": [
+          0.04360465263387997,
+          0.6115702477109088,
+          0.38517440795898433,
+          0.018980374344712336
+        ],
+        "confidence": 0.5,
+        "text": "The Queen was a beautiful woman. But she was wicked"
+      },
+      {
+        "boundingBox": [
+          0.04360465057169008,
+          0.5743801658719161,
+          0.0654069757461548,
+          0.01887027831949939
+        ],
+        "confidence": 1,
+        "text": "and vain."
+      },
+      {
+        "boundingBox": [
+          0.566860472430136,
+          0.4751332147724755,
+          0.3895348739624024,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "Every day, the Queen looked in her magic mirror and asked："
+      },
+      {
+        "boundingBox": [
+          0.670058140037998,
+          0.43388429787064364,
+          0.19040697097778314,
+          0.02479338772978712
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325577260572,
+          0.4005328598713015,
+          0.17441860198974612,
+          0.02131438721136769
+        ],
+        "confidence": 0.5,
+        "text": "Who's the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.5654069731211109,
+          0.3450413225607264,
+          0.254360466003418,
+          0.02479338772978701
+        ],
+        "confidence": 0.5,
+        "text": "And every day, the mirror answered："
+      },
+      {
+        "boundingBox": [
+          0.674418600253911,
+          0.3016528930238007,
+          0.18459302902221675,
+          0.026943909761960705
+        ],
+        "confidence": 0.5,
+        "text": "\"You, my Queen! You are！"
+      },
+      {
+        "boundingBox": [
+          0.6468023320191424,
+          0.2682060389890968,
+          0.23982557296752927,
+          0.02311627437124031
+        ],
+        "confidence": 0.5,
+        "text": "You are the most beautiful of all.\""
+      },
+      {
+        "boundingBox": [
+          0.5654069734372446,
+          0.21487603329255534,
+          0.379360466003418,
+          0.023134623708775837
+        ],
+        "confidence": 0.5,
+        "text": "Time passed and little Snow White became a beautiful"
+      },
+      {
+        "boundingBox": [
+          0.5654069804564483,
+          0.17761989331172523,
+          0.23255813598632813,
+          0.023090586145648295
+        ],
+        "confidence": 0.5,
+        "text": "young lady. Everybody oved her."
+      },
+      {
+        "boundingBox": [
+          0.5668604669700039,
+          0.14031971554049472,
+          0.383720932006836,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "One morning, when the Queen asked her magic mirror："
+      },
+      {
+        "boundingBox": [
+          0.67005814148957,
+          0.09917355401733796,
+          0.191860466003418,
+          0.02516037109266589
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325607541578,
+          0.06571936082777419,
+          0.17441860198974612,
+          0.02312361410625452
+        ],
+        "confidence": 0.3,
+        "text": "Who'ss the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.02616279094387194,
+          0.018595041184768735,
+          0.015988371372222896,
+          0.016928937888272433
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "boundingBox": [
+          0.9680232562885562,
+          0.018595041361864295,
+          0.015988371372222976,
+          0.016928937041314818
+        ],
+        "confidence": 1,
+        "text": "17"
+      }
+    ],
+    "ocr_text": "Par+ One\nOnce upon a time there was a little princess...\nShe was called Snow White because she was white as\nsnow. Her lips were red as blood. And her hair was black\nas night. She was a beautiful girl, sweet and gentle.\nShe lived in a palace with her father and her stepmother：\nthe King and the Queen.\nThe Queen was a beautiful woman. But she was wicked\nand vain.\nEvery day, the Queen looked in her magic mirror and asked：\n\"Mirror, mirror on the wall，\nWho's the fairest of all？\"\nAnd every day, the mirror answered：\n\"You, my Queen! You are！\nYou are the most beautiful of all.\"\nTime passed and little Snow White became a beautiful\nyoung lady. Everybody oved her.\nOne morning, when the Queen asked her magic mirror：\n\"Mirror, mirror on the wall，\nWho'ss the fairest of all？\"\n16\n17",
+    "description": "Retrieval中的配图，包含文字：Par+ One；Once upon a time there was a little princess...；She was called Snow White because she was white as；snow. Her lips were red as blood. And her hair was black；as night. She was a beautiful girl, sweet and gentle.；She lived in a palace with her father and her stepmother：；the King and the Queen.；The Queen was a beautiful woman. But she was wicked；and vain.；Every day, the Queen looked in her magic mirror and asked：；\"Mirror, mirror on the wall，；Who's the fairest of all？\"；And every day, the mirror answered：；\"You, my Queen! You are！；You are the most beautiful of all.\"；Time passed and little Snow White became a beautiful；young lady. Everybody oved her.；One morning, when the Queen asked her magic mirror：；\"Mirror, mirror on the wall，；Who'ss the fairest of all？\"；16；17",
+    "entities": [
+      "Par+ One",
+      "Once upon a time there was a little princess...",
+      "She was called Snow White because she was white as",
+      "snow. Her lips were red as blood. And her hair was black",
+      "as night. She was a beautiful girl, sweet and gentle.",
+      "She lived in a palace with her father and her stepmother：",
+      "the King and the Queen.",
+      "The Queen was a beautiful woman. But she was wicked",
+      "and vain.",
+      "Every day, the Queen looked in her magic mirror and asked：",
+      "\"Mirror, mirror on the wall，",
+      "Who's the fairest of all？\"",
+      "And every day, the mirror answered：",
+      "\"You, my Queen! You are！",
+      "You are the most beautiful of all.\"",
+      "Time passed and little Snow White became a beautiful",
+      "young lady. Everybody oved her.",
+      "One morning, when the Queen asked her magic mirror：",
+      "Who'ss the fairest of all？\"",
+      "16",
+      "17"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d9290b1f2b3265ec524023f136a11aef59c66e64ce720e4a7bc64f578c40ac0b"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-006",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 6,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff271e_Screenshot-2024-09-17-at-5.28.22-PM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-006.avif",
+    "section": "ColPali MaxSims as a Reranking Step",
+    "alt": "FTS Optimization",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.48401162888192883,
+          0.8485804413067303,
+          0.050872091921219886,
+          0.02444794952681384
+        ],
+        "confidence": 1,
+        "text": "FTS"
+      },
+      {
+        "boundingBox": [
+          0.7209302327845064,
+          0.8247232484583812,
+          0.07122092868970797,
+          0.033320915811821505
+        ],
+        "confidence": 0.5,
+        "text": "top_n"
+      },
+      {
+        "boundingBox": [
+          0.2728620501978222,
+          0.809328959137364,
+          0.09962473804165856,
+          0.03263359491005313
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.7369186048097389,
+          0.7859778600942049,
+          0.050872091921219886,
+          0.027902266204545167
+        ],
+        "confidence": 1,
+        "text": "docs"
+      },
+      {
+        "boundingBox": [
+          0.07677584813009022,
+          0.7405098853313049,
+          0.0727895416828416,
+          0.03600554962639557
+        ],
+        "confidence": 0.5,
+        "text": "Query"
+      },
+      {
+        "boundingBox": [
+          0.7834302341543036,
+          0.6623616240315905,
+          0.1322674389951718,
+          0.026124181055496076
+        ],
+        "confidence": 0.5,
+        "text": "Doc vectors"
+      },
+      {
+        "boundingBox": [
+          0.4271384203561117,
+          0.5336225566904675,
+          0.15153710975410029,
+          0.036075919960575464
+        ],
+        "confidence": 1,
+        "text": "Qeury Vectors"
+      },
+      {
+        "boundingBox": [
+          0.2688953494500584,
+          0.49446494519793793,
+          0.08284883676848798,
+          0.0295202935155634
+        ],
+        "confidence": 0.5,
+        "text": "CoPali"
+      },
+      {
+        "boundingBox": [
+          0.7106586615561581,
+          0.4606878131820811,
+          0.09176407334226999,
+          0.026963856694074084
+        ],
+        "confidence": 1,
+        "text": "MaxSims"
+      },
+      {
+        "boundingBox": [
+          0.6787790762636867,
+          0.4258675075508447,
+          0.19767440890673516,
+          0.029968454258675115
+        ],
+        "confidence": 0.5,
+        "text": "（Late interaction）"
+      },
+      {
+        "boundingBox": [
+          0.7485465127347495,
+          0.13801261868445602,
+          0.045058137881829885,
+          0.03548895899053628
+        ],
+        "confidence": 0.5,
+        "text": "Top"
+      },
+      {
+        "boundingBox": [
+          0.7688953486826416,
+          0.11623616246368751,
+          0.014534883913786545,
+          0.02214022164089069
+        ],
+        "confidence": 1,
+        "text": "k"
+      }
+    ],
+    "ocr_text": "FTS\ntop_n\nLanceDB\ndocs\nQuery\nDoc vectors\nQeury Vectors\nCoPali\nMaxSims\n（Late interaction）\nTop\nk",
+    "description": "ColPali MaxSims as a Reranking Step中的配图，包含文字：FTS；top_n；LanceDB；docs；Query；Doc vectors；Qeury Vectors；CoPali；MaxSims；（Late interaction）；Top；k",
+    "entities": [
+      "FTS",
+      "top_n",
+      "LanceDB",
+      "docs",
+      "Query",
+      "Doc vectors",
+      "Qeury Vectors",
+      "CoPali",
+      "MaxSims",
+      "（Late interaction）",
+      "Top",
+      "k"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "fd9db00a2df77fa8013d284b1b325b2bcfaa68ddd3f21683e66c823cc52e4336"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-007",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 7,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff272b_Screenshot-2024-09-16-at-12.32.11-AM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-007.avif",
+    "section": "Same as described above",
+    "alt": "Magic Mirror FTS Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.20625905066147404,
+          0.9041942716060555,
+          0.07294701576232909,
+          0.028388316423812454
+        ],
+        "confidence": 0.5,
+        "text": "Par+ One"
+      },
+      {
+        "boundingBox": [
+          0.043604652778779285,
+          0.8303730015815785,
+          0.3197674369812012,
+          0.020866667610290435
+        ],
+        "confidence": 0.5,
+        "text": "Once upon a time there was a little princess..."
+      },
+      {
+        "boundingBox": [
+          0.04360464847293819,
+          0.7975133214418836,
+          0.36918605804443355,
+          0.01687388987566607
+        ],
+        "confidence": 0.5,
+        "text": "She was called Snow White because she was white as"
+      },
+      {
+        "boundingBox": [
+          0.04215116948287619,
+          0.7539964475128249,
+          0.3953488159179687,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "snow. Her lips were red as blood. And her hair was black"
+      },
+      {
+        "boundingBox": [
+          0.04360465028061967,
+          0.7166962699911704,
+          0.36046512603759767,
+          0.02503926715884708
+        ],
+        "confidence": 0.5,
+        "text": "as night. She was a beautiful girl, sweet and gentle."
+      },
+      {
+        "boundingBox": [
+          0.04215115726616446,
+          0.6818181821940705,
+          0.3968023300170898,
+          0.022727271803319016
+        ],
+        "confidence": 0.5,
+        "text": "She lived in a palace with her father and her stepmother："
+      },
+      {
+        "boundingBox": [
+          0.0436046548755025,
+          0.6446280992567428,
+          0.17296510696411133,
+          0.022727271803318905
+        ],
+        "confidence": 0.5,
+        "text": "the King and the Queen."
+      },
+      {
+        "boundingBox": [
+          0.04360465263387997,
+          0.6115702477109088,
+          0.38517440795898433,
+          0.018980374344712336
+        ],
+        "confidence": 0.5,
+        "text": "The Queen was a beautiful woman. But she was wicked"
+      },
+      {
+        "boundingBox": [
+          0.04360465057169008,
+          0.5743801658719161,
+          0.0654069757461548,
+          0.01887027831949939
+        ],
+        "confidence": 1,
+        "text": "and vain."
+      },
+      {
+        "boundingBox": [
+          0.566860472430136,
+          0.4751332147724755,
+          0.3895348739624024,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "Every day, the Queen looked in her magic mirror and asked："
+      },
+      {
+        "boundingBox": [
+          0.670058140037998,
+          0.43388429787064364,
+          0.19040697097778314,
+          0.02479338772978712
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325577260572,
+          0.4005328598713015,
+          0.17441860198974612,
+          0.02131438721136769
+        ],
+        "confidence": 0.5,
+        "text": "Who's the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.5654069731211109,
+          0.3450413225607264,
+          0.254360466003418,
+          0.02479338772978701
+        ],
+        "confidence": 0.5,
+        "text": "And every day, the mirror answered："
+      },
+      {
+        "boundingBox": [
+          0.674418600253911,
+          0.3016528930238007,
+          0.18459302902221675,
+          0.026943909761960705
+        ],
+        "confidence": 0.5,
+        "text": "\"You, my Queen! You are！"
+      },
+      {
+        "boundingBox": [
+          0.6468023320191424,
+          0.2682060389890968,
+          0.23982557296752927,
+          0.02311627437124031
+        ],
+        "confidence": 0.5,
+        "text": "You are the most beautiful of all.\""
+      },
+      {
+        "boundingBox": [
+          0.5654069734372446,
+          0.21487603329255534,
+          0.379360466003418,
+          0.023134623708775837
+        ],
+        "confidence": 0.5,
+        "text": "Time passed and little Snow White became a beautiful"
+      },
+      {
+        "boundingBox": [
+          0.5654069804564483,
+          0.17761989331172523,
+          0.23255813598632813,
+          0.023090586145648295
+        ],
+        "confidence": 0.5,
+        "text": "young lady. Everybody oved her."
+      },
+      {
+        "boundingBox": [
+          0.5668604669700039,
+          0.14031971554049472,
+          0.383720932006836,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "One morning, when the Queen asked her magic mirror："
+      },
+      {
+        "boundingBox": [
+          0.67005814148957,
+          0.09917355401733796,
+          0.191860466003418,
+          0.02516037109266589
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325607541578,
+          0.06571936082777419,
+          0.17441860198974612,
+          0.02312361410625452
+        ],
+        "confidence": 0.3,
+        "text": "Who'ss the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.02616279094387194,
+          0.018595041184768735,
+          0.015988371372222896,
+          0.016928937888272433
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "boundingBox": [
+          0.9680232562885562,
+          0.018595041361864295,
+          0.015988371372222976,
+          0.016928937041314818
+        ],
+        "confidence": 1,
+        "text": "17"
+      }
+    ],
+    "ocr_text": "Par+ One\nOnce upon a time there was a little princess...\nShe was called Snow White because she was white as\nsnow. Her lips were red as blood. And her hair was black\nas night. She was a beautiful girl, sweet and gentle.\nShe lived in a palace with her father and her stepmother：\nthe King and the Queen.\nThe Queen was a beautiful woman. But she was wicked\nand vain.\nEvery day, the Queen looked in her magic mirror and asked：\n\"Mirror, mirror on the wall，\nWho's the fairest of all？\"\nAnd every day, the mirror answered：\n\"You, my Queen! You are！\nYou are the most beautiful of all.\"\nTime passed and little Snow White became a beautiful\nyoung lady. Everybody oved her.\nOne morning, when the Queen asked her magic mirror：\n\"Mirror, mirror on the wall，\nWho'ss the fairest of all？\"\n16\n17",
+    "description": "Same as described above中的配图，包含文字：Par+ One；Once upon a time there was a little princess...；She was called Snow White because she was white as；snow. Her lips were red as blood. And her hair was black；as night. She was a beautiful girl, sweet and gentle.；She lived in a palace with her father and her stepmother：；the King and the Queen.；The Queen was a beautiful woman. But she was wicked；and vain.；Every day, the Queen looked in her magic mirror and asked：；\"Mirror, mirror on the wall，；Who's the fairest of all？\"；And every day, the mirror answered：；\"You, my Queen! You are！；You are the most beautiful of all.\"；Time passed and little Snow White became a beautiful；young lady. Everybody oved her.；One morning, when the Queen asked her magic mirror：；\"Mirror, mirror on the wall，；Who'ss the fairest of all？\"；16；17",
+    "entities": [
+      "Par+ One",
+      "Once upon a time there was a little princess...",
+      "She was called Snow White because she was white as",
+      "snow. Her lips were red as blood. And her hair was black",
+      "as night. She was a beautiful girl, sweet and gentle.",
+      "She lived in a palace with her father and her stepmother：",
+      "the King and the Queen.",
+      "The Queen was a beautiful woman. But she was wicked",
+      "and vain.",
+      "Every day, the Queen looked in her magic mirror and asked：",
+      "\"Mirror, mirror on the wall，",
+      "Who's the fairest of all？\"",
+      "And every day, the mirror answered：",
+      "\"You, my Queen! You are！",
+      "You are the most beautiful of all.\"",
+      "Time passed and little Snow White became a beautiful",
+      "young lady. Everybody oved her.",
+      "One morning, when the Queen asked her magic mirror：",
+      "Who'ss the fairest of all？\"",
+      "16",
+      "17"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d9290b1f2b3265ec524023f136a11aef59c66e64ce720e4a7bc64f578c40ac0b"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-008",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 8,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff2724_Screenshot-2024-09-17-at-5.36.44-PM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-008.avif",
+    "section": "Same as described above",
+    "alt": "Vector Search Optimization",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.6125000015625,
+          0.8934426239916439,
+          0.125,
+          0.041125276353624174
+        ],
+        "confidence": 0.5,
+        "text": "Vector search"
+      },
+      {
+        "boundingBox": [
+          0.8372093023139954,
+          0.8825214908383964,
+          0.05087209224700928,
+          0.0372492825543439
+        ],
+        "confidence": 0.3,
+        "text": "top_n"
+      },
+      {
+        "boundingBox": [
+          0.8444767453547348,
+          0.8481375366785439,
+          0.039244184494018564,
+          0.032109377119276195
+        ],
+        "confidence": 1,
+        "text": "docs"
+      },
+      {
+        "boundingBox": [
+          0.4649758383961749,
+          0.8325933079827026,
+          0.07440878868103024,
+          0.03681911539148397
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.5708333401233587,
+          0.8111111120999844,
+          0.21666666030883786,
+          0.04134790396984711
+        ],
+        "confidence": 0.5,
+        "text": "Flattened doc patches vectors"
+      },
+      {
+        "boundingBox": [
+          0.2927101984616729,
+          0.6612307014823997,
+          0.12133273124694827,
+          0.1662756460684316
+        ],
+        "confidence": 0.5,
+        "text": "aeury Vectors"
+      },
+      {
+        "boundingBox": [
+          0.3151481843780921,
+          0.6138223113233057,
+          0.12959444046020507,
+          0.1899946236316069
+        ],
+        "confidence": 0.5,
+        "text": "Flatten & Pad"
+      },
+      {
+        "boundingBox": [
+          0.8168403254893961,
+          0.5585635304006284,
+          0.06399376869201656,
+          0.02900474454149793
+        ],
+        "confidence": 0.5,
+        "text": "MaxSims"
+      },
+      {
+        "boundingBox": [
+          0.04360465102496481,
+          0.5271604927375417,
+          0.058139533996582025,
+          0.040740740740740744
+        ],
+        "confidence": 1,
+        "text": "Query-"
+      },
+      {
+        "boundingBox": [
+          0.18313953475507397,
+          0.5243553017266485,
+          0.06686046600341797,
+          0.03737309302812741
+        ],
+        "confidence": 0.5,
+        "text": "ColPali"
+      },
+      {
+        "boundingBox": [
+          0.793604650695091,
+          0.5209876544180645,
+          0.138081398010254,
+          0.032098765432098775
+        ],
+        "confidence": 0.5,
+        "text": "（Late interaction）"
+      },
+      {
+        "boundingBox": [
+          0.39086402866558956,
+          0.4426554411907878,
+          0.11798124313354497,
+          0.043055880511248534
+        ],
+        "confidence": 0.5,
+        "text": "Qeury Vectors"
+      },
+      {
+        "boundingBox": [
+          0.8401162791241455,
+          0.19197707754804294,
+          0.033430233001709,
+          0.03765255256935407
+        ],
+        "confidence": 1,
+        "text": "Top"
+      },
+      {
+        "boundingBox": [
+          0.8546511634116462,
+          0.16045845276204151,
+          0.013081394433975269,
+          0.02578796575098863
+        ],
+        "confidence": 1,
+        "text": "k"
+      }
+    ],
+    "ocr_text": "Vector search\ntop_n\ndocs\nLanceDB\nFlattened doc patches vectors\naeury Vectors\nFlatten & Pad\nMaxSims\nQuery-\nColPali\n（Late interaction）\nQeury Vectors\nTop\nk",
+    "description": "Same as described above中的配图，包含文字：Vector search；top_n；docs；LanceDB；Flattened doc patches vectors；aeury Vectors；Flatten & Pad；MaxSims；Query-；ColPali；（Late interaction）；Qeury Vectors；Top；k",
+    "entities": [
+      "Vector search",
+      "top_n",
+      "docs",
+      "LanceDB",
+      "Flattened doc patches vectors",
+      "aeury Vectors",
+      "Flatten & Pad",
+      "MaxSims",
+      "Query-",
+      "ColPali",
+      "（Late interaction）",
+      "Qeury Vectors",
+      "Top",
+      "k"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "da8d0bfcd20b822e46b8a9c31c56102d6fca568306542903a7526d682457de47"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-009",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 9,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff272b_Screenshot-2024-09-16-at-12.32.11-AM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-009.avif",
+    "section": "Same as before",
+    "alt": "Magic Mirror Vector Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.20625905066147404,
+          0.9041942716060555,
+          0.07294701576232909,
+          0.028388316423812454
+        ],
+        "confidence": 0.5,
+        "text": "Par+ One"
+      },
+      {
+        "boundingBox": [
+          0.043604652778779285,
+          0.8303730015815785,
+          0.3197674369812012,
+          0.020866667610290435
+        ],
+        "confidence": 0.5,
+        "text": "Once upon a time there was a little princess..."
+      },
+      {
+        "boundingBox": [
+          0.04360464847293819,
+          0.7975133214418836,
+          0.36918605804443355,
+          0.01687388987566607
+        ],
+        "confidence": 0.5,
+        "text": "She was called Snow White because she was white as"
+      },
+      {
+        "boundingBox": [
+          0.04215116948287619,
+          0.7539964475128249,
+          0.3953488159179687,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "snow. Her lips were red as blood. And her hair was black"
+      },
+      {
+        "boundingBox": [
+          0.04360465028061967,
+          0.7166962699911704,
+          0.36046512603759767,
+          0.02503926715884708
+        ],
+        "confidence": 0.5,
+        "text": "as night. She was a beautiful girl, sweet and gentle."
+      },
+      {
+        "boundingBox": [
+          0.04215115726616446,
+          0.6818181821940705,
+          0.3968023300170898,
+          0.022727271803319016
+        ],
+        "confidence": 0.5,
+        "text": "She lived in a palace with her father and her stepmother："
+      },
+      {
+        "boundingBox": [
+          0.0436046548755025,
+          0.6446280992567428,
+          0.17296510696411133,
+          0.022727271803318905
+        ],
+        "confidence": 0.5,
+        "text": "the King and the Queen."
+      },
+      {
+        "boundingBox": [
+          0.04360465263387997,
+          0.6115702477109088,
+          0.38517440795898433,
+          0.018980374344712336
+        ],
+        "confidence": 0.5,
+        "text": "The Queen was a beautiful woman. But she was wicked"
+      },
+      {
+        "boundingBox": [
+          0.04360465057169008,
+          0.5743801658719161,
+          0.0654069757461548,
+          0.01887027831949939
+        ],
+        "confidence": 1,
+        "text": "and vain."
+      },
+      {
+        "boundingBox": [
+          0.566860472430136,
+          0.4751332147724755,
+          0.3895348739624024,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "Every day, the Queen looked in her magic mirror and asked："
+      },
+      {
+        "boundingBox": [
+          0.670058140037998,
+          0.43388429787064364,
+          0.19040697097778314,
+          0.02479338772978712
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325577260572,
+          0.4005328598713015,
+          0.17441860198974612,
+          0.02131438721136769
+        ],
+        "confidence": 0.5,
+        "text": "Who's the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.5654069731211109,
+          0.3450413225607264,
+          0.254360466003418,
+          0.02479338772978701
+        ],
+        "confidence": 0.5,
+        "text": "And every day, the mirror answered："
+      },
+      {
+        "boundingBox": [
+          0.674418600253911,
+          0.3016528930238007,
+          0.18459302902221675,
+          0.026943909761960705
+        ],
+        "confidence": 0.5,
+        "text": "\"You, my Queen! You are！"
+      },
+      {
+        "boundingBox": [
+          0.6468023320191424,
+          0.2682060389890968,
+          0.23982557296752927,
+          0.02311627437124031
+        ],
+        "confidence": 0.5,
+        "text": "You are the most beautiful of all.\""
+      },
+      {
+        "boundingBox": [
+          0.5654069734372446,
+          0.21487603329255534,
+          0.379360466003418,
+          0.023134623708775837
+        ],
+        "confidence": 0.5,
+        "text": "Time passed and little Snow White became a beautiful"
+      },
+      {
+        "boundingBox": [
+          0.5654069804564483,
+          0.17761989331172523,
+          0.23255813598632813,
+          0.023090586145648295
+        ],
+        "confidence": 0.5,
+        "text": "young lady. Everybody oved her."
+      },
+      {
+        "boundingBox": [
+          0.5668604669700039,
+          0.14031971554049472,
+          0.383720932006836,
+          0.023090586145648406
+        ],
+        "confidence": 0.5,
+        "text": "One morning, when the Queen asked her magic mirror："
+      },
+      {
+        "boundingBox": [
+          0.67005814148957,
+          0.09917355401733796,
+          0.191860466003418,
+          0.02516037109266589
+        ],
+        "confidence": 0.5,
+        "text": "\"Mirror, mirror on the wall，"
+      },
+      {
+        "boundingBox": [
+          0.6802325607541578,
+          0.06571936082777419,
+          0.17441860198974612,
+          0.02312361410625452
+        ],
+        "confidence": 0.3,
+        "text": "Who'ss the fairest of all？\""
+      },
+      {
+        "boundingBox": [
+          0.02616279094387194,
+          0.018595041184768735,
+          0.015988371372222896,
+          0.016928937888272433
+        ],
+        "confidence": 1,
+        "text": "16"
+      },
+      {
+        "boundingBox": [
+          0.9680232562885562,
+          0.018595041361864295,
+          0.015988371372222976,
+          0.016928937041314818
+        ],
+        "confidence": 1,
+        "text": "17"
+      }
+    ],
+    "ocr_text": "Par+ One\nOnce upon a time there was a little princess...\nShe was called Snow White because she was white as\nsnow. Her lips were red as blood. And her hair was black\nas night. She was a beautiful girl, sweet and gentle.\nShe lived in a palace with her father and her stepmother：\nthe King and the Queen.\nThe Queen was a beautiful woman. But she was wicked\nand vain.\nEvery day, the Queen looked in her magic mirror and asked：\n\"Mirror, mirror on the wall，\nWho's the fairest of all？\"\nAnd every day, the mirror answered：\n\"You, my Queen! You are！\nYou are the most beautiful of all.\"\nTime passed and little Snow White became a beautiful\nyoung lady. Everybody oved her.\nOne morning, when the Queen asked her magic mirror：\n\"Mirror, mirror on the wall，\nWho'ss the fairest of all？\"\n16\n17",
+    "description": "Same as before中的配图，包含文字：Par+ One；Once upon a time there was a little princess...；She was called Snow White because she was white as；snow. Her lips were red as blood. And her hair was black；as night. She was a beautiful girl, sweet and gentle.；She lived in a palace with her father and her stepmother：；the King and the Queen.；The Queen was a beautiful woman. But she was wicked；and vain.；Every day, the Queen looked in her magic mirror and asked：；\"Mirror, mirror on the wall，；Who's the fairest of all？\"；And every day, the mirror answered：；\"You, my Queen! You are！；You are the most beautiful of all.\"；Time passed and little Snow White became a beautiful；young lady. Everybody oved her.；One morning, when the Queen asked her magic mirror：；\"Mirror, mirror on the wall，；Who'ss the fairest of all？\"；16；17",
+    "entities": [
+      "Par+ One",
+      "Once upon a time there was a little princess...",
+      "She was called Snow White because she was white as",
+      "snow. Her lips were red as blood. And her hair was black",
+      "as night. She was a beautiful girl, sweet and gentle.",
+      "She lived in a palace with her father and her stepmother：",
+      "the King and the Queen.",
+      "The Queen was a beautiful woman. But she was wicked",
+      "and vain.",
+      "Every day, the Queen looked in her magic mirror and asked：",
+      "\"Mirror, mirror on the wall，",
+      "Who's the fairest of all？\"",
+      "And every day, the mirror answered：",
+      "\"You, my Queen! You are！",
+      "You are the most beautiful of all.\"",
+      "Time passed and little Snow White became a beautiful",
+      "young lady. Everybody oved her.",
+      "One morning, when the Queen asked her magic mirror：",
+      "Who'ss the fairest of all？\"",
+      "16",
+      "17"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d9290b1f2b3265ec524023f136a11aef59c66e64ce720e4a7bc64f578c40ac0b"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-010",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 10,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c029b2d7afa8742fff273a_Screenshot-2024-09-16-at-3.39.06-PM.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-010.avif",
+    "section": "Same as before",
+    "alt": "Arabian Nights Result",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.276422764447832,
+          0.599706744916911,
+          0.02642276422764228,
+          0.011730205278592476
+        ],
+        "confidence": 0.3,
+        "text": "11！"
+      },
+      {
+        "boundingBox": [
+          0.05894308274051501,
+          0.11436950149071368,
+          0.8028455284552846,
+          0.02052785923753664
+        ],
+        "confidence": 0.5,
+        "text": "“When she came to the border ofthe lake, she took a little water in her"
+      },
+      {
+        "boundingBox": [
+          0.08130081028963425,
+          0.08944281552419364,
+          0.758130081300813,
+          0.021994134897360684
+        ],
+        "confidence": 0.5,
+        "text": "hand, and scattered it about... The fish became men, women, and"
+      },
+      {
+        "boundingBox": [
+          0.40225690479889425,
+          0.06978757245679357,
+          0.11621790009785476,
+          0.020248901109891193
+        ],
+        "confidence": 0.5,
+        "text": "children\""
+      }
+    ],
+    "ocr_text": "11！\n“When she came to the border ofthe lake, she took a little water in her\nhand, and scattered it about... The fish became men, women, and\nchildren\"",
+    "description": "Same as before中的配图，包含文字：11！；“When she came to the border ofthe lake, she took a little water in her；hand, and scattered it about... The fish became men, women, and；children\"",
+    "entities": [
+      "11！",
+      "“When she came to the border ofthe lake, she took a little water in her",
+      "hand, and scattered it about... The fish became men, women, and",
+      "children\""
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "a748d5be30aea3efac0016a15070555f0c99d45b9f19d46dfaab227be4475903"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-011",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 11,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/69c2da55256db3a1ce1175ef_ayush-chaurasia.avif",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-011.avif",
+    "section": "Future Work",
+    "alt": "",
+    "ocr_lines": [],
+    "ocr_text": "",
+    "description": "Future Work中的配图，未识别出文字。",
+    "entities": [],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "528ddfba6d43c55fef88331804bf24d0c701bb070910eaa5aef28b4b6d26e4e5"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-012",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 12,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a567183dd1ae093c21b81d5_opt3.png",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-012.png",
+    "section": "Future Work",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.029166677645014866,
+          0.8811040337557081,
+          0.36666665693219197,
+          0.06704411435785318
+        ],
+        "confidence": 0.3,
+        "text": "冬：LanceDB| lul ByteDance"
+      }
+    ],
+    "ocr_text": "冬：LanceDB| lul ByteDance",
+    "description": "Future Work中的配图，包含文字：冬：LanceDB| lul ByteDance",
+    "entities": [
+      "冬：LanceDB| lul ByteDance"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "4d5bfd7e81e228677b3ccd255f4e0bb63897618d759269088524b51ab21af9bc"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-013",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 13,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a50fef0022a597f28313428_hero%20img.png",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-013.png",
+    "section": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.09437049756736007,
+          0.8857202289854825,
+          0.1266659823330966,
+          0.050724491192277066
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      },
+      {
+        "boundingBox": [
+          0.06311930999691687,
+          0.44926630195067907,
+          0.11939877414247066,
+          0.036990297321554566
+        ],
+        "confidence": 0.5,
+        "text": "LONG VIDEO / TRAJECTORY."
+      },
+      {
+        "boundingBox": [
+          0.5770348874827572,
+          0.47422680449816723,
+          0.20639534544146232,
+          0.02061855615830477
+        ],
+        "confidence": 0.5,
+        "text": "RANDOM-ACCESS MULTIMODAL SAMPLES"
+      },
+      {
+        "boundingBox": [
+          0.779069769085607,
+          0.4352441611271717,
+          0.05377906817568545,
+          0.015923566878980888
+        ],
+        "confidence": 0.5,
+        "text": "STATE VECTORS"
+      },
+      {
+        "boundingBox": [
+          0.8502906982216633,
+          0.4329896910282647,
+          0.04941860454504565,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "INSTRUCTIONS"
+      },
+      {
+        "boundingBox": [
+          0.9229415451561604,
+          0.4302220619312217,
+          0.039291327079517435,
+          0.015844536435072554
+        ],
+        "confidence": 0.5,
+        "text": "METADATA"
+      },
+      {
+        "boundingBox": [
+          0.815406977322659,
+          0.4072164947911513,
+          0.01453488295158123,
+          0.01546391711872852
+        ],
+        "confidence": 0.5,
+        "text": "0.12"
+      },
+      {
+        "boundingBox": [
+          0.8139534888239758,
+          0.3938428872361248,
+          0.015988371588967043,
+          0.013800424628450103
+        ],
+        "confidence": 0.5,
+        "text": "-0.47"
+      },
+      {
+        "boundingBox": [
+          0.8497093039091448,
+          0.386002366614666,
+          0.035956293772282155,
+          0.021667502741398614
+        ],
+        "confidence": 0.5,
+        "text": "Fold the"
+      },
+      {
+        "boundingBox": [
+          0.8125000004100793,
+          0.37579617817014066,
+          0.017441860226352857,
+          0.013800424628450103
+        ],
+        "confidence": 0.3,
+        "text": "-0.88"
+      },
+      {
+        "boundingBox": [
+          0.8482687535416994,
+          0.3649547899669995,
+          0.0463706705558814,
+          0.023983034105564127
+        ],
+        "confidence": 0.5,
+        "text": "shirt along"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.3608247422811943,
+          0.01453488295158134,
+          0.012886598105137037
+        ],
+        "confidence": 0.3,
+        "text": "-1.36"
+      },
+      {
+        "boundingBox": [
+          0.8480744871124795,
+          0.34385492168415643,
+          0.04947617179469066,
+          0.025952501155262042
+        ],
+        "confidence": 0.5,
+        "text": "the sleeves"
+      },
+      {
+        "boundingBox": [
+          0.8139534889990154,
+          0.3427835057062053,
+          0.01453488295158134,
+          0.012886597092743868
+        ],
+        "confidence": 0.5,
+        "text": "0.21"
+      },
+      {
+        "boundingBox": [
+          0.5173148244423628,
+          0.32614479820726194,
+          0.042405233428809086,
+          0.017813496275818852
+        ],
+        "confidence": 0.5,
+        "text": "00:03:14.120"
+      },
+      {
+        "boundingBox": [
+          0.5766138750857853,
+          0.3180766781013644,
+          0.041594824722509194,
+          0.020147744763935216
+        ],
+        "confidence": 0.5,
+        "text": "00:08:47.S32"
+      },
+      {
+        "boundingBox": [
+          0.8125000004518828,
+          0.32696390660533114,
+          0.015988371588967043,
+          0.013242279141824964
+        ],
+        "confidence": 0.5,
+        "text": "-0.22"
+      },
+      {
+        "boundingBox": [
+          0.6351744189448671,
+          0.3118556702421821,
+          0.040697672720731104,
+          0.01546391711872852
+        ],
+        "confidence": 1,
+        "text": "00:12:21.067"
+      },
+      {
+        "boundingBox": [
+          0.6947674429540102,
+          0.30148619944089716,
+          0.046511627270274136,
+          0.01810142897749656
+        ],
+        "confidence": 1,
+        "text": "00:18:03.944"
+      },
+      {
+        "boundingBox": [
+          0.8125000000340049,
+          0.31185567074056963,
+          0.015988371588967043,
+          0.012985093831509809
+        ],
+        "confidence": 0.5,
+        "text": "-022"
+      },
+      {
+        "boundingBox": [
+          0.8139534889384535,
+          0.2938144330028438,
+          0.01453488295158134,
+          0.012979622352907838
+        ],
+        "confidence": 1,
+        "text": "0.73"
+      },
+      {
+        "boundingBox": [
+          0.5689343463575939,
+          0.2139485437267633,
+          0.05117342004365333,
+          0.02712554486187646
+        ],
+        "confidence": 0.5,
+        "text": "TIME INDEX"
+      },
+      {
+        "boundingBox": [
+          0.8284883734138094,
+          0.08247422699397744,
+          0.08284883636036555,
+          0.018375030242207213
+        ],
+        "confidence": 1,
+        "text": "TRAINING-READY"
+      },
+      {
+        "boundingBox": [
+          0.8241279081237705,
+          0.059278350657961054,
+          0.09156976362164515,
+          0.02061855615830477
+        ],
+        "confidence": 1,
+        "text": "DATA FOUNDATION"
+      }
+    ],
+    "ocr_text": "LanceDB\nLONG VIDEO / TRAJECTORY.\nRANDOM-ACCESS MULTIMODAL SAMPLES\nSTATE VECTORS\nINSTRUCTIONS\nMETADATA\n0.12\n-0.47\nFold the\n-0.88\nshirt along\n-1.36\nthe sleeves\n0.21\n00:03:14.120\n00:08:47.S32\n-0.22\n00:12:21.067\n00:18:03.944\n-022\n0.73\nTIME INDEX\nTRAINING-READY\nDATA FOUNDATION",
+    "description": "How ByteDance’s Volcano Engine Rebuilt Its AI Stack on Lance, From Data Lake to Agent Memory at 100K+ QPS中的配图，包含文字：LanceDB；LONG VIDEO / TRAJECTORY.；RANDOM-ACCESS MULTIMODAL SAMPLES；STATE VECTORS；INSTRUCTIONS；METADATA；0.12；-0.47；Fold the；-0.88；shirt along；-1.36；the sleeves；0.21；00:03:14.120；00:08:47.S32；-0.22；00:12:21.067；00:18:03.944；-022；0.73；TIME INDEX；TRAINING-READY；DATA FOUNDATION",
+    "entities": [
+      "LanceDB",
+      "LONG VIDEO / TRAJECTORY.",
+      "RANDOM-ACCESS MULTIMODAL SAMPLES",
+      "STATE VECTORS",
+      "INSTRUCTIONS",
+      "METADATA",
+      "0.12",
+      "-0.47",
+      "Fold the",
+      "-0.88",
+      "shirt along",
+      "-1.36",
+      "the sleeves",
+      "0.21",
+      "00:03:14.120",
+      "00:08:47.S32",
+      "-0.22",
+      "00:12:21.067",
+      "00:18:03.944",
+      "-022",
+      "0.73",
+      "TIME INDEX",
+      "TRAINING-READY",
+      "DATA FOUNDATION"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "31bb069f88e3df4e301e898d5c81252b288729ec5a6f49a72b93ba00ef9ca36e"
+  },
+  {
+    "figure_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c-fig-014",
+    "doc_id": "1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c",
+    "seq": 14,
+    "source_url": "https://cdn.prod.website-files.com/69b2da72cae7eea2b0091d5f/6a510da7aa738b84d6e9c040_preview-image.png",
+    "image_path": "images/1463-https-www-lancedb-com-blog-late-interaction-effi-f0db380c/figure-014.png",
+    "section": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.07678998663633918,
+          0.9074900208554597,
+          0.10950142344789643,
+          0.04326738167214039
+        ],
+        "confidence": 1,
+        "text": "LanceDB"
+      }
+    ],
+    "ocr_text": "LanceDB",
+    "description": "Rebuilding the Data Foundation for Embodied AI with Lance: From Long Videos to Random-Access-Friendly Multimodal Samples中的配图，包含文字：LanceDB",
+    "entities": [
+      "LanceDB"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "47cdebedfdd290fec135cbc39749ecdaf17e4fc3870ac2ef98516a69c32e734c"
+  }
+]

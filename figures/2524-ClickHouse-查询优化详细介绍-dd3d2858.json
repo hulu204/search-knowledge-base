@@ -1,0 +1,410 @@
+[
+  {
+    "figure_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858-fig-001",
+    "doc_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858",
+    "seq": 1,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_gif/j3gficicyOvasIjZpiaTNIPReJVWEJf7UGpmokI3LL4NbQDb8fO48fYROmYPXUhXFN8IdDqPcI1gA6OfSLsQHxB4w/640?wx_fmt=gif",
+    "image_path": "images/2524-ClickHouse-查询优化详细介绍-dd3d2858/figure-001.gif",
+    "section": "",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.30000000259375,
+          0.25000000117187504,
+          0.415,
+          0.5
+        ],
+        "confidence": 1,
+        "text": "Tencent"
+      }
+    ],
+    "ocr_text": "Tencent",
+    "description": "文章中的配图，包含文字：Tencent",
+    "entities": [
+      "Tencent"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "d7651a0fe9ca3d3605eab249b41d73a282a924934ac371606433e63f2c45da27"
+  },
+  {
+    "figure_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858-fig-002",
+    "doc_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858",
+    "seq": 2,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/j3gficicyOvattWZDn1dwv0vjYR7hBqEQuzrIiaVYBFRFH3XBGYwEG0KWc8HWOST0OVd7dCHQmPBiasgzbRxE19iaEw/640?wx_fmt=png",
+    "image_path": "images/2524-ClickHouse-查询优化详细介绍-dd3d2858/figure-002.png",
+    "section": "ClickHouse 查询执行过程",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.35000000223379624,
+          0.9032258065956221,
+          0.3574074074074074,
+          0.06912442396313367
+        ],
+        "confidence": 0.5,
+        "text": "1构建AST，-优化后生成执行计划pipeline"
+      },
+      {
+        "boundingBox": [
+          0.06296296415123452,
+          0.7741935486175116,
+          0.1425925925925926,
+          0.06451612903225801
+        ],
+        "confidence": 0.3,
+        "text": "executeaueryl"
+      },
+      {
+        "boundingBox": [
+          0.3083333310416667,
+          0.7731958755537153,
+          0.1833333333333333,
+          0.0724262444105016
+        ],
+        "confidence": 0.5,
+        "text": "executeQueryImpl（）"
+      },
+      {
+        "boundingBox": [
+          0.5425925957407407,
+          0.7649769577188941,
+          0.32592592592592595,
+          0.06451612903225801
+        ],
+        "confidence": 0.5,
+        "text": "src/Interpreters/executeavery.cpp"
+      },
+      {
+        "boundingBox": [
+          0.13923868083531132,
+          0.5516688254780443,
+          0.17383699063901548,
+          0.08592836318477504
+        ],
+        "confidence": 0.3,
+        "text": "2.多线程执行DAG"
+      },
+      {
+        "boundingBox": [
+          0.0888888893121693,
+          0.44700460868992753,
+          0.08888888888888889,
+          0.055299539170506895
+        ],
+        "confidence": 0.5,
+        "text": "executel"
+      },
+      {
+        "boundingBox": [
+          0.5416666857257305,
+          0.4329896916256919,
+          0.4541666384096499,
+          0.07216494424002518
+        ],
+        "confidence": 0.5,
+        "text": "sre/Processors/Executors/completedPipelineExes"
+      },
+      {
+        "boundingBox": [
+          0.0694572132149215,
+          0.09062450028142632,
+          0.1280715235957393,
+          0.08174162306543875
+        ],
+        "confidence": 0.5,
+        "text": "executeImplO"
+      },
+      {
+        "boundingBox": [
+          0.5425925882037038,
+          0.10138248815668205,
+          0.4388888888888889,
+          0.06912442396313367
+        ],
+        "confidence": 0.5,
+        "text": "src/Processors/Executors/PipelineExecutor.cpp"
+      }
+    ],
+    "ocr_text": "1构建AST，-优化后生成执行计划pipeline\nexecuteaueryl\nexecuteQueryImpl（）\nsrc/Interpreters/executeavery.cpp\n2.多线程执行DAG\nexecutel\nsre/Processors/Executors/completedPipelineExes\nexecuteImplO\nsrc/Processors/Executors/PipelineExecutor.cpp",
+    "description": "ClickHouse 查询执行过程中的配图，包含文字：1构建AST，-优化后生成执行计划pipeline；executeaueryl；executeQueryImpl（）；src/Interpreters/executeavery.cpp；2.多线程执行DAG；executel；sre/Processors/Executors/completedPipelineExes；executeImplO；src/Processors/Executors/PipelineExecutor.cpp",
+    "entities": [
+      "1构建AST，-优化后生成执行计划pipeline",
+      "executeaueryl",
+      "executeQueryImpl（）",
+      "src/Interpreters/executeavery.cpp",
+      "2.多线程执行DAG",
+      "executel",
+      "sre/Processors/Executors/completedPipelineExes",
+      "executeImplO",
+      "src/Processors/Executors/PipelineExecutor.cpp"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "666dd1242329585c2c3635b3ae5c6ff1e56b152b17a0c17bd1205fc83ee64a7f"
+  },
+  {
+    "figure_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858-fig-003",
+    "doc_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858",
+    "seq": 3,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/j3gficicyOvattWZDn1dwv0vjYR7hBqEQuLLbiaE7MOZibbmUWVFriaBZxe3se8gxsWWWyT3d3a9NZbEZOahH2BPJ3g/640?wx_fmt=png",
+    "image_path": "images/2524-ClickHouse-查询优化详细介绍-dd3d2858/figure-003.png",
+    "section": "优化器",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.4110915988019223,
+          0.942240878371731,
+          0.22413833186311544,
+          0.023948475344097164
+        ],
+        "confidence": 1,
+        "text": "初始化settings"
+      },
+      {
+        "boundingBox": [
+          0.2643051774029098,
+          0.8241206030350899,
+          0.13079018862742298,
+          0.018902652227698824
+        ],
+        "confidence": 0.5,
+        "text": "优化with"
+      },
+      {
+        "boundingBox": [
+          0.2583100441919783,
+          0.7009015115320053,
+          0.14278045690284585,
+          0.02261558249967177
+        ],
+        "confidence": 0.5,
+        "text": "优化joins"
+      },
+      {
+        "boundingBox": [
+          0.6975476839082319,
+          0.7034883726126957,
+          0.035422343128132305,
+          0.018895348112786925
+        ],
+        "confidence": 1,
+        "text": "是"
+      },
+      {
+        "boundingBox": [
+          0.07629428496998104,
+          0.5797738692558714,
+          0.5095367791517725,
+          0.020728643216080367
+        ],
+        "confidence": 1,
+        "text": "谓词下推将where 下推到prewhere"
+      },
+      {
+        "boundingBox": [
+          0.40326976038029927,
+          0.3866279071633295,
+          0.23978200948463302,
+          0.020407268150367863
+        ],
+        "confidence": 1,
+        "text": "是否要再次优化"
+      },
+      {
+        "boundingBox": [
+          0.5068119894940628,
+          0.2383720934702538,
+          0.035422343128132305,
+          0.018895348112786925
+        ],
+        "confidence": 1,
+        "text": "否"
+      },
+      {
+        "boundingBox": [
+          0.3978201660631181,
+          0.1582914576322244,
+          0.26158037725484595,
+          0.02198492462311552
+        ],
+        "confidence": 1,
+        "text": "检查storage权限"
+      },
+      {
+        "boundingBox": [
+          0.2561308011755501,
+          0.03488372107563953,
+          0.5340599204009434,
+          0.02180232474552324
+        ],
+        "confidence": 1,
+        "text": "生成analysis_result和result_header"
+      }
+    ],
+    "ocr_text": "初始化settings\n优化with\n优化joins\n是\n谓词下推将where 下推到prewhere\n是否要再次优化\n否\n检查storage权限\n生成analysis_result和result_header",
+    "description": "优化器中的配图，包含文字：初始化settings；优化with；优化joins；是；谓词下推将where 下推到prewhere；是否要再次优化；否；检查storage权限；生成analysis_result和result_header",
+    "entities": [
+      "初始化settings",
+      "优化with",
+      "优化joins",
+      "是",
+      "谓词下推将where 下推到prewhere",
+      "是否要再次优化",
+      "否",
+      "检查storage权限",
+      "生成analysis_result和result_header"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "66a1ecc077088f525fb770257dc8c545f905259626b7e4b0c3715b5c57a070fb"
+  },
+  {
+    "figure_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858-fig-004",
+    "doc_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858",
+    "seq": 4,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/j3gficicyOvattWZDn1dwv0vjYR7hBqEQudEOiaIKzbF5BOgX83SfChLY7MnNfXQZs4INKBWues9VUjZSvVMmEZGg/640?wx_fmt=png",
+    "image_path": "images/2524-ClickHouse-查询优化详细介绍-dd3d2858/figure-004.png",
+    "section": "索引设计",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.17818181167272737,
+          0.8770949720391061,
+          0.6509090909090909,
+          0.04189944134078216
+        ],
+        "confidence": 0.5,
+        "text": "Partition Key MinMax Index"
+      },
+      {
+        "boundingBox": [
+          0.4072727289090909,
+          0.6117318436918062,
+          0.19636363636363635,
+          0.036312849162011274
+        ],
+        "confidence": 0.5,
+        "text": "Partition"
+      },
+      {
+        "boundingBox": [
+          0.20000000438961035,
+          0.3351955308659217,
+          0.6145454545454545,
+          0.04189944134078216
+        ],
+        "confidence": 0.5,
+        "text": "Primary Key Sparse Index"
+      },
+      {
+        "boundingBox": [
+          0.24363636803030297,
+          0.06424581021880826,
+          0.5272727272727272,
+          0.04189944134078205
+        ],
+        "confidence": 1,
+        "text": "Data Skipping Indexes"
+      }
+    ],
+    "ocr_text": "Partition Key MinMax Index\nPartition\nPrimary Key Sparse Index\nData Skipping Indexes",
+    "description": "索引设计中的配图，包含文字：Partition Key MinMax Index；Partition；Primary Key Sparse Index；Data Skipping Indexes",
+    "entities": [
+      "Partition Key MinMax Index",
+      "Partition",
+      "Primary Key Sparse Index",
+      "Data Skipping Indexes"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "16ffaf2c6451eaee8f0507abc6136ec34edeaee66ac9eeebcfbb9144caed6d8f"
+  },
+  {
+    "figure_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858-fig-005",
+    "doc_id": "2524-ClickHouse-查询优化详细介绍-dd3d2858",
+    "seq": 5,
+    "source_url": "https://mmbiz.qpic.cn/mmbiz_png/j3gficicyOvattWZDn1dwv0vjYR7hBqEQuYCsQib11zzZhd2hicf4ZsVI00QzFVemWuSgDA3vO0JFtKboTQ5ea1Cww/640?wx_fmt=png",
+    "image_path": "images/2524-ClickHouse-查询优化详细介绍-dd3d2858/figure-005.png",
+    "section": "读写分离",
+    "alt": "",
+    "ocr_lines": [
+      {
+        "boundingBox": [
+          0.009123689067848252,
+          0.9275672856745789,
+          0.07804891798231336,
+          0.04930229154463106
+        ],
+        "confidence": 1,
+        "text": "Replica"
+      },
+      {
+        "boundingBox": [
+          0.37941938265182806,
+          0.9193883572171141,
+          0.1559760482222946,
+          0.05883420286731911
+        ],
+        "confidence": 0.5,
+        "text": "Replica提高并发"
+      },
+      {
+        "boundingBox": [
+          0.8351851853935184,
+          0.28327645102389076,
+          0.1537037037037038,
+          0.04095563139931746
+        ],
+        "confidence": 0.5,
+        "text": "Shard提高IOPS"
+      },
+      {
+        "boundingBox": [
+          0.6685185184259258,
+          0.023890785226718503,
+          0.01666666666666672,
+          0.03412969283276457
+        ],
+        "confidence": 1,
+        "text": "3"
+      },
+      {
+        "boundingBox": [
+          0.812962963449074,
+          0.023890785452218566,
+          0.061111111111111005,
+          0.03754266211604085
+        ],
+        "confidence": 0.5,
+        "text": "Shard"
+      }
+    ],
+    "ocr_text": "Replica\nReplica提高并发\nShard提高IOPS\n3\nShard",
+    "description": "读写分离中的配图，包含文字：Replica；Replica提高并发；Shard提高IOPS；3；Shard",
+    "entities": [
+      "Replica",
+      "Replica提高并发",
+      "Shard提高IOPS",
+      "3",
+      "Shard"
+    ],
+    "relations": [],
+    "analysis_backend": "apple-vision-ocr",
+    "status": "ready",
+    "error": "",
+    "content_hash": "9ef5293e1ab16e084728c3fe15191bc4716110d461cae955bbd6761381b65b50"
+  }
+]
