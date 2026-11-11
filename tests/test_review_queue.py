@@ -123,7 +123,9 @@ class ReviewQueueTest(unittest.TestCase):
         self.assertEqual("", retried["error"])
 
     def test_daily_update_consumes_approved_candidates(self) -> None:
-        source = (Path(__file__).parents[1] / "daily_update.py").read_text(encoding="utf-8")
+        import daily_update
+
+        source = Path(daily_update.__file__).read_text(encoding="utf-8")
         self.assertIn('"review_queue.py", "ingest-approved"', source)
 
     def test_auto_triage_uses_title_filter_for_curated_hosts(self) -> None:

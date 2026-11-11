@@ -21,6 +21,9 @@ type Stats = {
 
 type SearchResult = {
   doc_id: string;
+  chunk_id: number;
+  seq: number;
+  path: string;
   title: string;
   company: string;
   tag: string;
@@ -30,7 +33,7 @@ type SearchResult = {
   score: number;
 };
 
-type DocumentDetail = Omit<SearchResult, "text" | "score"> & {
+type DocumentDetail = Omit<SearchResult, "text" | "score" | "chunk_id" | "seq" | "path"> & {
   markdown: string;
 };
 
@@ -91,7 +94,9 @@ function ResultCard({
           <button className="text-button" onClick={() => onOpen(item.doc_id)}>
             阅读全文
           </button>
-          <span className="doc-id">doc_id: {item.doc_id}</span>
+          <span className="doc-id">
+            doc_id: {item.doc_id} · chunk_id: {item.chunk_id} · seq: {item.seq}
+          </span>
           {item.url && (
             <a href={item.url} target="_blank" rel="noreferrer">
               查看原文 ↗

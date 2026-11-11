@@ -2,7 +2,7 @@
 
 本地知识库：把公开的搜索 / 推荐 / RAG 技术文章，走完「爬取 → 解析切块 → 混合索引 → 带引用检索」。
 
-在线演示：[hulu204.github.io/sgt-kb](https://hulu204.github.io/sgt-kb/)（用仓库内公开样例做**标题和摘要的关键词检索**，不是本地 bge-m3 的 dense / sparse 混合检索）。
+在线演示：[hulu204.github.io/sgt-kb](https://hulu204.github.io/sgt-kb/)（**离线静态词法检索**：搜索公开文章入库时存储的全部 chunks，显示命中的完整 chunk 和引用）。Pages 的检索在浏览器内完成；本地 bge-m3 dense / sparse + RRF 检索需另行运行。
 
 完整的 dense + sparse 混合检索、全文阅读和工作台需要在本地运行，并自行下载 [bge-m3](https://huggingface.co/BAAI/bge-m3) 到 `models/bge-m3/`。
 
@@ -31,25 +31,27 @@
     → 清洗与切块（标题树递归，按 token 预算在标题和段落边界切开，无 overlap）
     → 本地 bge-m3：dense 向量 + sparse 词权重
     → 应用层 RRF 融合
-    → 结果带标题、来源、doc_id 和原文链接
+    → 返回索引内命中 chunk 原文，带标题、来源、doc_id、chunk_id 和原文链接
 ```
 
-本地 Web 工作台只绑定 loopback，语料默认留在本机。上面这条流水线描述的是本地完整系统；GitHub Pages 演示页只检索标题和摘要关键词。
+本地 Web 工作台只绑定 loopback，语料默认留在本机。上面这条流水线描述的是本地完整系统；GitHub Pages 使用入库 chunks 的静态导出做词法检索。两种界面均直接显示存储的命中 chunk；展示层只转义 HTML 或高亮匹配，不在查询时切片或生成摘要。
 
 ## 仓库里有什么
 
 - 采集、切块、索引、MCP 和服务端代码
 - 2421 篇公开技术文章正文（微信公众号、Elastic、LanceDB、个人技术博客等），目录见上
 - 配图 OCR / 说明 sidecar（`figures/`）
-- 可点开的 GitHub Pages 演示（标题和摘要关键词检索）
+- 可点开的 GitHub Pages 演示（完整入库 chunks 的离线静态词法检索）
 
 语料起点是 [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry)，后续又补充了公开网页和公众号技术文。版权归原作者，这里只做检索演示，请通过每篇文章的 `url` 访问原文。
+
+实现代码按职责放在 `sgt_kb/` 中：`collection/` 负责采集、解析与队列，`indexing/` 负责入库、切块与静态导出，`retrieval/` 放检索评分辅助逻辑，`service/` 提供 MCP 和本地 HTTP 服务。前端保留在 `workbench/` 和 `docs/`（Pages）。根目录同名 Python 文件是兼容入口，原有命令和 imports 可继续使用。
 
 ## 仓库里没有什么
 
 - embedding 模型（约 2GB，需自行下载）
 - 配图原文件（约 881MB，不放入 git）
-- 已构建的本地索引（克隆后用 `build_index.py` 生成）
+- SQLite / 向量索引（克隆后用 `build_index.py` 生成；Pages 静态 JSON 导出除外）
 - 微信 / 微信读书等登录态，以及任何密钥
 - 公司内部文档、未授权网盘文件或提取码
 
@@ -75,6 +77,29 @@ uv run build_index.py
 ```
 
 可选的持续采集还有公开 RSS（`rss_poll.py`）和 Wayback 历史页（`wayback_wechat.py`）。微信公众号后台登录态是可选的本机能力，凭据只应写在被 gitignore 的 `.wechat_mp_auth.json`，不要提交到仓库。
+
+## 重建 Pages 静态数据
+
+无需模型、网络或新增依赖，只读取本仓库 `articles/` 和已有的 `figures/` 文本 sidecar：
+
+```bash
+python3 build_index.py --lexical-only --public-only
+python3 export_pages.py
+python3 -m http.server 8000 --directory docs
+```
+
+第一步复用同一个 `load_docs` 清洗和标题树 `chunk_text` 入库流程，将 chunks 写入独立的 `index/public-static/kb.sqlite`。由于公开 checkout 不含 bge-m3 tokenizer，离线入库显式使用 `utf8-bytes-v1` 容量计数（UTF-8 字节数）；这会与 bge-m3 token 计数产生不同的分块边界，不代表生产索引。默认混合索引仍使用原来的 bge-m3 tokenizer，二者禁止写入同一索引目录。
+
+第二步仅从 SQLite 原样导出 `docs` 元数据和 `chunks.text` / `chunk_id` / `doc_id` / `seq` 到 `docs/demo-index.json`，不重新读取文章制作摘要。导出器拒绝包含 `extra-docs/` 的索引。也可将公开语料的混合索引原样导出：`uv run build_index.py --public-only` 后执行 `python3 export_pages.py --db index/kb.sqlite`。
+
+当前静态数据含 2,402 篇符合既有入库条件的文档、68,833 个 chunks；全部 2,421 篇文章和目录保持完整，原流程会跳过 metadata-only 或清洗后不足 200 字符的正文。Pages 搜索全部 chunks，并选每篇文章得分最高的命中块展示。中文连续词串按完整词串匹配，不拆成单字；中英混合词支持 Unicode 归一化，`查询理解` / `Query理解` / `Query Understanding` 使用通用双语同义词组。排序综合命中词组覆盖、标题匹配和有限的词频，不使用 embedding 或云服务。
+
+验证命令（现有 Python 运行依赖需已安装；静态导出和 Node 测试只用标准库）：
+
+```bash
+python3 -m unittest discover -s tests -v
+node --test tests/*.test.mjs
+```
 
 ## MCP
 

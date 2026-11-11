@@ -103,7 +103,7 @@
       font-size: 12px;
     }
     .chip.tag { background: #e4ecea; color: var(--teal); }
-    .snippet { margin: 0 0 8px; color: var(--ink); }
+    .snippet { margin: 0 0 8px; color: var(--ink); white-space: pre-wrap; overflow-wrap: anywhere; }
     mark { background: #f6e2a1; color: inherit; padding: 0 1px; }
     .cite { font-size: 12px; color: var(--muted); font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
     footer { color: var(--muted); font-size: 13px; margin-top: 36px; }
@@ -118,16 +118,17 @@
 <body>
   <header>
     <p class="kicker">sgt-kb demo</p>
-    <h1>爬取、切块、索引、混合检索，结果带来源引用</h1>
-    <p class="lede">这是公开技术文章知识库的可点开演示。下面用仓库里约 2400 篇公开文章的标题和摘要做检索；完整的 bge-m3 混合检索和全文阅读在本地运行。</p>
+    <h1>公开文章离线检索，展示已入库的原始分块</h1>
+    <p class="lede">这是离线静态词法检索演示（offline static lexical retrieval），搜索仓库公开文章经入库流水线产生的全部分块，直接展示命中的完整存储文本并保留来源。Pages 不连接 SQLite，也不运行模型。</p>
   </header>
   <main>
-    <div class="pipeline" aria-label="流水线">
+    <p class="meta">本地完整流水线（与下方 Pages 静态检索独立）：</p>
+    <div class="pipeline" aria-label="本地完整流水线">
       <div class="step"><b>1. 爬取</b><span>公开 URL、RSS，或可选的本机公众号采集。</span></div>
       <div class="step"><b>2. 解析分块</b><span>按标题树递归切块，在标题和段落边界切开。</span></div>
       <div class="step"><b>3. 索引</b><span>本地 bge-m3 写入 dense 向量和 sparse 词权重。</span></div>
       <div class="step"><b>4. 混合检索</b><span>双路召回后做 RRF 融合，可按来源和主题过滤。</span></div>
-      <div class="step"><b>5. 带引用结果</b><span>每条结果保留标题、来源、doc_id 和原文链接。</span></div>
+      <div class="step"><b>5. 带引用结果</b><span>每条结果保留标题、来源、doc_id、chunk_id 和原文链接。</span></div>
     </div>
 
     <form class="search" id="form">
@@ -146,74 +147,25 @@
       演示语料来自公开技术博客和公众号，版权归原作者，请打开原文链接阅读。代码仓库：<a href="https://github.com/hulu204/sgt-kb">github.com/hulu204/sgt-kb</a>。
     </footer>
   </main>
+  <script src="./search.js"></script>
   <script>
     const $ = (id) => document.getElementById(id);
     const status = $("status");
     const results = $("results");
-    let docs = [];
-
-    const tokenize = (s) => (s || "").toLowerCase().match(/[\u4e00-\u9fff]|[a-z0-9_]+/g) || [];
-
-    function score(doc, terms) {
-      const title = tokenize(doc.title);
-      const body = tokenize(`${doc.company} ${doc.tag} ${doc.snippet}`);
-      let s = 0;
-      for (const t of terms) {
-        const tc = title.filter((x) => x === t || (t.length > 1 && x.includes(t))).length;
-        const bc = body.filter((x) => x === t || (t.length > 1 && x.includes(t))).length;
-        if (tc || bc) s += 4 * tc + bc;
-      }
-      return s;
-    }
-
-    function highlight(text, terms) {
-      const raw = text || "";
-      const escaped = raw.replace(/[&<>]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
-      if (!terms.length) return escaped;
-      const pattern = terms
-        .slice()
-        .sort((a, b) => b.length - a.length)
-        .map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
-        .join("|");
-      if (!pattern) return escaped;
-      return escaped.replace(new RegExp(`(${pattern})`, "gi"), "<mark>$1</mark>");
-    }
+    let index;
 
     function render(query) {
-      const terms = tokenize(query);
-      if (!docs.length) return;
-      if (!terms.length) {
-        status.textContent = `已加载 ${docs.length} 篇公开文章。输入问题后检索。`;
+      if (!index) return;
+      if (!SgtSearch.queryTerms(query).length) {
+        status.textContent = `已加载 ${index.docCount} 篇公开文章、${index.chunkCount} 个入库分块。输入问题后进行离线静态词法检索。`;
         results.innerHTML = "";
         return;
       }
-      const ranked = docs
-        .map((d) => ({ d, s: score(d, terms) }))
-        .filter((x) => x.s > 0)
-        .sort((a, b) => b.s - a.s)
-        .slice(0, 12);
+      const ranked = index.search(query);
       status.textContent = ranked.length
-        ? `找到 ${ranked.length === 12 ? "至少 12" : ranked.length} 条相关结果（演示为标题和摘要检索）`
+        ? `找到 ${ranked.length === 12 ? "至少 12" : ranked.length} 篇相关文章（离线静态词法检索；展示每篇的最佳命中存储分块）`
         : "没有命中，换个词试试。";
-      results.innerHTML = ranked
-        .map(({ d }) => {
-          const href = d.url || "#";
-          const chips = [
-            d.company ? `<span class="chip">${highlight(d.company, terms)}</span>` : "",
-            d.tag ? `<span class="chip tag">${highlight(d.tag, terms)}</span>` : "",
-            d.date ? `<span class="chip tag">${d.date}</span>` : "",
-          ].join("");
-          const link = d.url
-            ? `<a href="${d.url}" target="_blank" rel="noopener noreferrer">${highlight(d.title, terms)}</a>`
-            : highlight(d.title, terms);
-          return `<article class="result">
-            <h2>${link}</h2>
-            <div class="chips">${chips}</div>
-            <p class="snippet">${highlight(d.snippet, terms)}${d.snippet && d.snippet.length >= 240 ? "…" : ""}</p>
-            <div class="cite">doc_id: ${d.id}</div>
-          </article>`;
-        })
-        .join("");
+      results.innerHTML = ranked.map((result) => SgtSearch.renderResult(result, query)).join("");
     }
 
     $("form").addEventListener("submit", (e) => {
@@ -233,8 +185,8 @@
         return r.json();
       })
       .then((data) => {
-        docs = data.docs || [];
-        status.textContent = `已加载 ${docs.length} 篇公开文章。输入问题后检索。`;
+        index = SgtSearch.createSearchIndex(data);
+        render("");
         const params = new URLSearchParams(location.search);
         if (params.get("q")) {
           $("q").value = params.get("q");
