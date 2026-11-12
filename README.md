@@ -92,7 +92,7 @@ python3 -m sgt_kb export-pages --input /path/to/prod-export/ --output-dir docs -
 python3 -m http.server 8000 --directory docs
 ```
 
-生产公开语料预期为 **2402 篇 / 25838 个原始存储 chunks**。仓库保留全部 2421 篇公开文章和目录；生产入库条件会排除 metadata-only 或清洗后过短的文章。当前如果没有生产导出，执行 `python3 -m sgt_kb export-pages --pending --output-dir docs` 可建立明确标为等待导出的空索引。
+当前 Pages 已接入生产库中按公开白名单导出的原始存储 chunks：**2402 篇 / 25838 块**，文档 ID SHA-256 为 `0cb203aa14438799f4bfd4d61861817dab28c3873255a2f4dacf4da3566231eb`，与先前核对一致。导出使用公开仓库 2421 个 `articles/*.md` stem 作为白名单，并要求 `path` 恰好为 `articles/<doc_id>.md`。生产库里 20 篇 `extra-docs/`（709 块）以及 1 篇未进入公开仓库的 `articles/` 文档被排除，未写入静态站点。仓库仍保留全部 2421 篇公开文章和目录。如需重建空的等待态索引，可执行 `python3 -m sgt_kb export-pages --pending --output-dir docs`。
 
 旧 `demo-index.json`（68833 个 `utf8-bytes-v1` chunks）不再作为默认 Pages 语料。这些边界来自 UTF-8 字节预算，不能称为生产 token 预算的原始 chunks。`build-index --lexical-only` 仅供本地独立测试；Pages 生产导出会拒绝已知字节预算索引。
 

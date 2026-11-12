@@ -7,12 +7,15 @@ the source title, URL, `doc_id`, and `chunk_id`. Only HTTP(S) source URLs become
 links. Lexical normalization is used for search copies and index metadata; it
 never changes the text stored in a text shard or displayed in a result.
 
-The committed default is explicitly `pending-production-export`: 0 integrated
-documents and 0 chunks. Its bootstrap index is **257 bytes**. The previous
-44 MB `demo-index.json`, produced with `utf8-bytes-v1` fallback cuts, is removed
-from the default corpus. It was not a production token-budget export. Production
-integration is pending the coordinator's export; fixture tests verify the
-architecture without claiming their text is production data.
+The committed Pages corpus is a dual-filtered export of **unmodified production
+stored chunks**: **2402 documents / 25838 chunks**, `status: stored-chunks`,
+`chunk_boundaries: unmodified-stored-chunks`. The document ID SHA-256 is
+`0cb203aa14438799f4bfd4d61861817dab28c3873255a2f4dacf4da3566231eb`. The first-load
+bootstrap `search-index.json` is **1,637,633 bytes raw / 446,207 bytes gzip**.
+Text is split into 302 shards (max 131,071 bytes); lexical postings are 256
+on-demand files. The previous 44 MB `demo-index.json` (`utf8-bytes-v1` fallback
+cuts) is not the default corpus and is not in the tree. Fixture tests still
+cover the exporter and browser without requiring a private database checkout.
 
 ## Export directly from production SQLite
 
@@ -127,12 +130,14 @@ integrity and review. Actual production bootstrap and shard sizes remain
 unknown until its export is integrated. With no integrated corpus, there are
 no posting or text JSON shard downloads.
 
-The pending homepage's HTML, JavaScript, and bootstrap total **26,377 bytes raw /
-9,491 bytes gzip**. A temporary size-only fixture with 2402 public source metadata
-rows and 25838 synthetic stored chunks produced a **1,603,332-byte bootstrap
-(367,753 bytes gzip)** and 209 text shards, at most 131,060 bytes each. This
-checks the layout at the expected record count; it is not production content or
-a measurement of production postings/text sizes. No synthetic corpus is shipped.
+With the production export integrated, the homepage first load is HTML +
+`search.js` + `search-index.json`: bootstrap **1,637,633 bytes raw / 446,207
+bytes gzip**. Posting files total 53,639,777 bytes (256 shards, fetched only for
+query terms; typical shard about 120–267 KiB, max 454,098). Text shards total
+39,133,933 bytes (302 files, max 131,071 bytes) and are fetched only for
+displayed hits. No synthetic corpus is shipped. The earlier empty pending
+payload (26,377 bytes raw first load) remains available via `--pending` for
+local experiments.
 
 For broad queries, the browser initially examines 48 candidates and all nominated
 chunks of selected documents. It continues until it has 12 exact document hits
