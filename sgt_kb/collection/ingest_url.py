@@ -143,7 +143,7 @@ def ingest_body(
         figure_result = process_article(article_path)
     if not skip_index:
         subprocess.run(
-            ["uv", "run", str(BASE / "build_index.py")],
+            [sys.executable, "-m", "sgt_kb", "build-index"],
             cwd=BASE,
             check=True,
         )

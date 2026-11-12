@@ -3,7 +3,7 @@ import socket
 import unittest
 from unittest import mock
 
-import wechat_identity
+from sgt_kb.collection import wechat_identity
 
 
 class WechatIdentityTest(unittest.TestCase):
@@ -137,7 +137,7 @@ class WechatIdentityTest(unittest.TestCase):
                 return_value=["20241007222537", "20231007222537"],
             ),
             mock.patch(
-                "crawl.socket.getaddrinfo",
+                "sgt_kb.collection.crawl.socket.getaddrinfo",
                 side_effect=[
                     socket.gaierror("dns failed"),
                     [(2, 1, 6, "", ("8.8.8.8", 443))],
@@ -187,7 +187,7 @@ class WechatIdentityTest(unittest.TestCase):
         session = mock.Mock()
         session.get.return_value = redirect
         with mock.patch(
-            "crawl.socket.getaddrinfo",
+            "sgt_kb.collection.crawl.socket.getaddrinfo",
             return_value=[(2, 1, 6, "", ("8.8.8.8", 443))],
         ):
             with self.assertRaisesRegex(

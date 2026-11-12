@@ -21,9 +21,12 @@ URL = "http://localhost:3917"
 
 
 def main() -> int:
+    import argparse
+
+    argparse.ArgumentParser(description=__doc__).parse_args()
     if not (WEB / "node_modules" / ".bin" / "vinext").exists():
         print("首次使用请先执行：")
-        print(f"  cd '{WEB}' && npm install")
+        print(f"  cd '{WEB}' && npm ci")
         return 1
 
     processes: list[subprocess.Popen[bytes]] = []
@@ -44,7 +47,7 @@ def main() -> int:
     try:
         processes.append(
             subprocess.Popen(
-                ["uv", "run", "--script", str(BASE / "workbench_api.py")],
+                [sys.executable, "-m", "sgt_kb", "workbench-api"],
                 cwd=BASE,
             )
         )

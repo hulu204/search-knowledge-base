@@ -9,12 +9,12 @@
 - B站:字幕接口大多需登录(可选 env BILI_SESSDATA);默认下音频跑 ASR
 - ASR:faster-whisper(默认 large-v3-turbo,int8,本地 CPU;HF_ENDPOINT 默认走 hf-mirror)
 - 落库:如果 manifest 里已有该 URL 的行且文章文件是 metadata-only 占位,原地替换正文;
-  否则新增 manifest 行(origin=video)。之后跑 build_index.py 即可入索引。
+  否则新增 manifest 行(origin=video)。之后跑 python3 -m sgt_kb build-index 即可入索引。
 
 用法:
-  uv run video_ingest.py <url> [--title T --company C --tag TAG --date D]
-  uv run video_ingest.py --backlog        # 处理 manifest 里所有 bilibili 占位行
-  uv run video_ingest.py <url> --model small   # 快速低精度测试
+  python3 -m sgt_kb video-ingest <url> [--title T --company C --tag TAG --date D]
+  python3 -m sgt_kb video-ingest --backlog        # 处理 manifest 里所有 bilibili 占位行
+  python3 -m sgt_kb video-ingest <url> --model small   # 快速低精度测试
 """
 import argparse
 import csv
@@ -245,7 +245,6 @@ def write_doc(url, text, meta, source_note):
 
 def content_relevance(text: str, title: str) -> str:
     """转写正文抽 3 段过 kb_gate 双质心:多数段相关才放行。"""
-    sys.path.insert(0, str(BASE))
     from sgt_kb.indexing.kb_gate import gate_texts
     paras = [p for p in text.split("\n\n") if len(p) > 200]
     if not paras:
@@ -342,12 +341,12 @@ def main():
         for r in todo:
             if process(r["url"], r, args.model):
                 done += 1
-        print(f"完成 {done}/{len(todo)};记得跑 uv run build_index.py")
+        print(f"完成 {done}/{len(todo)};记得跑 python3 -m sgt_kb build-index")
     elif args.url:
         meta = {"title": args.title or args.url, "company": args.company,
                 "tag": args.tag, "date": args.date}
         process(args.url, meta, args.model)
-        print("记得跑 uv run build_index.py")
+        print("记得跑 python3 -m sgt_kb build-index")
     else:
         ap.error("需要 url 或 --backlog")
 

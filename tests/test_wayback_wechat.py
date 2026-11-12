@@ -6,8 +6,8 @@ import tempfile
 from pathlib import Path
 from unittest import mock
 
-import wayback_wechat
-from crawl import extract_publish_date
+from sgt_kb.collection import wayback_wechat
+from sgt_kb.collection.crawl import extract_publish_date
 
 
 class WaybackWechatTest(unittest.TestCase):
@@ -142,7 +142,7 @@ class WaybackWechatTest(unittest.TestCase):
             [(2, 1, 6, "", ("8.8.8.8", 443))],
             [(2, 1, 6, "", ("127.0.0.1", 443))],
         ]
-        with mock.patch("crawl.socket.getaddrinfo", side_effect=addresses):
+        with mock.patch("sgt_kb.collection.crawl.socket.getaddrinfo", side_effect=addresses):
             with self.assertRaisesRegex(
                 wayback_wechat.WaybackCdxError, "safety policy",
             ):
@@ -472,7 +472,7 @@ class WaybackWechatTest(unittest.TestCase):
     def test_build_failure_keeps_dirty_state_for_next_run(self) -> None:
         with (
             mock.patch.object(
-                sys, "argv", ["wayback_wechat.py", "backfill", "--max-attempts", "1"]
+                sys, "argv", ["sgt-kb wayback-wechat", "backfill", "--max-attempts", "1"]
             ),
             mock.patch.object(
                 wayback_wechat, "backfill",

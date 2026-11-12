@@ -2,14 +2,14 @@ import socket
 import unittest
 from unittest import mock
 
-import crawl
-import figure_pipeline
+from sgt_kb.collection import crawl
+from sgt_kb.collection import figure_pipeline
 
 
 class UrlSafetyTest(unittest.TestCase):
     def test_dns_resolution_failure_is_converted_to_safe_url_error(self) -> None:
         with mock.patch(
-            "crawl.socket.getaddrinfo", side_effect=socket.gaierror("dns failed"),
+            "sgt_kb.collection.crawl.socket.getaddrinfo", side_effect=socket.gaierror("dns failed"),
         ):
             with self.assertRaisesRegex(ValueError, "DNS 解析失败"):
                 crawl.validate_public_url("https://web.archive.org/example")

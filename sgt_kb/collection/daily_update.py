@@ -8,7 +8,6 @@
 与上一次未结束的运行重叠。所有步骤失败不互相阻塞,日志见 logs/daily_update.log。
 """
 import fcntl
-import shutil
 import json
 import subprocess
 import sys
@@ -21,7 +20,6 @@ BASE = ROOT
 LOG_DIR = BASE / "logs"
 LOG_DIR.mkdir(exist_ok=True)
 LOCK_FILE = BASE / "ingestion" / "daily.lock"
-UV = shutil.which("uv") or "uv"
 
 
 def log(msg: str):
@@ -70,17 +68,17 @@ def main():
 
     log("===== daily update start =====")
     if backfill_pending():
-        run_step("公众号回填续跑", [UV, "run", "wechat_mp.py", "backfill", "--max-pages", "2"],
+        run_step("公众号回填续跑", [sys.executable, "-m", "sgt_kb", "wechat-mp", "backfill", "--max-pages", "2"],
                  timeout=3600)
-    run_step("抓取清单中未落地的正文", [UV, "run", "crawl.py"], timeout=7200)
-    run_step("RSS 轮询", [UV, "run", "rss_poll.py", "--defer-index"], timeout=3600)
-    run_step("英文权威源轮询(门控)", [UV, "run", "en_poll.py"], timeout=3600)
-    run_step("Exa MCP 补充 host 候选", [UV, "run", "exa_discover.py"], timeout=900)
-    run_step("英文候选标题自动分流", [UV, "run", "review_queue.py", "auto-triage"],
+    run_step("抓取清单中未落地的正文", [sys.executable, "-m", "sgt_kb", "crawl"], timeout=7200)
+    run_step("RSS 轮询", [sys.executable, "-m", "sgt_kb", "rss-poll", "--defer-index"], timeout=3600)
+    run_step("英文权威源轮询(门控)", [sys.executable, "-m", "sgt_kb", "en-poll"], timeout=3600)
+    run_step("Exa MCP 补充 host 候选", [sys.executable, "-m", "sgt_kb", "exa-discover"], timeout=900)
+    run_step("英文候选标题自动分流", [sys.executable, "-m", "sgt_kb", "review-queue", "auto-triage"],
              timeout=900)
-    run_step("入库已批准英文候选", [UV, "run", "review_queue.py", "ingest-approved"], timeout=3600)
-    run_step("公众号增量 poll", [UV, "run", "wechat_mp.py", "poll"], timeout=3600)
-    run_step("增量建索引", [UV, "run", "build_index.py"], timeout=3600)
+    run_step("入库已批准英文候选", [sys.executable, "-m", "sgt_kb", "review-queue", "ingest-approved"], timeout=3600)
+    run_step("公众号增量 poll", [sys.executable, "-m", "sgt_kb", "wechat-mp", "poll"], timeout=3600)
+    run_step("增量建索引", [sys.executable, "-m", "sgt_kb", "build-index"], timeout=3600)
     log("===== daily update end =====")
 
 

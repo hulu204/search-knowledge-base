@@ -1,6 +1,6 @@
 import unittest
 
-from english_sources import host_is_curated, title_is_relevant
+from sgt_kb.collection.english_sources import host_is_curated, title_is_relevant
 
 
 class EnglishSourcesTest(unittest.TestCase):

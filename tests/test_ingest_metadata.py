@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
-import ingest_url
+from sgt_kb.collection import ingest_url
 
 
 class IngestMetadataTest(unittest.TestCase):

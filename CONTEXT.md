@@ -20,3 +20,7 @@
 **可追溯**：每条结果必须保留标题、来源、主题、`doc_id` 和原文链接；需要完整上下文时通过 `kb_get_doc` 读取全文。
 
 **本地优先**：索引、模型与文档默认保存在本机；Web API 只监听 loopback。
+
+## 代码与命令
+
+实现只放在 `sgt_kb/`；运行 `python3 -m sgt_kb --help` 查看统一命令。旧根目录 Python 入口已删除，迁移见 [docs/CLI-MIGRATION.md](docs/CLI-MIGRATION.md)。本地混合检索与 Pages 离线静态词法检索分别标明；Pages 只导出公开 allowlist 中已经存储的完整 chunks，生产导出未就绪时显示等待状态。

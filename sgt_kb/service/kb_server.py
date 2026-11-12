@@ -49,7 +49,7 @@ def _load():
         if dense.shape[0] != chunk_count or sparse.shape[0] != chunk_count:
             conn.close()
             raise RuntimeError(
-                "索引文件不一致，请等待 build_index.py 完成后重试。"
+                "索引文件不一致，请等待 python3 -m sgt_kb build-index 完成后重试。"
             )
         if _conn is not None:
             _conn.close()
@@ -265,11 +265,18 @@ def _get_mcp():
 
 
 def __getattr__(name):
-    # Preserve `from kb_server import mcp` without requiring MCP for API/helpers.
+    # Preserve `from sgt_kb.service.kb_server import mcp` without requiring MCP for API/helpers.
     if name == "mcp":
         return _get_mcp()
     raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
 
 
-if __name__ == "__main__":
+def main() -> None:
+    import argparse
+
+    argparse.ArgumentParser(description="Run the local SGT KB MCP service.").parse_args()
     _get_mcp().run()
+
+
+if __name__ == "__main__":
+    main()

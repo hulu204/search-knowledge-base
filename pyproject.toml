@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sgt-kb"
+version = "0.1.0"
+description = "Local knowledge-base collection, indexing and cited retrieval"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[project.optional-dependencies]
+collection = ["requests", "beautifulsoup4", "lxml", "markdownify", "cryptography"]
+indexing = ["FlagEmbedding>=1.3", "torch", "numpy", "scipy", "tqdm", "tokenizers"]
+service = ["mcp>=1.0,<2", "FlagEmbedding>=1.3", "torch", "numpy", "scipy"]
+video = ["yt-dlp", "faster-whisper", "requests", "FlagEmbedding>=1.3", "torch", "numpy"]
+
+[project.scripts]
+sgt-kb = "sgt_kb.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["sgt_kb*"]

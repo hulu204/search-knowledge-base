@@ -6,16 +6,16 @@
 
 Runs at a low cadence, advances at most two history pages per invocation, and
 only crawls/rebuilds when the manifest actually grows.  It shares daily.lock
-with daily_update.py so the two orchestrators cannot overlap.
+with the daily-update command so the two orchestrators cannot overlap.
 """
 from __future__ import annotations
-import shutil
 
 import fcntl
 import hashlib
 import json
 import os
 import subprocess
+import sys
 import time
 from pathlib import Path
 
@@ -27,7 +27,6 @@ STATE_FILE = BASE / "ingestion" / "wechat_mp_state.json"
 MANIFEST = BASE / "crawl_manifest.csv"
 AUTH_FILE = BASE / ".wechat_mp_auth.json"
 AUTH_NOTICE_FILE = BASE / "ingestion" / "wechat_auth_notice.json"
-UV = shutil.which("uv") or "uv"
 AUTH_EXPIRED_EXIT = 76
 AUTH_NOTICE_INTERVAL_SECONDS = 2 * 60 * 60
 
@@ -108,21 +107,21 @@ def main() -> int:
         if backfill_pending():
             before = MANIFEST.stat().st_size if MANIFEST.exists() else 0
             code = run_command(
-                [UV, "run", "wechat_mp.py", "backfill", "--max-pages", "2"],
+                [sys.executable, "-m", "sgt_kb", "wechat-mp", "backfill", "--max-pages", "2"],
                 timeout=900,
             )
             if code != 0:
                 return handle_command_result(code)
             after = MANIFEST.stat().st_size if MANIFEST.exists() else 0
             if after > before:
-                code = run_command([UV, "run", "crawl.py"], timeout=3600)
+                code = run_command([sys.executable, "-m", "sgt_kb", "crawl"], timeout=3600)
                 if code != 0:
                     return code
-                return run_command([UV, "run", "build_index.py"], timeout=3600)
+                return run_command([sys.executable, "-m", "sgt_kb", "build-index"], timeout=3600)
             return 0
 
         return handle_command_result(
-            run_command([UV, "run", "wechat_mp.py", "poll"], timeout=1800)
+            run_command([sys.executable, "-m", "sgt_kb", "wechat-mp", "poll"], timeout=1800)
         )
 
 

@@ -3,6 +3,8 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 *.pyc
+*.egg-info/
+build/
 .DS_Store
 
 # local runtime and secrets — never commit

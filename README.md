@@ -2,7 +2,7 @@
 
 本地知识库：把公开的搜索 / 推荐 / RAG 技术文章，走完「爬取 → 解析切块 → 混合索引 → 带引用检索」。
 
-在线演示：[hulu204.github.io/sgt-kb](https://hulu204.github.io/sgt-kb/)（**离线静态词法检索**：搜索公开文章入库时存储的全部 chunks，显示命中的完整 chunk 和引用）。Pages 的检索在浏览器内完成；本地 bge-m3 dense / sparse + RRF 检索需另行运行。
+在线演示：[hulu204.github.io/sgt-kb](https://hulu204.github.io/sgt-kb/)（**离线静态词法检索**）。Pages 架构使用小型索引和按需加载的原始 chunk 分片；生产 SQLite 导出尚未集成时，页面会明确显示“等待生产导出”，不使用旧 UTF-8 字节分块作为默认语料。本地 bge-m3 dense / sparse + RRF 检索需另行运行。
 
 完整的 dense + sparse 混合检索、全文阅读和工作台需要在本地运行，并自行下载 [bge-m3](https://huggingface.co/BAAI/bge-m3) 到 `models/bge-m3/`。
 
@@ -41,58 +41,62 @@
 - 采集、切块、索引、MCP 和服务端代码
 - 2421 篇公开技术文章正文（微信公众号、Elastic、LanceDB、个人技术博客等），目录见上
 - 配图 OCR / 说明 sidecar（`figures/`）
-- 可点开的 GitHub Pages 演示（完整入库 chunks 的离线静态词法检索）
+- GitHub Pages 静态词法检索界面、受控导出器和分片加载器
 
 语料起点是 [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry)，后续又补充了公开网页和公众号技术文。版权归原作者，这里只做检索演示，请通过每篇文章的 `url` 访问原文。
 
-实现代码按职责放在 `sgt_kb/` 中：`collection/` 负责采集、解析与队列，`indexing/` 负责入库、切块与静态导出，`retrieval/` 放检索评分辅助逻辑，`service/` 提供 MCP 和本地 HTTP 服务。前端保留在 `workbench/` 和 `docs/`（Pages）。根目录同名 Python 文件是兼容入口，原有命令和 imports 可继续使用。
+实现代码按职责放在 `sgt_kb/` 中：`collection/` 负责采集、解析与队列，`indexing/` 负责入库、切块与静态导出，`retrieval/` 放检索评分辅助逻辑，`service/` 提供 MCP 和本地 HTTP 服务。前端保留在 `workbench/` 和 `docs/`（Pages）。根目录的 28 个 Python 兼容文件已删除。统一入口为 `python3 -m sgt_kb COMMAND`，安装后也可用 `sgt-kb COMMAND`；Python 导入使用完整包名。旧命令和导入的对照见[迁移说明](docs/CLI-MIGRATION.md)。
 
 ## 仓库里没有什么
 
 - embedding 模型（约 2GB，需自行下载）
 - 配图原文件（约 881MB，不放入 git）
-- SQLite / 向量索引（克隆后用 `build_index.py` 生成；Pages 静态 JSON 导出除外）
+- SQLite / 向量索引（克隆后用 `python3 -m sgt_kb build-index` 生成；Pages 静态导出除外）
 - 微信 / 微信读书等登录态，以及任何密钥
 - 公司内部文档、未授权网盘文件或提取码
 
 ## 本地快速开始
 
 ```bash
-# 1. 准备模型
+# 1. 安装本地运行依赖，准备模型
+python3 -m pip install -e '.[collection,indexing,service]'
 # 将 BAAI/bge-m3 放到 models/bge-m3/
 
 # 2. 用仓库内的公开文章构建索引
-uv run build_index.py
+python3 -m sgt_kb build-index
 
 # 3. 启动本地工作台（http://localhost:3917）
-cd workbench && npm install && cd ..
-python3 start_workbench.py
+cd workbench && npm ci && cd ..
+python3 -m sgt_kb start-workbench
 ```
 
 也可以单条入库公开链接：
 
 ```bash
-uv run ingest_url.py 'https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch'
-uv run build_index.py
+python3 -m sgt_kb ingest-url 'https://www.elastic.co/search-labs/blog/hybrid-search-elasticsearch'
+python3 -m sgt_kb build-index
 ```
 
-可选的持续采集还有公开 RSS（`rss_poll.py`）和 Wayback 历史页（`wayback_wechat.py`）。微信公众号后台登录态是可选的本机能力，凭据只应写在被 gitignore 的 `.wechat_mp_auth.json`，不要提交到仓库。
+可选的持续采集还有公开 RSS（`python3 -m sgt_kb rss-poll`）和 Wayback 历史页（`python3 -m sgt_kb wayback-wechat`）。微信公众号后台登录态是可选的本机能力，凭据只应写在被 gitignore 的 `.wechat_mp_auth.json`，不要提交到仓库。
 
-## 重建 Pages 静态数据
+## 导出 Pages 原始 chunks
 
-无需模型、网络或新增依赖，只读取本仓库 `articles/` 和已有的 `figures/` 文本 sidecar：
+导出命令只需 Python 标准库，不需模型或网络。它以只读方式打开已经入库的 SQLite，以公开 checkout 中 `articles/*.md` 文件名建立 allowlist，并同时要求记录路径属于 `articles/`。默认省略 figures；不会复制数据库，不会重新切块或生成摘要。
 
 ```bash
-python3 build_index.py --lexical-only --public-only
-python3 export_pages.py
+# 在保存生产 SQLite 的机器上直接导出；输出仅含 allowlist 公开字段
+python3 -m sgt_kb export-pages --db /path/to/production/kb.sqlite --output-dir docs --require-production-counts
+
+# 或从协调者已经导出的 JSONL / JSON / JSONL 目录构建分片
+python3 -m sgt_kb export-pages --input /path/to/prod-export/ --output-dir docs --require-production-counts
 python3 -m http.server 8000 --directory docs
 ```
 
-第一步复用同一个 `load_docs` 清洗和标题树 `chunk_text` 入库流程，将 chunks 写入独立的 `index/public-static/kb.sqlite`。由于公开 checkout 不含 bge-m3 tokenizer，离线入库显式使用 `utf8-bytes-v1` 容量计数（UTF-8 字节数）；这会与 bge-m3 token 计数产生不同的分块边界，不代表生产索引。默认混合索引仍使用原来的 bge-m3 tokenizer，二者禁止写入同一索引目录。
+生产公开语料预期为 **2402 篇 / 25838 个原始存储 chunks**。仓库保留全部 2421 篇公开文章和目录；生产入库条件会排除 metadata-only 或清洗后过短的文章。当前如果没有生产导出，执行 `python3 -m sgt_kb export-pages --pending --output-dir docs` 可建立明确标为等待导出的空索引。
 
-第二步仅从 SQLite 原样导出 `docs` 元数据和 `chunks.text` / `chunk_id` / `doc_id` / `seq` 到 `docs/demo-index.json`，不重新读取文章制作摘要。导出器拒绝包含 `extra-docs/` 的索引。也可将公开语料的混合索引原样导出：`uv run build_index.py --public-only` 后执行 `python3 export_pages.py --db index/kb.sqlite`。
+旧 `demo-index.json`（68833 个 `utf8-bytes-v1` chunks）不再作为默认 Pages 语料。这些边界来自 UTF-8 字节预算，不能称为生产 token 预算的原始 chunks。`build-index --lexical-only` 仅供本地独立测试；Pages 生产导出会拒绝已知字节预算索引。
 
-当前静态数据含 2,402 篇符合既有入库条件的文档、68,833 个 chunks；全部 2,421 篇文章和目录保持完整，原流程会跳过 metadata-only 或清洗后不足 200 字符的正文。Pages 搜索全部 chunks，并选每篇文章得分最高的命中块展示。中文连续词串按完整词串匹配，不拆成单字；中英混合词支持 Unicode 归一化，`查询理解` / `Query理解` / `Query Understanding` 使用通用双语同义词组。排序综合命中词组覆盖、标题匹配和有限的词频，不使用 embedding 或云服务。
+浏览器先加载小型检索目录，再按查询加载词项 postings，最后只加载核验候选及展示结果所需的原文分片。广泛查询会显示已核验候选数，并提供继续检索按钮。结果显示完整存储文本，展示层只做 HTML 转义和 Unicode 安全高亮，保留标题、原文 URL、`doc_id` 与 `chunk_id`。中文连续词组不拆成单字；`查询理解`、`Query理解` 与 `Query Understanding` 采用明确词组别名。实现和格式见 [STORED-EXPORT.md](docs/STORED-EXPORT.md)。Pages 是离线静态词法检索，不代表本地 bge-m3 混合检索。
 
 验证命令（现有 Python 运行依赖需已安装；静态导出和 Node 测试只用标准库）：
 
@@ -103,7 +107,7 @@ node --test tests/*.test.mjs
 
 ## MCP
 
-把 `kb_server.py` 加到 Claude Code 或 Codex 后，可用 `kb_search`、`kb_get_doc`、`kb_get_figures`、`kb_stats`。需要本地上下文时，复制 `extra-docs/local-context.example.md` 为 `local-context.md`。
+将 MCP 启动命令设置为 `python3 -m sgt_kb kb-server`（工作目录为本仓库）后，可用 `kb_search`、`kb_get_doc`、`kb_get_figures`、`kb_stats`。需要本地上下文时，复制 `extra-docs/local-context.example.md` 为 `local-context.md`。
 
 ## License
 

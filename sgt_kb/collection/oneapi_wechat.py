@@ -14,6 +14,7 @@ import re
 import sqlite3
 import stat
 import subprocess
+import sys
 from dataclasses import dataclass
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -557,7 +558,7 @@ def ingest_pending(
     connection.close()
     if not defer_index and index_needs_rebuild():
         subprocess.run(
-            ["uv", "run", str(BASE / "build_index.py")], cwd=BASE, check=True,
+            [sys.executable, "-m", "sgt_kb", "build-index"], cwd=BASE, check=True,
         )
         clear_index_dirty()
     return counts

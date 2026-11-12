@@ -329,7 +329,7 @@ def cmd_backfill(args):
         fh.close()
         manifest_fh.close()
     print("提示:回填的新条目已进 crawl_manifest.csv(origin=wechat-mp),"
-          "接着跑 `uv run crawl.py` 抓正文、`uv run build_index.py` 建索引")
+          "接着跑 `python3 -m sgt_kb crawl` 抓正文、`python3 -m sgt_kb build-index` 建索引")
     return 0
 
 
@@ -341,7 +341,6 @@ def cmd_poll(args):
         print(f"!! 微信接口冷却中,约 {remaining // 60 + 1} 分钟后重试")
         return RATE_LIMIT_EXIT
     session = make_session(auth)
-    sys.path.insert(0, str(BASE))
     from sgt_kb.collection.ingest_url import ingest
     ingested = []
     failures = []
@@ -388,7 +387,7 @@ def cmd_poll(args):
         time.sleep(5 + random.random() * 3)
     if ingested:
         import subprocess
-        subprocess.run(["uv", "run", str(BASE / "build_index.py")], cwd=BASE, check=True)
+        subprocess.run([sys.executable, "-m", "sgt_kb", "build-index"], cwd=BASE, check=True)
         print(f"本次新入库 {len(ingested)} 篇,索引已更新")
     else:
         print("无新文章")

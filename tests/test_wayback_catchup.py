@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 from unittest import mock
 
-import wayback_catchup
+from sgt_kb.collection import wayback_catchup
 
 
 class WaybackCatchupTest(unittest.TestCase):

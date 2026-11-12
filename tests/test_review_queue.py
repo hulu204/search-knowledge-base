@@ -4,7 +4,7 @@ import threading
 import unittest
 from pathlib import Path
 
-import review_queue
+from sgt_kb.collection import review_queue
 
 
 class ReviewQueueTest(unittest.TestCase):
@@ -123,10 +123,10 @@ class ReviewQueueTest(unittest.TestCase):
         self.assertEqual("", retried["error"])
 
     def test_daily_update_consumes_approved_candidates(self) -> None:
-        import daily_update
+        from sgt_kb.collection import daily_update
 
         source = Path(daily_update.__file__).read_text(encoding="utf-8")
-        self.assertIn('"review_queue.py", "ingest-approved"', source)
+        self.assertIn('"sgt_kb", "review-queue", "ingest-approved"', source)
 
     def test_auto_triage_uses_title_filter_for_curated_hosts(self) -> None:
         review_queue.enqueue_candidate(

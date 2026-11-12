@@ -4,11 +4,11 @@
 # ///
 """Low-rate scheduled Wayback discovery and historical article recovery."""
 from __future__ import annotations
-import shutil
 
 import fcntl
 import json
 import subprocess
+import sys
 from datetime import datetime, timedelta
 from pathlib import Path
 
@@ -17,7 +17,6 @@ from sgt_kb.paths import ROOT
 BASE = ROOT
 LOCK_FILE = BASE / "ingestion" / "daily.lock"
 SCHEDULE_STATE = BASE / "ingestion" / "wayback_schedule_state.json"
-UV = shutil.which("uv") or "uv"
 DISCOVER_INTERVAL = timedelta(days=7)
 
 
@@ -62,7 +61,7 @@ def main() -> int:
 
         state = load_state()
         code = run_command(
-            [UV, "run", "wayback_wechat.py", "discover", "--due-only"],
+            [sys.executable, "-m", "sgt_kb", "wayback-wechat", "discover", "--due-only"],
             timeout=3600,
         )
         if code not in {0, 2}:
@@ -72,7 +71,7 @@ def main() -> int:
         save_state(state)
 
         return run_command([
-            UV, "run", "wayback_wechat.py", "backfill",
+            sys.executable, "-m", "sgt_kb", "wayback-wechat", "backfill",
             "--max-articles", "5", "--max-attempts", "40",
             "--max-snapshots", "2",
         ], timeout=3600)

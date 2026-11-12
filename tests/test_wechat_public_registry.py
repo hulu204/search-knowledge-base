@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
-import wechat_public_registry
+from sgt_kb.collection import wechat_public_registry
 
 
 SAMPLE = (

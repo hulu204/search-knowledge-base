@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-import exa_discover
+from sgt_kb.collection import exa_discover
 
 
 class ExaDiscoverTest(unittest.TestCase):

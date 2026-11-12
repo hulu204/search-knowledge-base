@@ -1,30 +1,17 @@
 import hashlib
-import importlib.util
 import base64
 import os
 import struct
-import sys
 import tempfile
 import unittest
 from pathlib import Path
 
-BASE = Path(__file__).parents[1]
-sys.path.insert(0, str(BASE))
-
-from build_index import enrich_figures
-from crawl import extract_publish_date
-from ingestion_queue import enqueue, get_job, run_once
-from ingest_url import normalize_url
+from sgt_kb.indexing.build_index import enrich_figures
+from sgt_kb.collection.crawl import extract_publish_date
+from sgt_kb.collection.ingestion_queue import enqueue, get_job, run_once
+from sgt_kb.collection.ingest_url import normalize_url
+from sgt_kb.collection import wechat_webhook
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
-
-
-def load_webhook():
-    spec = importlib.util.spec_from_file_location(
-        "wechat_webhook", BASE / "wechat_webhook.py"
-    )
-    module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(module)
-    return module
 
 
 class MultimodalIndexTest(unittest.TestCase):
@@ -107,7 +94,7 @@ class IngestionTest(unittest.TestCase):
 class WeChatWebhookTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.webhook = load_webhook()
+        cls.webhook = wechat_webhook
 
     def test_signature(self):
         expected = hashlib.sha1(

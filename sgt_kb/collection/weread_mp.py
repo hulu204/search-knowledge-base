@@ -4,7 +4,6 @@
 # ///
 """Enumerate and ingest WeChat public-account articles through WeRead."""
 from __future__ import annotations
-import shutil
 
 import argparse
 import csv
@@ -36,7 +35,6 @@ BASE = ROOT
 AUTH_FILE = BASE / ".weread_auth.json"
 STATE_FILE = BASE / "ingestion" / "weread_state.json"
 CANDIDATE_FILE = BASE / "ingestion" / "weread_candidates.csv"
-UV = shutil.which("uv") or "uv"
 DEFAULT_KEYWORDS = (
     "搜索", "检索", "召回", "排序", "向量", "知识库", "rag", "embedding",
     "vector", "vectors", "vectordbbench", "retrieval", "search", "searchcli",
@@ -396,7 +394,7 @@ def sync(args: argparse.Namespace) -> dict:
             }, ensure_ascii=False), file=sys.stderr)
         time.sleep(args.delay)
     if index_dirty and not args.skip_index:
-        subprocess.run([UV, "run", str(BASE / "build_index.py")], cwd=BASE, check=True)
+        subprocess.run([sys.executable, "-m", "sgt_kb", "build-index"], cwd=BASE, check=True)
         index_dirty = False
     update_state({
         **result,

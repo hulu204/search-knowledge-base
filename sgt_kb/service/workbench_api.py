@@ -219,6 +219,9 @@ class WorkbenchHandler(BaseHTTPRequestHandler):
 
 
 def main() -> None:
+    import argparse
+
+    argparse.ArgumentParser(description=__doc__).parse_args()
     server = ThreadingHTTPServer((HOST, PORT), WorkbenchHandler)
     print(f"SGT KB workbench API: http://{HOST}:{PORT}")
     print("知识库内容只在本机 loopback 接口中流转。")

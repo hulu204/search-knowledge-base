@@ -3,16 +3,17 @@ import json
 import os
 import io
 import tempfile
+import sys
 import unittest
 from contextlib import redirect_stdout
 from datetime import datetime, timedelta
 from pathlib import Path
 from unittest import mock
 
-import wechat_catchup
-import wechat_auth_update
-import wechat_mp
-import ingest_url
+from sgt_kb.collection import wechat_catchup
+from sgt_kb.collection import wechat_auth_update
+from sgt_kb.collection import wechat_mp
+from sgt_kb.collection import ingest_url
 
 
 class WechatRecoveryTest(unittest.TestCase):
@@ -104,7 +105,7 @@ class WechatRecoveryTest(unittest.TestCase):
                 side_effect=wechat_mp.AuthExpired("expired"),
             ),
             mock.patch.object(
-                sys, "argv", ["wechat_mp.py", "backfill", "--max-pages", "1"]
+                sys, "argv", ["sgt-kb wechat-mp", "backfill", "--max-pages", "1"]
             ),
         ):
             code = wechat_mp.main()
@@ -255,8 +256,9 @@ class WechatRecoveryTest(unittest.TestCase):
         self.assertEqual(0, code)
         self.assertIn("--max-pages", calls[0][0])
         self.assertEqual("2", calls[0][0][-1])
-        self.assertTrue(any("crawl.py" in call[0] for call in calls))
-        self.assertTrue(any("build_index.py" in call[0] for call in calls))
+        self.assertTrue(any("crawl" in call[0] for call in calls))
+        self.assertTrue(any("build-index" in call[0] for call in calls))
+        self.assertTrue(all(call[0][:3] == [sys.executable, "-m", "sgt_kb"] for call in calls))
 
     def test_poll_continues_after_single_article_failure(self) -> None:
         state = {

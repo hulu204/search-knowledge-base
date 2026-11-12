@@ -6,8 +6,8 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
-import weread_mp
-from weread_mp import (
+from sgt_kb.collection import weread_mp
+from sgt_kb.collection.weread_mp import (
     MAX_RESPONSE_BYTES,
     WeReadAuth,
     WeReadClient,

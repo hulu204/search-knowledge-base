@@ -5,8 +5,8 @@ from unittest import mock
 
 import numpy as np
 
-import kb_server
-import workbench_api
+from sgt_kb.service import kb_server
+from sgt_kb.service import workbench_api
 
 
 class StoredChunkServiceTest(unittest.TestCase):

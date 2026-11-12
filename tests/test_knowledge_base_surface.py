@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
-import workbench_api
+from sgt_kb.service import workbench_api
 
 
 class KnowledgeBaseSurfaceTest(unittest.TestCase):

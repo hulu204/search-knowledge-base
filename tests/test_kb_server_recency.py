@@ -1,7 +1,7 @@
 from datetime import date
 import unittest
 
-from kb_server import _apply_recency, _freshness_factor
+from sgt_kb.service.kb_server import _apply_recency, _freshness_factor
 
 TODAY = date(2026, 8, 28)
 

@@ -15,16 +15,16 @@
 在仓库根目录运行：
 
 ```bash
-python3 start_workbench.py
+python3 -m sgt_kb start-workbench
 ```
 
 首次使用若提示缺少前端依赖：
 
 ```bash
 cd workbench
-npm install
+npm ci
 cd ..
-python3 start_workbench.py
+python3 -m sgt_kb start-workbench
 ```
 
 工作台固定监听 `http://localhost:3917`，API 固定监听 `http://127.0.0.1:8766`。两者都只绑定本机 loopback。

@@ -12,8 +12,8 @@
    margin <= REJECT_MARGIN → reject;中间 → review(落 review 队列人工看)
 
 用法:
-  import 用法:from kb_gate import gate_texts; gate_texts(["title. summary", ...])
-  CLI 用法:uv run kb_gate.py --csv harvest.csv   # 读 title 列,追加 verdict 列
+  import 用法:from sgt_kb.indexing.kb_gate import gate_texts; gate_texts(["title. summary", ...])
+  CLI 用法:python3 -m sgt_kb kb-gate --csv harvest.csv   # 读 title 列,追加 verdict 列
 设计上是纯函数节点:任何编排器(cron 脚本、将来的 LangGraph graph)都可直接调用。
 """
 import argparse

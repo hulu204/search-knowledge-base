@@ -4,7 +4,7 @@
 # ///
 """轮询 wechat2rss 托管 RSS(免登录),新文章入库。
 
-作为 wechat_mp.py poll 的兜底通道:不依赖公众平台 cookie,但只覆盖
+作为 wechat-mp poll 的兜底通道:不依赖公众平台 cookie,但只覆盖
 wechat2rss.xlab.app 免费收录的号(https://wechat2rss.xlab.app/list/all/)。
 标题命中 wechat_mp.KEYWORDS 才入库。优先使用 RSS 自带完整正文，避免再次
 访问微信原文触发反爬；链接仍保留微信原文用于追溯。
@@ -23,9 +23,8 @@ import requests
 from sgt_kb.paths import ROOT
 
 BASE = ROOT
-sys.path.insert(0, str(BASE))
-from sgt_kb.collection.wechat_mp import title_matches  # noqa: E402
-from sgt_kb.collection.en_poll import classify_tag  # noqa: E402
+from sgt_kb.collection.wechat_mp import title_matches
+from sgt_kb.collection.en_poll import classify_tag
 
 # 公众号 -> (company, wechat2rss feed id)
 FEEDS = {
@@ -53,7 +52,7 @@ def _feed_date(value: str) -> str:
 def _finish(ingested: list, defer_index: bool):
     if ingested and not defer_index:
         import subprocess
-        subprocess.run(["uv", "run", str(BASE / "build_index.py")], cwd=BASE, check=True)
+        subprocess.run([sys.executable, "-m", "sgt_kb", "build-index"], cwd=BASE, check=True)
         print(f"本次新入库 {len(ingested)} 篇,索引已更新")
     elif ingested:
         print(f"本次新入库 {len(ingested)} 篇,等待统一建索引")

@@ -2,8 +2,8 @@ import sys
 import unittest
 from unittest import mock
 
-import ingest_url
-import rss_poll
+from sgt_kb.collection import ingest_url
+from sgt_kb.collection import rss_poll
 
 
 class RssPollTest(unittest.TestCase):
@@ -37,7 +37,7 @@ class RssPollTest(unittest.TestCase):
                 "ingest_html_content",
                 side_effect=[RuntimeError("first failed"), success],
             ) as from_feed,
-            mock.patch.object(sys, "argv", ["rss_poll.py", "--defer-index"]),
+            mock.patch.object(sys, "argv", ["sgt-kb rss-poll", "--defer-index"]),
         ):
             rss_poll.main()
 

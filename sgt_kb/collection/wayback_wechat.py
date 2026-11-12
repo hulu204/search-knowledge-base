@@ -12,6 +12,7 @@ import html
 import json
 import re
 import subprocess
+import sys
 import tempfile
 import time
 from collections import defaultdict
@@ -776,7 +777,7 @@ def main() -> int:
         )
         if not args.defer_index and index_needs_rebuild():
             subprocess.run(
-                ["uv", "run", str(BASE / "build_index.py")], cwd=BASE, check=True
+                [sys.executable, "-m", "sgt_kb", "build-index"], cwd=BASE, check=True
             )
             clear_index_dirty()
     print(json.dumps(result, ensure_ascii=False))

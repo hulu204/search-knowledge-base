@@ -23,9 +23,8 @@ import requests
 from sgt_kb.paths import ROOT
 
 BASE = ROOT
-sys.path.insert(0, str(BASE))
-from sgt_kb.indexing.kb_gate import gate_texts  # noqa: E402
-from sgt_kb.collection.review_queue import candidate_id, enqueue_candidate, load_queue  # noqa: E402
+from sgt_kb.indexing.kb_gate import gate_texts
+from sgt_kb.collection.review_queue import candidate_id, enqueue_candidate, load_queue
 
 MANIFEST = BASE / "crawl_manifest.csv"
 UA = {"User-Agent": "Mozilla/5.0"}

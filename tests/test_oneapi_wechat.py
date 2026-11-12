@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from unittest import mock
 
-import oneapi_wechat
+from sgt_kb.collection import oneapi_wechat
 
 
 def write_targets(path: Path, rows: list[dict[str, str]]) -> None:
