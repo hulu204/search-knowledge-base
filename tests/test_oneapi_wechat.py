@@ -35,6 +35,16 @@ def response_for(payload: dict, status: int = 200):
 
 
 class OneApiWechatTest(unittest.TestCase):
+    def setUp(self) -> None:
+        directory = tempfile.TemporaryDirectory()
+        self.addCleanup(directory.cleanup)
+        self.base = Path(directory.name)
+        patcher = mock.patch.object(
+            oneapi_wechat, "INDEX_DIRTY_FILE", self.base / "oneapi_index_dirty",
+        )
+        patcher.start()
+        self.addCleanup(patcher.stop)
+
     def test_api_key_requires_private_permissions(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "key"
@@ -45,10 +55,38 @@ class OneApiWechatTest(unittest.TestCase):
             os.chmod(path, 0o600)
             self.assertEqual("valid-secret-key", oneapi_wechat.read_api_key(path))
 
-    def test_all_configured_targets_have_unique_valid_ghid(self) -> None:
-        targets = oneapi_wechat.load_targets()
-        self.assertEqual(18, len(targets))
-        self.assertEqual(18, len({target.ghid for target in targets}))
+    def test_load_targets_accepts_unique_valid_fixture_identities(self) -> None:
+        # The public checkout does not include the machine-local target list.
+        path = self.base / "targets.csv"
+        rows = [
+            {"account": " 测试号 ", "company": " 测试 ", "ghid": " gh_123456789abc "},
+            {"account": "另一个测试号", "company": "示例", "ghid": "gh_0123456789ab"},
+        ]
+        write_targets(path, rows)
+
+        targets = oneapi_wechat.load_targets(path)
+
+        self.assertEqual([
+            oneapi_wechat.Target("测试号", "测试", "gh_123456789abc"),
+            oneapi_wechat.Target("另一个测试号", "示例", "gh_0123456789ab"),
+        ], targets)
+
+    def test_load_targets_rejects_duplicate_or_invalid_identities(self) -> None:
+        path = self.base / "targets.csv"
+        valid = {"account": "测试号", "company": "测试", "ghid": "gh_123456789abc"}
+        cases = [
+            ([valid, {**valid, "account": "另一个测试号"}], "重复"),
+            ([valid, {**valid, "ghid": "gh_0123456789ab"}], "重复"),
+            ([{**valid, "ghid": "invalid"}], "身份字段无效"),
+            ([{**valid, "account": ""}], "身份字段无效"),
+            ([{**valid, "company": ""}], "身份字段无效"),
+            ([], "为空"),
+        ]
+        for rows, message in cases:
+            with self.subTest(rows=rows):
+                write_targets(path, rows)
+                with self.assertRaisesRegex(oneapi_wechat.OneApiError, message):
+                    oneapi_wechat.load_targets(path)
 
     def test_parse_page_normalizes_urls_and_detects_balance(self) -> None:
         payload = {
