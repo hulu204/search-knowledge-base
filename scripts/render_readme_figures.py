@@ -195,38 +195,36 @@ SOURCES = [("DataFun", 234), ("Elastic", 221), ("Sease", 131), ("Marginalia", 12
            ("其余 110 个来源", 1107)]
 assert sum(v for _, v in TOPICS) == 2421 and sum(v for _, v in SOURCES) == 2421
 
-c = Canvas()
-W = 2760
-c.header("02 · 收录了什么", "2421 篇文章的主题和来源")
-x = W - 80
-x = c.pill(x, 115, "120 个来源", "#1F6FD1", "#EEF5FF") - 24
-c.pill(x, 115, "48 个主题标签", "#E07B00", "#FFF4E5")
 
 
-def bars(fx, fy, fw, title, tag, color, fill, rows):
+def bar_chart(name, title, tag, color, fill, rows, note):
+    """一张独立的横向条形图，宽 1400，字号按 README 缩放后仍清晰。"""
+    c = Canvas()
+    W = 1400
     top_rows, (rest_name, rest_v) = rows[:-1], rows[-1]
-    fh = 100 + len(top_rows) * 74 + 90
+    row, bar_h, fs = 84, 56, 30
+    fx, fy, fw = 30, 30, W - 60
+    fh = 110 + len(top_rows) * row + 100
     c.frame(fx, fy, fw, fh, title, color, fill, tag)
-    lw, top = 230, fy + 100
-    bw_max = fw - lw - 160
+    lw, top = 250, fy + 105
+    bw_max = fw - lw - 150
     vmax = max(v for _, v in top_rows)
-    for i, (name, v) in enumerate(top_rows):
-        y = top + i * 74
-        c.add(f'<text x="{fx + lw}" y="{y + 32}" font-size="24" font-weight="600" '
-              f'fill="{INK}" text-anchor="end">{name}</text>')
+    for i, (label, v) in enumerate(top_rows):
+        y = top + i * row
+        c.add(f'<text x="{fx + lw}" y="{y + bar_h / 2 + 11}" font-size="{fs}" font-weight="600" '
+              f'fill="{INK}" text-anchor="end">{label}</text>')
         bw = bw_max * v / vmax
-        c.add(f'<rect x="{fx + lw + 24}" y="{y}" width="{bw}" height="46" rx="8" fill="{color}"/>')
-        c.add(f'<text x="{fx + lw + 24 + bw + 14}" y="{y + 32}" font-size="24" font-weight="700" '
+        c.add(f'<rect x="{fx + lw + 24}" y="{y}" width="{bw}" height="{bar_h}" rx="10" fill="{color}"/>')
+        c.add(f'<text x="{fx + lw + 24 + bw + 16}" y="{y + bar_h / 2 + 11}" font-size="{fs}" font-weight="700" '
               f'fill="{color}">{v}</text>')
-    y = top + len(top_rows) * 74 + 10
-    c.add(f'<line x1="{fx + 30}" y1="{y - 22}" x2="{fx + fw - 30}" y2="{y - 22}" stroke="#E3E7EC" stroke-width="2"/>')
-    c.add(f'<text x="{fx + lw + 24}" y="{y + 26}" font-size="24" fill="{GRAY}">{rest_name}，共 {rest_v} 篇</text>')
-    return fy + fh
+    y = top + len(top_rows) * row + 8
+    c.add(f'<line x1="{fx + 30}" y1="{y}" x2="{fx + fw - 30}" y2="{y}" stroke="#E3E7EC" stroke-width="2"/>')
+    c.add(f'<text x="{fx + lw + 24}" y="{y + 56}" font-size="{fs - 2}" fill="{GRAY}">{rest_name}，共 {rest_v} 篇</text>')
+    bottom = fy + fh
+    c.add(f'<text x="{fx}" y="{bottom + 46}" font-size="24" fill="{GRAY}">{note}</text>')
+    c.render(name, W, bottom + 76)
 
 
-bottom = bars(80, 210, 1260, "按主题（篇）", "主题", "#E07B00", "#FFFCF7", TOPICS)
-bars(1420, 210, 1260, "按来源（篇）", "来源", "#1F6FD1", "#FFFFFF", SOURCES)
-H = bottom + 90
-c.add(f'<text x="80" y="{bottom + 55}" font-size="22" fill="{GRAY}">主题和来源取自每篇文章的 tag / company 字段，'
-      f'意思相近的标签没有合并。</text>')
-c.render("corpus", W, H)
+NOTE = "取自每篇文章的 tag / company 字段，意思相近的没有合并。"
+bar_chart("topics", "按主题：前 10 个标签（篇）", "主题", "#E07B00", "#FFFCF7", TOPICS, NOTE)
+bar_chart("sources", "按来源：前 10 个机构（篇）", "来源", "#1F6FD1", "#FFFFFF", SOURCES, NOTE)

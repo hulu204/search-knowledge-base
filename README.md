@@ -25,7 +25,9 @@
 
 `articles/` 共 **2421** 篇，48 个主题标签，120 个来源机构。
 
-![收录文章的主题和来源分布](assets/readme/corpus.png)
+![按主题：前 10 个标签](assets/readme/topics.png)
+
+![按来源：前 10 个机构](assets/readme/sources.png)
 
 完整清单见[目录](catalog.md)。
 
