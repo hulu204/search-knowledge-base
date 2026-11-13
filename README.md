@@ -6,14 +6,7 @@
 
 ## 工作原理
 
-```mermaid
-flowchart LR
-  A["公开文章<br/>网页链接 · RSS 订阅 · 公众号"] --> B["清洗 + 切成文本块<br/>按标题层级和长度切分<br/>块之间不重叠"]
-  B --> C["本地 bge-m3 模型<br/>语义向量 + 关键词权重"]
-  C --> D["两路结果融合排序"]
-  D --> E["命中的文本块原文<br/>标题 · 来源 · 文章编号 · 块编号 · 原文链接"]
-  B -. 只导出公开文章 .-> P["在线演示<br/>纯关键词检索"]
-```
+![工作原理：入库和查询全流程](assets/readme/pipeline.png)
 
 搜索结果就是入库时存下的文本块原文，搜索时不会再切分，也不会生成摘要。
 
@@ -32,30 +25,9 @@ flowchart LR
 
 `articles/` 共 **2421** 篇，48 个主题标签，120 个来源机构。
 
-```mermaid
-pie showData title 主题分布（篇）
-  "搜索" : 565
-  "召回" : 318
-  "工程相关" : 239
-  "推荐" : 172
-  "问答/RAG" : 139
-  "索引构建" : 136
-  "排序" : 127
-  "搜索/RAG" : 127
-  "广告" : 96
-  "爬虫抓取" : 93
-  "其余 38 个标签" : 409
-```
+![收录文章的主题和来源分布](assets/readme/corpus.png)
 
-```mermaid
-xychart-beta horizontal
-  title "主要来源机构（篇）"
-  x-axis ["DataFun", "Elastic", "Sease", "Marginalia", "eugeneyan", "百度", "LanceDB", "阿里妈妈", "阿里淘系", "Tunkelang"]
-  y-axis "篇数" 0 --> 250
-  bar [234, 221, 131, 121, 121, 102, 99, 96, 96, 93]
-```
-
-主题和来源取自每篇文章开头的元数据（`tag` / `company` 字段），意思相近的标签没有合并。完整清单见[目录](catalog.md)。
+完整清单见[目录](catalog.md)。
 
 语料起点是 [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry)，之后又补充了公开网页和公众号技术文章。版权归原作者，这里只做检索演示，请通过每篇文章的 `url` 访问原文。
 
