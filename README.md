@@ -1,8 +1,8 @@
-# sgt-kb
+# search-knowledge-base
 
 收录搜索、推荐、检索增强生成（RAG）方向公开技术文章的本地知识库：抓取文章 → 切成文本块 → 两路检索 → 返回带出处的原文。
 
-**[在线演示](https://hulu204.github.io/sgt-kb/)** · [文章目录](catalog.md) · [按主题](catalog/by-topic.md) · [按来源](catalog/by-source.md)
+**[在线演示](https://hulu204.github.io/search-knowledge-base/)** · [文章目录](catalog.md) · [按主题](catalog/by-topic.md) · [按来源](catalog/by-source.md)
 
 ## 工作原理
 
